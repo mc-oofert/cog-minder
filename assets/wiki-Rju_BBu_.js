@@ -854,10 +854,10 @@ These effects will become more common with more system corruption.
 [[Table]]Percentage|Effect|Cogmind exclusive||
 >1%|Gibberish in Message Log|Yes||
 >1%|Misdirection - May move in the wrong direction while moving|Yes||
->1%|Misfire - May shoot any attached weapon in a random direction, disastrous if this weapon was an explosive launcher|Yes||
+>1%|Misfire - May shoot any attached weapon in a random direction, disastrous if this weapon was an explosive launcher|No||
 >1%|Reject Part - A random part is dropped|Yes||
 >1%|Fused Part - A random part is fused, making it be destroyed if removed|Yes||
->1%|Heat Spike - Sudden increase in [[Heat]]|Yes(?)||
+>1%|Heat Spike - Sudden increase in [[Heat]]|No||
 >1%|Matter Fused - Lose some [[Matter]]|Yes||
 >1%|Substantial Component Data Loss - A number of parts are made unknown|Yes||
 100%|System Failure - Destruction/Loss|No[[/Table]]
