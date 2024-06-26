@@ -876,6 +876,8 @@ A link: [[Example]]. A [[Example|link with content different than the link]]. A 
 Links are a type of inline content that can be used anywhere. Other types of inline content are [[B]]bolded text[[/B]] and [[I]]italicized text[[/I]]. Links can also be [[B]][[Example|bolded]][[/B]], [[I]][[Example|italicized]][[/I]], and [[B]][[I]][[Example|both together]][[/I]][[/B]]. Another option is [[GameText]]Inline Game Text[[/GameText]] that uses a separate font style. [[Sub]]Subscript[[/Sub]] and [[Sup]]Superscript[[/Sup]] are also available.
 [[Heading]]Heading type 1[[/Heading]]
 [[Heading:2]]Heading type 2[[/Heading]]
+[[Heading:3]]Heading type 3[[/Heading]]
+[[Heading:4]]Heading type 4[[/Heading]]
 [[Heading:1]]Heading type 1 [[B]]with[[/B]] [[I]]inline[[/I]] [[Example|content]][[/Heading]]
 Text content before an image shows up vertically above.[[Image]]Materials.png|An image [[I]]with[[/I]] [[B]]inline[[/B]] [[Materials|content]] in the caption[[/Image]]Images will show on the far right side of the page while text content after an image shows up to the left of it.
 [[List]]Lists of items|can be generated|like this[[/List]]
