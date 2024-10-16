@@ -1,4 +1,4 @@
-import{j as a,L as I,J as E,K as O,c as G,r as S,M as ee,f as Z,N as te,y as B,a as U,s as ae,O as ne,S as z,B as b,o as oe,Q as X,u as Y,U as ie,V as re,W,X as se,Y as le,Z as q,_ as he,$ as de}from"./index-WkR-7C4C.js";import{l as ce}from"./lore-yoaB2RHm.js";import{a as me,L as ge,I as ue,B as _,b as pe,u as ye}from"./BotDetails-ehmJo2Sc.js";import{a as K,u as fe}from"./ItemPopover-fGlACJpy.js";/* empty css              */import"./bots-EPaA02tF.js";import"./botTypes-Cxei0LoN.js";import"./items-bCTdCTgI.js";const be=[{Name:"01-MTF",Content:"[[Image]]MTF Vault.png|Running into MTF in a [[Storage]] vault[[/Image]]A friendly bot that rarely shows up in [[Storage]] in an already opened vault. Will join Cogmind as an uncontrollable purple ally for the duration of the map and uses [[01-MTF's Autohacker]] to automatically open any other vaults it can see. It will assimilate or destroy most enemies it encounters extremely quickly with its high spectrum high damage EM gun [[01-MTF's Shockpuncher]]. The Shockpuncher is a very powerful weapon that is strong throughout the majority of the game as long as you can deal with its short range if you can get it to drop."},{Name:"12-ASH",Content:`12-ASH is one of the Hero's Of Zion. Upon appearing, they will shout "hail to the king".`},{Name:"1C-UTU",Content:""},{Name:"5H-AD0",Content:""},{Name:"7R-MNS",Content:""},{Name:"7V-RTL",Content:""},{Name:"8R-AWN",Content:""},{Name:"99-TNT",Content:""},{Name:"A-02 Transporter",Content:""},{Name:"A-15 Conveyor",Content:""},{Name:"A-27 Freighter",Content:""},{Name:"A2",Content:""},{Name:"A3",Content:""},{Name:"A4",Content:""},{Name:"A5",Content:""},{Name:"A6",Content:""},{Name:"A7",Content:""},{Name:"A8",Content:""},{Name:"AD-0RF",Content:""},{Name:"AZ-K3N",Content:""},{Name:"Advanced Drone",Content:""},{Name:"Alpha 7",Content:""},{Name:"Architect",Content:""},{Name:"Army Drone",Content:""},{Name:"Artisan",Content:""},{Name:"Assault Drone",Content:""},{Name:"Assembled (4)",Content:""},{Name:"Assembled (7)",Content:""},{Name:"Assembler",Content:"Produces [[Assembled]] every 10 turns. Otherwise harmless."},{Name:"Autobeam Turret",Content:""},{Name:"B-36 Bruiser",Content:""},{Name:"B-48 Gladiator",Content:""},{Name:"B-60 Warrior",Content:""},{Name:"B-74 Champion",Content:""},{Name:"B-75 Beast",Content:""},{Name:"B-86 Titan",Content:""},{Name:"B-90 Cyclops",Content:""},{Name:"B-99 Colossus",Content:""},{Name:"Bomb Drone",Content:""},{Name:"Borebot",Content:""},{Name:"Bouncer",Content:""},{Name:"Butcher (5)",Content:""},{Name:"Butcher (7)",Content:""},{Name:"C-17 Slicer",Content:""},{Name:"C-30 ARC",Content:""},{Name:"C-35 Carver",Content:""},{Name:"C-40 Crusher",Content:`Crushers are heavy-duty [[Treads|treading]] trash (you) compacting machines plated in [[Damper Plating]], rendering them nearly immune to electromagnetic damage. Crushers will attempt to compact anything that is not a Crusher, and their Compactor is a VERY formidable melee weapon (does not drop) that will either [[B]]destroy or drop a few of your parts[[/B]]. Weak to explosions and strong against melee (which would be a bad idea regardless).
+import{j as a,L as I,J as E,K as O,c as G,r as S,M as ee,f as Z,N as te,y as B,a as U,s as ae,O as ne,S as z,B as b,o as oe,Q as X,u as Y,U as ie,V as re,W,X as se,Y as le,Z as q,_ as he,$ as de}from"./index-jsYGpPOp.js";import{l as ce}from"./lore-yoaB2RHm.js";import{a as me,L as ge,I as ue,B as _,b as pe,u as ye}from"./BotDetails-q9dy28jz.js";import{a as K,u as fe}from"./ItemPopover-YnZ_A9U3.js";/* empty css              */import"./bots-EPaA02tF.js";import"./botTypes-Cxei0LoN.js";import"./items-bCTdCTgI.js";const be=[{Name:"01-MTF",Content:"[[Image]]MTF Vault.png|Running into MTF in a [[Storage]] vault[[/Image]]A friendly bot that rarely shows up in [[Storage]] in an already opened vault. Will join Cogmind as an uncontrollable purple ally for the duration of the map and uses [[01-MTF's Autohacker]] to automatically open any other vaults it can see. It will assimilate or destroy most enemies it encounters extremely quickly with its high spectrum high damage EM gun [[01-MTF's Shockpuncher]]. The Shockpuncher is a very powerful weapon that is strong throughout the majority of the game as long as you can deal with its short range if you can get it to drop."},{Name:"12-ASH",Content:`12-ASH is one of the Hero's Of Zion. Upon appearing, they will shout "hail to the king".`},{Name:"1C-UTU",Content:""},{Name:"5H-AD0",Content:""},{Name:"7R-MNS",Content:""},{Name:"7V-RTL",Content:""},{Name:"8R-AWN",Content:""},{Name:"99-TNT",Content:""},{Name:"A-02 Transporter",Content:""},{Name:"A-15 Conveyor",Content:""},{Name:"A-27 Freighter",Content:""},{Name:"A2",Content:""},{Name:"A3",Content:""},{Name:"A4",Content:""},{Name:"A5",Content:""},{Name:"A6",Content:""},{Name:"A7",Content:""},{Name:"A8",Content:""},{Name:"AD-0RF",Content:""},{Name:"AZ-K3N",Content:""},{Name:"Advanced Drone",Content:""},{Name:"Alpha 7",Content:""},{Name:"Architect",Content:""},{Name:"Army Drone",Content:""},{Name:"Artisan",Content:""},{Name:"Assault Drone",Content:""},{Name:"Assembled (4)",Content:""},{Name:"Assembled (7)",Content:""},{Name:"Assembler",Content:"Produces [[Assembled]] every 10 turns. Otherwise harmless."},{Name:"Autobeam Turret",Content:""},{Name:"B-36 Bruiser",Content:""},{Name:"B-48 Gladiator",Content:""},{Name:"B-60 Warrior",Content:""},{Name:"B-74 Champion",Content:""},{Name:"B-75 Beast",Content:""},{Name:"B-86 Titan",Content:""},{Name:"B-90 Cyclops",Content:""},{Name:"B-99 Colossus",Content:""},{Name:"Bomb Drone",Content:""},{Name:"Borebot",Content:""},{Name:"Bouncer",Content:""},{Name:"Butcher (5)",Content:""},{Name:"Butcher (7)",Content:""},{Name:"C-17 Slicer",Content:""},{Name:"C-30 ARC",Content:""},{Name:"C-35 Carver",Content:""},{Name:"C-40 Crusher",Content:`Crushers are heavy-duty [[Treads|treading]] trash (you) compacting machines plated in [[Damper Plating]], rendering them nearly immune to electromagnetic damage. Crushers will attempt to compact anything that is not a Crusher, and their Compactor is a VERY formidable melee weapon (does not drop) that will either [[B]]destroy or drop a few of your parts[[/B]]. Weak to explosions and strong against melee (which would be a bad idea regardless).
 
 Due to their extreme lethality in melee, stay out of their range at all costs, and maybe just run the hell out of [[Wastes]]. Alternatively pack a good launcher or a good critical weapon, as their plating will tank most of your shots.`},{Name:"C-55 Analyst",Content:""},{Name:"C-57 Dissector",Content:""},{Name:"C-65 Expert",Content:""},{Name:"CL-ANK",Content:""},{Name:"Cetus Guard",Content:""},{Name:"Cobbler",Content:""},{Name:"Cogmind",Content:"Thats you."},{Name:"Combat Drone",Content:""},{Name:"Combat Programmer",Content:""},{Name:"Commander",Content:""},{Name:"D-53 Grenadier",Content:""},{Name:"D-63 Destroyer",Content:""},{Name:"D-83 Annihilator",Content:""},{Name:"DAS Turret",Content:""},{Name:"Data Miner",Content:""},{Name:"Decomposer",Content:""},{Name:"Decoy Drone",Content:""},{Name:"Demented",Content:""},{Name:"Dragon",Content:""},{Name:"Drone",Content:""},{Name:"E-15 Imp",Content:""},{Name:"EX-BIN",Content:`[[Heading]]Parse[[/Heading]]
 When datajacked, one of the following parse texts is shown:
@@ -1018,8 +1018,56 @@ Higher security fabricators are capable of much faster construction.
 
 [[Heading]]Lore[[/Heading]]
 [[Lore]]0b10 Records|Fabricator[[/Lore]]`},{Name:"Fanart",Content:`Check out the following artists' fanart pages:
-[[List]][[https://www.gridsagegames.com/forums/index.php?topic=1773.0|CaptainWinky (external site)]]|[[Fanart/Maiker|Maiker]]|[[https://zyalin.wixsite.com/zyalin-art/cogmind|Zyalin (external site)]][[/List]]`},{Name:"Fanart/Maiker",Content:`[[Fanart]] created by Maiker:
-[[FanartGallery]]fanart/maiker/Behemoth_GJ_was_here.gif|Behemoth + GJ was here|fanart/maiker/Brawler_Bonk.gif|Brawler Bonk|fanart/maiker/Demolisher_Shoot.gif|Demolisher Shoot|fanart/maiker/Disguised_Cogmind.gif|Disguised Cogmind|fanart/maiker/Get_Heavy'ed.gif|Get Heavy'd|fanart/maiker/GOLEM_Full_Loop.gif|GOLEM|fanart/maiker/Grunt_Shoot.gif|Grunt Shoot|fanart/maiker/Hunter_Drone.gif|Hunter Drone|fanart/maiker/luigi_force_ram.gif|LU-1G1's Force Ram|fanart/maiker/Programmer_Shoot.gif|Programmer Shoot|fanart/maiker/Sentry_Shoot.gif|Sentry Shoot[[/FanartGallery]]`},{Name:"Farcom",Content:`[[Image]]Farcom Sensors.png|Farcom sensors revealing nearby hostiles[[/Image]]
+[[List]][[https://www.gridsagegames.com/forums/index.php?topic=1773.0|CaptainWinky (external site)]]|[[Fanart/Maiker|Maiker]]|[[Fanart/Radbanker|Radbanker]]|[[https://zyalin.wixsite.com/zyalin-art/cogmind|Zyalin (external site)]][[/List]]`},{Name:"Fanart/Maiker",Content:`[[Fanart]] created by Maiker:
+[[FanartGallery]]fanart/maiker/Behemoth_GJ_was_here.gif|Behemoth + GJ was here|fanart/maiker/Brawler_Bonk.gif|Brawler Bonk|fanart/maiker/Demolisher_Shoot.gif|Demolisher Shoot|fanart/maiker/Disguised_Cogmind.gif|Disguised Cogmind|fanart/maiker/Get_Heavy'ed.gif|Get Heavy'd|fanart/maiker/GOLEM_Full_Loop.gif|GOLEM|fanart/maiker/Grunt_Shoot.gif|Grunt Shoot|fanart/maiker/Hunter_Drone.gif|Hunter Drone|fanart/maiker/luigi_force_ram.gif|LU-1G1's Force Ram|fanart/maiker/Programmer_Shoot.gif|Programmer Shoot|fanart/maiker/Sentry_Shoot.gif|Sentry Shoot[[/FanartGallery]]`},{Name:"Fanart/Radbanker",Content:`[[Fanart]] created by Radbanker:
+[[FanartGallery]]fanart/radbanker/Part Art 1.png|Assorted part art[[/FanartGallery]]
+Top Left:
+cmb. antigrav arrays of varying size
+accelerators, increase range of weapons
+Top Right:
+assorted assembled weapons
+RD-BNK(r) watermark
+small combustion engines, increase speed of treads and wheels
+Middle Left:
+high density and low density centrium plating
+hvy. exp powered armor, also known as the Bulwark
+middle right: 
+medium sized combustion engines, increase speed of treads and wheels
+nano cleaver
+bottom left:
+large combustion engine, again increase speed of treads and wheels
+regenerative coolant injector and part shielding, core shielding pictured
+hummingbird biomechanical wings, overloadable for extra speed
+Bottom Right:
+RD-BNK(r)'s lever action rifle, similar to other existing sniper rifles
+regenerative humpback, or as named by Captain Winky, the shellback
+[[FanartGallery]]fanart/radbanker/Shovel.png|Shovel[[/FanartGallery]]
+[[FanartGallery]]fanart/radbanker/Bot Art 1.png|Assorted bots[[/FanartGallery]]
+Left to right, top to bottom
+99-TNT
+AZ-K3N
+IC-UTU
+8R-AWN
+Ms. V3-11A's botcube, winner of my arbitrary aesthetics competition
+Aoemica's botcube, winner of the first botcube tournament
+LU-IGI
+Flauler
+Hover Hauler
+Flying Rat
+glowups of various bot types
+The Juggernaut
+RD-BNK(r) Watermark
+[[FanartGallery]]fanart/radbanker/Bot Art 2.png|RD-BNK(r)[[/FanartGallery]]
+[[FanartGallery]]fanart/radbanker/Bot Art 3.png|Assorted bots[[/FanartGallery]]
+Top to bottom, left to right
+7R-MNS's 10-gun run, with multirail and LA variants
+'Commissioned' H3-RMN Z-Mortar Bot
+Aoemica's winning botcube
+Ms. V3-11A's beauty contest winning botcube
+'Commissioned' H3-RMN Leggy bot, flipped
+The final form of KY-Z71's RIFcycle, flipped
+[[Redacted]][[FanartGallery]]fanart/radbanker/Map.png|World Map[[/FanartGallery]]
+[[FanartGallery]]fanart/radbanker/Bot Art 4.png|[[Fortress]][[/FanartGallery]][[/Redacted]]`},{Name:"Farcom",Content:`[[Image]]Farcom Sensors.png|Farcom sensors revealing nearby hostiles[[/Image]]
 [[Image]]Farcom.gif|Using the Farcom Aligner machine[[/Image]]
 Farcom is one of the major faction [[Alignment|alignments]] available to Cogmind in most runs. Taking Farcom aligns Cogmind with the [[Exiles (Group)]] for the rest of the game. It provides a permanent 18 tile radius sensor for hostile [[0b10]] bots within 0b10 controlled map. This sensor cannot be jammed by [[Watcher|Watchers]] or masked by [[Heavy|Heavies]] unlike standard [[Sensor Arrays]]. The primary limitation of the Farcom sensor is that it doesn't work in any [[Caves]] branches. One other side-effect is that entering specific [[Research]] branches becomes much more dangerous. Occasionally the Exiles may have been abandoned or attacked, and Farcom is not an option in these runs.
 [[Heading:2]]Gaining Farcom[[/Heading]]
