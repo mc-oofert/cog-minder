@@ -1765,7 +1765,7 @@ The Data Miner can redirect Investigations if his help is obtained by visiting h
 "Ion Engine","Part",""
 "Ionic Axe","Part",""
 "Junk Cannon","Part",""
-"K-01 Serf","Bot",""
+"K-01 Serf","Bot","Serfs are [[0b10]] [[Wheels|wheeled]] non-combat bots that clean machines and decorative scrap tiles. They are equipped with a [[Matter Compressors|Matter Pod]], which could be useful if you need more matter storage. K-01 Serfs are extremely weak and will usually almost immediately die to whatever you shoot it with. As such, they're a decent source of low-rating wheels.\nSerfs can also be seen in [[Factory]] dragging incapacitated bots to a [[Chute Trap]]."
 "KE Penetrator","Part",""
 "KN-7UR","Bot",""
 "KN-7UR's Autopenetrator","Part",""
@@ -2414,7 +2414,7 @@ Heavy reinforcements are called more frequently if Cogmind is actively moving. I
 "Relay Coupler [Sentry]","Part",""
 "Relay Coupler [Specialist]","Part",""
 "Relay Coupler [Swarmer]","Part",""
-"Relay Couplers","Part Group",""
+"Relay Couplers","Part Group","Relay couplers are used with [[RIF]] to enable special bothacks via [[Datajacks|datajacking]] that particular robot class described in the couplers description.\nRelay couplers will fry themselves when attached if you do not have [[RIF]]."
 "Relay Interface Framework","Other","[[Image]]Garrison RIF Installer 1.png|RIF Installer in a Garrison[[/Image]]
 Relay Interface Framework, or RIF, is one of the major [[Alignment|alignments]] available to Cogmind in a run. It helps Cogmind to have much more control over [[0b10]] bots, both combat and non-combat. RIF comes with the downside of alienating several key [[Derelict]] factions, namely turning all Derelicts at [[Zion]] and [[Warlord (Location)]] hostile when passing their associated System Quarantine Field Array machines. RIF is also incompatible with the [[Core Reset Matrix]]. If Cogmind has used a CRM then it is not possible to gain RIF. If Cogmind uses a CRM after using RIF, then RIF will be entirely erased. Similarly, if Cogmind has [[Imprint|imprinted]], then the RIF will fail to be installed.
 Installing RIF can be done at any [[Garrison]] by walking into a RIF Installer machine. These machines can be hidden behind emergency accesses and Phase Walls, but there are always 1-2 installers available per map. Doing so will grant several unique abilities:
@@ -2629,7 +2629,7 @@ At this point, patience is key. Leaving too soon can cause a lot of extra shots 
 [[Heading:2]]Opening the gate[[/Heading]]
 [[Image]]Scraptown Wall Dig.png|Digging past the gate[[/Image]]
 Once the left side is fully cleared out, the right side must be opened with a Siege Cannon, Plasma Cutter, or YOLO Cannon. Siege cannon is preferred because it can penetrate a single tile-wide line through the gate. This kind of layout works best so that bots don't swarm out. It works well with the high penetration capabilities of the Siege Cannon too. A diagonal dig as shown to the right is preferred; even if a few missed shots destroy parts of the wall, it is more difficult for multiple bots to get an angle on Cogmind to shoot past each other.
-The right side is mostly more of the same. Wait for bots to come to you from your safe position. There are another roughly 60 bots to kill on this side of the map. Otherwise, there is nothing too special about this portion as long as Cogmind has enough spare parts to last without the build falling apart. After the bots stop wandering by, walk into the right side of the wall. There will be 4 Elites patrolling in the center-most HQ area. Take them out and the loot should be yours for the taking. The only other hostile bot that can appear after clearing out all of the roamers is an [[Autobeam Turret]] in the Curator's Exhibit, which shouldn't be much of an issue at this point.
+The right side is mostly more of the same. Wait for bots to come to you from your safe position. There are another roughly 60 bots to kill on this side of the map. Otherwise, there is nothing too special about this portion as long as Cogmind has enough spare parts to last without the build falling apart. After the bots stop wandering by, walk into the right side of the wall. There will be 4 Elites patrolling in the center-most HQ area. Take them out and the loot should be yours for the taking. The only other hostiles that can appear after clearing out all of the roamers are an [[Autobeam Turret]] in the Curator's Exhibit, which shouldn't be much of an issue at this point, and an Explorer or two behind the walls in the Cartography Club.
 [[Heading:2]]Loot Time[[/Heading]]
 Most of the loot should be fairly self explanatory to grab. A few less obvious ones:
 [[List]]Smash open the wall hiding a Schematic in IN-MT5's Study|Dig out the corners in the Curator's Association because one will have an extra item|Dig through the back of the Scrapoid Pod storage to get many more pods|Dig out the center earth tile in LU-1G1's Boring Crew room|Check rooms closed for remodeling for the rare Exp. Plasma Cutter|Smash open the wall hiding additional Botcubes in the Botcube Research room[[/List]]"
