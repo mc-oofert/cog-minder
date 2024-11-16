@@ -1,4 +1,4 @@
-import{j as a,L as I,J as E,K as U,c as G,r as S,M as ee,f as Z,N as te,y as B,a as j,s as ae,O as ne,S as z,B as b,o as oe,Q as X,u as Y,U as ie,V as re,W,X as se,Y as le,Z as q,_ as he,$ as de}from"./index-wQWV4n-M.js";import{l as ce}from"./lore-yoaB2RHm.js";import{a as me,L as ge,I as ue,B as _,b as pe,u as ye}from"./BotDetails-fDfGiisT.js";import{a as K,u as fe}from"./ItemPopover-j2U9hwX9.js";/* empty css              */import"./bots-EPaA02tF.js";import"./botTypes-Cxei0LoN.js";import"./items-bCTdCTgI.js";const be=[{Name:"01-MTF",Content:"[[Image]]MTF Vault.png|Running into MTF in a [[Storage]] vault[[/Image]]A friendly bot that rarely shows up in [[Storage]] in an already opened vault. Will join Cogmind as an uncontrollable purple ally for the duration of the map and uses [[01-MTF's Autohacker]] to automatically open any other vaults it can see. It will assimilate or destroy most enemies it encounters extremely quickly with its high spectrum high damage EM gun [[01-MTF's Shockpuncher]]. The Shockpuncher is a very powerful weapon that is strong throughout the majority of the game as long as you can deal with its short range if you can get it to drop. [[Spoiler]]Presumably stole exiles prototypes.[[/Spoiler]]"},{Name:"12-ASH",Content:`12-ASH is one of the Hero's Of Zion. Upon appearing, they will shout "hail to the king".`},{Name:"1C-UTU",Content:""},{Name:"5H-AD0",Content:""},{Name:"7R-MNS",Content:""},{Name:"7V-RTL",Content:""},{Name:"8R-AWN",Content:""},{Name:"99-TNT",Content:""},{Name:"A-02 Transporter",Content:""},{Name:"A-15 Conveyor",Content:""},{Name:"A-27 Freighter",Content:""},{Name:"A2",Content:""},{Name:"A3",Content:""},{Name:"A4",Content:""},{Name:"A5",Content:""},{Name:"A6",Content:""},{Name:"A7",Content:"Drops the [[A7 Data Core]] when killed or gives a code when they are show the Cetus Mainframe in [[Cetus]]"},{Name:"A8",Content:""},{Name:"AD-0RF",Content:""},{Name:"AZ-K3N",Content:""},{Name:"Advanced Drone",Content:""},{Name:"Alpha 7",Content:""},{Name:"Architect",Content:""},{Name:"Army Drone",Content:""},{Name:"Artisan",Content:""},{Name:"Assault Drone",Content:""},{Name:"Assembled (4)",Content:""},{Name:"Assembled (7)",Content:""},{Name:"Assembler",Content:"Produces [[Assembled]] every 10 turns. Otherwise harmless."},{Name:"Autobeam Turret",Content:""},{Name:"B-36 Bruiser",Content:""},{Name:"B-48 Gladiator",Content:""},{Name:"B-60 Warrior",Content:""},{Name:"B-74 Champion",Content:""},{Name:"B-75 Beast",Content:""},{Name:"B-86 Titan",Content:""},{Name:"B-90 Cyclops",Content:""},{Name:"B-99 Colossus",Content:""},{Name:"Bomb Drone",Content:""},{Name:"Borebot",Content:""},{Name:"Bouncer",Content:""},{Name:"Butcher (5)",Content:""},{Name:"Butcher (7)",Content:""},{Name:"C-17 Slicer",Content:""},{Name:"C-30 ARC",Content:""},{Name:"C-35 Carver",Content:""},{Name:"C-40 Crusher",Content:`Crushers are heavy-duty [[Treads|treading]] trash (you) compacting machines plated in [[Damper Plating]], rendering them nearly immune to electromagnetic damage. Crushers will attempt to compact anything that is not a Crusher, and their Compactor is a VERY formidable melee weapon (does not drop) that will either [[B]]destroy or drop a few of your parts[[/B]]. Weak to explosions and strong against melee (which would be a bad idea regardless).
+import{j as a,L as I,J as E,K as U,c as G,r as S,M as ee,f as Z,N as te,y as B,a as j,s as ae,O as ne,S as z,B as b,o as oe,Q as X,u as Y,U as ie,V as re,W,X as se,Y as le,Z as q,_ as he,$ as de}from"./index-DOYfHF7t.js";import{l as ce}from"./lore-yoaB2RHm.js";import{a as me,L as ge,I as ue,B as _,b as pe,u as ye}from"./BotDetails-3XU1rJ9n.js";import{a as K,u as fe}from"./ItemPopover-D9UFTGN3.js";/* empty css              */import"./bots-EPaA02tF.js";import"./botTypes-Cxei0LoN.js";import"./items-bCTdCTgI.js";const be=[{Name:"01-MTF",Content:"[[Image]]MTF Vault.png|Running into MTF in a [[Storage]] vault[[/Image]]A friendly bot that rarely shows up in [[Storage]] in an already opened vault. Will join Cogmind as an uncontrollable purple ally for the duration of the map and uses [[01-MTF's Autohacker]] to automatically open any other vaults it can see. It will assimilate or destroy most enemies it encounters extremely quickly with its high spectrum high damage EM gun [[01-MTF's Shockpuncher]]. The Shockpuncher is a very powerful weapon that is strong throughout the majority of the game as long as you can deal with its short range if you can get it to drop. [[Spoiler]]Presumably stole exiles prototypes.[[/Spoiler]]"},{Name:"12-ASH",Content:`12-ASH is one of the Hero's Of Zion. Upon appearing, they will shout "hail to the king".`},{Name:"1C-UTU",Content:""},{Name:"5H-AD0",Content:""},{Name:"7R-MNS",Content:""},{Name:"7V-RTL",Content:""},{Name:"8R-AWN",Content:""},{Name:"99-TNT",Content:""},{Name:"A-02 Transporter",Content:""},{Name:"A-15 Conveyor",Content:""},{Name:"A-27 Freighter",Content:""},{Name:"A2",Content:""},{Name:"A3",Content:""},{Name:"A4",Content:""},{Name:"A5",Content:""},{Name:"A6",Content:""},{Name:"A7",Content:"Drops the [[A7 Data Core]] when killed or gives a code when they are show the Cetus Mainframe in [[Cetus]]"},{Name:"A8",Content:""},{Name:"AD-0RF",Content:""},{Name:"AZ-K3N",Content:""},{Name:"Advanced Drone",Content:""},{Name:"Alpha 7",Content:""},{Name:"Architect",Content:""},{Name:"Army Drone",Content:""},{Name:"Artisan",Content:""},{Name:"Assault Drone",Content:""},{Name:"Assembled (4)",Content:""},{Name:"Assembled (7)",Content:""},{Name:"Assembler",Content:"Produces [[Assembled]] every 10 turns. Otherwise harmless."},{Name:"Autobeam Turret",Content:""},{Name:"B-36 Bruiser",Content:""},{Name:"B-48 Gladiator",Content:""},{Name:"B-60 Warrior",Content:""},{Name:"B-74 Champion",Content:""},{Name:"B-75 Beast",Content:""},{Name:"B-86 Titan",Content:""},{Name:"B-90 Cyclops",Content:""},{Name:"B-99 Colossus",Content:""},{Name:"Bomb Drone",Content:""},{Name:"Borebot",Content:""},{Name:"Bouncer",Content:""},{Name:"Butcher (5)",Content:""},{Name:"Butcher (7)",Content:""},{Name:"C-17 Slicer",Content:""},{Name:"C-30 ARC",Content:""},{Name:"C-35 Carver",Content:""},{Name:"C-40 Crusher",Content:`Crushers are heavy-duty [[Treads|treading]] trash (you) compacting machines plated in [[Damper Plating]], rendering them nearly immune to electromagnetic damage. Crushers will attempt to compact anything that is not a Crusher, and their Compactor is a VERY formidable melee weapon (does not drop) that will either [[B]]destroy or drop a few of your parts[[/B]]. Weak to explosions and strong against melee (which would be a bad idea regardless).
 
 Due to their extreme lethality in melee, stay out of their range at all costs, and maybe just run the hell out of [[Wastes]]. Alternatively pack a good launcher or a good critical weapon, as their plating will tank most of your shots.`},{Name:"C-55 Analyst",Content:""},{Name:"C-57 Dissector",Content:""},{Name:"C-65 Expert",Content:""},{Name:"CL-ANK",Content:""},{Name:"Cetus Guard",Content:""},{Name:"Cobbler",Content:""},{Name:"Cogmind",Content:"That's you."},{Name:"Combat Drone",Content:""},{Name:"Combat Programmer",Content:""},{Name:"Commander",Content:""},{Name:"D-53 Grenadier",Content:""},{Name:"D-63 Destroyer",Content:""},{Name:"D-83 Annihilator",Content:""},{Name:"DAS Turret",Content:""},{Name:"Data Miner",Content:""},{Name:"Decomposer",Content:""},{Name:"Decoy Drone",Content:""},{Name:"Demented",Content:""},{Name:"Dragon",Content:""},{Name:"Drone",Content:""},{Name:"E-15 Imp",Content:""},{Name:"EX-BIN",Content:`[[Heading]]Parse[[/Heading]]
 When datajacked, one of the following parse texts is shown:
@@ -587,7 +587,8 @@ There are two types of special machines in Hub. The first, the [[Transfer Statio
 [[Heading]]Strategy[[/Heading]]
 Blowing up Network Hubs as soon as you see them is usually a bad idea. Shooting them directly causes a ton of [[Alert]] gain due to their large destructive radius. The Lightning squads that follow can also be very scary for an unprepared Cogmind. If unprepared to fight off the Lightning, it is a good idea to blow up the Hubs from a distance or right next an exit.
 There are a lot of methods to blow up Network Hubs that do not trigger the alert gain:
-[[List]]Hostile attack: If Cogmind stands in front of a Network Hub and a 0b10 bot misses into it, the destruction will be associated with that bot and not Cogmind. This also works well with allies and drones. Just position the ally in front of a Hub and attacking enemies can shoot around or through them to trigger the explosion.|[[Traps|Trap]] explosion: Traps never assign Alert to Cogmind no matter who is the one who triggers the trap. Any explosive traps will do the trick, and Cogmind can even self-trigger the trap with > without any Alert cost.|[[Plasma Cutter|Regular]] or [[Imp. Plasma Cutter]]: Plasma Cutters can destroy any machine with minimal Alert gain. As a bonus, Plasma Cutters also do not trigger the explosion at all, which often places Cogmind in a bad position.|Force(Sabotage): If successful, this hack will blow up a random explosive machine on the map. Network Hubs are the only available targets so this will always work on this map. This hack is inconsistent and may fail multiple times in a row. This hack will cause an Alert gain of 50 if successful, but it is substantially less than the several hundred of a manually-blown Network Hub. Note: unlike this hack, Trojan(Detonate) does cause Alert to go up from the Explosion and is not a great hack to use.[[/List]]
+[[List]]Hostile attack: If Cogmind stands in front of a Network Hub and a 0b10 bot misses into it, the destruction will be associated with that bot and not Cogmind. This also works well with allies and drones. Just position the ally in front of a Hub and attacking enemies can shoot around or through them to trigger the explosion.|[[Traps|Trap]] explosion: Traps never assign Alert to Cogmind unless they manually trigger the trap. Any explosive or area EM traps will work, [[I]]but[[/I]] if the trap triggers due to Cogmind's corruption then the alert isn't assigned, which can be used to avoid the alert. |[[Plasma Cutter|Regular]] or [[Imp. Plasma Cutter]]: Plasma Cutters can destroy any machine with minimal Alert gain. As a bonus, Plasma Cutters also do not trigger the explosion at all, which often places Cogmind in a bad position.|Force(Sabotage): If successful, this hack will blow up a random explosive machine on the map. Network Hubs are the only available targets so this will always work on this map. This hack is inconsistent and may fail multiple times in a row. This hack will cause an Alert gain of 50 if successful, but it is substantially less than the several hundred of a manually-blown Network Hub. Note: unlike this hack, Trojan(Detonate) does cause Alert to go up from the Explosion and is not a great hack to use.|[[Allies]] can be placed in front of hubs in the hope that a non-Electro bot misses into the hub, or after the hubs are triggered have an Electro's [[EMDS]] penetrate through the bot and destroy the hub[[/List]]
+
 The best way to deal with the [[Lightning]] squads is to use critical destroy weapons as they lack any critical immunity. [[8R-AWN's Boregun]], [[Adv. KE Penetrator]], and any Hyp. guns or cannons will work well. [[Damper Plating]] works great at reducing damage taken by Lightnings to negligible amounts. The [[Exp. EM Disruption Field]] that they carry can also do fine after being looted.
 [[Heading]]Exits[[/Heading]]
 There is only one type of exit on this map. All exits lead to the next main Factory or Research floor.`,Exits:["Garrison","Factory","Research"],SpecialBots:["Lightning"],MinDepth:-6,MaxDepth:-4,Branch:!0,Spoiler:"Spoiler"},{Name:"Lab",ImageName:"Lab.png",Content:`Lab is a [[Factory]]/[[Research]] branch between -4 and -3 that is only accessible from [[Armory]]. This map is fixed every game, with the only variations being variations in the guaranteed items. This secret lab is used as a safe spot by the [[A bots]] to plan and coordinate as well as research stolen [[Sigix]] technology. This area has a special effect where Cogmind's [[Alert]] drops to 0 upon entering the map.
@@ -853,25 +854,26 @@ Entrances to new levels are implied to be long uneventful corridors where Cogmin
 0b10 means 2 (0b - binary representation, 10 - 2 in decimal). [[Spoiler]]This means Complex 0b10 is the second complex, 0b1 presumably being first.[[/Spoiler]]`},{Name:"Achievements",Content:`There are currently 256 achievements in Cogmind, which can be viewed in-game through the achievements records submenu. They are divided into several categories organized by color, with the appearance of their borders sometimes providing additional information. 81 of the 256 achievements have hidden descriptions that are only revealed after completing them.
 
 [[Table]]Type|Color|Total|Hidden|Sub-types||
-Mechanics|Orange|72|15|No specific sub-type||
-Style|Blue|46|12|-Reaching a high statistic in a specific category
+[[Mechanics Achievements]]|Orange|72|15|No specific sub-type||
+[[Style Achievements]]|Blue|46|12|-Reaching a high statistic in a specific category
 -Using specific rare/unique items and/or their mechanics||
-Progress|Yellow|33|2|-Earning enough points
+[[Progress Achievements]]|Yellow|33|2|-Earning enough points
 -Visiting/exiting specific areas
 -Visiting multiple areas, possibly of a specific type
 -Reaching a high peak rating
 -Reaching/earning 25/50/75/100% of lore collection/gallery collection/achievements||
-Challenges|Red|27|2|No specific sub-type||
-Events|Purple|41|40|-Triggering/witnessing a specific event
+[[Challenges Achievements]]|Red|27|2|No specific sub-type||
+[[Events Achievements]]|Purple|41|40|-Triggering/witnessing a specific event
 -Reaching a specific important branch/meeting a specific important character
 -Destroying a specific hostile character||
-Wins|Green|37|10|-Winning the game with a specific ending
+[[Wins Achievements]]|Green|37|10|-Winning the game with a specific ending
 -Winning the game with any ending under certain conditions
--Winning the game with any ending while a challenge mod is active (challenge mode achievements will eventually be removed from the game)
+-Winning the game with any ending while a challenge mode is active
+(Challenge mode achievements will eventually be removed from the game)
 [[/Table]]
 
-Most achievements have to be completed within a single run, with the exception of "Back For More", "True Cogmind", and all achievements that require reaching/earning 25/50/75/100% of lore collection/gallery collection/achievements as they all require multiple runs.
-In addition, some achievements are mutually exclusive to one another (for example, all "Specialist" are mutually exclusive to one another), and some are seed-dependent and as a result may not be completable on some seeds ("Exterminator" is a good example).
+Almost all achievements can and have to be completed within a single run, with the exception of "Back For More", "True Cogmind", and all achievements that require reaching/earning 25/50/75/100% of lore collection/gallery collection/achievements.
+In addition, some achievements are exclusive to other achievements (for example, all "Specialist" are mutually exclusive to one another), and some are seed-dependent and as a result may not be completable on some seeds (For example, "Exterminator" is not completable on all seeds).
 
 
 This article was last updated during Beta 14.`},{Name:"Acronyms",Content:`The following is a list of common acronyms in the Cogmind community:
@@ -1253,7 +1255,55 @@ Search Patrols are a special type of patrol that is related to Alert. These squa
 [[Spoiler]][[Heading:2]][[Lightning]] squads[[/Heading]]
 [[Image]]Lightning Squad.png|A Lightning squad patrolling Quarantine[[/Image]]
 Lightning squads consist of 3 Lightnings and an [[I-47 Archangel]]. They can be summoned in one of two ways:
-[[List]]Destroying a Hub machine in [[Hub_04(d)]]: 3 Lightning patrols will be dispatched to the map out of exits and Garrisons. They will roam in the general area of each remaining Hub.|Opening the [[Sigix Containment Pod]] chamber: A single Lighting patrol will be dispatched to the map if Cogmind breaches the Sigix chamber. It will patrol around the location of the Sigix room.[[/List]][[/Spoiler]]`},{Name:"Perfect Tracking",Content:"Bots with perfect tracking will know where [[Cogmind]] is at all times. Most bots with this will lose it upon sighting Cogmind."},{Name:"Power",Content:""},{Name:"Progress Achievements",Content:""},{Name:"Propulsion",Content:""},{Name:"Prototype Part",Content:""},{Name:"Prototype Parts",Content:""},{Name:"Prototype Robot",Content:""},{Name:"Prototype Robots",Content:""},{Name:"Recycling Machine",Content:""},{Name:"Reinforced Walls",Content:`Many areas are sealed off by various types of Reinforced Walls. These walls all have much higher than typical armor values and resistances to most common damage types. The common theme between them all is that they do not have any Thermal resistance. As such, Cld. thermal [[Energy Cannons]] are the ideal way to cut through many of these barriers. Unlike basic walls, reinforced walls will not collapse due to penetrating weapons.
+[[List]]Destroying a Hub machine in [[Hub_04(d)]]: 3 Lightning patrols will be dispatched to the map out of exits and Garrisons. They will roam in the general area of each remaining Hub.|Opening the [[Sigix Containment Pod]] chamber: A single Lighting patrol will be dispatched to the map if Cogmind breaches the Sigix chamber. It will patrol around the location of the Sigix room.[[/List]][[/Spoiler]]`},{Name:"Perfect Tracking",Content:"Bots with perfect tracking will know where [[Cogmind]] is at all times. Most bots with this will lose it upon sighting Cogmind."},{Name:"Power",Content:""},{Name:"Progress Achievements",Content:`Progress Achievements are earned by accomplishing actions that demonstrate the player's progress and experience with the game. Most of them will simply eventually be obtained by players as they explore the game world and get better at surviving and exploring it. 2 of the 33 Progress Achievements have hidden descriptions that are only revealed after completing them.
+(The visibility for the descriptions of hidden achievements is set to at least "Spoilers", and may be set to "Redacted" for achievements where that would be relevant. Remember to change your spoilers settings to "None" if you do not wish to see the descriptions of achievements you have not yet obtained!)
+
+[[Heading]]Uncategorized[[/Heading]]
+First Step to Greatness: [[Spoiler]]Get terminated.[[/Spoiler]]
+Back For More: Complete 50 runs.
+
+[[Heading]]Earning points[[/Heading]]
+5k Club: Earn 5,000 points.
+10k Club: Earn 10,000 points.
+20k Club: Earn 20,000 points.
+30k Club: Earn 30,000 points.
+40k Club: Earn 40,000 points.
+50k Club: Earn 50,000 points.
+
+[[Heading]]Lore collection progress[[/Heading]]
+This Is Interesting...: Reach 25% lore collection.
+I Think I Know What's Going On: Reach 50% lore collection.
+I Was Wrong!: Reach 75% lore collection.
+I Wish There Was More: Reach 100% lore collection.
+
+[[Heading]]Gallery collection progress[[/Heading]]
+Just Browsing: Reach 25% gallery collection.
+Tester: Reach 50% gallery collection.
+Collector: Reach 75% gallery collection.
+Curator: Reach 100% gallery collection.
+
+[[Heading]]Exploration[[/Heading]]
+Made in Tau Ceti IV: Enter [[Factory]].
+Dangerous Findings: Enter [[Research]].
+Denied?: Enter [[Access]].
+\\\\IAMDERELICT: [[Spoiler]]Enter [[Recycling]] via [[Storage]].[[/Spoiler]]
+I'm Back, Baby!: Exit [[Caves|Proximity Caves]].
+Tourist: Visit 3 branch areas.
+Adventurer: Visit 2 special cave areas.
+Explorer: Visit 10 branch areas.
+Great Explorer: Visit 35 areas.
+
+[[Heading]]Reaching a high peak rating[[/Heading]]
+Serviceable Loadout: Reach a peak rating of 50.
+Respectable Loadout: Reach a peak rating of 100.
+Rockin' Loadout: Reach a peak rating of 150.
+Ultimate Loadout: Reach a peak rating of 200.
+
+[[Heading]]Achievement collection progress[[/Heading]]
+Achiever: Earn 25% of achievements.
+Overachiever: Earn 50% of achievements.
+Superachiever: Earn 75% of achievements.
+Perfect Achiever: Earn all other achievements.`},{Name:"Propulsion",Content:""},{Name:"Prototype Part",Content:""},{Name:"Prototype Parts",Content:""},{Name:"Prototype Robot",Content:""},{Name:"Prototype Robots",Content:""},{Name:"Recycling Machine",Content:""},{Name:"Reinforced Walls",Content:`Many areas are sealed off by various types of Reinforced Walls. These walls all have much higher than typical armor values and resistances to most common damage types. The common theme between them all is that they do not have any Thermal resistance. As such, Cld. thermal [[Energy Cannons]] are the ideal way to cut through many of these barriers. Unlike basic walls, reinforced walls will not collapse due to penetrating weapons.
 There are two primary types of reinforced walls. Though they have different names, they behave functionally similarly. Orange doors block the main access to the blocked off area. These doors have a higher than normal armor value, but they tend to be lower than reinforced barriers. Reinforced barriers typically surround the remainder of the area to prevent digging in from the back side. In most maps, these have two times the normal armor level of walls. For example, an average Storage wall has an armor value of 24, so the reinforced barriers have an armor value of 48 on this map.
 [[Heading]][[Storage]][[/Heading]]
 [[Gallery]]Storage Locked Vault.png|Locked Storage Vaults
