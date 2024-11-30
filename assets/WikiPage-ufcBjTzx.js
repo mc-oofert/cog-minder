@@ -1,4 +1,4 @@
-import{j as a,L as H,J as E,K as U,c as G,r as S,M as ee,f as Z,N as te,y as F,a as j,s as ae,O as ne,S as V,B as b,o as oe,Q as X,u as _,U as ie,V as re,W,X as se,Y as le,Z as q,_ as he,$ as de}from"./index-RLnr-Jp1.js";import{l as ce}from"./lore-yoaB2RHm.js";import{a as me,L as ge,I as ue,B as Y,b as pe,u as ye}from"./BotDetails-r-rRrdfJ.js";import{a as K,u as fe}from"./ItemPopover-ImOwzrTF.js";/* empty css              */import"./bots-EPaA02tF.js";import"./botTypes-Cxei0LoN.js";import"./items-bCTdCTgI.js";const be=[{Name:"01-MTF",Content:"[[Image]]MTF Vault.png|Running into MTF in a [[Storage]] vault[[/Image]]A friendly bot that rarely shows up in [[Storage]] in an already opened vault. Will join Cogmind as an uncontrollable purple ally for the duration of the map and uses [[01-MTF's Autohacker]] to automatically open any other vaults it can see. It will assimilate or destroy most enemies it encounters extremely quickly with its high spectrum high damage EM gun [[01-MTF's Shockpuncher]]. The Shockpuncher is a very powerful weapon that is strong throughout the majority of the game as long as you can deal with its short range if you can get it to drop. [[Spoiler]]Presumably stole exiles prototypes.[[/Spoiler]]"},{Name:"12-ASH",Content:`12-ASH is one of the Hero's Of Zion. Upon appearing, they will shout "hail to the king".`},{Name:"1C-UTU",Content:""},{Name:"5H-AD0",Content:""},{Name:"7R-MNS",Content:""},{Name:"7V-RTL",Content:""},{Name:"8R-AWN",Content:""},{Name:"99-TNT",Content:""},{Name:"A-02 Transporter",Content:""},{Name:"A-15 Conveyor",Content:""},{Name:"A-27 Freighter",Content:""},{Name:"A2",Content:""},{Name:"A3",Content:""},{Name:"A4",Content:""},{Name:"A5",Content:""},{Name:"A6",Content:""},{Name:"A7",Content:"Drops the [[A7 Data Core]] when killed or gives a code when they are show the Cetus Mainframe in [[Cetus]]"},{Name:"A8",Content:""},{Name:"AD-0RF",Content:""},{Name:"AZ-K3N",Content:""},{Name:"Advanced Drone",Content:""},{Name:"Alpha 7",Content:""},{Name:"Architect",Content:""},{Name:"Army Drone",Content:""},{Name:"Artisan",Content:""},{Name:"Assault Drone",Content:""},{Name:"Assembled (4)",Content:""},{Name:"Assembled (7)",Content:""},{Name:"Assembler",Content:"Produces [[Assembled]] every 10 turns. Otherwise harmless."},{Name:"Autobeam Turret",Content:""},{Name:"B-36 Bruiser",Content:""},{Name:"B-48 Gladiator",Content:""},{Name:"B-60 Warrior",Content:""},{Name:"B-74 Champion",Content:""},{Name:"B-75 Beast",Content:""},{Name:"B-86 Titan",Content:""},{Name:"B-90 Cyclops",Content:""},{Name:"B-99 Colossus",Content:""},{Name:"Bomb Drone",Content:""},{Name:"Borebot",Content:""},{Name:"Bouncer",Content:""},{Name:"Butcher (5)",Content:""},{Name:"Butcher (7)",Content:""},{Name:"C-17 Slicer",Content:""},{Name:"C-30 ARC",Content:""},{Name:"C-35 Carver",Content:""},{Name:"C-40 Crusher",Content:`Crushers are heavy-duty [[Treads|treading]] trash (you) compacting machines plated in [[Damper Plating]], rendering them nearly immune to electromagnetic damage. Crushers will attempt to compact anything that is not a Crusher, and their Compactor is a VERY formidable melee weapon (does not drop) that will either [[B]]destroy or drop a few of your parts[[/B]]. Weak to explosions and strong against melee (which would be a bad idea regardless).
+import{j as a,L as H,J as E,K as U,c as G,r as S,M as ee,f as Z,N as te,y as F,a as j,s as ae,O as ne,S as V,B as b,o as oe,Q as X,u as _,U as ie,V as re,W,X as se,Y as le,Z as q,_ as he,$ as de}from"./index-_jkk43xS.js";import{l as ce}from"./lore-yoaB2RHm.js";import{a as me,L as ge,I as ue,B as Y,b as pe,u as ye}from"./BotDetails-QK3k56Vb.js";import{a as K,u as fe}from"./ItemPopover-DTAzflhp.js";/* empty css              */import"./bots-EPaA02tF.js";import"./botTypes-Cxei0LoN.js";import"./items-bCTdCTgI.js";const be=[{Name:"01-MTF",Content:"[[Image]]MTF Vault.png|Running into MTF in a [[Storage]] vault[[/Image]]A friendly bot that rarely shows up in [[Storage]] in an already opened vault. Will join Cogmind as an uncontrollable purple ally for the duration of the map and uses [[01-MTF's Autohacker]] to automatically open any other vaults it can see. It will assimilate or destroy most enemies it encounters extremely quickly with its high spectrum high damage EM gun [[01-MTF's Shockpuncher]]. The Shockpuncher is a very powerful weapon that is strong throughout the majority of the game as long as you can deal with its short range if you can get it to drop. [[Spoiler]]Presumably stole exiles prototypes.[[/Spoiler]]"},{Name:"12-ASH",Content:`12-ASH is one of the Hero's Of Zion. Upon appearing, they will shout "hail to the king".`},{Name:"1C-UTU",Content:""},{Name:"5H-AD0",Content:""},{Name:"7R-MNS",Content:""},{Name:"7V-RTL",Content:""},{Name:"8R-AWN",Content:""},{Name:"99-TNT",Content:""},{Name:"A-02 Transporter",Content:""},{Name:"A-15 Conveyor",Content:""},{Name:"A-27 Freighter",Content:""},{Name:"A2",Content:""},{Name:"A3",Content:""},{Name:"A4",Content:""},{Name:"A5",Content:""},{Name:"A6",Content:""},{Name:"A7",Content:"Drops the [[A7 Data Core]] when killed or gives a code when they are show the Cetus Mainframe in [[Cetus]]"},{Name:"A8",Content:""},{Name:"AD-0RF",Content:""},{Name:"AZ-K3N",Content:""},{Name:"Advanced Drone",Content:""},{Name:"Alpha 7",Content:""},{Name:"Architect",Content:""},{Name:"Army Drone",Content:""},{Name:"Artisan",Content:""},{Name:"Assault Drone",Content:""},{Name:"Assembled (4)",Content:""},{Name:"Assembled (7)",Content:""},{Name:"Assembler",Content:"Produces [[Assembled]] every 10 turns. Otherwise harmless."},{Name:"Autobeam Turret",Content:""},{Name:"B-36 Bruiser",Content:""},{Name:"B-48 Gladiator",Content:""},{Name:"B-60 Warrior",Content:""},{Name:"B-74 Champion",Content:""},{Name:"B-75 Beast",Content:""},{Name:"B-86 Titan",Content:""},{Name:"B-90 Cyclops",Content:""},{Name:"B-99 Colossus",Content:""},{Name:"Bomb Drone",Content:""},{Name:"Borebot",Content:""},{Name:"Bouncer",Content:""},{Name:"Butcher (5)",Content:""},{Name:"Butcher (7)",Content:""},{Name:"C-17 Slicer",Content:""},{Name:"C-30 ARC",Content:""},{Name:"C-35 Carver",Content:""},{Name:"C-40 Crusher",Content:`Crushers are heavy-duty [[Treads|treading]] trash (you) compacting machines plated in [[Damper Plating]], rendering them nearly immune to electromagnetic damage. Crushers will attempt to compact anything that is not a Crusher, and their Compactor is a VERY formidable melee weapon (does not drop) that will either [[B]]destroy or drop a few of your parts[[/B]]. Weak to explosions and strong against melee (which would be a bad idea regardless).
 
 Due to their extreme lethality in melee, stay out of their range at all costs, and maybe just run the hell out of [[Wastes]]. Alternatively pack a good launcher or a good critical weapon, as their plating will tank most of your shots.`},{Name:"C-55 Analyst",Content:""},{Name:"C-57 Dissector",Content:""},{Name:"C-65 Expert",Content:""},{Name:"CL-ANK",Content:""},{Name:"Cetus Guard",Content:""},{Name:"Cobbler",Content:""},{Name:"Cogmind",Content:"That's you."},{Name:"Combat Drone",Content:""},{Name:"Combat Programmer",Content:""},{Name:"Commander",Content:""},{Name:"D-53 Grenadier",Content:""},{Name:"D-63 Destroyer",Content:""},{Name:"D-83 Annihilator",Content:""},{Name:"DAS Turret",Content:""},{Name:"Data Miner",Content:""},{Name:"Decomposer",Content:""},{Name:"Decoy Drone",Content:""},{Name:"Demented",Content:""},{Name:"Dragon",Content:""},{Name:"Drone",Content:""},{Name:"E-15 Imp",Content:""},{Name:"EX-BIN",Content:`[[Heading]]Parse[[/Heading]]
 When datajacked, one of the following parse texts is shown:
@@ -1537,7 +1537,49 @@ Higher security fabricators are capable of much faster construction.
 
 [[Heading]]Lore[[/Heading]]
 [[Lore]]0b10 Records|Fabricator[[/Lore]]`},{Name:"Fanart",Content:`Check out the following artists' fanart pages:
-[[List]][[https://www.gridsagegames.com/forums/index.php?topic=1773.0|CaptainWinky (external site)]]|[[Fanart/Maiker|Maiker]]|[[Fanart/plasmoidman|plasmoidman]]|[[Fanart/Radbanker|Radbanker]]|[[https://zyalin.wixsite.com/zyalin-art/cogmind|Zyalin (external site)]][[/List]]`},{Name:"Fanart/CaptainWinky",Content:"Placeholder"},{Name:"Fanart/Maiker",Content:`[[Fanart]] created by Maiker:
+[[List]][[Fanart/CaptainWinky|CaptainWinky (external site)]]|[[Fanart/Maiker|Maiker]]|[[Fanart/plasmoidman|plasmoidman]]|[[Fanart/Radbanker|Radbanker]]|[[https://zyalin.wixsite.com/zyalin-art/cogmind|Zyalin (external site)]][[/List]]`},{Name:"Fanart/CaptainWinky",Content:`Original thread on gridsagegames forums [[https://www.gridsagegames.com/forums/index.php?topic=1773.0|here]]
+This is a work in progress.  The first few item stat cards were done with GIMP and most of the others were then done by hand editing Cog-Minder stat cards and saving them as images.  Since aoemica has implemented fake item and bot details options for the wiki, I will be redoing things and putting them here in wiki format which also gives me a chance to adjust some details.
+[[GameText]]>Analysis(G-11 Fodder)[[/GameText]]
+[[GameText]]The first of the G-series grunts, this model is no longer in production and the relevant schematics will be moved to the Archives.  The G-11 was intended to be fast and cheap to produce and deploy as a deterrent for unarmed Derelicts.  As a result it has a low-integrity core, low-coverage legs and its weapon is a repurposed low-power fabricator laser.  Existing units still number in the hundreds and are being either scrapped or deployed to the caves where they are sometimes useful as diversions.  Many Derelicts still rely on obsolete signal interpreters or seismic detectors, so they are unable to tell the difference between these bots and more capable models.[[/GameText]]
+[[ItemDetails]]
+Name|Lgt. Aluminum Leg||
+Image Name|../part_art/Aluminum Leg.png||
+Type|Leg||
+Slot|Propulsion||
+Rating|0||
+Rating Category|Standard||
+Integrity|60||
+Coverage|60||
+Hackable|false||
+Energy Upkeep|0||
+Matter Upkeep|0||
+Heat Generation|0||
+Time Per Move|120||
+Drag|10||
+Energy Per Move|2||
+Heat Per Move|0||
+Support|7||
+Penalty|80[[/ItemDetails]]
+[[ItemDetails]]
+Name|Mod. Etching Laser||
+Image Name|../part_art/Sml. Laser.png||
+Type|Energy Gun||
+Slot|Weapon||
+Mass|1||
+Rating|0||
+Rating Category|Standard||
+Integrity|50||
+Coverage|60||
+Range|8||
+Shot Energy|4||
+Shot Heat|15||
+Recoil|0||
+Targeting|-10||
+Delay|0||
+Projectile Count|2||
+Damage|2-3||
+Damage Type|Thermal||
+Salvage|0[[/ItemDetails]]`},{Name:"Fanart/Maiker",Content:`[[Fanart]] created by Maiker:
 [[FanartGallery]]fanart/maiker/Behemoth_GJ_was_here.gif|Behemoth + GJ was here|fanart/maiker/Brawler_Bonk.gif|Brawler Bonk|fanart/maiker/Demolisher_Shoot.gif|Demolisher Shoot|fanart/maiker/Disguised_Cogmind.gif|Disguised Cogmind|fanart/maiker/Get_Heavy'ed.gif|Get Heavy'd|fanart/maiker/GOLEM_Full_Loop.gif|GOLEM|fanart/maiker/Grunt_Shoot.gif|Grunt Shoot|fanart/maiker/Hunter_Drone.gif|Hunter Drone|fanart/maiker/luigi_force_ram.gif|LU-1G1's Force Ram|fanart/maiker/Programmer_Shoot.gif|Programmer Shoot|fanart/maiker/Sentry_Shoot.gif|Sentry Shoot[[/FanartGallery]]`},{Name:"Fanart/Radbanker",Content:`[[Fanart]] created by Radbanker:
 [[FanartGallery]]fanart/radbanker/Part Art 1.png|Assorted part art[[/FanartGallery]]
 Top Left:
@@ -1644,7 +1686,16 @@ High Security can be triggered on the majority of 0b10-controlled maps, excludin
 [[Heading]]Timeline of Events[[/Heading]]
 [[Image]]High Security Garrison.png|Sentries dispatched to protect a Garrison[[/Image]]
 [[Image]]High Security Exit.png|Sentires dispatched to protect an 0b10-controlled exit[[/Image]]
-[[List]]0: Log message [[GameText]]ALERT: High security lockdown imminent, T-100.[[/GameText]]|50: Machines shut down and Chute traps disappear, log message [[GameText]]ALERT: Machine network offline.[[/GameText]] Note: [[Garrison (Machine)|Garrisons]] that are already opened will remain open|65: Log message [[GameText]]ALERT: Performing unscheduled system reset.[[/GameText]]|80: 4 [[Sentry|Sentries]] dispatched at each 0b10-controlled exit and Garrison, log message [[GameText]]ALERT: Lockdown in effect, collecting threat data.[[/GameText]]|100: First assault wave dispatched, 4 assaults dispatched from nearby 0b10-controlled exits and Garrisons.|200: Second wave, 4 assaults dispatched|350: Third wave, 6 assaults dispatched including heavy assaults with stronger bots|550: Fourth wave, 8 assaults dispatched including heavy assaults|800: Fifth wave, 10 assaults dispatched including heavy assaults|Etc. - Delay between assaults continues to increase by 50 and number of assaults per wave continues to increase by 2[[/List]]
+[[List]]0: Log message [[GameText]]ALERT: High security lockdown imminent, T-100.[[/GameText]]|
+50: Machines shut down and Chute traps disappear, log message [[GameText]]ALERT: Machine network offline.[[/GameText]] Note: [[Garrison (Machine)|Garrisons]] that are already opened will remain open|
+65: Trojans are removed from all machines, log message [[GameText]]ALERT: Performing unscheduled system reset.[[/GameText]]|
+80: 4 [[Sentry|Sentries]] dispatched at each 0b10-controlled exit and Garrison, log message [[GameText]]ALERT: Lockdown in effect, collecting threat data.[[/GameText]]|
+100: First assault wave dispatched, 4 assaults dispatched from nearby 0b10-controlled exits and Garrisons.|
+200: Second wave, 4 assaults dispatched|
+350: Third wave, 6 assaults dispatched including heavy assaults with stronger bots|
+550: Fourth wave, 8 assaults dispatched including heavy assaults|
+800: Fifth wave, 10 assaults dispatched including heavy assaults|
+Etc. - Delay between assaults continues to increase by 50 and number of assaults per wave continues to increase by 2[[/List]]
 [[Heading]]Exiting High Security[[/Heading]]
 The only 2 ways to exit High Security are to trigger [[Sterilization]] after killing enough combat hostiles or to exit the map. Otherwise, an infinite number of Assaults will continue to be dispatched. One unique map [[Command]] has special behavior: [[Redacted]]Since there are a limited number of [[C-30 ARC|ARCs]] on the map, no more assaults will come for Cogmind after they have been depleted. However, the alerts that assaults are dispatched never stop coming.[[/Redacted]]`},{Name:"Homepage",Content:`This is a WIP unofficial Cogmind Wiki. Use the page dropdown to go to a specific page. For editing info, check out the [[https://discord.gg/f8Fqv2qQxV|Cog-Minder wiki Discord server]] and make contributions via [[https://docs.google.com/spreadsheets/d/1Fv3WlkoueecEmZDh88XWSMuV8Qdfm3epzFrcx5nF33g/edit?usp=sharing|This Google Spreadsheet]].
 [[Heading]]Useful Pages[[/Heading]]
