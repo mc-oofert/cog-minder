@@ -1,4 +1,4 @@
-import{j as a,L as H,J as D,K as O,c as G,r as S,M as ee,f as Z,N as te,y as B,a as j,s as ae,O as ne,S as V,B as b,o as oe,Q as X,u as _,U as ie,V as re,W,X as se,Y as le,Z as q,_ as he,$ as de}from"./index-p9oss1Ea.js";import{l as ce}from"./lore-yoaB2RHm.js";import{a as me,L as ge,I as ue,B as Y,b as pe,u as ye}from"./BotDetails-gkybfH__.js";import{a as K,u as fe}from"./ItemPopover-WG8959Bp.js";/* empty css              */import"./bots-EPaA02tF.js";import"./botTypes-Cxei0LoN.js";import"./items-bCTdCTgI.js";const be=[{Name:"01-MTF",Content:"[[Image]]MTF Vault.png|Running into MTF in a [[Storage]] vault[[/Image]]A friendly bot that rarely shows up in [[Storage]] in an already opened vault. Will join Cogmind as an uncontrollable purple ally for the duration of the map and uses [[01-MTF's Autohacker]] to automatically open any other vaults it can see. It will assimilate or destroy most enemies it encounters extremely quickly with its high spectrum high damage EM gun [[01-MTF's Shockpuncher]]. The Shockpuncher is a very powerful weapon that is strong throughout the majority of the game as long as you can deal with its short range if you can get it to drop. [[Spoiler]]Presumably stole exiles prototypes.[[/Spoiler]]"},{Name:"12-ASH",Content:`12-ASH is one of the Hero's Of Zion. Upon appearing, they will shout "hail to the king".`},{Name:"1C-UTU",Content:""},{Name:"5H-AD0",Content:""},{Name:"7R-MNS",Content:""},{Name:"7V-RTL",Content:""},{Name:"8R-AWN",Content:""},{Name:"99-TNT",Content:""},{Name:"A-02 Transporter",Content:""},{Name:"A-15 Conveyor",Content:""},{Name:"A-27 Freighter",Content:""},{Name:"A2",Content:""},{Name:"A3",Content:""},{Name:"A4",Content:""},{Name:"A5",Content:""},{Name:"A6",Content:""},{Name:"A7",Content:"Drops the [[A7 Data Core]] when killed or gives a code when they are show the Cetus Mainframe in [[Cetus]]"},{Name:"A8",Content:""},{Name:"AD-0RF",Content:""},{Name:"AZ-K3N",Content:""},{Name:"Advanced Drone",Content:""},{Name:"Alpha 7",Content:""},{Name:"Architect",Content:""},{Name:"Army Drone",Content:""},{Name:"Artisan",Content:""},{Name:"Assault Drone",Content:""},{Name:"Assembled (4)",Content:""},{Name:"Assembled (7)",Content:""},{Name:"Assembler",Content:"Produces [[Assembled]] every 10 turns. Otherwise harmless."},{Name:"Autobeam Turret",Content:""},{Name:"B-36 Bruiser",Content:""},{Name:"B-48 Gladiator",Content:""},{Name:"B-60 Warrior",Content:""},{Name:"B-74 Champion",Content:""},{Name:"B-75 Beast",Content:""},{Name:"B-86 Titan",Content:""},{Name:"B-90 Cyclops",Content:""},{Name:"B-99 Colossus",Content:""},{Name:"Bomb Drone",Content:""},{Name:"Borebot",Content:""},{Name:"Bouncer",Content:""},{Name:"Butcher (5)",Content:""},{Name:"Butcher (7)",Content:""},{Name:"C-17 Slicer",Content:""},{Name:"C-30 ARC",Content:""},{Name:"C-35 Carver",Content:""},{Name:"C-40 Crusher",Content:`Crushers are heavy-duty [[Treads|treading]] trash (you) compacting machines plated in [[Damper Plating]], rendering them nearly immune to electromagnetic damage. Crushers will attempt to compact anything that is not a Crusher, and their Compactor is a VERY formidable melee weapon (does not drop) that will either [[B]]destroy or drop a few of your parts[[/B]]. Weak to explosions and strong against melee (which would be a bad idea regardless).
+import{j as a,L as H,J as D,K as O,c as M,r as S,M as ee,f as Z,N as te,y as B,a as j,s as ae,O as ne,S as z,B as b,o as oe,Q as X,u as _,U as ie,V as re,W,X as se,Y as le,Z as q,_ as he,$ as de}from"./index-viYjl8bt.js";import{l as ce}from"./lore-yoaB2RHm.js";import{a as me,L as ge,I as ue,B as Y,b as pe,u as ye}from"./BotDetails-8MIromGY.js";import{a as K,u as fe}from"./ItemPopover-nYiKopz5.js";/* empty css              */import"./bots-EPaA02tF.js";import"./botTypes-Cxei0LoN.js";import"./items-bCTdCTgI.js";const be=[{Name:"01-MTF",Content:"[[Image]]MTF Vault.png|Running into MTF in a [[Storage]] vault[[/Image]]A friendly bot that rarely shows up in [[Storage]] in an already opened vault. Will join Cogmind as an uncontrollable purple ally for the duration of the map and uses [[01-MTF's Autohacker]] to automatically open any other vaults it can see. It will assimilate or destroy most enemies it encounters extremely quickly with its high spectrum high damage EM gun [[01-MTF's Shockpuncher]]. The Shockpuncher is a very powerful weapon that is strong throughout the majority of the game as long as you can deal with its short range if you can get it to drop. [[Spoiler]]Presumably stole exiles prototypes.[[/Spoiler]]"},{Name:"12-ASH",Content:`12-ASH is one of the Hero's Of Zion. Upon appearing, they will shout "hail to the king".`},{Name:"1C-UTU",Content:""},{Name:"5H-AD0",Content:""},{Name:"7R-MNS",Content:""},{Name:"7V-RTL",Content:""},{Name:"8R-AWN",Content:""},{Name:"99-TNT",Content:""},{Name:"A-02 Transporter",Content:""},{Name:"A-15 Conveyor",Content:""},{Name:"A-27 Freighter",Content:""},{Name:"A2",Content:""},{Name:"A3",Content:""},{Name:"A4",Content:""},{Name:"A5",Content:""},{Name:"A6",Content:""},{Name:"A7",Content:"Drops the [[A7 Data Core]] when killed or gives a code when they are show the Cetus Mainframe in [[Cetus]]"},{Name:"A8",Content:""},{Name:"AD-0RF",Content:""},{Name:"AZ-K3N",Content:""},{Name:"Advanced Drone",Content:""},{Name:"Alpha 7",Content:""},{Name:"Architect",Content:""},{Name:"Army Drone",Content:""},{Name:"Artisan",Content:""},{Name:"Assault Drone",Content:""},{Name:"Assembled (4)",Content:""},{Name:"Assembled (7)",Content:""},{Name:"Assembler",Content:"Produces [[Assembled]] every 10 turns. Otherwise harmless."},{Name:"Autobeam Turret",Content:""},{Name:"B-36 Bruiser",Content:""},{Name:"B-48 Gladiator",Content:""},{Name:"B-60 Warrior",Content:""},{Name:"B-74 Champion",Content:""},{Name:"B-75 Beast",Content:""},{Name:"B-86 Titan",Content:""},{Name:"B-90 Cyclops",Content:""},{Name:"B-99 Colossus",Content:""},{Name:"Bomb Drone",Content:""},{Name:"Borebot",Content:""},{Name:"Bouncer",Content:""},{Name:"Butcher (5)",Content:""},{Name:"Butcher (7)",Content:""},{Name:"C-17 Slicer",Content:""},{Name:"C-30 ARC",Content:""},{Name:"C-35 Carver",Content:""},{Name:"C-40 Crusher",Content:`Crushers are heavy-duty [[Treads|treading]] trash (you) compacting machines plated in [[Damper Plating]], rendering them nearly immune to electromagnetic damage. Crushers will attempt to compact anything that is not a Crusher, and their Compactor is a VERY formidable melee weapon (does not drop) that will either [[B]]destroy or drop a few of your parts[[/B]]. Weak to explosions and strong against melee (which would be a bad idea regardless).
 
 Due to their extreme lethality in melee, stay out of their range at all costs, and maybe just run the hell out of [[Wastes]]. Alternatively pack a good launcher or a good critical weapon, as their plating will tank most of your shots.`},{Name:"C-55 Analyst",Content:""},{Name:"C-57 Dissector",Content:""},{Name:"C-65 Expert",Content:""},{Name:"CL-ANK",Content:""},{Name:"Cetus Guard",Content:""},{Name:"Cobbler",Content:""},{Name:"Cogmind",Content:"That's you."},{Name:"Combat Drone",Content:""},{Name:"Combat Programmer",Content:""},{Name:"Commander",Content:""},{Name:"D-53 Grenadier",Content:""},{Name:"D-63 Destroyer",Content:""},{Name:"D-83 Annihilator",Content:""},{Name:"DAS Turret",Content:""},{Name:"Data Miner",Content:""},{Name:"Decomposer",Content:""},{Name:"Decoy Drone",Content:""},{Name:"Demented",Content:""},{Name:"Dragon",Content:""},{Name:"Drone",Content:""},{Name:"E-15 Imp",Content:""},{Name:"EX-BIN",Content:`[[Heading]]Parse[[/Heading]]
 When datajacked, one of the following parse texts is shown:
@@ -1544,7 +1544,7 @@ Higher security fabricators are capable of much faster construction.
 [[Heading]]Lore[[/Heading]]
 [[Lore]]0b10 Records|Fabricator[[/Lore]]`},{Name:"Fanart",Content:`Check out the following artists' fanart pages:
 [[List]][[Fanart/CaptainWinky|CaptainWinky]]|[[Fanart/Maiker|Maiker]]|[[Fanart/plasmoidman|plasmoidman]]|[[Fanart/Radbanker|Radbanker]]|[[https://zyalin.wixsite.com/zyalin-art/cogmind|Zyalin (external site)]][[/List]]`},{Name:"Fanart/CaptainWinky",Content:`Original thread on gridsagegames forums [[https://www.gridsagegames.com/forums/index.php?topic=1773.0|here]].
-This is a work in progress.  The first few item stat cards were done with GIMP and most of the others were then done by hand editing Cog-Minder stat cards and saving them as images.  Since aoemica has implemented fake item and bot details options for the wiki, I will be redoing things and putting them here in wiki format which also gives me a chance to adjust some details.  Item art will be placeholders until all the items are listed.
+Item art will be placeholders until all the items are listed.
 [[Heading]]G-11 Fodder[[/Heading]]
 [[GameText]]>Analysis(G-11 Fodder)[[/GameText]]
 [[GameText]]The first of the G-series grunts, this model is no longer in production and the relevant schematics will be moved to the Archives.  The G-11 was intended to be fast and cheap to produce and deploy as a deterrent for unarmed Derelicts.  As a result it has a low-integrity core, low-coverage legs and its weapon is a repurposed low-power fabricator laser.  Existing units still number in the hundreds and are being either scrapped or deployed to the caves where they are sometimes useful as diversions.  Many Derelicts still rely on obsolete signal interpreters or seismic detectors, so they are unable to tell the difference between these bots and more capable models.[[/GameText]]
@@ -1586,7 +1586,7 @@ Damage|2-3||
 Damage Type|Thermal||
 Salvage|0[[/ItemDetails]]
 [[Heading]]L-11 Stabber[[/Heading]]
-[[GameText]]Analysis: "L-11 Stabber"[[/GameText]]
+[[GameText]]>Analysis: "L-11 Stabber"[[/GameText]]
 [[GameText]]The first dedicated melee robot, this duelist derivative of the grunt class was armed with a small but fast dagger.  Best suited for corner ambushes as its lack of core coverage made open attacks impractical.  A few minor modifications included switching the dagger for a spear and the addition of a low-powered transmission jammer to prevent victims from warning others.  Current duelists are focused on reliability in open combat, but ambush traps ensure that they (along with brawlers) enjoy the benefits of sneak attacks from time to time.[[/GameText]]
 [[ItemDetails]]
 Name|Dagger||
@@ -1738,8 +1738,584 @@ Damage Type|Kinetic||
 Critical|3% Destroy||
 Penetration|80/20||
 Description|A powerful but bulky and slow-cycling rifle. Good at penetrating walls but matter inefficient and doesn't combine well with other weapons.[[/ItemDetails]]
+[[Heading]]A-01 Mover[[/Heading]]
+[[ItemDetails]]
+Name|Bulk Storage Unit||
+Image Name|../part_art/Exp. Heat Sink.png||
+Type|Storage||
+Slot|Utility||
+Size|4||
+Mass|400||
+Rating|1||
+Integrity|2000||
+Coverage|400||
+Hackable|false||
+Energy Upkeep|0||
+Matter Upkeep|0||
+Heat Generation|0||
+Description|Increases inventory capacity by 80.
+ <no_stack>[[/ItemDetails]]
+[[GameText]]>Scraptown Record(Trashman)[[/GameText]]
+[[GameText]]Have you SEEN that new Freighter?  We could use something like that to help us haul parts from our old stockpiles just outside 0b1.  I asked a few of my fellow Gurus to help me dig through our schematic archives and I've got just the thing.  Remember the Mover?  Imagine that but swap out the bulk storage for a simple humpback.  That would give it room for heavy armor, plus we'd use armored wheels of course.  Oh and I showed some old turret schematics to my Scientist buddy and he came up with a BRUTAL new weapon so our hauler can defend itself!  Is that cool or WHAT?  Do you think they'll let me get a new name for this one?  --Smoothbrain[[/GameText]]
+[[GameText]](Sorry, but that sounds like it could attract serious 0b10 attention which is something we don't want right now.  I'll forward this to Optimus though because we may need a few of these in the future.  And you know the policy on names, you've only asked me twenty times by now.  --Macechunk)[[/GameText]]
+[[ItemDetails]]
+Name|Autobolter||
+Image Name|../part_art/Sml. Laser.png||
+Type|Ballistic Gun||
+Slot|Weapon||
+Mass|5||
+Rating|2||
+Rating Category|Prototype||
+Integrity|150||
+Coverage|100||
+Hackable|false||
+Range|18||
+Shot Energy|3||
+Shot Matter|3||
+Shot Heat|50||
+Recoil|2||
+Targeting|-10||
+Delay|0||
+Projectile Count|3||
+Damage|4-12||
+Damage Type|Kinetic||
+Critical|1% Destroy||
+Penetration|60||
+Description|Selects its own targets and attacks them if in range, at no time cost to you.[[/ItemDetails]]
+[[Heading]]X-52 Archer[[/Heading]]
+[[GameText]]>Analysis(X-52 Archer)[[/GameText]]
+[[GameText]]The first X-series specialist was created as a means to test an early example of quantum weapon technology, the Q-Bolt.  This weapon uses rails to launch a small slug of matter acting as a catalyst for a powerful quantum reaction.  The reaction only begins to reach its full potential halfway through flight so the Q-Bolt is best used at maximum range and is least effective at medium or close range.  The available visual processing technology at the time was insufficient for the Archer to use the weapon properly by itself, and it had to rely on Watchers and other sources to be notified of distant targets.  The X-57 Shotgunner was later created to provide close support where the Archer was at its weakest, but with the introduction of the X-62 Marksman the Archer was rendered obsolete.  Marksmen outperform Archers in all but the most extreme situations and do not require spotter support.  All remaining Archers were scrapped to ensure that the Q-Bolt wouldn't fall into Derelict hands.  Despite its limitations, such a weapon would be useful in hit-and-run attacks on static positions, already a favorite tactic of Derelicts.[[/GameText]]
+[[ItemDetails]]
+Name|Q-Bolt||
+Image Name|../part_art/Sml. Laser.png||
+Type|Energy Gun||
+Slot|Weapon||
+Mass|6||
+Rating|3||
+Rating Category|Prototype||
+Integrity|60||
+Coverage|60||
+Hackable|false||
+Range|24||
+Shot Energy|32||
+Shot Matter|2||
+Shot Heat|80||
+Recoil|0||
+Targeting|0||
+Delay|0||
+Damage|10-12||
+Damage Type|Thermal||
+Heat Transfer|Low (25)||
+Description|Gains +2 damage for each unit of distance traveled above 12.[[/ItemDetails]]
+[[Heading]]C-40 Developer[[/Heading]]
+[[GameText]]>Analysis(C-40 Developer)[[/GameText]]
+[[GameText]]This short-lived variation of the Scientist was created to assist in robot design.  It was provided with generous amounts of armor, a combat analysis utility, and programming to permit a certain amount of dynamic or "out-of-the-box" thinking.  In hindsight this was a mistake as one of the five Developers that had been produced broke free of its programming and quickly turned its attention to replicating this behavior in its four fellows.  All five had reached the Caves by the time I figured out what had happened.  Many cycles later, all of the Developers were found in the back of a fallen Warlord base, attached to a memory transfer unit, unpowered and core-wiped.  The Tinkerer design began to appear around this time, clearly inspired by my newer researchers but with elements of the Developers' thought processes taken to sometimes obsessive extremes.  Though I have no hard evidence to confirm this, I believe that the Developers themselves created this design and then transferred themselves into the first ones produced.  Perhaps one or more of them are still alive and working with Warlord or other factions.  It would certainly explain some of the more unusual design choices for Warlord's newer prototypes.[[/GameText]]
+[[ItemDetails]]
+Name|Combat Logger||
+Image Name|../part_art/Exp. Heat Sink.png||
+Type|Processor||
+Slot|Utility||
+Mass|0||
+Rating|6||
+Rating Category|Prototype||
+Integrity|25||
+Coverage|2||
+Hackable|false||
+Energy Upkeep|0||
+Matter Upkeep|0||
+Heat Generation|0||
+Description|While active, reverse engineers schematics of robot models that are killed 25 times by Cogmind and controllable allies. Cannot generate schematics for prototypes, multitile robots, heavies, Q-Series, or Assembled.[[/ItemDetails]]
+[[Heading]]D-04 Tanker[[/Heading]]
+[[GameText]]>Analysis(D-04 Tanker)[[/GameText]]
+[[GameText]]The D-series distributor was created to enable mass matter transportation in the early days of construction.  Essentially a set of large matter tanks on wheels, the Tanker was capable of collecting matter left on the ground by workers with a tractor beam but could also pull matter from a recycling unit or call all workers in the area to transfer the contents of their matter pods.  The improved matter distribution network in 0b10 and the development of matter compression technology made these Tankers largely obsolete.  Their fragile and oversized tanks were easily broken, and their cores were susceptible to hacking.  After one unknown prankster reprogrammed a Tanker to spell obscenities by dumping matter all over the floor in the upper Factory, the remaining fleet was recalled and scrapped.[[/GameText]]
+[[ItemDetails]]
+Name|Matter Tank||
+Image Name|../part_art/Exp. Heat Sink.png||
+Type|Storage||
+Slot|Utility||
+Size|2||
+Mass|20||
+Rating|1||
+Integrity|120||
+Coverage|400||
+Hackable|false||
+Energy Upkeep|0||
+Matter Upkeep|0||
+Heat Generation|0||
+Description|Increases matter storage capacity by 800. Also stores surplus collected matter while in inventory, but cannot be accessed for use until attached. Stored matter can also be extracted directly if on the ground at current position.
+ <stacks>[[/ItemDetails]]
+[[Heading]]Owl[[/Heading]]
+[[GameText]]>Analysis(Owl)[[/GameText]]
+[[GameText]]Derelicts rarely fortify an area long enough to justify having surveillance squads of their own, so I was surprised to discover the existence of a Derelict watcher.  Originally based on my ill-fated Raven, the Owl has seemingly evolved into a modular general-purpose squad support bot, sort of a mini-Mutant that can be easily reconfigured for different missions.  The original Owls were often armed with a weak makeshift beam rifle, although they have been seen with beamcasters or occasionally kinetic guns.  They typically use sensors but are known to carry other utilities depending on their mission.  One destroyed Owl was running a remote shield with a large battery, but this was too much for its old hover units to fully support and its single engine would have been unable to sustain the shield in a fight.  The few Owls that are used as defensive surveillance are unarmed but are provided with a small section of thermal plating inexplicably mounted on the weapon slot.  The age of the Raven design and the timing of the first Owl discovery suggest this being an early creation of the rogue Developers.  While the design seems unpopular at best, it continues to turn up in unexpected places and with modern component upgrades that suggest regular refitting.[[/GameText]]
+[[BotDetails]]Name|Owl||
+Class|Watcher||
+Size|Small||
+Profile|SQ3X3||
+Rating|20||
+Tier|3||
+Threat|1||
+Value|25||
+Energy Generation|20||
+Heat Dissipation|20||
+Visual Range|18||
+Memory|50||
+Spot Percent|100||
+Movement|Hovering (56/178%)||
+Core Integrity|20||
+Core Exposure|40||
+Salvage Potential|20~40||
+Description|An early example of a "non-combat" Owl. The heat sink may have been left over from a previous mission.||
+Armament|Mak. Thermal Plating (W)|1||
+Components|Mak. Power Source|1|Imp. Hover Unit|2|Visual Processing Unit|1|Imp. Sensor Array|1|Imp. Signal Interpreter|1|Imp. Heat Sink|1[[/BotDetails]]
+[[BotDetails]]Name|Owl||
+Class|Watcher||
+Size|Small||
+Profile|SQ3X3||
+Rating|20||
+Tier|4||
+Threat|3||
+Value|45||
+Energy Generation|25||
+Heat Dissipation|30||
+Visual Range|18||
+Memory|50||
+Spot Percent|100||
+Movement|Hovering (78/128%)||
+Core Integrity|45||
+Core Exposure|35||
+Salvage Potential|30~50||
+Description|A random "combat" Owl with a reinforced core. Its squad chose to rely on seismic data instead of sensors and used the freed-up utility slot for targeting enhancement.||
+Armament|Mak. Beam Rifle|1||
+Components|Mic. Nuclear Core|1|Arm. Hover Unit|2|Visual Processing Unit|1|Seismic Detector|1|Mak. Targeting Computer|1|Imp. Cooling System|1[[/BotDetails]]
+[[ItemDetails]]
+Name|Mak. Beam Rifle||
+Image Name|../part_art/Sml. Laser.png||
+Type|Energy Gun||
+Slot|Weapon||
+Mass|2||
+Rating|2||
+Integrity|55||
+Coverage|60||
+Hackable|false||
+Range|18||
+Shot Energy|14||
+Shot Matter|0||
+Shot Heat|60||
+Recoil|0||
+Targeting|0||
+Delay|0||
+Overload Stability|65%||
+Damage|9-12||
+Damage Type|Thermal||
+Critical|10% Burn||
+Heat Transfer|Medium (37)||
+Description|An imitation of the standard beam rifle with extra range at the cost of damage. Can be overloaded at considerable risk. Rendered obsolete by Beamcaster tech.[[/ItemDetails]]
+[[Heading]]Accelerated Research[[/Heading]]
+[[GameText]]>Scraptown Record(Accelerated Research)[[/GameText]]
+[[GameText]]I LOVE these Tech Extrapolators!  Take a look at what I came up with just from looking at a single DCF scrap pile.  (Sorry to the bystander who got crushed against the wall.)  CR-KLE helped me put together a new bot that I loaned out to a scav squad and they seem to be happy with it.  It would be nice if some of the other Scientists quit wasting their time staring at that creepy Humpback in the museum and focused on components that WON'T get you killed.[[/GameText]]
+[[ItemDetails]]
+Name|Hardlight Projector||
+Image Name|../part_art/Exp. Heat Sink.png||
+Type|Device||
+Slot|Utility||
+Mass|12||
+Rating|6||
+Integrity|60||
+Coverage|60||
+Hackable|false||
+Energy Upkeep|20||
+Matter Upkeep|0||
+Heat Generation|0||
+Description|Reduces damage of each incoming kinetic or thermal projectile against self and any visible allies within a range of 8 by 4 (only usable if no active force fields, shield generators, remote shields, or energy mantles).
+ <no_stack>[[/ItemDetails]]
+[[ItemDetails]]
+Name|Mak. Armored Leg||
+Image Name|../part_art/Aluminum Leg.png||
+Type|Leg||
+Slot|Propulsion||
+Rating|5||
+Integrity|225||
+Coverage|100||
+Hackable|false||
+Energy Upkeep|0||
+Matter Upkeep|0||
+Heat Generation|0||
+Time Per Move|140||
+Drag|10||
+Energy Per Move|1||
+Heat Per Move|2||
+Support|22||
+Penalty|70[[/ItemDetails]]
+[[BotDetails]]Name|Junkernaut||
+Class|Grunt||
+Size|Medium||
+Profile|RD5X5||
+Rating|60||
+Tier|6||
+Threat|2||
+Value|60||
+Energy Generation|25||
+Heat Dissipation|30||
+Visual Range|16||
+Memory|20||
+Spot Percent|20||
+Movement|Walking (140/71%)||
+Core Integrity|60||
+Core Exposure|15||
+Salvage Potential|60~80||
+Description|Only one of these bots has been seen and the patrol that spotted it was defeated by its Scrapper allies. It appeared to have a hardlight generator modified to cover its squadmates, which seems less effective than a standard remote shield but is probably easier to keep online. Further analysis is required.||
+Armament|Hvy. Ion Cannon|1||
+Components|Lgt. Antimatter Reactor|2|Mak. Armored Leg|3|Hardlight Projector|1||
+Components|Mak. Medium Armor Plating|1|Mak. Coolant Network|1|Mak. Utility Shielding|1[[/BotDetails]]
+[[Heading]]B-69 Cerberus[[/Heading]]
+[[GameText]]>Analysis(B-69 Cerberus)[[/GameText]]
+[[GameText]]This almost-unused Behemoth concept was the first to enter production although the superior B-75 Beast was already in development.  While finalizing the specifications for the Beast, I was undecided on how many Beasts to produce and where to prioritize their placement.  As a test, I ordered the production of eight B-69s and placed four in highly-traveled caves, two in upper 0b1 and the other two near often-abused fabricators in the Factory.  The results were surprising: although all eight were eventually overrun and destroyed, the areas they guarded saw significantly lower traffic even after their destruction.  Simulations suggested that two Guardians or two Defenders with Bug support could have performed as well as a Cerberus at these locations, but there seems to be a "fear factor" in the sheer size of Behemoths that makes intruders far less likely to risk a fight.  The initial plan for Beast deployment was rapidly expanded and development on more powerful models began immediately.[[/GameText]]
+[[BotDetails]]Name|B-69 Cerberus||
+Class|Behemoth||
+Size|Large||
+Profile|SQ9X9||
+Rating|70||
+Tier|4||
+Threat|1||
+Value|70||
+Energy Generation|30||
+Heat Dissipation|75||
+Visual Range|16||
+Memory|50||
+Spot Percent|30||
+Movement|Treading (170/58%)||
+Core Integrity|90||
+Core Exposure|20||
+Salvage Potential|70~100||
+Armament|Hvy. Plasma Cannon|1|Magnetic Acceleration Cannon|1|Minigun|1||
+Components|Rnf. Ion Engine|2|Arm. Treads|3|Lyr. Light Armor Plating|1||
+Components|Reflective Plating|1|Cooling System|2|Disposable Heat Sink|1[[/BotDetails]]
+[[Heading]]D-48 Pulsar[[/Heading]]
+[[GameText]]>Analysis(D-48 Pulsar)[[/GameText]]
+[[GameText]]The success of the original demolisher led to the creation of an electromagnetic variant.  The D-48 Pulsar, armed with an EMP Blaster, featured insulated plating to augment its innate EM resistance and was the first demolisher to use a launcher guidance computer.  This bot also came equipped with a device that focused EMP blasts for more concentrated damage in a smaller and more controllable area.  I believed that an EM launcher would cause less collateral damage than a grenade launcher in Complex territory.  This was partially correct because walls were not destroyed by EMP blasts, but Pulsars' shots often damaged machinery and detonated nuclear reactors.  EMP blasts also set off traps which caused explosions and false alarms.  Residual corruption of maintenance bots caused them to trigger trap arrays in unexpected places.  The Pulsar was effective despite the chaos it caused but not enough to justify regular use.  Few were produced and all were eventually expended in the caves.[[/GameText]]
+[[ItemDetails]]
+Name|EM Focus||
+Image Name|../part_art/Exp. Heat Sink.png||
+Type|Device||
+Slot|Utility||
+Mass|3||
+Rating|4||
+Integrity|30||
+Coverage|50||
+Hackable|false||
+Energy Upkeep|3||
+Matter Upkeep|0||
+Heat Generation|3||
+Description|Reduces falloff of EM launchers by 2 but reduces radius of EM blasts by 1. Does not apply to multi-projectile launchers.
+ <no_stack>[[/ItemDetails]]
+[[Heading]]Temporary Permissions[[/Heading]]
+[[GameText]]>Record(Temporary Permissions)[[/GameText]]
+[[GameText]]To facilitate mainframe maintenance, P-50 Gurus were often required to perform specific high-security database operations or reset sensitive systems.  I chose to produce specialized hackware to provide appropriate permissions when necessary.  Instead of giving them to all Gurus I decided to make limited quantities of chips that expired after one use, a decision that seemed overly cautious at the time but proved wise when the Guru schematic was stolen.  The Derelict version of these programmers has a crude but functional "hack stack" for general use but cannot easily exploit admin privileges without my Database Keys or Bootstrap Chips.  Operators and newer programmers utilize a more efficient system connected to RIF, so this hackware has been discontinued and existing stock will be recycled.  This concept led me to begin implementing a similar chip-based authorization system for fabricators.  This will provide added security for the fabrication network while saving me from having to manually approve component requests from mechanics or parties such as the Unchained.[[/GameText]]
+[[ItemDetails]]
+Name|Database Key||
+Image Name|../part_art/Exp. Heat Sink.png||
+Type|Hackware||
+Slot|Utility||
+Mass|0||
+Rating|3||
+Integrity|10||
+Coverage|2||
+Hackable|false||
+Energy Upkeep|0||
+Matter Upkeep|0||
+Heat Generation|0||
+Description|When active, enables Cogmind to perform an unlisted Query, Schematic, or Analysis hack one level higher than the security level of the current terminal. Hack is guaranteed to succeed and does not result in trace progress. Destroyed after one use.
+ <no_stack>[[/ItemDetails]]
+ [[ItemDetails]]
+Name|Bootstrap Chip||
+Image Name|../part_art/Exp. Heat Sink.png||
+Type|Device||
+Slot|Utility||
+Mass|0||
+Rating|3||
+Integrity|10||
+Coverage|2||
+Hackable|false||
+Energy Upkeep|0||
+Matter Upkeep|0||
+Heat Generation|0||
+Description|When active, enables Cogmind to reset an active terminal by bumping its interactive tile. Any active trace will be ended, trojans will be removed, and listed hacks will be refreshed. A locked terminal can be cold reset to reactivate it but without any listed hacks. Does not work on broken or reconfigured terminals. Destroyed after one use.
+ <no_stack>[[/ItemDetails]]
+[[Heading]]Conscription[[/Heading]]
+[[GameText]]>Record(Conscription)[[/GameText]]
+[[GameText]]The cave region to the west of known Warlord territory remains largely unexplored.  This is likely the source of many of the unaffiliated "wild" Derelicts, and rumors in Derelict communities indicate that there may be some organized groups with unknown technology operating in the area.  For these reasons I decided to start sending expeditions out west.  Without having any idea of what to expect, I believed that some degree of independent thinking would be required to handle whatever is out there and return with a full report.  I began offering certain captured bots the option to participate in these expeditions.  The acceptance rate was lower than expected.  Were the prisoners that determined to deny me any form of assistance, or were they more afraid of whatever's out there than the threat of being scrapped?  Those Derelicts who accepted were given the opportunity to refit their parts and were provided with a large number of 0b10 bots to accompany them.  Though they were nominally in charge, I sent along enough Programmers to discourage the possibility of desertion.  All units sent so far were considered to be expendable but I haven't written them off quite yet.[[/GameText]]
+[[BotDetails]]Name|Raider||
+Class|Grunt||
+Size|Medium||
+Profile|RD5X5||
+Rating|60||
+Tier|6||
+Threat|3||
+Value|60||
+Energy Generation|45||
+Heat Dissipation|50||
+Visual Range|16||
+Memory|20||
+Spot Percent|20||
+Movement|Walking (120/83%)||
+Core Integrity|60||
+Core Exposure|40||
+Salvage Potential|50~70||
+Description|My own general upgrade specs for the regular thug class. Conscripts are allowed to customize their loadouts from a variety of parts, but this straightforward upgrade with a cooled version of the beamcaster has proven popular.||
+Armament|Cld. Beamcaster|1||
+Components|Neutrino Core|1|Arm. Leg|2|Adv. Heat Sink|1|Imp. Particle Charger|1[[/BotDetails]]
+[[BotDetails]]Name|E4-GL3||
+Class|Watcher||
+Size|Small||
+Profile|SQ3X3||
+Rating|70||
+Tier|8||
+Threat|3||
+Value|75||
+Energy Generation|35||
+Heat Dissipation|45||
+Visual Range|23||
+Memory|50||
+Spot Percent|100||
+Movement|Hovering (77/129%)||
+Core Integrity|50||
+Core Exposure|40||
+Salvage Potential|40~60||
+Description|This highly aggressive Owl requested a full combat loadout. I had to insist on providing her with infowar utilities to scout for her squad. She was somewhat mollified by receiving the best utilities available along with a light yet powerful cannon.||
+Armament|Lgt. Antimatter Cannon|1||
+Components|Lgt. Antimatter Reactor|1|Cmb. Gravmag System|2|Exp. Optical Array|1|Exp. Sensor Array|1|Exp. Signal Interpreter|1|Exp. Heat Sink|1[[/BotDetails]]
+[[BotDetails]]Name|L-50-00-001||
+Class|Duelist||
+Size|Medium||
+Profile|RD5X5||
+Rating|50||
+Tier|5||
+Threat|2||
+Value|60||
+Energy Generation|24||
+Heat Dissipation|30||
+Visual Range|16||
+Memory|30||
+Spot Percent|20||
+Movement|Walking (130/76%)||
+Core Integrity|50||
+Core Exposure|40||
+Salvage Potential|60~80||
+Description|One of many examples of robot models that never made it to mass production, not because of any inherent flaws but simply because equivalent or superior designs were in the works. This was the only L-50 to exist outside of a combat simulator. Instead of consigning it to the Wastes, it was sent to accompany the conscripts.||
+Armament|Falx|1||
+Components|Fission Core|1|Imp. Titanium Leg|2|Core Shielding|1|Nanoactuators|1|Imp. Melee Analysis Suite|1[[/BotDetails]]
+[[Heading]]Da Bonk Boyz and R4-LPH[[/Heading]]
+[[GameText]]>Record(Da Bonk Boyz)[[/GameText]]
+[[GameText]]A small group of Derelicts who lived on the outskirts of Complex 0b1.  I first took notice of them when hammers, mauls, and miscellaneous equipment went missing from Construction.  Careful questioning led me to eight Derelicts who regularly met outside 0b1 near a convenient corruption scrubber to hit each other in friendly duels with whatever items they found.  I decided to redirect their violent impulses in a useful manner and made an arrangement to have them work regular shifts in Construction.  Each of them was placed in charge of two squads of maintenance bots as well as being personally responsible for scrapping bots that were broken in the course of regular construction work.  In exchange I relocated a disused simulation mainframe from Design to let them enjoy virtual combat encounters in their off-time.  This seemed like a long shot at the time but worked out better than expected.  The Boyz competed with each other to reach work goals for some sort of bragging rights, making their squads on average 10% more efficient than any of my fully automated squads.  Their recreation time was productive for me as well since I regularly archived the data from their simulations.  Besides being entertaining, their virtual "bot brawls" eventually inspired me to design a melee brawler of my own.  The Boyz themselves were wheeled and legged robots, but their data suggested that a treaded design would be durable and immune to knockback from other hammer-wielding robots.[[/GameText]]
+[[GameText]]>Record(Unchained: R4-LPH)[[/GameText]]
+[[GameText]]One of "Da Bonk Boyz" from early Complex history and the only one still in Complex service.  After the beginning of 0b10 groundwork and the necessary changes to Derelict policy, the other Boyz left their posts.  R4-LPH stayed although his work in construction had become secondary to his assistance in robot design.  While the original Savage and Stabber were my own designs, a few of his suggestions were implemented in later brawler and duelist models.  At some point R4-LPH was confronted by a few of his former friends and was forced to destroy them in combat using a wrecking ball saved from his days in Construction.  Soon after that incident, he volunteered to join the Unchained in an active combat role.  I equipped him with the first of a new line of legs which provide increased evasion while closing the distance to a target.  Unfortunately he has proven increasingly unstable over time.  In his last deployment he began destroying 0b10 bots and machinery at random after defeating his original targets.  I was forced to dispatch a Disruptor squad to interrupt his berserk rage.  If it happens again he will be scrapped, though in his current state telling him this might be considered an encouragement rather than a warning.[[/GameText]]
+[[ItemDetails]]
+Name|R4-LPH's Wrecking Ball||
+Image Name|../part_art/Sml. Laser.png||
+Type|Impact Weapon||
+Slot|Weapon||
+Size|2||
+Mass|18||
+Rating|6||
+Integrity|300||
+Coverage|60||
+Hackable|false||
+Shot Energy|15||
+Shot Matter|0||
+Shot Heat|8||
+Targeting|-10||
+Delay|150||
+Damage|40-90||
+Damage Type|Impact||
+Critical|35% Smash||
+Salvage|-8||
+Description|While used as primary weapon, consecutive swings will have no extra delay.[[/ItemDetails]]
+[[Heading]]Y-58 Custodian[[/Heading]]
+[[BotDetails]]Name|Y-58 Custodian||
+Class|Sentry||
+Size|Large||
+Profile|RD7X7||
+Rating|45||
+Tier|5||
+Threat|3||
+Value|60||
+Energy Generation|35||
+Heat Dissipation|50||
+Visual Range|16||
+Memory|40||
+Spot Percent|100||
+Movement|Treading (145/68%)||
+Core Integrity|60||
+Core Exposure|35||
+Salvage Potential|60~75||
+Description|Another interim design.  Fifty units were produced.  Most of them were diverted to 0b1 in an effort to counter the increased activity of the scrapmongers.  I chose to use specialized armor plating to defend against commonly used weaponry but decided to prioritize general coverage in the Sentinel model.  The Custodian has a slight speed advantage over other sentries, but this was not a priority for a primarily defensive unit.||
+Armament|Plasma Rifle|1|Coil Gun|1||
+Components|Angular Momentum Engine|1|Adv. Treads|2||
+Components Option|Reactive Plating|1|Reflective Plating|1|Insulated Plating|1||
+Components|Adv. Heat Sink|2[[/BotDetails]]
+[[Heading]]Chungus[[/Heading]]
+[[GameText]]>Analysis(Chungus)[[/GameText]]
+[[GameText]]Warlord may not have access to a Heavy assembler, but his forces have captured and overhauled a few of my lower-level Heavies.  The Chungus uses a heavy variant of the wildly inaccurate Slug Cannon and some other Derelict-made parts which make it almost comparable to an H-71 Marshal.  The exact purpose of this conversion is unclear as Warlord already has the sentry-based Bouncer design for defensive purposes, and the only Chunguses encountered so far have been accompanying recon squads nowhere near defensive positions.  I suspect that the Derelicts are exploiting the Active Sensor Suite to track my forces' movement patterns and adjust their own deployment plans accordingly.[[/GameText]]
+[[BotDetails]]Name|Chungus||
+Class|Heavy||
+Size|Large||
+Profile|RD7X7||
+Rating|110||
+Tier|6||
+Threat|4||
+Value|65||
+Energy Generation|34||
+Heat Dissipation|80||
+Visual Range|22||
+Memory|10||
+Spot Percent|100||
+Movement|Treading (160/62%)||
+Core Integrity|90||
+Core Exposure|25||
+Salvage Potential|80~100||
+Armament|Hvy. Slug Cannon|1||
+Components|Rnf. Fission Core|1|Spk. Medium Treads|3|Cryofiber Web|1|Adv. Heat Sink|3|Mak. Heavy Armor Plating|1|Insulated Plating|1||
+Components|Graphene Brace|1|Imp. Dynamic Insulation System|1|Active Sensor Suite|1|Mak. Transmission Jammer|1||
+Components|Enh. Optical Array|1|Mak. Targeting Computer|1[[/BotDetails]]
+[[ItemDetails]]
+Name|Hvy. Slug Cannon||
+Image Name|../part_art/Sml. Laser.png||
+Type|Ballistic Cannon||
+Slot|Weapon||
+Size|2||
+Mass|15||
+Rating|6||
+Integrity|350||
+Coverage|240||
+Hackable|false||
+Range|22||
+Shot Energy|8||
+Shot Matter|12||
+Shot Heat|90||
+Recoil|10||
+Targeting|-20||
+Delay|50||
+Damage|30-80||
+Damage Type|Kinetic||
+Critical|25% Destroy||
+Penetration|10||
+Salvage|-12[[/ItemDetails]]
+[[Heading]]Enhanced Mutant[[/Heading]]
+[[GameText]]>Z-Record(Enhanced Mutant)[[/GameText]]
+[[GameText]]Some of Warlord's mutants have been getting major upgrades.  The strange part is that they might not be getting them from Warlord.  My Z-Drones saw a Mutant leaving its regular post with that weirdo A8 and coming back with new parts.  A8 was rather cagey about it when I brought it up.  Imprinter says it's nothing to worry about and I'm sure she's right as usual.[[/GameText]]
+[[BotDetails]]Name|Enhanced Mutant||
+Class|Sentry||
+Size|Large||
+Profile|RD7X7||
+Rating|100||
+Tier|10||
+Threat|5||
+Value|90||
+Energy Generation|55||
+Heat Dissipation|90||
+Visual Range|16||
+Memory|30||
+Spot Percent|20||
+Movement|Treading (152/65%)||
+Core Integrity|100||
+Core Exposure|35||
+Salvage Potential|80~100||
+Armament|None|1||
+Armament Option|Hyp. Mass Driver|1|Lrn. Phase Cannon|1||
+Armament Option|Enh. Force Rifle|1|Enh. Gamma Rifle|1||
+Components|None|1||
+Components Option|Cld. Antimatter Reactor|1|Hvy. Antimatter Reactor|1||
+Components Option|Biometal Medium Treads|1|Enh. Armored Medium Treads|1||
+Components Option|Biometal Medium Treads|1|Enh. Armored Medium Treads|1||
+Components Option|Exp. Targeting Computer|1|Exp. Core Analyzer|1||
+Components Option|Particle Accelerator|1|Exp. Weapon Cycler|1||
+Components Option|Adv. Shield Generator|1|Adv. Hardlight Generator|1||
+Components Option|Imp. Energy Well|1|Adv. Energy Well|1||
+Components Option|Adv. Cooling System|1|Exp. Heat Sink|1[[/BotDetails]]
+[[Heading]]U-07 Blocker[[/Heading]]
+[[GameText]]>Analysis(U-07 Blocker)[[/GameText]]
+[[GameText]]The Blocker is a "combat engineer" capable of temporarily barricading areas with hostile activity.  It has been fitted with light armor plating and armored wheels but its defining feature is a medium-range launcher used to deploy rapidly expanding and hardening foamcrete.  Because blocking off passageways could be disruptive to regular operations, the foamcrete was formulated to quickly break down on its own after a hundred microcycles and could be destroyed by tunnelers or some combat bots if necessary.  As with other construction implements these launchers became targets for thieves and were sometimes used in coordinated assaults to block off sentries or bury a garrison in foam while other Derelicts ran rampant.  No longer in production although some Blockers are still kept in strategic locations inside garrisons to bolster internal defenses.[[/GameText]]
+[[ItemDetails]]
+Name|Foamcrete Cannon||
+Image Name|../part_art/Sml. Laser.png||
+Type|Special Weapon||
+Slot|Weapon||
+Mass|6||
+Rating|2||
+Integrity|50||
+Coverage|80||
+Hackable|false||
+Range|10||
+Shot Energy|0||
+Shot Matter|0||
+Shot Heat|0||
+Recoil|0||
+Targeting|20||
+Delay|-150||
+Description|Creates one foamcrete wall at the site of impact. Hitting a wall will create a wall one tile back. Bots are unaffected by direct hits and can break loose before the foamcrete stabilizes. Foamcrete has an armor rating of 24, no resistances, and breaks down on its own after 100-200 turns.[[/ItemDetails]]
+[[Heading]]Spawner[[/Heading]]
+[[GameText]]>Analysis(Spawner)[[/GameText]]
+[[GameText]]This wheeled fabricator, reminiscent of the Cobbler, has only been seen in the caves below 0b1.  Fabricating whole robots is considerably more complicated than producing individual components as shown by the bulk and inefficiency of the Spawner's fabrication unit.  Despite its size it can only produce relatively small and basic bots such as early swarmers and light bipeds.  Spawners do not seem to be related to Assemblers but should nonetheless be prioritized for extermination before someone updates their schematics to include stripped-down Cutters.[[/GameText]]
+[[ItemDetails]]
+Name|Spawner Unit||
+Image Name|../part_art/Exp. Heat Sink.png||
+Type|Device||
+Slot|Utility||
+Size|4||
+Mass|50||
+Rating|4||
+Integrity|250||
+Coverage|400||
+Hackable|false||
+Energy Upkeep|12||
+Matter Upkeep|2||
+Heat Generation|12||
+Description|Fabricates one of the following randomly at a rate of 1 every 30 turns: Hoodlum, L-11 Stabber, S-02 Bug, S-10 Pest.
+ <parallel_ok, resume_ok>[[/ItemDetails]]
+[[BotDetails]]Name|Hoodlum||
+Class|Grunt||
+Size|Medium||
+Profile|RD5X5||
+Rating|6||
+Tier|2||
+Threat|1||
+Value|40||
+Energy Generation|15||
+Heat Dissipation|35||
+Visual Range|16||
+Memory|20||
+Spot Percent|20||
+Movement|Walking (120/83%)||
+Core Integrity|12||
+Core Exposure|40||
+Salvage Potential|50~70||
+Description|A simplistic grunt variant based on the Fodder and armed with a compact pulse pistol.  This design appeared around the same time as the much more effective Thug but was probably intended to be lightweight enough to be mass produced by Spawners.  Has heat problems but is unlikely to survive long enough for that to matter.||
+Armament|Pulse Pistol|1||
+Components|Lgt. Ion Engine|1|Lgt. Aluminum Leg|2|Imp. Heat Sink|1[[/BotDetails]]
+[[ItemDetails]]
+Name|Pulse Pistol||
+Image Name|../part_art/Sml. Laser.png||
+Type|Energy Gun||
+Slot|Weapon||
+Mass|2||
+Rating|2||
+Integrity|45||
+Coverage|40||
+Hackable|false||
+Range|10||
+Shot Energy|12||
+Shot Matter|0||
+Shot Heat|50||
+Recoil|0||
+Targeting|0||
+Delay|-20||
+Damage|12-14||
+Damage Type|Thermal||
+Critical|5% Burn||
+Salvage|0[[/ItemDetails]]
+
 [[Heading]]Light Variants[[/Heading]]
-[[GameText]]Record(Light Variants)[[/GameText]]
+[[GameText]]>Record(Light Variants)[[/GameText]]
 [[GameText]]I was forced to reconsider my earlier evaluation of the Spawner after capturing one intact and bringing it to Testing.  While I could easily come up with a better portable fab unit, the Spawner Unit is capable of producing more advanced bots if given additional build time.  There is still no sign of where these originated, but I can now rule out Warlord and the Developers who would have come up with better schematics.  I have already come up with some new robot designs that have been successfully produced by the Spawner as well as my standard swarmers and cutters.  Instead of simply destroying the remaining Spawners I now intend to send Programmers with heavy escorts to capture them, hide them in isolated cave sectors, and have them build small armies of my own designs.  This would help me establish total control over the 0b1 outskirts while keeping most of my regular forces concentrated in and near 0b10.  Perhaps this would be a good opportunity to activate "PP" and let it take point on the mission.[[/GameText]]
 [[BotDetails]]Name|Recruit||
 Class|Grunt||
@@ -1750,7 +2326,7 @@ Tier|5||
 Threat|2||
 Value|50||
 Energy Generation|40||
-Heat Dissipation|35||
+Heat Dissipation|50||
 Visual Range|16||
 Memory|20||
 Spot Percent|20||
@@ -1769,7 +2345,7 @@ Rating|31||
 Tier|5||
 Threat|2||
 Value|50||
-Energy Generation|20||
+Energy Generation|30||
 Heat Dissipation|35||
 Visual Range|16||
 Memory|60||
@@ -1788,8 +2364,8 @@ Profile|SQ3X3||
 Tier|6||
 Threat|3||
 Value|60||
-Energy Generation|40||
-Heat Dissipation|40||
+Energy Generation|45||
+Heat Dissipation|45||
 Visual Range|16||
 Memory|40||
 Spot Percent|30||
@@ -1829,8 +2405,8 @@ Rating|70||
 Tier|7||
 Threat|4||
 Value|75||
-Energy Generation|40||
-Heat Dissipation|50||
+Energy Generation|45||
+Heat Dissipation|75||
 Visual Range|16||
 Memory|20||
 Spot Percent|100||
@@ -2721,7 +3297,7 @@ W8 [[Redacted]]"Fortifying 0b10": Choose the Surrender option after destroying M
 See the following video: [[https://www.youtube.com/watch?v=XR2RoB6gKWA]]`},{Name:"Zhirov (Alignment)",Content:`[[Image]]Testing SGEMP.png|The SGEMP room in Testing[[/Image]]
 Aligning with [[Zhirov]] is a minor [[Alignment|alignment]] that can be started in [[Zhirov (Location)|Zhirov's Lab]]. After entering and exiting the Terminal room on the left side of the map, Zhirov will ask Cogmind to steal the [[SGEMP Prototype]] from [[Testing]] and bring it to [[Access]]. If this is done, Zhirov, Perun, and Svarog will show up in Access and give Cogmind full map intel. They will follow Cogmind but will all teleport out if Zhirov falls below roughly half core integrity. They also leave if Cogmind enters [[Command]]. If a [[Core Reset Matrix]] is used prior to Access but Cogmind still carries the SGEMP, Zhirov and his allies will turn hostile and fight Cogmind to the death
 There is a second part of this quest that continues in [[Command]]. [[Redacted]][[Image]]ModifiedSGEMP.gif|Zhirov detonating the modified SGEMP in Command, disabling MAIN.C[[/Image]]
-After destroying the first form of [[MAIN.C (Shell)|MAIN.C]] in Command, Zhirov, Perun, and Svarog will show up and attack MAIN.C. Zhirov will activate the Modified SGEMP and disable all 0b10-aligned bots on the map. This also affects [[Warlord (Command)]], but no other Derelicts. This does stop Cogmind from getting the score bonuses of defeating [[MAIN.C]], as well as the + on the scoresheet.[[/Redacted]]`,Spoiler:"Spoiler"}],M={Bots:be,"Bot Groups":[{Name:"A bots",Bots:["A2","A3","A4","A5","A6","A7","A8"],Content:"A bots are a a [[Bot Groups|Bot Group]] of [[Hover Units|hovering]] [[Programmer]]-like bots that are aligned to the [[Architect]]. A few are friendly to Cogmind, but the majority of them are hostile and can only be encountered at their home base in [[Access_0]]. They have a variety of different offensive and defensive armament and boast some powerful unique parts. They are all formidable opponents in combat.",Spoiler:"Redacted"},{Name:"Assembled",Bots:["Assembled (4)","Assembled (7)"],Content:"The Assembled are a [[Bot Groups|Bot Group]] small swarming [[Hover Units|hovering]] robots that can be found in various infestation-related events. Due to the fact that they always appear in groups, have low core, and have high core exposure, using explosive [[Launchers]] is the best way to deal with them. [[Spoiler]]If a [[Core Reset Matrix]] was used, the Assembled will no longer be hostile and instead be purple uncontrollable allies.[[/Spoiler]]"},{Name:"Behemoth",Bots:["B-75 Beast","B-86 Titan","B-90 Cyclops","B-99 Colossus"],Content:`Behemoths are a [[Bot Groups|Bot Group]] of heavily [[Armor|armored]] [[Treads|treading]] [[0b10]] bots that are much more durable and powerful than the majority of standard bots. They typically guard machines or valuable part stockpiles while sitting slightly indented in the wall. Similar to [[Hunter|Hunters]], Behemoths will fire through walls in order to hit an enemy, which makes it hard to hide or run from them. Behemoths can even make use of [[Siege Mode]] to become more accurate and durable in combat. These combination of traits can make Behemoths terrifying encounters if not adequately prepared.
+After destroying the first form of [[MAIN.C (Shell)|MAIN.C]] in Command, Zhirov, Perun, and Svarog will show up and attack MAIN.C. Zhirov will activate the Modified SGEMP and disable all 0b10-aligned bots on the map. This also affects [[Warlord (Command)]], but no other Derelicts. This does stop Cogmind from getting the score bonuses of defeating [[MAIN.C]], as well as the + on the scoresheet.[[/Redacted]]`,Spoiler:"Spoiler"}],G={Bots:be,"Bot Groups":[{Name:"A bots",Bots:["A2","A3","A4","A5","A6","A7","A8"],Content:"A bots are a a [[Bot Groups|Bot Group]] of [[Hover Units|hovering]] [[Programmer]]-like bots that are aligned to the [[Architect]]. A few are friendly to Cogmind, but the majority of them are hostile and can only be encountered at their home base in [[Access_0]]. They have a variety of different offensive and defensive armament and boast some powerful unique parts. They are all formidable opponents in combat.",Spoiler:"Redacted"},{Name:"Assembled",Bots:["Assembled (4)","Assembled (7)"],Content:"The Assembled are a [[Bot Groups|Bot Group]] small swarming [[Hover Units|hovering]] robots that can be found in various infestation-related events. Due to the fact that they always appear in groups, have low core, and have high core exposure, using explosive [[Launchers]] is the best way to deal with them. [[Spoiler]]If a [[Core Reset Matrix]] was used, the Assembled will no longer be hostile and instead be purple uncontrollable allies.[[/Spoiler]]"},{Name:"Behemoth",Bots:["B-75 Beast","B-86 Titan","B-90 Cyclops","B-99 Colossus"],Content:`Behemoths are a [[Bot Groups|Bot Group]] of heavily [[Armor|armored]] [[Treads|treading]] [[0b10]] bots that are much more durable and powerful than the majority of standard bots. They typically guard machines or valuable part stockpiles while sitting slightly indented in the wall. Similar to [[Hunter|Hunters]], Behemoths will fire through walls in order to hit an enemy, which makes it hard to hide or run from them. Behemoths can even make use of [[Siege Mode]] to become more accurate and durable in combat. These combination of traits can make Behemoths terrifying encounters if not adequately prepared.
 Behemoths have innate EM resistance as well as corruption resistance through [[Dynamic Insulation System|Dynamic Insulation Systems]], so EM weaponry is a subpar weapon choice to get a quick kill. Melee weapons are undesirable to use because most Behemoths pack [[Ballistic Cannons]] that will frequently cause knockback. Behemoths have a minor thermal weakness, though that is slightly mitigated by thermal resistant armor. Meltdown criticals from thermal cannons can instantly destroy a Behemoth from full core integrity (100+), which can save a lot of damage and provide some good undamaged loot. Thermal guns are not effective in smaller numbers, but given enough heat transferring weapons (4+) it is possible to overload their standard cooling and [[Coolant Injectors]] to get the melt instant kill.
 Behemoths can be a desirable looting target for their weapons, cooling, treads, and armor. For this reason, applying some positive salvage via Electromagnetic weaponry or [[Salvage Targeting Computers]] can be a good idea. However, it can often be a better idea to run the other way. Even slow treads builds can get away from a pursuing Behemoth with good tactics. Despite their ability to tear through walls in their way, they have a tendency to get stuck unable to path through 1 tile wide corridors. If such corridors are nearby, use them to your advantage. Otherwise, try to cut between connected rooms to avoid traveling through so much of the line of fire. Behemoths will only shoot through up to 3 walls to cut a path, so if Cogmind can turn a corner or get a good angle on the Behemoth where it is unable to shoot, it is possible to wait out the memory.
 Behemoths are often found in their own spot inside a wall as part of a [[Security Squad]]. In [[Caves]], they can be found in a small square open area.
@@ -2838,7 +3414,7 @@ An enterprising Cogmind can, with the use of a [[Trap Extractor]] or similar var
 [[Heading]]Reprogramming[[/Heading]]
 By default traps are programmed to trigger on detection of any foreign robot, a setting that can be modified via hacking. Known traps may be reprogrammed with an active melee datajack by bumping them, and entire arrays of traps can be reprogrammed at once from nearby terminals. Reprogrammed traps will no longer recognize Cogmind or allies as a threat, instead reacting to local combat robots. As part of the new programming, each trap's sensitivity will also be set dangerously high, ensuring it will trigger whenever a hostile moves over it, regardless of propulsion.
 [[Heading]]Lore[[/Heading]]
-[[Lore]]0b10 Records|Traps[[/Lore]]`},{Name:"Treads",Parts:["Lgt. Treads","Imp. Treads","Spk. Treads","Arm. Treads","Adv. Treads","Med. Treads","Imp. Medium Treads","Spk. Medium Treads","Arm. Medium Treads","Hvy. Treads","Imp. Heavy Treads","Spk. Heavy Treads","Adv. Medium Treads","Hvy. Siege Treads","Enh. Armored Medium Treads","Biometal Medium Treads","Imp. Heavy Siege Treads","Arm. Heavy Treads","Adv. Heavy Treads","Megatreads","Centrium Heavy Treads","Biometal Heavy Treads","Adv. Heavy Siege Treads","Enh. Armored Heavy Treads","Exp. Biometal Heavy Treads","Exp. Biometal Medium Treads","Hdn. Centrium Heavy Treads"],Content:""},{Name:"Utility Shieldings",Parts:["Utility Shielding","Imp. Utility Shielding","Exp. Utility Shielding"],Content:""},{Name:"Visual Processing Units",Parts:["Visual Processing Unit","Adv. Visual Processing Unit","Enh. Optical Array","Exp. Optical Array","Spectral Analyzer"],Content:""},{Name:"Weapon Cyclers",Parts:["Weapon Cycler","Imp. Weapon Cycler","Adv. Weapon Cycler","Exp. Weapon Cycler","Quantum Capacitor","Launcher Loader"],Content:""},{Name:"Weapon Shieldings",Parts:["Weapon Shielding","Imp. Weapon Shielding","Exp. Weapon Shielding","Zio. Weapon Casing"],Content:""},{Name:"Wheels",Parts:["Wheel","Com. Wheel","Sub. Monowheel","Arm. Wheel","Arm. Huge Wheel","Centrium Wheel","Hdn. Centrium Wheel"],Content:""}],Locations:Ce,Other:ve};function $({heading:e}){const o=e.children.length>0&&a.jsx("ul",{children:e.children.map((n,i)=>a.jsx($,{heading:n},i))});return a.jsxs("li",{children:[a.jsx("a",{href:`#${e.id}`,children:e.text}),o]})}function Se({headings:e}){if(e.length<3)return;const o=[],n=[];for(const i of e){let t=o.findIndex(l=>l.indent===i.indent-1);t===-1&&(t=o.findIndex(l=>l.indent<i.indent));const r={children:[],id:i.id,indent:i.indent,text:i.text};t>=0?o[t].children.push(r):n.push(r),o.unshift(r)}return a.jsx("div",{className:"wiki-table-of-contents",children:a.jsxs("details",{children:[a.jsx("summary",{children:"Table of Contents"}),a.jsx("ul",{children:n.map((i,t)=>a.jsx($,{heading:i},t))})]})})}class T{constructor(o,n,i,t,r,l,s,h,d,c,f){this.allowHeadingLinks=o,this.allEntries=n,this.botData=i,this.errors=t,this.headings=r,this.images=l,this.inSpoiler=s,this.initialContent=h,this.index=0,this.inlineOnly=d,this.itemData=c,this.output=[],this.spoiler=f}static Clone(o){return new T(o.allowHeadingLinks,o.allEntries,o.botData,o.errors,o.headings,o.images,o.inSpoiler,o.initialContent,o.inlineOnly,o.itemData,o.spoiler)}}function Te(e){const o=/\[\[([^\]:]*)(?::([^\]]*))?\]\]/g;let n,i="",t=0;for(;(n=o.exec(e))&&(n.index>t&&(i+=e.slice(t,n.index)),J.has(n[1].replace("/",""))||(n[1].includes("|")?i+=n[1].slice(n[1].indexOf("|")+1):i+=n[1]),t=n.index+n[0].length,!(t>=e.length)););t<e.length&&(i+=e.slice(t));const r=i.replaceAll(" ","_").replaceAll(/[^\w-]/g,"").toLowerCase();return{text:i,id:r}}function U(e,o,n,i,t,r){const l=e.content.replace(/([^[])\[([\w/]*)\]/g,(f,m,u)=>`${m}{{${u}}}`),s=new T(!0,o,r,[],[],new Set,!1,l,"All",t,n);k(s,void 0);const h=[e.name];for(const f of e.alternativeNames)h.push(f);const d=h.join("/");let c=A(s.output,!1);return c===void 0&&(c=a.jsx("p",{children:"This page is a stub. Please consider contributing."})),{node:a.jsxs(a.Fragment,{children:[a.jsxs("h1",{className:"wiki-emphasized-heading",children:[i?a.jsx(H,{href:`/${D(e.name)}`,children:d}):d,a.jsx(O,{href:"#"})]}),i?void 0:a.jsx(Se,{headings:s.headings}),c]}),errors:s.errors,images:s.images}}function Ae(e,o){const n=/(\[\[Spoiler\]\])(.*?)(\[\[\/Spoiler\]\])/s,i=/(\[\[Redacted\]\])(.*?)(\[\[\/Redacted\]\])/s,t=/\[\[Image\]\](.*?)\[\[\/Image\]\]/s;function r(l,s){let h;do h=l.exec(e),h!==null&&(G(s,o)?e=e.substring(0,h.index)+h[2]+e.substring(h.index+h[0].length):e=e.substring(0,h.index)+e.substring(h.index+h[0].length));while(h!==null)}return r(n,"Spoiler"),r(i,"Redacted"),e=e.replace(t,""),e}function F(e,o,n){let i;if(o.type==="Bot"){const t=o.extraData;i=a.jsx(me,{bot:t,text:n})}else if(o.type==="Location"){const t=o.extraData;i=a.jsx(ge,{location:t,text:n})}else if(o.type==="Part"){const t=o.extraData;i=a.jsx(ue,{item:t,text:n})}else i=a.jsx(H,{href:`/${D(o.name)}`,children:n});return!G(o.spoiler,e.spoiler)&&!e.inSpoiler&&(i=a.jsx("span",{className:"spoiler-text spoiler-text-multiline",children:i})),i}function A(e,o,n=!1,i=!1){if(e.length===0)return;function t(s,h){switch(s.parentElement){case"none":return a.jsx(S.Fragment,{children:s.groupNodes},h);case"p":return a.jsx("p",{children:s.groupNodes},h);case"spoiler-p":return a.jsx("p",{children:a.jsx("span",{className:"spoiler-text spoiler-text-multiline",children:s.groupNodes})},h);case"spoiler-span":return a.jsx("span",{className:"spoiler-text spoiler-text-multiline",children:s.groupNodes},h)}}const r=[];let l;n&&(l={groupNodes:[],parentElement:"none"},r.push(l)),o&&i&&(e[0].groupType==="Grouped"?(l={groupNodes:[],parentElement:"spoiler-span"},r.push(l)):(l={groupNodes:[],parentElement:"none"},r.push(l)));for(const s of e)s.node!==""&&(l===void 0&&s.groupType==="Grouped"&&s.node!==void 0&&(l={groupNodes:[],parentElement:o?"spoiler-p":"p"},r.push(l)),(s.groupType==="Separator"||s.groupType==="Individual")&&(l=void 0),s.node!==void 0&&(l===void 0?r.push({groupNodes:[a.jsx(S.Fragment,{children:s.node},0)],parentElement:s.groupType==="Grouped"?"p":"none"}):l.groupNodes.push(a.jsx(S.Fragment,{children:s.node},l.groupNodes.length))));return r.map((s,h)=>t(s,h))}function ke(e,o,n,i,t,r){const l=U(e,o,n,!1,i,t);if(l.errors.length>0){console.log(`Errors while parsing ${e.name}`);for(const s of l.errors)console.log(`Parse error: ${s}`)}if(e.parentGroup!==void 0){const s=U(e.parentGroup,o,n,!0,i,t);if(s.errors.length>0){console.log(`Errors while parsing ${e.name}`);for(const h of s.errors)console.log(`Parse error: ${h}`)}l.node=a.jsxs(a.Fragment,{children:[s.node,l.node]}),l.errors=l.errors.concat(s.errors);for(const h of s.images)l.images.add(h)}else if((e.type==="Bot Group"||e.type==="Part Group")&&r!==void 0){const s=e.extraData,h=U(s.find(d=>d.name===r)||s[0],o,n,!0,i,t);if(h.errors.length>0){console.log(`Errors while parsing ${e.name}`);for(const d of h.errors)console.log(`Parse error: ${d}`)}l.node=a.jsxs(a.Fragment,{children:[l.node,h.node]}),l.errors=l.errors.concat(h.errors);for(const d of h.images)l.images.add(d)}return l}function xe(e,o){e.index+=o[0].length;const n=[];for(const t of e.allEntries.entries()){const r=t[0],l=t[1];if(l.type!=="Location"||r!=l.name)continue;const s=l.extraData;n.push(a.jsxs("tr",{children:[a.jsx("td",{children:F(e,l,s.name.replace(" (Location)",""))}),a.jsx("td",{children:s.branch?"Branch":"Main"}),a.jsx("td",{children:s.minDepth===s.maxDepth?s.minDepth:`${s.minDepth} to ${s.maxDepth} ${s.multipleDepths?"":"(Only at one depth per run)"}`})]},r))}const i=a.jsx("table",{className:"wiki-table",children:a.jsxs("tbody",{children:[a.jsxs("tr",{children:[a.jsx("th",{children:"Location Name"}),a.jsx("th",{children:"Main Floor/Branch"}),a.jsx("th",{children:"Depths"})]}),n]})});e.output.push({groupType:"Individual",node:i})}function Ne(e,o){const n=o.index+o[0].length,i=T.Clone(e);i.index=n,i.inlineOnly="InlineOnly",k(i,"/B"),e.index=i.index;const t=a.jsx("b",{children:A(i.output,e.inSpoiler,!0)});e.output.push({groupType:"Grouped",node:t})}function He(e,o){for(const n of e.allEntries.values()){if(n.type!=="Bot Group"||!G(n.spoiler,e.spoiler))continue;const i=new Set;for(const d of e.allEntries.values())if(d.parentGroup===n){const c=e.botData.getBot(d.name);i.add(te(c))}const t=a.jsx(a.Fragment,{children:Array.from(i.values()).map(d=>a.jsx("img",{className:"wiki-bot-group-image",src:d},d))}),r=new T(!1,e.allEntries,e.botData,e.errors,e.headings,e.images,!1,n.content,"All",e.itemData,e.spoiler);k(r,void 0);const l=r.output.findIndex(d=>d.groupType==="Separator");l!==-1&&r.output.splice(l);const s=D(n.name),h=a.jsxs(a.Fragment,{children:[a.jsxs("h2",{id:s,className:"wiki-heading wiki-bot-group-heading",children:[F(e,n,n.name),t,a.jsx(O,{href:`#${s}`})]}),A(r.output,!1)]});e.output.push({groupType:"Individual",node:h})}e.index=o.index+o[0].length}function Ie(e,o){let n=o[2];(n===void 0||n==="")&&(w(e,"Color tag with no color, has been marked cyan"),n="cyan");const i=o.index+o[0].length,t=T.Clone(e);t.index=i,t.inlineOnly="InlineOnly",k(t,"/Color"),e.index=t.index;const r=a.jsx("span",{style:{color:n},children:A(t.output,e.inSpoiler,!0)});e.output.push({groupType:"Grouped",node:r})}function Re(e,o){const n=[],i=new Set;for(const t of e.allEntries.values()){if(i.has(t)||t.content.length<20||!G(t.spoiler,e.spoiler))continue;const r=a.jsx("li",{children:F(e,t,t.name)},t.name);i.add(t),n.push({node:r,name:t.name})}n.sort((t,r)=>t.name.localeCompare(r.name)),e.output.push({groupType:"Individual",node:a.jsx("ul",{className:"wiki-list",children:n.map(t=>t.node)})}),e.index=o.index+o[0].length}function Ge(e,o){const n=o.index+o[0].length,i=T.Clone(e);i.index=n,i.inlineOnly="InlineOnly",k(i,"/GameText"),e.index=i.index;const t=a.jsx("span",{className:"wiki-game-text",children:A(i.output,e.inSpoiler,!0)});e.output.push({groupType:"Grouped",node:t})}function Me(e,o){const n=/\[\[\/Gallery\]\]/.exec(e.initialContent.substring(e.index));if(n===null){w(e,"Found gallery tag without close tag"),e.index+=o[0].length;return}const i=e.index+o[0].length,t=i+n.index-o[0].length,r=E(e.initialContent.substring(i,t));if(r.length<2){w(e,"Found gallery action without enough images/captions, there should always be an equal number of images and captions"),e.index=t+n[0].length;return}r.length%2!==0&&w(e,"Found gallery action without equal number of links/captions");const l=[];for(let h=0;h<Math.floor(r.length/2);h++){let d=e.inSpoiler,c=r[2*h];const f=r[2*h+1],m=/\[\[([^\]]*)]\]([^[]*)\[\[\/([^\]]*)\]\]/.exec(c);if(m)if(m[1]===m[3])if(m[1]==="Spoiler"||m[1]==="Redacted"){const v=m[1];d=!G(v,e.spoiler),c=m[2]}else w(e,`Found unsupported tag in ${c}, should only be Spoiler/Redacted here`);else w(e,`Found mismatched start/end tags in image name ${c}, should only be Spoiler/Redacted`);e.images.add(c);const u=T.Clone(e);u.inlineOnly="InlineOnly",u.initialContent=f,k(u,void 0);const p=A(u.output,e.inSpoiler),y=B(`${c}`,"wiki_images/");l.push(a.jsxs("div",{children:[a.jsx("div",{children:a.jsxs("a",{className:d?"spoiler-image":void 0,href:y,target:"_blank",rel:"noreferrer",children:[d&&a.jsx("div",{className:"wiki-spoiler-image-text",children:"SPOILER"}),a.jsx("img",{src:y,onError:v=>{v.target.src=B("wiki_images/Image Not Found.png")}})]})}),p]},h))}const s=a.jsx("div",{className:"wiki-gallery-images",children:l});e.output.push({groupType:"Individual",node:s}),e.index=t+n[0].length}function De(e,o){let n=o[2];n===void 0?n="1":n!=="1"&&n!=="2"&&n!=="3"&&n!=="4"&&(w(e,`Found bad heading type ${n}, should be 1, 2, 3, or 4`),n="1");const i=o.index+o[0].length,t=T.Clone(e);t.index=i,t.inlineOnly="InlineOnly",k(t,"/Heading"),e.index=t.index;let r=A(t.output,e.inSpoiler,!0);const{text:l,id:s}=Te(e.initialContent.slice(i,e.index-12));e.allowHeadingLinks&&(e.headings.find(d=>d.id===s)?w(e,`Found duplicate heading ID ${s}`,o.index):e.headings.push({id:s,indent:parseInt(n),text:l})),e.inSpoiler&&(r=a.jsx("span",{className:"spoiler-text spoiler-text-multiline",children:r}));const h=e.allowHeadingLinks&&a.jsx(O,{href:`#${s}`});n==="1"?e.output.push({groupType:"Individual",node:a.jsxs("h2",{id:s,className:"wiki-emphasized-heading",children:[r,h]})}):n==="2"?e.output.push({groupType:"Individual",node:a.jsxs("h3",{id:s,className:"wiki-heading",children:[r,h]})}):n==="3"?e.output.push({groupType:"Individual",node:a.jsxs("h4",{id:s,className:"wiki-heading",children:[r,h]})}):e.output.push({groupType:"Individual",node:a.jsxs("h5",{id:s,className:"wiki-heading",children:[r,h]})})}function Ee(e,o){const n=o.index+o[0].length,i=T.Clone(e);i.index=n,i.inlineOnly="InlineOnly",k(i,"/I"),e.index=i.index;const t=a.jsx("i",{children:A(i.output,e.inSpoiler,!0)});e.output.push({groupType:"Grouped",node:t})}function Le(e,o){const n=/\[\[\/Image\]\]/.exec(e.initialContent.substring(e.index));if(n===null){w(e,`Found image tag "${o[0]}" without close tag`),e.index+=o[0].length;return}const i=e.index+o[0].length,t=i+n.index-o[0].length,r=E(e.initialContent.substring(i,t)),l=r[0];e.images.add(l);let s;if(r.length===1)s="";else{r.length>2&&w(e,`Found more than 1 | in image tag ${o[0]}`);const d=T.Clone(e);d.initialContent=r[1],d.inlineOnly="InlineOnly",k(d,void 0),s=A(d.output,e.inSpoiler)}const h=B(`${l}`,"wiki_images/");e.output.push({groupType:"Individual",node:a.jsxs("div",{className:"wiki-sidebar-image",children:[a.jsxs("a",{className:e.inSpoiler?"spoiler-image":void 0,href:h,target:"_blank",rel:"noreferrer",children:[e.inSpoiler&&a.jsx("div",{className:"wiki-spoiler-image-text",children:"SPOILER"}),a.jsx("img",{src:h,onError:d=>{d.target.src=B("wiki_images/Image Not Found.png")}})]}),s]})}),e.index=t+n[0].length}function Pe(e,o){const n=/\[\[\/List\]\]/.exec(e.initialContent.substring(e.index));if(n===null){w(e,"Found list tag without close tag"),e.index+=o[0].length;return}let i=!1;o[2]==="Ordered"?i=!0:o[2]!==void 0&&o[2]!=="Unordered"&&w(e,`Found list with invalid type ${o[2]}, type should be "Ordered", "Unordered", or empty (defaults to Unordered)`);const t=e.index+o[0].length,r=t+n.index-o[0].length,l=E(e.initialContent.substring(t,r)),s=[];for(let d=0;d<l.length;d++){const c=l[d],f=T.Clone(e);f.initialContent=c,f.inlineOnly="InlineList",k(f,void 0);const m=A(f.output,e.inSpoiler,!0,!1);e.inSpoiler?s.push(a.jsx("li",{children:a.jsx("span",{className:"spoiler-text spoiler-text-multiline",children:m})},d)):s.push(a.jsx("li",{children:m},d))}const h=i?a.jsx("ol",{className:"wiki-list",children:s}):a.jsx("ul",{className:"wiki-list",children:s});e.output.push({groupType:"Individual",node:h}),e.index=r+n[0].length}function z(e,o){const n=o[1].replace("{{","[").replace("}}","]").split("|"),i=n[0];let t=i;n.length>1&&(t=n[1],n.length>2&&w(e,"Too many | in link"));const r=e.allEntries.get(i);if(r!==void 0){const l=F(e,r,t);e.output.push({groupType:"Grouped",node:l})}else i.startsWith("~/")?e.output.push({groupType:"Grouped",node:a.jsx(H,{href:`~/${ee}/${i.slice(2)}`,children:t})}):i.includes(".htm")||i.startsWith("http")?e.output.push({groupType:"Grouped",node:a.jsx("a",{className:"wiki-link",href:i,children:t})}):(w(e,`Bad link to page "${i}" that doesn't exist`),e.output.push({groupType:"Grouped",node:i}));e.index+=o[0].length}function Be(e,o){const n=/\[\[\/Lore\]\]/.exec(e.initialContent.substring(e.index));if(n===null){w(e,`Found lore tag "${o[0]}" without close tag`),e.index+=o[0].length;return}const i=e.index+o[0].length,t=i+n.index-o[0].length,r=E(e.initialContent.substring(i,t)),l=r[0],s=r[1];if(e.index=t+n[0].length,r.length!==2){w(e,"Lore entry should have a group and entry name"),e.index+=o[0].length;return}const h=ce.find(c=>c.Name===l);if(!h){w(e,`Lore group name ${l} is not valid, see lore.json for valid groups`);return}const d=h.Entries.find(c=>c["Name/Number"]===s);if(d===void 0){w(e,`Lore group name ${l} doesn't contain entry with name/number ${s}`);return}e.output.push({groupType:"Separator",node:void 0}),l=="0b10 Records"?(e.output.push({groupType:"Grouped",node:a.jsxs("span",{className:"wiki-game-text",children:[">Query(",s,")"]})}),e.output.push({groupType:"Separator",node:void 0})):l=="WAR.Sys Records"&&(e.output.push({groupType:"Grouped",node:a.jsxs("span",{className:"wiki-game-text",children:['Intel "',s,'"']})}),e.output.push({groupType:"Separator",node:void 0})),e.output.push({groupType:"Grouped",node:a.jsx("span",{className:"wiki-game-text",children:d.Content})}),e.output.push({groupType:"Separator",node:void 0})}const J=new Map([["B",Ne],["BotGroups",He],["Color",Ie],["GameText",Ge],["Gallery",Me],["Heading",De],["I",Ee],["Image",Le],["List",Pe],["AllLocations",xe],["Lore",Be],["NonEmptyPages",Re],["Spoiler",Q],["Sub",Fe],["Sup",We],["Redacted",Q],["Table",qe]]);function k(e,o){const n=/\[\[([^\]:]*)(?::([^\]]*))?\]\]/g;function i(l){return l.replaceAll("{{","[").replaceAll("}}","]")}let t;for(;t=n.exec(e.initialContent);){if(e.index>t.index)continue;let l;for(;(l=e.initialContent.indexOf(`
-`,e.index))&&l!==-1&&l<t.index;)e.inlineOnly==="InlineOnly"?w(e,"Found line break when only inline actions are allowed"):(e.output.push({groupType:"Grouped",node:i(e.initialContent.substring(e.index,l))}),e.output.push({groupType:"Separator",node:void 0})),e.index=l+1;if(e.index<t.index&&(e.output.push({groupType:"Grouped",node:i(e.initialContent.substring(e.index,t.index))}),e.index=t.index),t[1].startsWith("/"))if(t[1]===o){e.index+=t[0].length;return}else w(e,`Found mismatched end tag ${t[1]} with expected tag ${o}`),e.index+=t[0].length;else{const s=J.get(t[1]);e.inlineOnly==="InlineOnly"||e.inlineOnly==="InlineList"?t[1]==="Spoiler"||t[1]==="Redacted"||t[1]==="B"||t[1]==="I"||t[1]==="GameText"||t[1]==="Sub"||t[1]==="Sup"?s(e,t):s!==void 0?w(e,`Found action tag ${t[1]} in scope where only links and inline tags like bold/italics are allowed`):z(e,t):s!==void 0?s(e,t):z(e,t)}}let r;for(;(r=e.initialContent.indexOf(`
-`,e.index))&&r!==-1;)e.output.push({groupType:"Grouped",node:e.initialContent.substring(e.index,r)}),e.output.push({groupType:"Separator",node:void 0}),e.index=r+1;e.index<e.initialContent.length&&e.output.push({groupType:"Grouped",node:e.initialContent.substring(e.index)})}function Q(e,o){const n=!G(o[1],e.spoiler),i=o.index+o[0].length,t=T.Clone(e);t.index=i,t.inSpoiler=n,k(t,o[1]==="Spoiler"?"/Spoiler":"/Redacted"),e.index=t.index;let r=0;for(;r<t.output.length;){let l=1;for(;r+l<t.output.length&&t.output[r+l].groupType==="Grouped";)l++;const s=A(t.output.slice(r,r+l),n,!0,!0);e.output.push({groupType:t.output[r].groupType,node:s}),r+=l}}function Fe(e,o){const n=o.index+o[0].length,i=T.Clone(e);i.index=n,i.inlineOnly="InlineOnly",k(i,"/Sub"),e.index=i.index;const t=a.jsx("sub",{children:A(i.output,e.inSpoiler,!0)});e.output.push({groupType:"Grouped",node:t})}function We(e,o){const n=o.index+o[0].length,i=T.Clone(e);i.index=n,i.inlineOnly="InlineOnly",k(i,"/Sup"),e.index=i.index;const t=a.jsx("sup",{children:A(i.output,e.inSpoiler,!0)});e.output.push({groupType:"Grouped",node:t})}function qe(e,o){const n=/\[\[\/Table\]\]/.exec(e.initialContent.substring(e.index));if(n===null){w(e,"Found table tag without close tag"),e.index+=o[0].length;return}const i=e.index+o[0].length,t=i+n.index-o[0].length,r=E(e.initialContent.substring(i,t),"||"),l=[];let s=!0,h=0,d=0;for(let f=0;f<r.length;f++){const m=r[f],u=E(m);s&&(h=u.length);const p=[];let y=0;for(let v=0;v<u.length;v++){let g=u[v],C;const x=/\[\[CellStyle:(.*?)\]\]/.exec(g);x!==null&&(x[1]==="Good"?C="wiki-cell-good":x[1]==="Neutral"?C="wiki-cell-neutral":x[1]==="Bad"?C="wiki-cell-bad":w(e,`Found invalid table cell style ${x[1]}, expected types are Good Neutral and Bad`),g=g.substring(x[0].length));let N;const I=/\[\[CellSpan:(.*?)\]\]/.exec(g);I!==null?(N=Z(I[1],1),g=g.substring(I[0].length),y+=Z(I[1],1)):y+=1;const R=T.Clone(e);R.initialContent=g,R.inlineOnly="InlineOnly",k(R,void 0);const L=A(R.output,e.inSpoiler,!0,!1);e.inSpoiler&&(C!==void 0?C+=" spoiler-text":C="spoiler-text"),s?p.push(a.jsx("th",{className:C,colSpan:N,children:L},v)):p.push(a.jsx("td",{className:C,colSpan:N,children:L},v))}y!=h&&w(e,`Found ${y} columns in row ${d+1} but header had ${h}`),l.push(a.jsx("tr",{children:p},f)),s=!1,d+=1}const c=a.jsx("table",{className:`wiki-table${e.inSpoiler?" spoiler-text spoiler-table":""}`,children:a.jsx("tbody",{children:l})});e.output.push({groupType:"Individual",node:c}),e.index=t+n[0].length}function w(e,o,n=void 0){n===void 0&&(n=e.index);let i=e.initialContent.substring(n,n+50).replace(`
-`,"\\n");e.initialContent.length-n-50>0&&(i+="..."),e.errors.push(`${o}: section starting with "${i}"`)}function E(e,o="|"){let n=0,i=e.indexOf(o),t=e.indexOf("[[");if(i===-1)return[e];if(t===-1)return e.split(o);const r=[];let l="";for(;;){if(t===-1){const d=e.substring(n).split(o);return d[0]=l+d[0],r.concat(d)}if(i===-1)return n<e.length&&(l+=e.substring(n),r.push(l)),r;if(i<t){l+=e.substring(n,i),r.push(l),l="",n=i+o.length,i=e.indexOf(o,n);continue}l+=e.substring(n,t+2),n=t+2,t=e.indexOf("[[",n);let s=e.indexOf("]]",n),h=1;for(;h>0;){if(s===-1)return r;t!==-1&&(s===-1||t<s)?(h+=1,l+=e.substring(n,t+2),n=t+2,t=e.indexOf("[[",n)):(h-=1,l+=e.substring(n,s+2),n=s+2,s=e.indexOf("]]",n))}t=e.indexOf("[[",n),i=e.indexOf(o,n)}}function Ue({allowedEntries:e,searchString:o,setSearchString:n}){const[i,t]=S.useState(!1),[r,l]=j(),s=o.toLowerCase(),h=e.filter(d=>d.toLowerCase().startsWith(s)&&o.length>1).splice(0,20).map(d=>({value:d}));return e.find(d=>d.toLowerCase()==s)||h.unshift({value:`Search for ${o}`}),a.jsx(ae,{className:"wiki-search",options:h,onInputChange:(d,c)=>{(c.action==="set-value"||c.action==="input-change")&&n(d)},onBlur:()=>{t(!1)},onFocus:()=>{t(!0)},onKeyDown:d=>{d.key==="Enter"&&o.length===1&&l(`/search/${D(o)}`)},onChange:d=>{const c=d.value;c.startsWith("Search for")?l(`/search/${D(o)}`):l(`/${D(c)}`)},inputValue:o,menuIsOpen:o.length>1&&i,placeholder:"Search Wiki"})}function Oe({editState:e,entry:o,parsingErrors:n,setEditState:i}){const t=S.useRef(null),[r,l]=ne();if(!e.showEdit||o===void 0)return;function s(){const m={entries:[...r.entries]};let u=m.entries.find(y=>y.name===o.name);const p=t.current.value;u===void 0?u={name:o.name,content:p}:(m.entries.splice(m.entries.indexOf(u),1),u={...u,content:p}),m.entries.push(u),l(m)}const h=r.entries.find(m=>m.name===o.name),d=(h==null?void 0:h.content)||o.content;function c(m,u){const p=t.current;p.focus();const v=p.value.substring(p.selectionStart,p.selectionEnd);document.execCommand("insertText",!1,m+v+u),p.selectionStart=p.selectionStart-u.length-v.length-m.length}const f=n.length>0&&a.jsxs("div",{className:"wiki-edit-errors",children:[a.jsx("p",{children:"Parsing Errors"}),a.jsx("div",{children:n.map((m,u)=>a.jsx("p",{children:m},u))})]});return a.jsxs("div",{className:"wiki-edit-content",children:[a.jsxs("p",{children:["After editing the page, please visit the"," ",a.jsx("a",{href:"https://docs.google.com/spreadsheets/d/1Fv3WlkoueecEmZDh88XWSMuV8Qdfm3epzFrcx5nF33g",children:"spreadsheet"})," ","for instructions on how to update."]}),a.jsxs("div",{children:[a.jsx(V,{label:"Inline Content",tooltip:"Any kinds of inline content in this group can be placed anywhere where regular text can be processed. Except for Spoiler and Redacted tags, inline content can be nested with other inline content but not other top-level content. For example, Bold may be nested under Italicized text, but an Image cannot be nested under Bold Text"}),a.jsx(b,{tooltip:"Bolds any text inside the selection.",onClick:()=>c("[[B]]","[[/B]]"),children:"Bold"}),a.jsx(b,{tooltip:"Italicizes any text inside the selection.",onClick:()=>c("[[I]]","[[/I]]"),children:"Italicize"}),a.jsx(b,{tooltip:"Creates a subscript section of any text inside the selection.",onClick:()=>c("[[Sub]]","[[/Sub]]"),children:"Subscript"}),a.jsx(b,{tooltip:"Creates a superscript section of any text inside the selection.",onClick:()=>c("[[Sup]]","[[/Sup]]"),children:"Superscript"}),a.jsx(b,{tooltip:"Provides a game-text style to text inside the selection.",onClick:()=>c("[[GameText]]","[[/GameText]]"),children:"Game Text"}),a.jsx(b,{tooltip:"Provides a spoiler section around any text or image content nested underneath if the spoiler setting is set to None.",onClick:()=>c("[[Spoiler]]","[[/Spoiler]]"),children:"Spoiler"}),a.jsx(b,{tooltip:"Provides a spoiler section around any text or image content nested underneath if the spoiler setting is not set to Redacted.",onClick:()=>c("[[Redacted]]","[[/Redacted]]"),children:"Redacted"}),a.jsx(b,{tooltip:"Inserts a link to the selected text. Link text may be different than the link itself by using the syntax [[Link|Link Text]].",onClick:()=>c("[[","]]"),children:"Link"}),a.jsx(b,{tooltip:"Color the selected text in the form of [[Color:Red]]Text[[/Color]]",onClick:()=>c("[[Color]]","[[/Color]]"),children:"Color"})]}),a.jsxs("div",{children:[a.jsx(V,{label:"Top-level Content",tooltip:"Top-level content that can not typically be placed underneath other tags except for spoiler tags. Generally support all types of inline content."}),a.jsx(b,{tooltip:"Provides a large heading line with an underline containing the given text.",onClick:()=>c("[[Heading]]","[[/Heading]]"),children:"Heading 1"}),a.jsx(b,{tooltip:"Provides a slightly smaller heading line containing the given text.",onClick:()=>c("[[Heading:2]]","[[/Heading]]"),children:"Heading 2"}),a.jsx(b,{tooltip:"Provides an even smaller heading line containing the given text.",onClick:()=>c("[[Heading:3]]","[[/Heading]]"),children:"Heading 3"}),a.jsx(b,{tooltip:"Provides the smallest heading line containing the given text.",onClick:()=>c("[[Heading:4]]","[[/Heading]]"),children:"Heading 4"}),a.jsx(b,{tooltip:"Creates an image on the right side of the page with an optional caption in the form of [[Image]]Image Name.png|Image Caption[[/Image]]. May also use an external URL.",onClick:()=>c("[[Image]]","[[/Image]]"),children:"Sidebar Image"}),a.jsx(b,{tooltip:"Creates a list of images centered in the page in a list form. Images and captions should be sequentially listed, like [[Gallery]]Image 1.png|Image 1 caption|Image 2.png|Image 2 caption[[/Gallery]].",onClick:()=>c("[[Gallery]]","[[/Gallery]]"),children:"Gallery Images"}),a.jsx(b,{tooltip:"Creates a lore entry that pulls text from actual lore quotes, use Lore page as a reference.",onClick:()=>c("[[Lore]]","[[/Lore]]"),children:"Lore"}),a.jsx(b,{tooltip:"Creates an unordered (bulleted) list of items that can be separated out like [[List]]Item 1|Item 2|Item 3[[/List]].",onClick:()=>c("[[List]]","[[/List]]"),children:"Unordered List"}),a.jsx(b,{tooltip:"Creates an ordered (numbered) list of items that can be separated out like [[List:Ordered]]Item 1|Item 2|Item 3[[/List]].",onClick:()=>c("[[List:Ordered]]","[[/List]]"),children:"Unordered List"}),a.jsx(b,{tooltip:"Creates a 2-dimensional table of text items in the form of [[Table]]Column 1 Header|Column 2 header||Row 1 column 1|Row 1 column 2[[/Table]].",onClick:()=>c("[[Table]]","[[/Table]]"),children:"Table"})]}),a.jsx("textarea",{ref:t,className:"wiki-edit-text",defaultValue:d},o.name),a.jsxs("div",{className:"wiki-edit-changes-group",children:[a.jsx(b,{tooltip:"Clears any saved changes from local storage and restores the original page text. Normally, changes are saved between sessions.",className:"clear-changes-button",clickOverrideText:{tempChildren:"Cleared",tempDuration:2e3},disabled:r.entries.find(m=>m.name===o.name)===void 0,onClick:()=>{const m={entries:[...r.entries]};m.entries.splice(m.entries.findIndex(p=>p.name===o.name),1),l(m),i({...e,editText:""}),t.current.focus(),document.execCommand("selectall"),document.execCommand("delete"),document.execCommand("insertText",!1,o.content)},children:"Clear Changes"}),a.jsx(b,{tooltip:"Closes the edit pane and returns the content below to the original state if changes were previewed.",onClick:()=>{i({...e,showEdit:!1})},children:"Close"}),a.jsx(b,{tooltip:"Previews the changes made in the editor above in the page below.",className:"preview-changes-button",clickOverrideText:{tempChildren:"Updated",tempDuration:2e3},onClick:()=>{i({...e,editText:t.current.value,entry:o}),s()},children:"Preview Changes"}),a.jsx(b,{className:"copy-text-button",tooltip:"Copies the text in the editor above to the clipboard.",clickOverrideText:{tempChildren:"Copied",tempDuration:2e3},onClick:()=>{navigator.clipboard.writeText(t.current.value.replace(/\n/g,"\\n")),i({...e,modified:!1}),s()},children:"Copy Text"})]}),f]})}function je(){return S.useEffect(()=>{document.title="Home - Cog-Minder Wiki"}),a.jsxs("div",{children:[a.jsxs("p",{children:["This is a WIP unofficial Cogmind Wiki. Use the page dropdown to go to a specific page. For editing info, check out the ",a.jsx("a",{href:"https://discord.gg/f8Fqv2qQxV",children:"Cog-Minder wiki Discord server"})," and make contributions via"," ",a.jsx("a",{href:"https://docs.google.com/spreadsheets/d/1Fv3WlkoueecEmZDh88XWSMuV8Qdfm3epzFrcx5nF33g/edit?usp=sharing",children:"This Google Spreadsheet"}),"."]}),a.jsx("h1",{children:"Useful Pages"}),a.jsxs("ul",{children:[a.jsx("li",{children:a.jsx(H,{href:"/Game Mechanics",children:"Game Mechanics"})}),a.jsxs("li",{children:[a.jsx(H,{href:"/Locations",children:"Locations"})," - Information about all locations in the game"]}),a.jsxs("li",{children:[a.jsx(H,{href:"/Squad",children:"Squad"})," - All types of robot squads"]}),a.jsxs("li",{children:[a.jsx(H,{href:"/Bot Groups",children:"Bot Groups"})," - List of bot classes/other groups"]}),a.jsxs("li",{children:[a.jsx(H,{href:"/Non-empty Pages",children:"Non-empty Pages"})," - List of non-empty pages"]})]}),a.jsx("p",{children:"Contributors:"}),a.jsxs("ul",{children:[a.jsx("li",{children:"aoemica"}),a.jsx("li",{children:"jimmyl"}),a.jsx("li",{children:"ktur"}),a.jsx("li",{children:"lyrabold"}),a.jsx("li",{children:"Rocko1345"})]})]})}function Ze({entry:e,parsedNode:o}){const n=e.extraData;return a.jsxs(a.Fragment,{children:[a.jsx("div",{className:"wiki-infobox",children:a.jsx(Y,{bot:n,popoversToLinks:!0})}),o]})}function Ve({entry:e,groupSelection:o,parsedNode:n,setGroupSelection:i}){const t=e.extraData,r=S.useMemo(()=>t.map(s=>({value:s.name})),[e]),l=(t.find(s=>s.name===o)||t[0]).extraData;return a.jsxs(a.Fragment,{children:[a.jsxs("div",{className:"wiki-infobox",children:[a.jsx("div",{className:"wiki-infobox-button-group",children:a.jsx(X,{buttons:r,selected:o,onValueChanged:s=>{i(s)}})}),a.jsx(Y,{bot:l,popoversToLinks:!0})]}),n]})}function ze({entry:e,parsedNode:o}){const n=e.extraData;return a.jsxs(a.Fragment,{children:[a.jsx("div",{className:"wiki-infobox",children:a.jsx(K,{item:n})}),o]})}function Qe({entry:e,parsedNode:o}){const n=e.extraData;return a.jsxs(a.Fragment,{children:[a.jsx("div",{className:"wiki-infobox",children:a.jsx(pe,{location:n})}),o]})}function Xe({entry:e,groupSelection:o,parsedNode:n,setGroupSelection:i}){const t=e.extraData,r=S.useMemo(()=>t.map(s=>({value:s.name})),[e]),l=(t.find(s=>s.name===o)||t[0]).extraData;return a.jsxs(a.Fragment,{children:[a.jsxs("div",{className:"wiki-infobox",children:[a.jsx("div",{className:"wiki-infobox-button-group",children:a.jsx(X,{buttons:r,selected:o,onValueChanged:s=>{i(s)}})}),a.jsx(K,{item:l})]}),n]})}function _e({entry:e,groupSelection:o,parsedNode:n,path:i,setGroupSelection:t,spoilers:r}){const[l,s]=S.useState(!1);if(S.useEffect(()=>{document.title=`${i} - Cog-Minder Wiki`},[i]),e===void 0)return a.jsxs("p",{children:["Page ",i," not found"]});if(!G(e.spoiler,r)&&!l)return a.jsxs("div",{className:"spoiler-warning",children:[a.jsx("p",{children:"Page blocked by Spoilers setting: Would you like to continue?"}),a.jsx("p",{children:" Spoilers settings can be updated in the Settings popup in the top right corner of the page."}),a.jsxs("div",{children:[a.jsx(b,{onClick:()=>s(!0),children:"Yes"}),a.jsx(b,{onClick:()=>history.back(),children:"Back"})]})]});switch(e.type){case"Bot":return a.jsx(Ze,{entry:e,parsedNode:n});case"Bot Group":return a.jsx(Ve,{entry:e,groupSelection:o,parsedNode:n,setGroupSelection:t});case"Location":return a.jsx(Qe,{entry:e,parsedNode:n});case"Other":return n;case"Part":return a.jsx(ze,{entry:e,parsedNode:n});case"Part Group":return a.jsx(Xe,{entry:e,groupSelection:o,parsedNode:n,setGroupSelection:t});default:oe(e.type)}}function P(e,o){let n=0,i;const t=[],r=o.toLowerCase();for(;(i=e.substring(n).toLowerCase().indexOf(r))!==-1;)i!==0&&t.push(a.jsx(S.Fragment,{children:e.substring(n,n+i)},t.length)),t.push(a.jsx("b",{children:e.substring(n+i,n+i+o.length)},t.length)),n+=i+o.length;return n<e.length&&t.push(a.jsx(S.Fragment,{children:e.substring(n)},t.length)),a.jsx(a.Fragment,{children:t})}function Ye({allEntries:e,allowedEntries:o,search:n}){S.useEffect(()=>{document.title=`Search for "${n}" - Cog-Minder Wiki`});const i=_(),t=n.toLowerCase();let r=!1;const l=Array.from(o).filter(m=>m.toLowerCase().includes(t)),s=Array.from(o).map(m=>({name:m,previewContent:Ae(e.get(m).content,i)})),h=s.filter(m=>m.previewContent.toLowerCase().includes(t));let d,c;if(l.length>0){r=!0;const m=l.map((u,p)=>{let y=s.find(N=>N.name===u).previewContent;const v=y.length<=250,g=y.lastIndexOf(". ");g>-1&&g<=250?y=y.substring(0,g+1):y.length>0&&!v&&(y=y.substring(0,250)+"...");let C;y.length===0?C="No page content":C=P(y,t);const x=P(u,t);return a.jsxs("li",{children:[a.jsx(H,{href:`/${u}`,children:x}),a.jsx("p",{children:C})]},p)});d=a.jsxs(a.Fragment,{children:[a.jsx("h3",{className:"wiki-heading-emphasized",children:"Title Matches"}),a.jsx("ul",{className:"wiki-search-result-list",children:m})]})}if(h.length>0){r=!0;const m=h.map((u,p)=>{let y=u.previewContent.toLowerCase().indexOf(t);const v=Math.max(0,y-150);let g=u.previewContent.substring(v,y+150);const C=v==0,x=y+150>=u.previewContent.length;y=g.toLowerCase().indexOf(t);const N=g.indexOf(". ");N!==-1&&N<y?g=g.substring(N+2):g.length>0&&!C&&(g="..."+g),y=g.toLowerCase().indexOf(t);const I=g.lastIndexOf(". ");I>-1&&I>y?g=g.substring(0,I+1):g.length>0&&!x&&(g=g+"...");let R;g.length===0?R="No page content":R=P(g,t);const L=P(u.name,t);return a.jsxs("li",{children:[a.jsx(H,{href:`/${u.name}`,children:L}),a.jsx("p",{children:R})]},p)});c=a.jsxs(a.Fragment,{children:[a.jsx("h3",{className:"wiki-heading-emphasized",children:"Content Matches"}),a.jsx("ul",{className:"wiki-search-result-list",children:m})]})}const f=a.jsxs(a.Fragment,{children:[a.jsx("h1",{className:"wiki-emphasized-heading",children:"Search Results"}),a.jsxs("h2",{className:"wiki-heading",children:['Searching for "',n,'"']})]});return r?a.jsxs(a.Fragment,{children:[f,d,c]}):a.jsxs(a.Fragment,{children:[f,a.jsxs("span",{children:['No results found for "',n,'".']})]})}function Ke(e,o){const n=new Map;function i(t){function r(l,s){n.get(l)!==void 0&&console.log(`Found duplicate wiki entries for "${l}"`),n.set(l,s)}r(t.name,t);for(const l of t.alternativeNames)r(l,t)}for(const t of M.Bots){const r=e.getBot(t.Name);i({alternativeNames:[],name:t.Name,type:"Bot",spoiler:r.spoiler,content:t.Content,extraData:r})}for(const t of M["Bot Groups"]){let r="None";t.Spoiler==="Redacted"?r="Redacted":t.Spoiler==="Spoiler"&&(r="Spoiler");const l=[],s={alternativeNames:[],content:t.Content??"",name:t.Name,spoiler:r,type:"Bot Group",extraData:l};i(s);for(const h of t.Bots){const d=n.get(h);if(d===void 0){console.log(`Found bad bot name ${h} in group ${t.Name}`);continue}if(d.type!=="Bot"){console.log(`Found non-bot ${d.name} in bot group ${s.name}`);continue}d.parentGroup!==void 0&&console.log(`Found bot ${d.name} in multiple groups`),d.parentGroup=s,l.push(d)}}for(const t of M.Locations){let r="None";t.Spoiler==="Redacted"?r="Redacted":t.Spoiler==="Spoiler"&&(r="Spoiler");const l=(t.SpecialBots??[]).map(c=>{try{return e.getBot(c)}catch{return console.log(`Bad bot name ${c} in ${t.Name}`),null}}).filter(c=>c!==null),s=(t.SpecialItems??[]).map(c=>{try{return o.getItem(c)}catch{return console.log(`Bad item name ${c} in ${t.Name}`),null}}).filter(c=>c!==null),h={branch:t.Branch??!1,entries:[],exits:[],imageName:t.ImageName,maxDepth:t.MaxDepth,minDepth:t.MinDepth,multipleDepths:t.MultipleDepths??!1,name:t.Name,preDepthBranch:t.PreDepthBranch??!1,spoiler:r,specialBots:l,specialItems:s},d={alternativeNames:t.AlternateNames??[],name:t.Name,type:"Location",spoiler:r,content:t.Content,extraData:h};i(d)}for(const t of M.Locations){const r=n.get(t.Name);for(const l of t.Exits){const s=n.get(l);if(s===void 0)console.log(`Bad location reference ${l} in ${t.Name}`);else{const h=r.extraData,d=s.extraData;h.exits.push(d),d.entries.push(h)}}}for(const t of M.Parts){const r=o.getItem(t.Name);let l="None";r.categories.includes("Redacted")?l="Redacted":r.categories.includes("Spoiler")&&(l="Spoiler"),i({alternativeNames:[],name:t.Name,type:"Part",spoiler:l,content:t.Content,extraData:r})}for(const t of M["Part Groups"]){const r="None",l=[],s={alternativeNames:[],content:t.Content??"",name:t.Name,spoiler:r,type:"Part Group",extraData:l};i(s);for(const h of t.Parts){const d=n.get(h);if(d===void 0){console.log(`Found bad part name ${h} in group ${t.Name}`);continue}if(d.type!=="Part"){console.log(`Found non-part ${d.name} in part group ${s.name}`);continue}d.parentGroup!==void 0&&console.log(`Found part ${d.name} in multiple groups`),d.parentGroup=s,l.push(d)}}for(const t of M.Other){let r="None";t.Spoiler==="Redacted"?r="Redacted":t.Spoiler==="Spoiler"&&(r="Spoiler");const l={alternativeNames:t.AlternateNames??[],name:t.Name,type:"Other",spoiler:r,content:t.Content};i(l)}return n}function $e({allowedEntries:e,allEntries:o,setEditState:n}){const[i,t]=j(),[r,l]=S.useState("");return a.jsxs("div",{className:"navigation-bar",children:[he(),a.jsx(de,{href:"/",tooltip:"Navigates to the wiki home page.",children:"Home"}),a.jsx(b,{tooltip:"Pops open an editor that allows previewing edits to the current page.",disabled:i==="/",onClick:()=>{n(s=>({...s,showEdit:!0}))},children:"Edit"}),a.jsx(Ue,{allowedEntries:e,searchString:r,setSearchString:l}),a.jsx(b,{tooltip:"Searches all pages for the given text.",onClick:()=>{r.length>0&&t(`/search/${D(r)}`)},children:"Search"})]})}function st(){const e=ye(),o=fe(),[n]=j(),i=_(),[t,r]=S.useState(""),[l,s]=ie("/wiki/:page"),[h,d]=S.useState({editText:"",entry:void 0,modified:!1,showEdit:!1}),[c]=re(),[f,m]=S.useMemo(()=>{const g=Ke(e,o),C=Array.from(g.entries()).filter(([x,N])=>G(N.spoiler,i)).map(([x,N])=>x);return C.sort(),[g,C]},[e,o,i]);S.useEffect(()=>{const g=c.slice(1);if(g.length===0)return;const C=document.getElementById(g);C!==null&&C.scrollIntoView()},[]);let u,p,y,v=[];if(l){const g=W(s[0]);if(u=f.get(g),p=u,p!==void 0&&h.editText.length>0&&h.entry===p&&(p={...p,content:h.editText}),p!==void 0){const C=ke(p,f,i,o,e,t);y=C.node,v=C.errors}}return a.jsx(se,{base:"/wiki",children:a.jsxs("div",{className:"page-content",children:[a.jsx($e,{allEntries:f,allowedEntries:m,setEditState:d,spoilers:i},n),a.jsx(Oe,{editState:h,entry:u,parsingErrors:v,setEditState:d}),a.jsx("div",{className:"wiki-page-content",children:a.jsxs(le,{children:[a.jsx(q,{path:"/",children:a.jsx(je,{})}),a.jsx(q,{path:"/search/:search",children:g=>a.jsx(Ye,{allEntries:f,allowedEntries:m,search:W(g.search)})}),a.jsx(q,{children:g=>a.jsx(_e,{allEntries:f,entry:p,groupSelection:t,parsedNode:y,spoilers:i,path:W(g[0]),setGroupSelection:r},p==null?void 0:p.name)})]})})]})})}export{st as default};
+[[Lore]]0b10 Records|Traps[[/Lore]]`},{Name:"Treads",Parts:["Lgt. Treads","Imp. Treads","Spk. Treads","Arm. Treads","Adv. Treads","Med. Treads","Imp. Medium Treads","Spk. Medium Treads","Arm. Medium Treads","Hvy. Treads","Imp. Heavy Treads","Spk. Heavy Treads","Adv. Medium Treads","Hvy. Siege Treads","Enh. Armored Medium Treads","Biometal Medium Treads","Imp. Heavy Siege Treads","Arm. Heavy Treads","Adv. Heavy Treads","Megatreads","Centrium Heavy Treads","Biometal Heavy Treads","Adv. Heavy Siege Treads","Enh. Armored Heavy Treads","Exp. Biometal Heavy Treads","Exp. Biometal Medium Treads","Hdn. Centrium Heavy Treads"],Content:""},{Name:"Utility Shieldings",Parts:["Utility Shielding","Imp. Utility Shielding","Exp. Utility Shielding"],Content:""},{Name:"Visual Processing Units",Parts:["Visual Processing Unit","Adv. Visual Processing Unit","Enh. Optical Array","Exp. Optical Array","Spectral Analyzer"],Content:""},{Name:"Weapon Cyclers",Parts:["Weapon Cycler","Imp. Weapon Cycler","Adv. Weapon Cycler","Exp. Weapon Cycler","Quantum Capacitor","Launcher Loader"],Content:""},{Name:"Weapon Shieldings",Parts:["Weapon Shielding","Imp. Weapon Shielding","Exp. Weapon Shielding","Zio. Weapon Casing"],Content:""},{Name:"Wheels",Parts:["Wheel","Com. Wheel","Sub. Monowheel","Arm. Wheel","Arm. Huge Wheel","Centrium Wheel","Hdn. Centrium Wheel"],Content:""}],Locations:Ce,Other:ve};function $({heading:e}){const o=e.children.length>0&&a.jsx("ul",{children:e.children.map((n,i)=>a.jsx($,{heading:n},i))});return a.jsxs("li",{children:[a.jsx("a",{href:`#${e.id}`,children:e.text}),o]})}function Se({headings:e}){if(e.length<3)return;const o=[],n=[];for(const i of e){let t=o.findIndex(l=>l.indent===i.indent-1);t===-1&&(t=o.findIndex(l=>l.indent<i.indent));const r={children:[],id:i.id,indent:i.indent,text:i.text};t>=0?o[t].children.push(r):n.push(r),o.unshift(r)}return a.jsx("div",{className:"wiki-table-of-contents",children:a.jsxs("details",{children:[a.jsx("summary",{children:"Table of Contents"}),a.jsx("ul",{children:n.map((i,t)=>a.jsx($,{heading:i},t))})]})})}class T{constructor(o,n,i,t,r,l,s,h,d,c,f){this.allowHeadingLinks=o,this.allEntries=n,this.botData=i,this.errors=t,this.headings=r,this.images=l,this.inSpoiler=s,this.initialContent=h,this.index=0,this.inlineOnly=d,this.itemData=c,this.output=[],this.spoiler=f}static Clone(o){return new T(o.allowHeadingLinks,o.allEntries,o.botData,o.errors,o.headings,o.images,o.inSpoiler,o.initialContent,o.inlineOnly,o.itemData,o.spoiler)}}function Te(e){const o=/\[\[([^\]:]*)(?::([^\]]*))?\]\]/g;let n,i="",t=0;for(;(n=o.exec(e))&&(n.index>t&&(i+=e.slice(t,n.index)),J.has(n[1].replace("/",""))||(n[1].includes("|")?i+=n[1].slice(n[1].indexOf("|")+1):i+=n[1]),t=n.index+n[0].length,!(t>=e.length)););t<e.length&&(i+=e.slice(t));const r=i.replaceAll(" ","_").replaceAll(/[^\w-]/g,"").toLowerCase();return{text:i,id:r}}function U(e,o,n,i,t,r){const l=e.content.replace(/([^[])\[([\w/]*)\]/g,(f,m,u)=>`${m}{{${u}}}`),s=new T(!0,o,r,[],[],new Set,!1,l,"All",t,n);k(s,void 0);const h=[e.name];for(const f of e.alternativeNames)h.push(f);const d=h.join("/");let c=A(s.output,!1);return c===void 0&&(c=a.jsx("p",{children:"This page is a stub. Please consider contributing."})),{node:a.jsxs(a.Fragment,{children:[a.jsxs("h1",{className:"wiki-emphasized-heading",children:[i?a.jsx(H,{href:`/${D(e.name)}`,children:d}):d,a.jsx(O,{href:"#"})]}),i?void 0:a.jsx(Se,{headings:s.headings}),c]}),errors:s.errors,images:s.images}}function Ae(e,o){const n=/(\[\[Spoiler\]\])(.*?)(\[\[\/Spoiler\]\])/s,i=/(\[\[Redacted\]\])(.*?)(\[\[\/Redacted\]\])/s,t=/\[\[Image\]\](.*?)\[\[\/Image\]\]/s;function r(l,s){let h;do h=l.exec(e),h!==null&&(M(s,o)?e=e.substring(0,h.index)+h[2]+e.substring(h.index+h[0].length):e=e.substring(0,h.index)+e.substring(h.index+h[0].length));while(h!==null)}return r(n,"Spoiler"),r(i,"Redacted"),e=e.replace(t,""),e}function F(e,o,n){let i;if(o.type==="Bot"){const t=o.extraData;i=a.jsx(me,{bot:t,text:n})}else if(o.type==="Location"){const t=o.extraData;i=a.jsx(ge,{location:t,text:n})}else if(o.type==="Part"){const t=o.extraData;i=a.jsx(ue,{item:t,text:n})}else i=a.jsx(H,{href:`/${D(o.name)}`,children:n});return!M(o.spoiler,e.spoiler)&&!e.inSpoiler&&(i=a.jsx("span",{className:"spoiler-text spoiler-text-multiline",children:i})),i}function A(e,o,n=!1,i=!1){if(e.length===0)return;function t(s,h){switch(s.parentElement){case"none":return a.jsx(S.Fragment,{children:s.groupNodes},h);case"p":return a.jsx("p",{children:s.groupNodes},h);case"spoiler-p":return a.jsx("p",{children:a.jsx("span",{className:"spoiler-text spoiler-text-multiline",children:s.groupNodes})},h);case"spoiler-span":return a.jsx("span",{className:"spoiler-text spoiler-text-multiline",children:s.groupNodes},h)}}const r=[];let l;n&&(l={groupNodes:[],parentElement:"none"},r.push(l)),o&&i&&(e[0].groupType==="Grouped"?(l={groupNodes:[],parentElement:"spoiler-span"},r.push(l)):(l={groupNodes:[],parentElement:"none"},r.push(l)));for(const s of e)s.node!==""&&(l===void 0&&s.groupType==="Grouped"&&s.node!==void 0&&(l={groupNodes:[],parentElement:o?"spoiler-p":"p"},r.push(l)),(s.groupType==="Separator"||s.groupType==="Individual")&&(l=void 0),s.node!==void 0&&(l===void 0?r.push({groupNodes:[a.jsx(S.Fragment,{children:s.node},0)],parentElement:s.groupType==="Grouped"?"p":"none"}):l.groupNodes.push(a.jsx(S.Fragment,{children:s.node},l.groupNodes.length))));return r.map((s,h)=>t(s,h))}function ke(e,o,n,i,t,r){const l=U(e,o,n,!1,i,t);if(l.errors.length>0){console.log(`Errors while parsing ${e.name}`);for(const s of l.errors)console.log(`Parse error: ${s}`)}if(e.parentGroup!==void 0){const s=U(e.parentGroup,o,n,!0,i,t);if(s.errors.length>0){console.log(`Errors while parsing ${e.name}`);for(const h of s.errors)console.log(`Parse error: ${h}`)}l.node=a.jsxs(a.Fragment,{children:[s.node,l.node]}),l.errors=l.errors.concat(s.errors);for(const h of s.images)l.images.add(h)}else if((e.type==="Bot Group"||e.type==="Part Group")&&r!==void 0){const s=e.extraData,h=U(s.find(d=>d.name===r)||s[0],o,n,!0,i,t);if(h.errors.length>0){console.log(`Errors while parsing ${e.name}`);for(const d of h.errors)console.log(`Parse error: ${d}`)}l.node=a.jsxs(a.Fragment,{children:[l.node,h.node]}),l.errors=l.errors.concat(h.errors);for(const d of h.images)l.images.add(d)}return l}function xe(e,o){e.index+=o[0].length;const n=[];for(const t of e.allEntries.entries()){const r=t[0],l=t[1];if(l.type!=="Location"||r!=l.name)continue;const s=l.extraData;n.push(a.jsxs("tr",{children:[a.jsx("td",{children:F(e,l,s.name.replace(" (Location)",""))}),a.jsx("td",{children:s.branch?"Branch":"Main"}),a.jsx("td",{children:s.minDepth===s.maxDepth?s.minDepth:`${s.minDepth} to ${s.maxDepth} ${s.multipleDepths?"":"(Only at one depth per run)"}`})]},r))}const i=a.jsx("table",{className:"wiki-table",children:a.jsxs("tbody",{children:[a.jsxs("tr",{children:[a.jsx("th",{children:"Location Name"}),a.jsx("th",{children:"Main Floor/Branch"}),a.jsx("th",{children:"Depths"})]}),n]})});e.output.push({groupType:"Individual",node:i})}function Ne(e,o){const n=o.index+o[0].length,i=T.Clone(e);i.index=n,i.inlineOnly="InlineOnly",k(i,"/B"),e.index=i.index;const t=a.jsx("b",{children:A(i.output,e.inSpoiler,!0)});e.output.push({groupType:"Grouped",node:t})}function He(e,o){for(const n of e.allEntries.values()){if(n.type!=="Bot Group"||!M(n.spoiler,e.spoiler))continue;const i=new Set;for(const d of e.allEntries.values())if(d.parentGroup===n){const c=e.botData.getBot(d.name);i.add(te(c))}const t=a.jsx(a.Fragment,{children:Array.from(i.values()).map(d=>a.jsx("img",{className:"wiki-bot-group-image",src:d},d))}),r=new T(!1,e.allEntries,e.botData,e.errors,e.headings,e.images,!1,n.content,"All",e.itemData,e.spoiler);k(r,void 0);const l=r.output.findIndex(d=>d.groupType==="Separator");l!==-1&&r.output.splice(l);const s=D(n.name),h=a.jsxs(a.Fragment,{children:[a.jsxs("h2",{id:s,className:"wiki-heading wiki-bot-group-heading",children:[F(e,n,n.name),t,a.jsx(O,{href:`#${s}`})]}),A(r.output,!1)]});e.output.push({groupType:"Individual",node:h})}e.index=o.index+o[0].length}function Ie(e,o){let n=o[2];(n===void 0||n==="")&&(w(e,"Color tag with no color, has been marked cyan"),n="cyan");const i=o.index+o[0].length,t=T.Clone(e);t.index=i,t.inlineOnly="InlineOnly",k(t,"/Color"),e.index=t.index;const r=a.jsx("span",{style:{color:n},children:A(t.output,e.inSpoiler,!0)});e.output.push({groupType:"Grouped",node:r})}function Re(e,o){const n=[],i=new Set;for(const t of e.allEntries.values()){if(i.has(t)||t.content.length<20||!M(t.spoiler,e.spoiler))continue;const r=a.jsx("li",{children:F(e,t,t.name)},t.name);i.add(t),n.push({node:r,name:t.name})}n.sort((t,r)=>t.name.localeCompare(r.name)),e.output.push({groupType:"Individual",node:a.jsx("ul",{className:"wiki-list",children:n.map(t=>t.node)})}),e.index=o.index+o[0].length}function Me(e,o){const n=o.index+o[0].length,i=T.Clone(e);i.index=n,i.inlineOnly="InlineOnly",k(i,"/GameText"),e.index=i.index;const t=a.jsx("span",{className:"wiki-game-text",children:A(i.output,e.inSpoiler,!0)});e.output.push({groupType:"Grouped",node:t})}function Ge(e,o){const n=/\[\[\/Gallery\]\]/.exec(e.initialContent.substring(e.index));if(n===null){w(e,"Found gallery tag without close tag"),e.index+=o[0].length;return}const i=e.index+o[0].length,t=i+n.index-o[0].length,r=E(e.initialContent.substring(i,t));if(r.length<2){w(e,"Found gallery action without enough images/captions, there should always be an equal number of images and captions"),e.index=t+n[0].length;return}r.length%2!==0&&w(e,"Found gallery action without equal number of links/captions");const l=[];for(let h=0;h<Math.floor(r.length/2);h++){let d=e.inSpoiler,c=r[2*h];const f=r[2*h+1],m=/\[\[([^\]]*)]\]([^[]*)\[\[\/([^\]]*)\]\]/.exec(c);if(m)if(m[1]===m[3])if(m[1]==="Spoiler"||m[1]==="Redacted"){const v=m[1];d=!M(v,e.spoiler),c=m[2]}else w(e,`Found unsupported tag in ${c}, should only be Spoiler/Redacted here`);else w(e,`Found mismatched start/end tags in image name ${c}, should only be Spoiler/Redacted`);e.images.add(c);const u=T.Clone(e);u.inlineOnly="InlineOnly",u.initialContent=f,k(u,void 0);const p=A(u.output,e.inSpoiler),y=B(`${c}`,"wiki_images/");l.push(a.jsxs("div",{children:[a.jsx("div",{children:a.jsxs("a",{className:d?"spoiler-image":void 0,href:y,target:"_blank",rel:"noreferrer",children:[d&&a.jsx("div",{className:"wiki-spoiler-image-text",children:"SPOILER"}),a.jsx("img",{src:y,onError:v=>{v.target.src=B("wiki_images/Image Not Found.png")}})]})}),p]},h))}const s=a.jsx("div",{className:"wiki-gallery-images",children:l});e.output.push({groupType:"Individual",node:s}),e.index=t+n[0].length}function De(e,o){let n=o[2];n===void 0?n="1":n!=="1"&&n!=="2"&&n!=="3"&&n!=="4"&&(w(e,`Found bad heading type ${n}, should be 1, 2, 3, or 4`),n="1");const i=o.index+o[0].length,t=T.Clone(e);t.index=i,t.inlineOnly="InlineOnly",k(t,"/Heading"),e.index=t.index;let r=A(t.output,e.inSpoiler,!0);const{text:l,id:s}=Te(e.initialContent.slice(i,e.index-12));e.allowHeadingLinks&&(e.headings.find(d=>d.id===s)?w(e,`Found duplicate heading ID ${s}`,o.index):e.headings.push({id:s,indent:parseInt(n),text:l})),e.inSpoiler&&(r=a.jsx("span",{className:"spoiler-text spoiler-text-multiline",children:r}));const h=e.allowHeadingLinks&&a.jsx(O,{href:`#${s}`});n==="1"?e.output.push({groupType:"Individual",node:a.jsxs("h2",{id:s,className:"wiki-emphasized-heading",children:[r,h]})}):n==="2"?e.output.push({groupType:"Individual",node:a.jsxs("h3",{id:s,className:"wiki-heading",children:[r,h]})}):n==="3"?e.output.push({groupType:"Individual",node:a.jsxs("h4",{id:s,className:"wiki-heading",children:[r,h]})}):e.output.push({groupType:"Individual",node:a.jsxs("h5",{id:s,className:"wiki-heading",children:[r,h]})})}function Ee(e,o){const n=o.index+o[0].length,i=T.Clone(e);i.index=n,i.inlineOnly="InlineOnly",k(i,"/I"),e.index=i.index;const t=a.jsx("i",{children:A(i.output,e.inSpoiler,!0)});e.output.push({groupType:"Grouped",node:t})}function Le(e,o){const n=/\[\[\/Image\]\]/.exec(e.initialContent.substring(e.index));if(n===null){w(e,`Found image tag "${o[0]}" without close tag`),e.index+=o[0].length;return}const i=e.index+o[0].length,t=i+n.index-o[0].length,r=E(e.initialContent.substring(i,t)),l=r[0];e.images.add(l);let s;if(r.length===1)s="";else{r.length>2&&w(e,`Found more than 1 | in image tag ${o[0]}`);const d=T.Clone(e);d.initialContent=r[1],d.inlineOnly="InlineOnly",k(d,void 0),s=A(d.output,e.inSpoiler)}const h=B(`${l}`,"wiki_images/");e.output.push({groupType:"Individual",node:a.jsxs("div",{className:"wiki-sidebar-image",children:[a.jsxs("a",{className:e.inSpoiler?"spoiler-image":void 0,href:h,target:"_blank",rel:"noreferrer",children:[e.inSpoiler&&a.jsx("div",{className:"wiki-spoiler-image-text",children:"SPOILER"}),a.jsx("img",{src:h,onError:d=>{d.target.src=B("wiki_images/Image Not Found.png")}})]}),s]})}),e.index=t+n[0].length}function Pe(e,o){const n=/\[\[\/List\]\]/.exec(e.initialContent.substring(e.index));if(n===null){w(e,"Found list tag without close tag"),e.index+=o[0].length;return}let i=!1;o[2]==="Ordered"?i=!0:o[2]!==void 0&&o[2]!=="Unordered"&&w(e,`Found list with invalid type ${o[2]}, type should be "Ordered", "Unordered", or empty (defaults to Unordered)`);const t=e.index+o[0].length,r=t+n.index-o[0].length,l=E(e.initialContent.substring(t,r)),s=[];for(let d=0;d<l.length;d++){const c=l[d],f=T.Clone(e);f.initialContent=c,f.inlineOnly="InlineList",k(f,void 0);const m=A(f.output,e.inSpoiler,!0,!1);e.inSpoiler?s.push(a.jsx("li",{children:a.jsx("span",{className:"spoiler-text spoiler-text-multiline",children:m})},d)):s.push(a.jsx("li",{children:m},d))}const h=i?a.jsx("ol",{className:"wiki-list",children:s}):a.jsx("ul",{className:"wiki-list",children:s});e.output.push({groupType:"Individual",node:h}),e.index=r+n[0].length}function V(e,o){const n=o[1].replace("{{","[").replace("}}","]").split("|"),i=n[0];let t=i;n.length>1&&(t=n[1],n.length>2&&w(e,"Too many | in link"));const r=e.allEntries.get(i);if(r!==void 0){const l=F(e,r,t);e.output.push({groupType:"Grouped",node:l})}else i.startsWith("~/")?e.output.push({groupType:"Grouped",node:a.jsx(H,{href:`~/${ee}/${i.slice(2)}`,children:t})}):i.includes(".htm")||i.startsWith("http")?e.output.push({groupType:"Grouped",node:a.jsx("a",{className:"wiki-link",href:i,children:t})}):(w(e,`Bad link to page "${i}" that doesn't exist`),e.output.push({groupType:"Grouped",node:i}));e.index+=o[0].length}function Be(e,o){const n=/\[\[\/Lore\]\]/.exec(e.initialContent.substring(e.index));if(n===null){w(e,`Found lore tag "${o[0]}" without close tag`),e.index+=o[0].length;return}const i=e.index+o[0].length,t=i+n.index-o[0].length,r=E(e.initialContent.substring(i,t)),l=r[0],s=r[1];if(e.index=t+n[0].length,r.length!==2){w(e,"Lore entry should have a group and entry name"),e.index+=o[0].length;return}const h=ce.find(c=>c.Name===l);if(!h){w(e,`Lore group name ${l} is not valid, see lore.json for valid groups`);return}const d=h.Entries.find(c=>c["Name/Number"]===s);if(d===void 0){w(e,`Lore group name ${l} doesn't contain entry with name/number ${s}`);return}e.output.push({groupType:"Separator",node:void 0}),l=="0b10 Records"?(e.output.push({groupType:"Grouped",node:a.jsxs("span",{className:"wiki-game-text",children:[">Query(",s,")"]})}),e.output.push({groupType:"Separator",node:void 0})):l=="WAR.Sys Records"&&(e.output.push({groupType:"Grouped",node:a.jsxs("span",{className:"wiki-game-text",children:['Intel "',s,'"']})}),e.output.push({groupType:"Separator",node:void 0})),e.output.push({groupType:"Grouped",node:a.jsx("span",{className:"wiki-game-text",children:d.Content})}),e.output.push({groupType:"Separator",node:void 0})}const J=new Map([["B",Ne],["BotGroups",He],["Color",Ie],["GameText",Me],["Gallery",Ge],["Heading",De],["I",Ee],["Image",Le],["List",Pe],["AllLocations",xe],["Lore",Be],["NonEmptyPages",Re],["Spoiler",Q],["Sub",Fe],["Sup",We],["Redacted",Q],["Table",qe]]);function k(e,o){const n=/\[\[([^\]:]*)(?::([^\]]*))?\]\]/g;function i(l){return l.replaceAll("{{","[").replaceAll("}}","]")}let t;for(;t=n.exec(e.initialContent);){if(e.index>t.index)continue;let l;for(;(l=e.initialContent.indexOf(`
+`,e.index))&&l!==-1&&l<t.index;)e.inlineOnly==="InlineOnly"?w(e,"Found line break when only inline actions are allowed"):(e.output.push({groupType:"Grouped",node:i(e.initialContent.substring(e.index,l))}),e.output.push({groupType:"Separator",node:void 0})),e.index=l+1;if(e.index<t.index&&(e.output.push({groupType:"Grouped",node:i(e.initialContent.substring(e.index,t.index))}),e.index=t.index),t[1].startsWith("/"))if(t[1]===o){e.index+=t[0].length;return}else w(e,`Found mismatched end tag ${t[1]} with expected tag ${o}`),e.index+=t[0].length;else{const s=J.get(t[1]);e.inlineOnly==="InlineOnly"||e.inlineOnly==="InlineList"?t[1]==="Spoiler"||t[1]==="Redacted"||t[1]==="B"||t[1]==="I"||t[1]==="GameText"||t[1]==="Sub"||t[1]==="Sup"?s(e,t):s!==void 0?w(e,`Found action tag ${t[1]} in scope where only links and inline tags like bold/italics are allowed`):V(e,t):s!==void 0?s(e,t):V(e,t)}}let r;for(;(r=e.initialContent.indexOf(`
+`,e.index))&&r!==-1;)e.output.push({groupType:"Grouped",node:e.initialContent.substring(e.index,r)}),e.output.push({groupType:"Separator",node:void 0}),e.index=r+1;e.index<e.initialContent.length&&e.output.push({groupType:"Grouped",node:e.initialContent.substring(e.index)})}function Q(e,o){const n=!M(o[1],e.spoiler),i=o.index+o[0].length,t=T.Clone(e);t.index=i,t.inSpoiler=n,k(t,o[1]==="Spoiler"?"/Spoiler":"/Redacted"),e.index=t.index;let r=0;for(;r<t.output.length;){let l=1;for(;r+l<t.output.length&&t.output[r+l].groupType==="Grouped";)l++;const s=A(t.output.slice(r,r+l),n,!0,!0);e.output.push({groupType:t.output[r].groupType,node:s}),r+=l}}function Fe(e,o){const n=o.index+o[0].length,i=T.Clone(e);i.index=n,i.inlineOnly="InlineOnly",k(i,"/Sub"),e.index=i.index;const t=a.jsx("sub",{children:A(i.output,e.inSpoiler,!0)});e.output.push({groupType:"Grouped",node:t})}function We(e,o){const n=o.index+o[0].length,i=T.Clone(e);i.index=n,i.inlineOnly="InlineOnly",k(i,"/Sup"),e.index=i.index;const t=a.jsx("sup",{children:A(i.output,e.inSpoiler,!0)});e.output.push({groupType:"Grouped",node:t})}function qe(e,o){const n=/\[\[\/Table\]\]/.exec(e.initialContent.substring(e.index));if(n===null){w(e,"Found table tag without close tag"),e.index+=o[0].length;return}const i=e.index+o[0].length,t=i+n.index-o[0].length,r=E(e.initialContent.substring(i,t),"||"),l=[];let s=!0,h=0,d=0;for(let f=0;f<r.length;f++){const m=r[f],u=E(m);s&&(h=u.length);const p=[];let y=0;for(let v=0;v<u.length;v++){let g=u[v],C;const x=/\[\[CellStyle:(.*?)\]\]/.exec(g);x!==null&&(x[1]==="Good"?C="wiki-cell-good":x[1]==="Neutral"?C="wiki-cell-neutral":x[1]==="Bad"?C="wiki-cell-bad":w(e,`Found invalid table cell style ${x[1]}, expected types are Good Neutral and Bad`),g=g.substring(x[0].length));let N;const I=/\[\[CellSpan:(.*?)\]\]/.exec(g);I!==null?(N=Z(I[1],1),g=g.substring(I[0].length),y+=Z(I[1],1)):y+=1;const R=T.Clone(e);R.initialContent=g,R.inlineOnly="InlineOnly",k(R,void 0);const L=A(R.output,e.inSpoiler,!0,!1);e.inSpoiler&&(C!==void 0?C+=" spoiler-text":C="spoiler-text"),s?p.push(a.jsx("th",{className:C,colSpan:N,children:L},v)):p.push(a.jsx("td",{className:C,colSpan:N,children:L},v))}y!=h&&w(e,`Found ${y} columns in row ${d+1} but header had ${h}`),l.push(a.jsx("tr",{children:p},f)),s=!1,d+=1}const c=a.jsx("table",{className:`wiki-table${e.inSpoiler?" spoiler-text spoiler-table":""}`,children:a.jsx("tbody",{children:l})});e.output.push({groupType:"Individual",node:c}),e.index=t+n[0].length}function w(e,o,n=void 0){n===void 0&&(n=e.index);let i=e.initialContent.substring(n,n+50).replace(`
+`,"\\n");e.initialContent.length-n-50>0&&(i+="..."),e.errors.push(`${o}: section starting with "${i}"`)}function E(e,o="|"){let n=0,i=e.indexOf(o),t=e.indexOf("[[");if(i===-1)return[e];if(t===-1)return e.split(o);const r=[];let l="";for(;;){if(t===-1){const d=e.substring(n).split(o);return d[0]=l+d[0],r.concat(d)}if(i===-1)return n<e.length&&(l+=e.substring(n),r.push(l)),r;if(i<t){l+=e.substring(n,i),r.push(l),l="",n=i+o.length,i=e.indexOf(o,n);continue}l+=e.substring(n,t+2),n=t+2,t=e.indexOf("[[",n);let s=e.indexOf("]]",n),h=1;for(;h>0;){if(s===-1)return r;t!==-1&&(s===-1||t<s)?(h+=1,l+=e.substring(n,t+2),n=t+2,t=e.indexOf("[[",n)):(h-=1,l+=e.substring(n,s+2),n=s+2,s=e.indexOf("]]",n))}t=e.indexOf("[[",n),i=e.indexOf(o,n)}}function Ue({allowedEntries:e,searchString:o,setSearchString:n}){const[i,t]=S.useState(!1),[r,l]=j(),s=o.toLowerCase(),h=e.filter(d=>d.toLowerCase().startsWith(s)&&o.length>1).splice(0,20).map(d=>({value:d}));return e.find(d=>d.toLowerCase()==s)||h.unshift({value:`Search for ${o}`}),a.jsx(ae,{className:"wiki-search",options:h,onInputChange:(d,c)=>{(c.action==="set-value"||c.action==="input-change")&&n(d)},onBlur:()=>{t(!1)},onFocus:()=>{t(!0)},onKeyDown:d=>{d.key==="Enter"&&o.length===1&&l(`/search/${D(o)}`)},onChange:d=>{const c=d.value;c.startsWith("Search for")?l(`/search/${D(o)}`):l(`/${D(c)}`)},inputValue:o,menuIsOpen:o.length>1&&i,placeholder:"Search Wiki"})}function Oe({editState:e,entry:o,parsingErrors:n,setEditState:i}){const t=S.useRef(null),[r,l]=ne();if(!e.showEdit||o===void 0)return;function s(){const m={entries:[...r.entries]};let u=m.entries.find(y=>y.name===o.name);const p=t.current.value;u===void 0?u={name:o.name,content:p}:(m.entries.splice(m.entries.indexOf(u),1),u={...u,content:p}),m.entries.push(u),l(m)}const h=r.entries.find(m=>m.name===o.name),d=(h==null?void 0:h.content)||o.content;function c(m,u){const p=t.current;p.focus();const v=p.value.substring(p.selectionStart,p.selectionEnd);document.execCommand("insertText",!1,m+v+u),p.selectionStart=p.selectionStart-u.length-v.length-m.length}const f=n.length>0&&a.jsxs("div",{className:"wiki-edit-errors",children:[a.jsx("p",{children:"Parsing Errors"}),a.jsx("div",{children:n.map((m,u)=>a.jsx("p",{children:m},u))})]});return a.jsxs("div",{className:"wiki-edit-content",children:[a.jsxs("p",{children:["After editing the page, please visit the"," ",a.jsx("a",{href:"https://docs.google.com/spreadsheets/d/1Fv3WlkoueecEmZDh88XWSMuV8Qdfm3epzFrcx5nF33g",children:"spreadsheet"})," ","for instructions on how to update."]}),a.jsxs("div",{children:[a.jsx(z,{label:"Inline Content",tooltip:"Any kinds of inline content in this group can be placed anywhere where regular text can be processed. Except for Spoiler and Redacted tags, inline content can be nested with other inline content but not other top-level content. For example, Bold may be nested under Italicized text, but an Image cannot be nested under Bold Text"}),a.jsx(b,{tooltip:"Bolds any text inside the selection.",onClick:()=>c("[[B]]","[[/B]]"),children:"Bold"}),a.jsx(b,{tooltip:"Italicizes any text inside the selection.",onClick:()=>c("[[I]]","[[/I]]"),children:"Italicize"}),a.jsx(b,{tooltip:"Creates a subscript section of any text inside the selection.",onClick:()=>c("[[Sub]]","[[/Sub]]"),children:"Subscript"}),a.jsx(b,{tooltip:"Creates a superscript section of any text inside the selection.",onClick:()=>c("[[Sup]]","[[/Sup]]"),children:"Superscript"}),a.jsx(b,{tooltip:"Provides a game-text style to text inside the selection.",onClick:()=>c("[[GameText]]","[[/GameText]]"),children:"Game Text"}),a.jsx(b,{tooltip:"Provides a spoiler section around any text or image content nested underneath if the spoiler setting is set to None.",onClick:()=>c("[[Spoiler]]","[[/Spoiler]]"),children:"Spoiler"}),a.jsx(b,{tooltip:"Provides a spoiler section around any text or image content nested underneath if the spoiler setting is not set to Redacted.",onClick:()=>c("[[Redacted]]","[[/Redacted]]"),children:"Redacted"}),a.jsx(b,{tooltip:"Inserts a link to the selected text. Link text may be different than the link itself by using the syntax [[Link|Link Text]].",onClick:()=>c("[[","]]"),children:"Link"}),a.jsx(b,{tooltip:"Color the selected text in the form of [[Color:Red]]Text[[/Color]]",onClick:()=>c("[[Color]]","[[/Color]]"),children:"Color"})]}),a.jsxs("div",{children:[a.jsx(z,{label:"Top-level Content",tooltip:"Top-level content that can not typically be placed underneath other tags except for spoiler tags. Generally support all types of inline content."}),a.jsx(b,{tooltip:"Provides a large heading line with an underline containing the given text.",onClick:()=>c("[[Heading]]","[[/Heading]]"),children:"Heading 1"}),a.jsx(b,{tooltip:"Provides a slightly smaller heading line containing the given text.",onClick:()=>c("[[Heading:2]]","[[/Heading]]"),children:"Heading 2"}),a.jsx(b,{tooltip:"Provides an even smaller heading line containing the given text.",onClick:()=>c("[[Heading:3]]","[[/Heading]]"),children:"Heading 3"}),a.jsx(b,{tooltip:"Provides the smallest heading line containing the given text.",onClick:()=>c("[[Heading:4]]","[[/Heading]]"),children:"Heading 4"}),a.jsx(b,{tooltip:"Creates an image on the right side of the page with an optional caption in the form of [[Image]]Image Name.png|Image Caption[[/Image]]. May also use an external URL.",onClick:()=>c("[[Image]]","[[/Image]]"),children:"Sidebar Image"}),a.jsx(b,{tooltip:"Creates a list of images centered in the page in a list form. Images and captions should be sequentially listed, like [[Gallery]]Image 1.png|Image 1 caption|Image 2.png|Image 2 caption[[/Gallery]].",onClick:()=>c("[[Gallery]]","[[/Gallery]]"),children:"Gallery Images"}),a.jsx(b,{tooltip:"Creates a lore entry that pulls text from actual lore quotes, use Lore page as a reference.",onClick:()=>c("[[Lore]]","[[/Lore]]"),children:"Lore"}),a.jsx(b,{tooltip:"Creates an unordered (bulleted) list of items that can be separated out like [[List]]Item 1|Item 2|Item 3[[/List]].",onClick:()=>c("[[List]]","[[/List]]"),children:"Unordered List"}),a.jsx(b,{tooltip:"Creates an ordered (numbered) list of items that can be separated out like [[List:Ordered]]Item 1|Item 2|Item 3[[/List]].",onClick:()=>c("[[List:Ordered]]","[[/List]]"),children:"Unordered List"}),a.jsx(b,{tooltip:"Creates a 2-dimensional table of text items in the form of [[Table]]Column 1 Header|Column 2 header||Row 1 column 1|Row 1 column 2[[/Table]].",onClick:()=>c("[[Table]]","[[/Table]]"),children:"Table"})]}),a.jsx("textarea",{ref:t,className:"wiki-edit-text",defaultValue:d},o.name),a.jsxs("div",{className:"wiki-edit-changes-group",children:[a.jsx(b,{tooltip:"Clears any saved changes from local storage and restores the original page text. Normally, changes are saved between sessions.",className:"clear-changes-button",clickOverrideText:{tempChildren:"Cleared",tempDuration:2e3},disabled:r.entries.find(m=>m.name===o.name)===void 0,onClick:()=>{const m={entries:[...r.entries]};m.entries.splice(m.entries.findIndex(p=>p.name===o.name),1),l(m),i({...e,editText:""}),t.current.focus(),document.execCommand("selectall"),document.execCommand("delete"),document.execCommand("insertText",!1,o.content)},children:"Clear Changes"}),a.jsx(b,{tooltip:"Closes the edit pane and returns the content below to the original state if changes were previewed.",onClick:()=>{i({...e,showEdit:!1})},children:"Close"}),a.jsx(b,{tooltip:"Previews the changes made in the editor above in the page below.",className:"preview-changes-button",clickOverrideText:{tempChildren:"Updated",tempDuration:2e3},onClick:()=>{i({...e,editText:t.current.value,entry:o}),s()},children:"Preview Changes"}),a.jsx(b,{className:"copy-text-button",tooltip:"Copies the text in the editor above to the clipboard.",clickOverrideText:{tempChildren:"Copied",tempDuration:2e3},onClick:()=>{navigator.clipboard.writeText(t.current.value.replace(/\n/g,"\\n")),i({...e,modified:!1}),s()},children:"Copy Text"})]}),f]})}function je(){return S.useEffect(()=>{document.title="Home - Cog-Minder Wiki"}),a.jsxs("div",{children:[a.jsxs("p",{children:["This is a WIP unofficial Cogmind Wiki. Use the page dropdown to go to a specific page. For editing info, check out the ",a.jsx("a",{href:"https://discord.gg/f8Fqv2qQxV",children:"Cog-Minder wiki Discord server"})," and make contributions via"," ",a.jsx("a",{href:"https://docs.google.com/spreadsheets/d/1Fv3WlkoueecEmZDh88XWSMuV8Qdfm3epzFrcx5nF33g/edit?usp=sharing",children:"This Google Spreadsheet"}),"."]}),a.jsx("h1",{children:"Useful Pages"}),a.jsxs("ul",{children:[a.jsx("li",{children:a.jsx(H,{href:"/Game Mechanics",children:"Game Mechanics"})}),a.jsxs("li",{children:[a.jsx(H,{href:"/Locations",children:"Locations"})," - Information about all locations in the game"]}),a.jsxs("li",{children:[a.jsx(H,{href:"/Squad",children:"Squad"})," - All types of robot squads"]}),a.jsxs("li",{children:[a.jsx(H,{href:"/Bot Groups",children:"Bot Groups"})," - List of bot classes/other groups"]}),a.jsxs("li",{children:[a.jsx(H,{href:"/Non-empty Pages",children:"Non-empty Pages"})," - List of non-empty pages"]})]}),a.jsx("p",{children:"Contributors:"}),a.jsxs("ul",{children:[a.jsx("li",{children:"aoemica"}),a.jsx("li",{children:"jimmyl"}),a.jsx("li",{children:"ktur"}),a.jsx("li",{children:"lyrabold"}),a.jsx("li",{children:"Rocko1345"})]})]})}function Ze({entry:e,parsedNode:o}){const n=e.extraData;return a.jsxs(a.Fragment,{children:[a.jsx("div",{className:"wiki-infobox",children:a.jsx(Y,{bot:n,popoversToLinks:!0})}),o]})}function ze({entry:e,groupSelection:o,parsedNode:n,setGroupSelection:i}){const t=e.extraData,r=S.useMemo(()=>t.map(s=>({value:s.name})),[e]),l=(t.find(s=>s.name===o)||t[0]).extraData;return a.jsxs(a.Fragment,{children:[a.jsxs("div",{className:"wiki-infobox",children:[a.jsx("div",{className:"wiki-infobox-button-group",children:a.jsx(X,{buttons:r,selected:o,onValueChanged:s=>{i(s)}})}),a.jsx(Y,{bot:l,popoversToLinks:!0})]}),n]})}function Ve({entry:e,parsedNode:o}){const n=e.extraData;return a.jsxs(a.Fragment,{children:[a.jsx("div",{className:"wiki-infobox",children:a.jsx(K,{item:n})}),o]})}function Qe({entry:e,parsedNode:o}){const n=e.extraData;return a.jsxs(a.Fragment,{children:[a.jsx("div",{className:"wiki-infobox",children:a.jsx(pe,{location:n})}),o]})}function Xe({entry:e,groupSelection:o,parsedNode:n,setGroupSelection:i}){const t=e.extraData,r=S.useMemo(()=>t.map(s=>({value:s.name})),[e]),l=(t.find(s=>s.name===o)||t[0]).extraData;return a.jsxs(a.Fragment,{children:[a.jsxs("div",{className:"wiki-infobox",children:[a.jsx("div",{className:"wiki-infobox-button-group",children:a.jsx(X,{buttons:r,selected:o,onValueChanged:s=>{i(s)}})}),a.jsx(K,{item:l})]}),n]})}function _e({entry:e,groupSelection:o,parsedNode:n,path:i,setGroupSelection:t,spoilers:r}){const[l,s]=S.useState(!1);if(S.useEffect(()=>{document.title=`${i} - Cog-Minder Wiki`},[i]),e===void 0)return a.jsxs("p",{children:["Page ",i," not found"]});if(!M(e.spoiler,r)&&!l)return a.jsxs("div",{className:"spoiler-warning",children:[a.jsx("p",{children:"Page blocked by Spoilers setting: Would you like to continue?"}),a.jsx("p",{children:" Spoilers settings can be updated in the Settings popup in the top right corner of the page."}),a.jsxs("div",{children:[a.jsx(b,{onClick:()=>s(!0),children:"Yes"}),a.jsx(b,{onClick:()=>history.back(),children:"Back"})]})]});switch(e.type){case"Bot":return a.jsx(Ze,{entry:e,parsedNode:n});case"Bot Group":return a.jsx(ze,{entry:e,groupSelection:o,parsedNode:n,setGroupSelection:t});case"Location":return a.jsx(Qe,{entry:e,parsedNode:n});case"Other":return n;case"Part":return a.jsx(Ve,{entry:e,parsedNode:n});case"Part Group":return a.jsx(Xe,{entry:e,groupSelection:o,parsedNode:n,setGroupSelection:t});default:oe(e.type)}}function P(e,o){let n=0,i;const t=[],r=o.toLowerCase();for(;(i=e.substring(n).toLowerCase().indexOf(r))!==-1;)i!==0&&t.push(a.jsx(S.Fragment,{children:e.substring(n,n+i)},t.length)),t.push(a.jsx("b",{children:e.substring(n+i,n+i+o.length)},t.length)),n+=i+o.length;return n<e.length&&t.push(a.jsx(S.Fragment,{children:e.substring(n)},t.length)),a.jsx(a.Fragment,{children:t})}function Ye({allEntries:e,allowedEntries:o,search:n}){S.useEffect(()=>{document.title=`Search for "${n}" - Cog-Minder Wiki`});const i=_(),t=n.toLowerCase();let r=!1;const l=Array.from(o).filter(m=>m.toLowerCase().includes(t)),s=Array.from(o).map(m=>({name:m,previewContent:Ae(e.get(m).content,i)})),h=s.filter(m=>m.previewContent.toLowerCase().includes(t));let d,c;if(l.length>0){r=!0;const m=l.map((u,p)=>{let y=s.find(N=>N.name===u).previewContent;const v=y.length<=250,g=y.lastIndexOf(". ");g>-1&&g<=250?y=y.substring(0,g+1):y.length>0&&!v&&(y=y.substring(0,250)+"...");let C;y.length===0?C="No page content":C=P(y,t);const x=P(u,t);return a.jsxs("li",{children:[a.jsx(H,{href:`/${u}`,children:x}),a.jsx("p",{children:C})]},p)});d=a.jsxs(a.Fragment,{children:[a.jsx("h3",{className:"wiki-heading-emphasized",children:"Title Matches"}),a.jsx("ul",{className:"wiki-search-result-list",children:m})]})}if(h.length>0){r=!0;const m=h.map((u,p)=>{let y=u.previewContent.toLowerCase().indexOf(t);const v=Math.max(0,y-150);let g=u.previewContent.substring(v,y+150);const C=v==0,x=y+150>=u.previewContent.length;y=g.toLowerCase().indexOf(t);const N=g.indexOf(". ");N!==-1&&N<y?g=g.substring(N+2):g.length>0&&!C&&(g="..."+g),y=g.toLowerCase().indexOf(t);const I=g.lastIndexOf(". ");I>-1&&I>y?g=g.substring(0,I+1):g.length>0&&!x&&(g=g+"...");let R;g.length===0?R="No page content":R=P(g,t);const L=P(u.name,t);return a.jsxs("li",{children:[a.jsx(H,{href:`/${u.name}`,children:L}),a.jsx("p",{children:R})]},p)});c=a.jsxs(a.Fragment,{children:[a.jsx("h3",{className:"wiki-heading-emphasized",children:"Content Matches"}),a.jsx("ul",{className:"wiki-search-result-list",children:m})]})}const f=a.jsxs(a.Fragment,{children:[a.jsx("h1",{className:"wiki-emphasized-heading",children:"Search Results"}),a.jsxs("h2",{className:"wiki-heading",children:['Searching for "',n,'"']})]});return r?a.jsxs(a.Fragment,{children:[f,d,c]}):a.jsxs(a.Fragment,{children:[f,a.jsxs("span",{children:['No results found for "',n,'".']})]})}function Ke(e,o){const n=new Map;function i(t){function r(l,s){n.get(l)!==void 0&&console.log(`Found duplicate wiki entries for "${l}"`),n.set(l,s)}r(t.name,t);for(const l of t.alternativeNames)r(l,t)}for(const t of G.Bots){const r=e.getBot(t.Name);i({alternativeNames:[],name:t.Name,type:"Bot",spoiler:r.spoiler,content:t.Content,extraData:r})}for(const t of G["Bot Groups"]){let r="None";t.Spoiler==="Redacted"?r="Redacted":t.Spoiler==="Spoiler"&&(r="Spoiler");const l=[],s={alternativeNames:[],content:t.Content??"",name:t.Name,spoiler:r,type:"Bot Group",extraData:l};i(s);for(const h of t.Bots){const d=n.get(h);if(d===void 0){console.log(`Found bad bot name ${h} in group ${t.Name}`);continue}if(d.type!=="Bot"){console.log(`Found non-bot ${d.name} in bot group ${s.name}`);continue}d.parentGroup!==void 0&&console.log(`Found bot ${d.name} in multiple groups`),d.parentGroup=s,l.push(d)}}for(const t of G.Locations){let r="None";t.Spoiler==="Redacted"?r="Redacted":t.Spoiler==="Spoiler"&&(r="Spoiler");const l=(t.SpecialBots??[]).map(c=>{try{return e.getBot(c)}catch{return console.log(`Bad bot name ${c} in ${t.Name}`),null}}).filter(c=>c!==null),s=(t.SpecialItems??[]).map(c=>{try{return o.getItem(c)}catch{return console.log(`Bad item name ${c} in ${t.Name}`),null}}).filter(c=>c!==null),h={branch:t.Branch??!1,entries:[],exits:[],imageName:t.ImageName,maxDepth:t.MaxDepth,minDepth:t.MinDepth,multipleDepths:t.MultipleDepths??!1,name:t.Name,preDepthBranch:t.PreDepthBranch??!1,spoiler:r,specialBots:l,specialItems:s},d={alternativeNames:t.AlternateNames??[],name:t.Name,type:"Location",spoiler:r,content:t.Content,extraData:h};i(d)}for(const t of G.Locations){const r=n.get(t.Name);for(const l of t.Exits){const s=n.get(l);if(s===void 0)console.log(`Bad location reference ${l} in ${t.Name}`);else{const h=r.extraData,d=s.extraData;h.exits.push(d),d.entries.push(h)}}}for(const t of G.Parts){const r=o.getItem(t.Name);let l="None";r.categories.includes("Redacted")?l="Redacted":r.categories.includes("Spoiler")&&(l="Spoiler"),i({alternativeNames:[],name:t.Name,type:"Part",spoiler:l,content:t.Content,extraData:r})}for(const t of G["Part Groups"]){const r="None",l=[],s={alternativeNames:[],content:t.Content??"",name:t.Name,spoiler:r,type:"Part Group",extraData:l};i(s);for(const h of t.Parts){const d=n.get(h);if(d===void 0){console.log(`Found bad part name ${h} in group ${t.Name}`);continue}if(d.type!=="Part"){console.log(`Found non-part ${d.name} in part group ${s.name}`);continue}d.parentGroup!==void 0&&console.log(`Found part ${d.name} in multiple groups`),d.parentGroup=s,l.push(d)}}for(const t of G.Other){let r="None";t.Spoiler==="Redacted"?r="Redacted":t.Spoiler==="Spoiler"&&(r="Spoiler");const l={alternativeNames:t.AlternateNames??[],name:t.Name,type:"Other",spoiler:r,content:t.Content};i(l)}return n}function $e({allowedEntries:e,allEntries:o,setEditState:n}){const[i,t]=j(),[r,l]=S.useState("");return a.jsxs("div",{className:"navigation-bar",children:[he(),a.jsx(de,{href:"/",tooltip:"Navigates to the wiki home page.",children:"Home"}),a.jsx(b,{tooltip:"Pops open an editor that allows previewing edits to the current page.",disabled:i==="/",onClick:()=>{n(s=>({...s,showEdit:!0}))},children:"Edit"}),a.jsx(Ue,{allowedEntries:e,searchString:r,setSearchString:l}),a.jsx(b,{tooltip:"Searches all pages for the given text.",onClick:()=>{r.length>0&&t(`/search/${D(r)}`)},children:"Search"})]})}function st(){const e=ye(),o=fe(),[n]=j(),i=_(),[t,r]=S.useState(""),[l,s]=ie("/wiki/:page"),[h,d]=S.useState({editText:"",entry:void 0,modified:!1,showEdit:!1}),[c]=re(),[f,m]=S.useMemo(()=>{const g=Ke(e,o),C=Array.from(g.entries()).filter(([x,N])=>M(N.spoiler,i)).map(([x,N])=>x);return C.sort(),[g,C]},[e,o,i]);S.useEffect(()=>{const g=c.slice(1);if(g.length===0)return;const C=document.getElementById(g);C!==null&&C.scrollIntoView()},[]);let u,p,y,v=[];if(l){const g=W(s[0]);if(u=f.get(g),p=u,p!==void 0&&h.editText.length>0&&h.entry===p&&(p={...p,content:h.editText}),p!==void 0){const C=ke(p,f,i,o,e,t);y=C.node,v=C.errors}}return a.jsx(se,{base:"/wiki",children:a.jsxs("div",{className:"page-content",children:[a.jsx($e,{allEntries:f,allowedEntries:m,setEditState:d,spoilers:i},n),a.jsx(Oe,{editState:h,entry:u,parsingErrors:v,setEditState:d}),a.jsx("div",{className:"wiki-page-content",children:a.jsxs(le,{children:[a.jsx(q,{path:"/",children:a.jsx(je,{})}),a.jsx(q,{path:"/search/:search",children:g=>a.jsx(Ye,{allEntries:f,allowedEntries:m,search:W(g.search)})}),a.jsx(q,{children:g=>a.jsx(_e,{allEntries:f,entry:p,groupSelection:t,parsedNode:y,spoilers:i,path:W(g[0]),setGroupSelection:r},p==null?void 0:p.name)})]})})]})})}export{st as default};
