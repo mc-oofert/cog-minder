@@ -1,4 +1,4 @@
-import{j as a,L as H,J as D,K as O,c as G,r as S,M as ee,f as Z,N as te,y as B,a as j,s as ae,O as ne,S as z,B as b,o as oe,Q as X,u as _,U as ie,V as re,W,X as se,Y as le,Z as q,_ as he,$ as de}from"./index-QyHts5Bl.js";import{l as ce}from"./lore-yoaB2RHm.js";import{a as me,L as ge,I as ue,B as Y,b as pe,u as ye}from"./BotDetails-IsMFoqdc.js";import{a as K,u as fe}from"./ItemPopover-1IfqX7Lb.js";/* empty css              */import"./bots-EPaA02tF.js";import"./botTypes-Cxei0LoN.js";import"./items-bCTdCTgI.js";const be=[{Name:"01-MTF",Content:"[[Image]]MTF Vault.png|Running into MTF in a [[Storage]] vault[[/Image]]A friendly bot that rarely shows up in [[Storage]] in an already opened vault. Will join Cogmind as an uncontrollable purple ally for the duration of the map and uses [[01-MTF's Autohacker]] to automatically open any other vaults it can see. It will assimilate or destroy most enemies it encounters extremely quickly with its high spectrum high damage EM gun [[01-MTF's Shockpuncher]]. The Shockpuncher is a very powerful weapon that is strong throughout the majority of the game as long as you can deal with its short range if you can get it to drop. [[Spoiler]]Presumably stole exiles prototypes.[[/Spoiler]]"},{Name:"12-ASH",Content:`12-ASH is one of the Hero's Of Zion. Upon appearing, they will shout "hail to the king".`},{Name:"1C-UTU",Content:""},{Name:"5H-AD0",Content:""},{Name:"7R-MNS",Content:""},{Name:"7V-RTL",Content:""},{Name:"8R-AWN",Content:""},{Name:"99-TNT",Content:""},{Name:"A-02 Transporter",Content:""},{Name:"A-15 Conveyor",Content:""},{Name:"A-27 Freighter",Content:""},{Name:"A2",Content:""},{Name:"A3",Content:""},{Name:"A4",Content:""},{Name:"A5",Content:""},{Name:"A6",Content:""},{Name:"A7",Content:"Drops the [[A7 Data Core]] when killed or gives a code when they are show the Cetus Mainframe in [[Cetus]]"},{Name:"A8",Content:""},{Name:"AD-0RF",Content:""},{Name:"AZ-K3N",Content:""},{Name:"Advanced Drone",Content:""},{Name:"Alpha 7",Content:""},{Name:"Architect",Content:""},{Name:"Army Drone",Content:""},{Name:"Artisan",Content:""},{Name:"Assault Drone",Content:""},{Name:"Assembled (4)",Content:""},{Name:"Assembled (7)",Content:""},{Name:"Assembler",Content:"Produces [[Assembled]] every 10 turns. Otherwise harmless."},{Name:"Autobeam Turret",Content:""},{Name:"B-36 Bruiser",Content:""},{Name:"B-48 Gladiator",Content:""},{Name:"B-60 Warrior",Content:""},{Name:"B-74 Champion",Content:""},{Name:"B-75 Beast",Content:""},{Name:"B-86 Titan",Content:""},{Name:"B-90 Cyclops",Content:""},{Name:"B-99 Colossus",Content:""},{Name:"Bomb Drone",Content:""},{Name:"Borebot",Content:""},{Name:"Bouncer",Content:""},{Name:"Butcher (5)",Content:""},{Name:"Butcher (7)",Content:""},{Name:"C-17 Slicer",Content:""},{Name:"C-30 ARC",Content:""},{Name:"C-35 Carver",Content:""},{Name:"C-40 Crusher",Content:`Crushers are heavy-duty [[Treads|treading]] trash (you) compacting machines plated in [[Damper Plating]], rendering them nearly immune to electromagnetic damage. Crushers will attempt to compact anything that is not a Crusher, and their Compactor is a VERY formidable melee weapon (does not drop) that will either [[B]]destroy or drop a few of your parts[[/B]]. Weak to explosions and strong against melee (which would be a bad idea regardless).
+import{j as a,L as H,J as D,K as O,c as G,r as S,M as ee,f as Z,N as te,y as B,a as j,s as ae,O as ne,S as z,B as b,o as oe,Q as X,u as _,U as ie,V as re,W,X as se,Y as le,Z as q,_ as he,$ as de}from"./index-BeDFakMF.js";import{l as ce}from"./lore-yoaB2RHm.js";import{a as me,L as ge,I as ue,B as Y,b as pe,u as ye}from"./BotDetails-7S6N8kTB.js";import{a as K,u as fe}from"./ItemPopover-zFCGB50U.js";/* empty css              */import"./bots-EPaA02tF.js";import"./botTypes-Cxei0LoN.js";import"./items-bCTdCTgI.js";const be=[{Name:"01-MTF",Content:"[[Image]]MTF Vault.png|Running into MTF in a [[Storage]] vault[[/Image]]A friendly bot that rarely shows up in [[Storage]] in an already opened vault. Will join Cogmind as an uncontrollable purple ally for the duration of the map and uses [[01-MTF's Autohacker]] to automatically open any other vaults it can see. It will assimilate or destroy most enemies it encounters extremely quickly with its high spectrum high damage EM gun [[01-MTF's Shockpuncher]]. The Shockpuncher is a very powerful weapon that is strong throughout the majority of the game as long as you can deal with its short range if you can get it to drop. [[Spoiler]]Presumably stole exiles prototypes.[[/Spoiler]]"},{Name:"12-ASH",Content:`12-ASH is one of the Hero's Of Zion. Upon appearing, they will shout "hail to the king".`},{Name:"1C-UTU",Content:""},{Name:"5H-AD0",Content:""},{Name:"7R-MNS",Content:""},{Name:"7V-RTL",Content:""},{Name:"8R-AWN",Content:""},{Name:"99-TNT",Content:""},{Name:"A-02 Transporter",Content:""},{Name:"A-15 Conveyor",Content:""},{Name:"A-27 Freighter",Content:""},{Name:"A2",Content:""},{Name:"A3",Content:""},{Name:"A4",Content:""},{Name:"A5",Content:""},{Name:"A6",Content:""},{Name:"A7",Content:"Drops the [[A7 Data Core]] when killed or gives a code when they are show the Cetus Mainframe in [[Cetus]]"},{Name:"A8",Content:""},{Name:"AD-0RF",Content:""},{Name:"AZ-K3N",Content:""},{Name:"Advanced Drone",Content:""},{Name:"Alpha 7",Content:""},{Name:"Architect",Content:""},{Name:"Army Drone",Content:""},{Name:"Artisan",Content:""},{Name:"Assault Drone",Content:""},{Name:"Assembled (4)",Content:""},{Name:"Assembled (7)",Content:""},{Name:"Assembler",Content:"Produces [[Assembled]] every 10 turns. Otherwise harmless."},{Name:"Autobeam Turret",Content:""},{Name:"B-36 Bruiser",Content:""},{Name:"B-48 Gladiator",Content:""},{Name:"B-60 Warrior",Content:""},{Name:"B-74 Champion",Content:""},{Name:"B-75 Beast",Content:""},{Name:"B-86 Titan",Content:""},{Name:"B-90 Cyclops",Content:""},{Name:"B-99 Colossus",Content:""},{Name:"Bomb Drone",Content:""},{Name:"Borebot",Content:""},{Name:"Bouncer",Content:""},{Name:"Butcher (5)",Content:""},{Name:"Butcher (7)",Content:""},{Name:"C-17 Slicer",Content:""},{Name:"C-30 ARC",Content:""},{Name:"C-35 Carver",Content:""},{Name:"C-40 Crusher",Content:`Crushers are heavy-duty [[Treads|treading]] trash (you) compacting machines plated in [[Damper Plating]], rendering them nearly immune to electromagnetic damage. Crushers will attempt to compact anything that is not a Crusher, and their Compactor is a VERY formidable melee weapon (does not drop) that will either [[B]]destroy or drop a few of your parts[[/B]]. Weak to explosions and strong against melee (which would be a bad idea regardless).
 
 Due to their extreme lethality in melee, stay out of their range at all costs, and maybe just run the hell out of [[Wastes]]. Alternatively pack a good launcher or a good critical weapon, as their plating will tank most of your shots.`},{Name:"C-55 Analyst",Content:""},{Name:"C-57 Dissector",Content:""},{Name:"C-65 Expert",Content:""},{Name:"CL-ANK",Content:""},{Name:"Cetus Guard",Content:""},{Name:"Cobbler",Content:""},{Name:"Cogmind",Content:"That's you."},{Name:"Combat Drone",Content:""},{Name:"Combat Programmer",Content:""},{Name:"Commander",Content:""},{Name:"D-53 Grenadier",Content:""},{Name:"D-63 Destroyer",Content:""},{Name:"D-83 Annihilator",Content:""},{Name:"DAS Turret",Content:""},{Name:"Data Miner",Content:""},{Name:"Decomposer",Content:""},{Name:"Decoy Drone",Content:""},{Name:"Demented",Content:""},{Name:"Dragon",Content:""},{Name:"Drone",Content:""},{Name:"E-15 Imp",Content:""},{Name:"EX-BIN",Content:`[[Heading]]Parse[[/Heading]]
 When datajacked, one of the following parse texts is shown:
@@ -1544,13 +1544,12 @@ Higher security fabricators are capable of much faster construction.
 [[Heading]]Lore[[/Heading]]
 [[Lore]]0b10 Records|Fabricator[[/Lore]]`},{Name:"Fanart",Content:`Check out the following artists' fanart pages:
 [[List]][[Fanart/CaptainWinky|CaptainWinky]]|[[Fanart/Maiker|Maiker]]|[[Fanart/plasmoidman|plasmoidman]]|[[Fanart/Radbanker|Radbanker]]|[[https://zyalin.wixsite.com/zyalin-art/cogmind|Zyalin (external site)]][[/List]]`},{Name:"Fanart/CaptainWinky",Content:`Original thread on gridsagegames forums [[https://www.gridsagegames.com/forums/index.php?topic=1773.0|here]].
-Item art will be placeholders until all the items are listed.
 [[Heading]]G-11 Fodder[[/Heading]]
 [[GameText]]>Analysis(G-11 Fodder)[[/GameText]]
 [[GameText]]The first of the G-series grunts, this model is no longer in production and the relevant schematics will be moved to the Archives.  The G-11 was intended to be fast and cheap to produce and deploy as a deterrent for unarmed Derelicts.  As a result it has a low-integrity core, low-coverage legs and its weapon is a repurposed low-power fabricator laser.  Existing units still number in the hundreds and are being either scrapped or deployed to the caves where they are sometimes useful as diversions.  Many Derelicts still rely on obsolete signal interpreters or seismic detectors, so they are unable to tell the difference between these bots and more capable models.[[/GameText]]
 [[ItemDetails]]
 Name|Lgt. Aluminum Leg||
-Image Name|../part_art/Aluminum Leg.png||
+Image Name|https://i.imgur.com/OdPspSe.png||
 Type|Leg||
 Slot|Propulsion||
 Rating|1||
@@ -1568,7 +1567,7 @@ Support|7||
 Penalty|80[[/ItemDetails]]
 [[ItemDetails]]
 Name|Mod. Etching Laser||
-Image Name|../part_art/Sml. Laser.png||
+Image Name|https://i.imgur.com/RLtXJly.png||
 Type|Energy Gun||
 Slot|Weapon||
 Mass|1||
@@ -1586,11 +1585,11 @@ Damage|2-3||
 Damage Type|Thermal||
 Salvage|0[[/ItemDetails]]
 [[Heading]]L-11 Stabber[[/Heading]]
-[[GameText]]>Analysis: "L-11 Stabber"[[/GameText]]
+[[GameText]]>Analysis(L-11 Stabber)[[/GameText]]
 [[GameText]]The first dedicated melee robot, this duelist derivative of the grunt class was armed with a small but fast dagger.  Best suited for corner ambushes as its lack of core coverage made open attacks impractical.  A few minor modifications included switching the dagger for a spear and the addition of a low-powered transmission jammer to prevent victims from warning others.  Current duelists are focused on reliability in open combat, but ambush traps ensure that they (along with brawlers) enjoy the benefits of sneak attacks from time to time.[[/GameText]]
 [[ItemDetails]]
 Name|Dagger||
-Image Name|../part_art/Sml. Laser.png||
+Image Name|https://i.imgur.com/iEtuajF.png||
 Type|Piercing Weapon||
 Slot|Weapon||
 Mass|1||
@@ -1607,7 +1606,7 @@ Critical|2% Destroy||
 Salvage|0[[/ItemDetails]]
 [[ItemDetails]]
 Name|Lpw. Transmission Jammer||
-Image Name|../part_art/Exp. Heat Sink.png||
+Image Name|https://i.imgur.com/ja8Eh72.png||
 Type|Device||
 Slot|Utility||
 Mass|1||
@@ -1624,7 +1623,7 @@ Description|Blocks local transmissions from visible hostiles within a range of 2
 [[GameText]]Megaunit here with a sighting of a funny-looking Subdweller in Recycling, of all places.  And this is one Sub who really doesn't want to be seen.  I missed him at first because he has some kind of cloaking device instead of the more common Sub optics, and he uses an EM weapon that I haven't seen before.  He tagged a grunt with a couple of shots and rolled out of sight, letting the slightly corrupted grunt lose track of him instead of going for the kill.  This may be further evidence that Subs aren't as violent as they seem.  My observations ended there because he spotted me and I had to avoid being corrupted so that I could get this entered into the database.[[/GameText]]
 [[ItemDetails]]
 Name|Sub. EM Pulse Gun||
-Image Name|../part_art/Sml. Laser.png||
+Image Name|https://i.imgur.com/RUlQdmG.png||
 Type|Energy Gun||
 Slot|Weapon||
 Mass|4||
@@ -1643,7 +1642,7 @@ Disruption|2||
 Salvage|+2[[/ItemDetails]]
 [[ItemDetails]]
 Name|Sub. Cloaking Device||
-Image Name|../part_art/Exp. Heat Sink.png||
+Image Name|https://i.imgur.com/3ALqz8B.png||
 Type|Device||
 Slot|Utility||
 Mass|2||
@@ -1661,7 +1660,7 @@ Description|Effective sight range of robots attempting to spot you reduced by 3.
 [[GameText]]One of my first robot designs was a small hexapod walker made in mass quantities to spread out and survey the surface.  When I began producing combat bots, I revisited this design and added an assault rifle and light armor.  The Bug's armored shell employs adaptive camouflage while the robot is dormant, enabling it to hide from distant hostiles until it wakes up.  The shell also compensates for the core's inherent weakness to explosive damage.  Bug squads were commonly used as patrols or stationed to guard an open area, but flying swarmers and sentries have replaced them in these roles.  All remaining units have been recalled to garrisons to supplement security positions.  So-called "garrison divers" who challenge a seemingly lone sentry might be surprised when three or four nearby Bugs reveal themselves.[[/GameText]]
 [[ItemDetails]]
 Name|Camouflage Shell||
-Image Name|../part_art/Exp. Heat Sink.png||
+Image Name|https://i.imgur.com/6zGkmUY.png||
 Type|Protection||
 Slot|Utility||
 Mass|3||
@@ -1676,7 +1675,7 @@ Description|Effective sight range of robots attempting to spot you reduced by 4 
   <no_stack>[[/ItemDetails]]
 [[ItemDetails]]
 Name|Aluminum Hexapod Legs||
-Image Name|../part_art/Aluminum Leg.png||
+Image Name|https://i.imgur.com/QbHmvmU.png||
 Type|Leg||
 Slot|Propulsion||
 Rating|1||
@@ -1697,7 +1696,7 @@ Penalty|100[[/ItemDetails]]
 [[GameText]]Sometimes tactical situations require explosive solutions.  The demolisher class was conceived to enable rapid pacification of large Derelict gatherings in the caves.  The D-43 model was armed with a grenade launcher but lacked many of the features that would be standard for future models: no shock absorption system outside of core resistance, a basic targeting computer instead of one optimized for launchers, and regular airjets instead of combat hover.  The initial version of the Bomber was actually equipped with uparmored hover units, but these produced too much heat and offered too little support.  Although the components needed improvement, the overall concept was vindicated by the success of demolishers in large-scale battles, and Derelicts were quick to hack the schematic for their own [Martyr] designs.  Bombers became priority targets whenever they were deployed and none are known to exist today.[[/GameText]]
 [[ItemDetails]]
 Name|Arm. Hover Unit||
-Image Name|../part_art/Aluminum Leg.png||
+Image Name|https://i.imgur.com/kcwZ4Wm.png||
 Type|Hover Unit||
 Slot|Propulsion||
 Rating|3||
@@ -1719,7 +1718,7 @@ Description|An Improved Hover Unit strained to its limit by additional armor.[[/
 [[GameText]]This was the first hunter to enter regular service and does not have the Fly drone interface of the newer models.  The Whirlwind's tracking capabilities are on par with those of the Commando, so the lack of the drone is rarely an issue.  This model's most distinctive feature is an antiquated anti-materiel rifle chosen for its ability to penetrate walls and machinery.  The rifle is quite powerful but also slow to operate.  I decided to give future hunters multiple weapons to enable more efficient volleys and some degree of redundancy if one weapon is destroyed.  A few Whirlwinds still see service in low-threat cave regions where they utilize other combat robots as spotters.[[/GameText]]
 [[ItemDetails]]
 Name|Anti-Materiel Rifle||
-Image Name|../part_art/Sml. Laser.png||
+Image Name|https://i.imgur.com/JiZlaaa.png||
 Type|Ballistic Gun||
 Slot|Weapon||
 Mass|6||
@@ -1741,7 +1740,7 @@ Description|A powerful but bulky and slow-cycling rifle. Good at penetrating wal
 [[Heading]]A-01 Mover[[/Heading]]
 [[ItemDetails]]
 Name|Bulk Storage Unit||
-Image Name|../part_art/Exp. Heat Sink.png||
+Image Name|https://i.imgur.com/WKMbjla.png||
 Type|Storage||
 Slot|Utility||
 Size|4||
@@ -1760,7 +1759,7 @@ Description|Increases inventory capacity by 80.
 [[GameText]](Sorry, but that sounds like it could attract serious 0b10 attention which is something we don't want right now.  I'll forward this to Optimus though because we may need a few of these in the future.  And you know the policy on names, you've only asked me twenty times by now.  --Macechunk)[[/GameText]]
 [[ItemDetails]]
 Name|Autobolter||
-Image Name|../part_art/Sml. Laser.png||
+Image Name|https://i.imgur.com/yG4F2vy.png||
 Type|Ballistic Gun||
 Slot|Weapon||
 Mass|5||
@@ -1787,7 +1786,7 @@ Description|Selects its own targets and attacks them if in range, at no time cos
 [[GameText]]The first X-series specialist was created as a means to test an early example of quantum weapon technology, the Q-Bolt.  This weapon uses rails to launch a small slug of matter acting as a catalyst for a powerful quantum reaction.  The reaction only begins to reach its full potential halfway through flight so the Q-Bolt is best used at maximum range and is least effective at medium or close range.  The available visual processing technology at the time was insufficient for the Archer to use the weapon properly by itself, and it had to rely on Watchers and other sources to be notified of distant targets.  The X-57 Shotgunner was later created to provide close support where the Archer was at its weakest, but with the introduction of the X-62 Marksman the Archer was rendered obsolete.  Marksmen outperform Archers in all but the most extreme situations and do not require spotter support.  All remaining Archers were scrapped to ensure that the Q-Bolt wouldn't fall into Derelict hands.  Despite its limitations, such a weapon would be useful in hit-and-run attacks on static positions, already a favorite tactic of Derelicts.[[/GameText]]
 [[ItemDetails]]
 Name|Q-Bolt||
-Image Name|../part_art/Sml. Laser.png||
+Image Name|https://i.imgur.com/NLXmC3W.png||
 Type|Energy Gun||
 Slot|Weapon||
 Mass|6||
@@ -1812,7 +1811,7 @@ Description|Gains +2 damage for each unit of distance traveled above 12.[[/ItemD
 [[GameText]]This short-lived variation of the Scientist was created to assist in robot design.  It was provided with generous amounts of armor, a combat analysis utility, and programming to permit a certain amount of dynamic or "out-of-the-box" thinking.  In hindsight this was a mistake as one of the five Developers that had been produced broke free of its programming and quickly turned its attention to replicating this behavior in its four fellows.  All five had reached the Caves by the time I figured out what had happened.  Many cycles later, all of the Developers were found in the back of a fallen Warlord base, attached to a memory transfer unit, unpowered and core-wiped.  The Tinkerer design began to appear around this time, clearly inspired by my newer researchers but with elements of the Developers' thought processes taken to sometimes obsessive extremes.  Though I have no hard evidence to confirm this, I believe that the Developers themselves created this design and then transferred themselves into the first ones produced.  Perhaps one or more of them are still alive and working with Warlord or other factions.  It would certainly explain some of the more unusual design choices for Warlord's newer prototypes.[[/GameText]]
 [[ItemDetails]]
 Name|Combat Logger||
-Image Name|../part_art/Exp. Heat Sink.png||
+Image Name|https://i.imgur.com/N4mS8Ep.png||
 Type|Processor||
 Slot|Utility||
 Mass|0||
@@ -1830,7 +1829,7 @@ Description|While active, reverse engineers schematics of robot models that are 
 [[GameText]]The D-series distributor was created to enable mass matter transportation in the early days of construction.  Essentially a set of large matter tanks on wheels, the Tanker was capable of collecting matter left on the ground by workers with a tractor beam but could also pull matter from a recycling unit or call all workers in the area to transfer the contents of their matter pods.  The improved matter distribution network in 0b10 and the development of matter compression technology made these Tankers largely obsolete.  Their fragile and oversized tanks were easily broken, and their cores were susceptible to hacking.  After one unknown prankster reprogrammed a Tanker to spell obscenities by dumping matter all over the floor in the upper Factory, the remaining fleet was recalled and scrapped.[[/GameText]]
 [[ItemDetails]]
 Name|Matter Tank||
-Image Name|../part_art/Exp. Heat Sink.png||
+Image Name|https://i.imgur.com/x5jpNOb.png||
 Type|Storage||
 Slot|Utility||
 Size|2||
@@ -1889,7 +1888,7 @@ Armament|Mak. Beam Rifle|1||
 Components|Mic. Nuclear Core|1|Arm. Hover Unit|2|Visual Processing Unit|1|Seismic Detector|1|Mak. Targeting Computer|1|Imp. Cooling System|1[[/BotDetails]]
 [[ItemDetails]]
 Name|Mak. Beam Rifle||
-Image Name|../part_art/Sml. Laser.png||
+Image Name|https://i.imgur.com/A083fie.png||
 Type|Energy Gun||
 Slot|Weapon||
 Mass|2||
@@ -1915,7 +1914,7 @@ Description|An imitation of the standard beam rifle with extra range at the cost
 [[GameText]]I LOVE these Tech Extrapolators!  Take a look at what I came up with just from looking at a single DCF scrap pile.  (Sorry to the bystander who got crushed against the wall.)  CR-KLE helped me put together a new bot that I loaned out to a scav squad and they seem to be happy with it.  It would be nice if some of the other Scientists quit wasting their time staring at that creepy Humpback in the museum and focused on components that WON'T get you killed.[[/GameText]]
 [[ItemDetails]]
 Name|Hardlight Projector||
-Image Name|../part_art/Exp. Heat Sink.png||
+Image Name|https://i.imgur.com/ThPpWZU.png||
 Type|Device||
 Slot|Utility||
 Mass|12||
@@ -1930,7 +1929,7 @@ Description|Reduces damage of each incoming kinetic or thermal projectile agains
  <no_stack>[[/ItemDetails]]
 [[ItemDetails]]
 Name|Mak. Armored Leg||
-Image Name|../part_art/Aluminum Leg.png||
+Image Name|https://i.imgur.com/SRRAZgK.png||
 Type|Leg||
 Slot|Propulsion||
 Rating|5||
@@ -1954,8 +1953,8 @@ Rating|60||
 Tier|6||
 Threat|2||
 Value|60||
-Energy Generation|25||
-Heat Dissipation|30||
+Energy Generation|60||
+Heat Dissipation|130||
 Visual Range|16||
 Memory|20||
 Spot Percent|20||
@@ -1978,7 +1977,7 @@ Rating|70||
 Tier|4||
 Threat|1||
 Value|70||
-Energy Generation|30||
+Energy Generation|45||
 Heat Dissipation|75||
 Visual Range|16||
 Memory|50||
@@ -1995,7 +1994,7 @@ Components|Reflective Plating|1|Cooling System|2|Disposable Heat Sink|1[[/BotDet
 [[GameText]]The success of the original demolisher led to the creation of an electromagnetic variant.  The D-48 Pulsar, armed with an EMP Blaster, featured insulated plating to augment its innate EM resistance and was the first demolisher to use a launcher guidance computer.  This bot also came equipped with a device that focused EMP blasts for more concentrated damage in a smaller and more controllable area.  I believed that an EM launcher would cause less collateral damage than a grenade launcher in Complex territory.  This was partially correct because walls were not destroyed by EMP blasts, but Pulsars' shots often damaged machinery and detonated nuclear reactors.  EMP blasts also set off traps which caused explosions and false alarms.  Residual corruption of maintenance bots caused them to trigger trap arrays in unexpected places.  The Pulsar was effective despite the chaos it caused but not enough to justify regular use.  Few were produced and all were eventually expended in the caves.[[/GameText]]
 [[ItemDetails]]
 Name|EM Focus||
-Image Name|../part_art/Exp. Heat Sink.png||
+Image Name|https://i.imgur.com/nLVNncx.png||
 Type|Device||
 Slot|Utility||
 Mass|3||
@@ -2013,7 +2012,7 @@ Description|Reduces falloff of EM launchers by 2 but reduces radius of EM blasts
 [[GameText]]To facilitate mainframe maintenance, P-50 Gurus were often required to perform specific high-security database operations or reset sensitive systems.  I chose to produce specialized hackware to provide appropriate permissions when necessary.  Instead of giving them to all Gurus I decided to make limited quantities of chips that expired after one use, a decision that seemed overly cautious at the time but proved wise when the Guru schematic was stolen.  The Derelict version of these programmers has a crude but functional "hack stack" for general use but cannot easily exploit admin privileges without my Database Keys or Bootstrap Chips.  Operators and newer programmers utilize a more efficient system connected to RIF, so this hackware has been discontinued and existing stock will be recycled.  This concept led me to begin implementing a similar chip-based authorization system for fabricators.  This will provide added security for the fabrication network while saving me from having to manually approve component requests from mechanics or parties such as the Unchained.[[/GameText]]
 [[ItemDetails]]
 Name|Database Key||
-Image Name|../part_art/Exp. Heat Sink.png||
+Image Name|https://i.imgur.com/1wL3cXi.png||
 Type|Hackware||
 Slot|Utility||
 Mass|0||
@@ -2028,7 +2027,7 @@ Description|When active, enables Cogmind to perform an unlisted Query, Schematic
  <no_stack>[[/ItemDetails]]
  [[ItemDetails]]
 Name|Bootstrap Chip||
-Image Name|../part_art/Exp. Heat Sink.png||
+Image Name|https://i.imgur.com/EJnyuKT.png||
 Type|Device||
 Slot|Utility||
 Mass|0||
@@ -2111,7 +2110,7 @@ Components|Fission Core|1|Imp. Titanium Leg|2|Core Shielding|1|Nanoactuators|1|I
 [[GameText]]One of "Da Bonk Boyz" from early Complex history and the only one still in Complex service.  After the beginning of 0b10 groundwork and the necessary changes to Derelict policy, the other Boyz left their posts.  R4-LPH stayed although his work in construction had become secondary to his assistance in robot design.  While the original Savage and Stabber were my own designs, a few of his suggestions were implemented in later brawler and duelist models.  At some point R4-LPH was confronted by a few of his former friends and was forced to destroy them in combat using a wrecking ball saved from his days in Construction.  Soon after that incident, he volunteered to join the Unchained in an active combat role.  I equipped him with the first of a new line of legs which provide increased evasion while closing the distance to a target.  Unfortunately he has proven increasingly unstable over time.  In his last deployment he began destroying 0b10 bots and machinery at random after defeating his original targets.  I was forced to dispatch a Disruptor squad to interrupt his berserk rage.  If it happens again he will be scrapped, though in his current state telling him this might be considered an encouragement rather than a warning.[[/GameText]]
 [[ItemDetails]]
 Name|R4-LPH's Wrecking Ball||
-Image Name|../part_art/Sml. Laser.png||
+Image Name|https://i.imgur.com/5ETXrf1.png||
 Type|Impact Weapon||
 Slot|Weapon||
 Size|2||
@@ -2179,7 +2178,7 @@ Components|Graphene Brace|1|Imp. Dynamic Insulation System|1|Active Sensor Suite
 Components|Enh. Optical Array|1|Mak. Targeting Computer|1[[/BotDetails]]
 [[ItemDetails]]
 Name|Hvy. Slug Cannon||
-Image Name|../part_art/Sml. Laser.png||
+Image Name|https://i.imgur.com/ICFpgQH.png||
 Type|Ballistic Cannon||
 Slot|Weapon||
 Size|2||
@@ -2237,7 +2236,7 @@ Components Option|Adv. Cooling System|1|Exp. Heat Sink|1[[/BotDetails]]
 [[GameText]]The Blocker is a "combat engineer" capable of temporarily barricading areas with hostile activity.  It has been fitted with light armor plating and armored wheels but its defining feature is a medium-range launcher used to deploy rapidly expanding and hardening foamcrete.  Because blocking off passageways could be disruptive to regular operations, the foamcrete was formulated to quickly break down on its own after a hundred microcycles and could be destroyed by tunnelers or some combat bots if necessary.  As with other construction implements these launchers became targets for thieves and were sometimes used in coordinated assaults to block off sentries or bury a garrison in foam while other Derelicts ran rampant.  No longer in production although some Blockers are still kept in strategic locations inside garrisons to bolster internal defenses.[[/GameText]]
 [[ItemDetails]]
 Name|Foamcrete Cannon||
-Image Name|../part_art/Sml. Laser.png||
+Image Name|https://i.imgur.com/d3zlu9i.png||
 Type|Special Weapon||
 Slot|Weapon||
 Mass|6||
@@ -2258,7 +2257,7 @@ Description|Creates one foamcrete wall at the site of impact. Hitting a wall wil
 [[GameText]]This wheeled fabricator, reminiscent of the Cobbler, has only been seen in the caves below 0b1.  Fabricating whole robots is considerably more complicated than producing individual components as shown by the bulk and inefficiency of the Spawner's fabrication unit.  Despite its size it can only produce relatively small and basic bots such as early swarmers and light bipeds.  Spawners do not seem to be related to Assemblers but should nonetheless be prioritized for extermination before someone updates their schematics to include stripped-down Cutters.[[/GameText]]
 [[ItemDetails]]
 Name|Spawner Unit||
-Image Name|../part_art/Exp. Heat Sink.png||
+Image Name|https://i.imgur.com/HdfRgEM.png||
 Type|Device||
 Slot|Utility||
 Size|4||
@@ -2294,7 +2293,7 @@ Armament|Pulse Pistol|1||
 Components|Lgt. Ion Engine|1|Lgt. Aluminum Leg|2|Imp. Heat Sink|1[[/BotDetails]]
 [[ItemDetails]]
 Name|Pulse Pistol||
-Image Name|../part_art/Sml. Laser.png||
+Image Name|https://i.imgur.com/FXKI0cg.png||
 Type|Energy Gun||
 Slot|Weapon||
 Mass|2||
@@ -2313,7 +2312,6 @@ Damage|12-14||
 Damage Type|Thermal||
 Critical|5% Burn||
 Salvage|0[[/ItemDetails]]
-
 [[Heading]]Light Variants[[/Heading]]
 [[GameText]]>Record(Light Variants)[[/GameText]]
 [[GameText]]I was forced to reconsider my earlier evaluation of the Spawner after capturing one intact and bringing it to Testing.  While I could easily come up with a better portable fab unit, the Spawner Unit is capable of producing more advanced bots if given additional build time.  There is still no sign of where these originated, but I can now rule out Warlord and the Developers who would have come up with better schematics.  I have already come up with some new robot designs that have been successfully produced by the Spawner as well as my standard swarmers and cutters.  Instead of simply destroying the remaining Spawners I now intend to send Programmers with heavy escorts to capture them, hide them in isolated cave sectors, and have them build small armies of my own designs.  This would help me establish total control over the 0b1 outskirts while keeping most of my regular forces concentrated in and near 0b10.  Perhaps this would be a good opportunity to activate "PP" and let it take point on the mission.[[/GameText]]
@@ -2775,7 +2773,7 @@ Lightning squads consist of 3 Lightnings and an [[I-47 Archangel]]. They can be 
 [[List]]
 First Step to Greatness: [[Spoiler]]Get terminated.[[/Spoiler]]
 Strategy : [[Spoiler]]You'll likely get this one eventually.[[/Spoiler]]|
-Back For More: Complete 50 runs.[[Comment]]This comment is to make the newline work like i want it to. I'll use empty comments in a bunch of this article's lists as a way to have newlines actually work like i want them to, instead of letting them be ignored.[[/Comment]]
+Back For More: Complete 50 runs.[[Comment]]This comment is to make the newline work like i want it to.[[/Comment]]
 Strategy : You'll get this one eventually. The relevant scoresheet statistic is "Game No."
 [[/List]]
 
@@ -2849,10 +2847,14 @@ Serviceable Loadout: Reach a peak rating of 50.
 [[Heading]]Achievement collection progress[[/Heading]]
 
 [[List]]
-Achiever: Earn 25% of achievements.
+Achiever: Earn 25% of achievements.[[Comment]]This comment is to make the newline work like i want it to.[[/Comment]]
+Requires 64 Achievements.
 |Overachiever: Earn 50% of achievements.
+Requires 128 Achievements.
 |Superachiever: Earn 75% of achievements.
-|Perfect Achiever: Earn all other achievements.[[/List]]`},{Name:"Propulsion",Content:""},{Name:"Prototype Part",Content:""},{Name:"Prototype Parts",Content:""},{Name:"Prototype Robot",Content:""},{Name:"Prototype Robots",Content:""},{Name:"Recycling Machine",Content:""},{Name:"Reinforced Walls",Content:`Many areas are sealed off by various types of Reinforced Walls. These walls all have much higher than typical armor values and resistances to most common damage types. The common theme between them all is that they do not have any Thermal resistance. As such, Cld. thermal [[Energy Cannons]] are the ideal way to cut through many of these barriers. Unlike basic walls, reinforced walls will not collapse due to penetrating weapons.
+Requires 192 Achievements.
+|Perfect Achiever: Earn all other achievements.
+Requires all 255 other Achievements.[[/List]]`},{Name:"Propulsion",Content:""},{Name:"Prototype Part",Content:""},{Name:"Prototype Parts",Content:""},{Name:"Prototype Robot",Content:""},{Name:"Prototype Robots",Content:""},{Name:"Recycling Machine",Content:""},{Name:"Reinforced Walls",Content:`Many areas are sealed off by various types of Reinforced Walls. These walls all have much higher than typical armor values and resistances to most common damage types. The common theme between them all is that they do not have any Thermal resistance. As such, Cld. thermal [[Energy Cannons]] are the ideal way to cut through many of these barriers. Unlike basic walls, reinforced walls will not collapse due to penetrating weapons.
 There are two primary types of reinforced walls. Though they have different names, they behave functionally similarly. Orange doors block the main access to the blocked off area. These doors have a higher than normal armor value, but they tend to be lower than reinforced barriers. Reinforced barriers typically surround the remainder of the area to prevent digging in from the back side. In most maps, these have two times the normal armor level of walls. For example, an average Storage wall has an armor value of 24, so the reinforced barriers have an armor value of 48 on this map.
 [[Heading]][[Storage]][[/Heading]]
 [[Gallery]]Storage Locked Vault.png|Locked Storage Vaults
