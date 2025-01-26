@@ -397,12 +397,11 @@ Destroying a squad leader, guard, or intercept|30||
 Using a [[Spoiler]]Force(Extract)[[/Spoiler]] hack on a [[Scanalyzer]]|30||
 Using a [[Spoiler]]Force(Tunnel)[[/Spoiler]] on a [[Recycling Unit]]|30||
 Using a [[Spoiler]]Force(Eject)[[/Spoiler]] hack on a [[Garrison Access]]|30||
-Using a [[Spoiler]]Force(Override)[[/Spoiler]] on a Garrison Terminal|40||
 Getting traced on any Terminal inside a Garrison (no Alert from Terminals outside of Garrisons)|40||
 Destroying a Garrison Relay|50||
 Using a [[Spoiler]]Force(Sabotage)[[/Spoiler]] hack on a Terminal and failing|50||
 Using a [[Spoiler]]Force(Overload)[[/Spoiler]] hack on a Fabricator|50||
-Using a [[Spoiler]]Force(Override)[[/Spoiler]] hack on a Terminal|50||
+Using a [[Spoiler]]Force(Override)[[/Spoiler]] hack on a Garrison Terminal|50||
 [[Active Sensor Suite]] scanning detected (only after certain number of bots depending on bot type)|100||
 Using a [[Spoiler]]Force(Sabotage)[[/Spoiler]] hack on a Terminal and succeeding|100||
 [[Garrison]] interior compromised alert|100||
@@ -747,7 +746,67 @@ It is safe to travel through dug out tiles (that are not destabilized) for up to
 [[Heading]]Avoiding cave-ins[[/Heading]]
 Here are some strategies to avoid cave-ins
 [[List]]Don't use melee to dig more than 1 tile - Melee weapons need to be adjacent to the next tile to dig out. This means Cogmind will have to be in a dug out tile to dig two consecutive tiles which allows a chance for an immediate destabilization cave-in.|Don't use Explosive Launchers to dig - While Launchers can dig out a lot of tiles at once, those tiles have a chance to collapse as Cogmind walks through. Note: it is safe to do this with a Structural Scanner equipped, as destabilized tiles will be visible and are avoidable.|Use Thermal or Kinetic cannons - These cannons have a high base damage that is typically strong enough to dig through most non-reinforced walls. It is safe to dig a 3 tile path ahead of time and then walk through at no risk of cave-in.|Be wary of [[U-05 Engineer|Engineers]] - Engineers may seal off your path and leave you stuck in the wall, forced to dig again to escape and risk immediate cave-in.[[/List]]","","","","","","",""
-"Caves","Location","Caves is the most frequent [[Branch]] map throughout all of [[Factory]] depths. It is a non-[[0b10]]-controlled map where [[Derelict|Derelicts]] often roam free and hostile 0b10 squads patrol and can be taken out without fear of reinforcements. Non-patrolling 0b10 outposts guarded by a [[Sentry]] and dormant bots are common. Every depth has 2 guaranteed Caves exits and each Caves map is a part of a series of 3 maps in a row. Not counting event-based exits, all first Caves maps of each depth can only be exited by entering the second Caves map. Caves maps do not have very many regular parts on the ground, but piles of [[Scrap]] contain usable but partially damaged parts and [[Derelict Log|Derelict Logs]] can give unique intel about upcoming floors.\nThere are different names for the different types of Caves maps and they have slightly different characteristics. Lower Caves is the name given to the first 2 Caves maps on -7 and -6, while Caves maps on -5 and -4 are named Upper Caves. The third caves map is accessible only by exiting the depth-specific special branch at the left side of the second caves map and is called Proximity Caves, regardless of depth. Lower and Upper Caves are very similar in all but [[Robot Tier]], but Proximity Caves tends to be more densely populated with patrols, in addition to potentially having high-tier robot variants due being one depth above previous caves. They also contain [[N-01 Spotter|Spotters]] that will report armed hostiles on sight, causing a 150 alert increase per spot when entering the next map. This caps at 900 alert gained.\nCaves are patrolled lightly by hostile 0b10 bots compared to the main floors. [[Infowar]] utilities are a good option to avoid unnecessary encounters as many patrols can be avoided with a bit of patience. Caves have a unique mechanic where parts dropped from 0b10 bots will automatically self-destruct after a few turns. Looting must be done quickly or else the dropped parts will be lost forever. The only 2 ways around this mechanic are [[Self-destruct Interrupter|Self-destruct Interrupters]] and [[Electromagnetic Weapons]]. The interrupters will prevent the parts from frying while active and EM damage will interfere with the self-destruct mechanism. While EM will give [[Corrupted Parts]], it is far better to end up with corrupted parts than to end up with no parts at all.\nDue to the low rate of good parts spawning on the floor and the overall difficulty in looting hostile 0b10 bots, it is very easy for an unprepared build to fall apart in these maps. Bringing plenty of spares into Caves is highly recommended to avoid running out of essentials like propulsion, weapons, and armor. [[Launchers]] are a must here to handle ambushes of large numbers of 0b10 bots hiding in outposts. Launchers are also incredibly useful when entering a Caves map because the standard spawn protection that is present in 0b10 maps doesn't apply here. That means that one (or more) patrols can appear right in Cogmind's face on entering a map.\nCaves are also the most common place to encounter the [[Decomposer|Decomposers]], [[Packrat|Packrats]] and [[Samaritan|Samaritans]] neutral Derelict bot classes. They tend to appear in single-class groups of three. Decomposers will collect all stray debris, parts, Scrap piles and [[Derelict Log|Derelict Logs]] they happen to find and will break them down into matter they then leave on the floor, potentially destroying valuable parts or intel. In some cases, the matter yielded this way may be useful, but in most cases destroying these bots as quickly as possible is highly recommended.\nThe 0b10 [[Minesweeper]] class can also be found in caves near Derelict [[Traps]], guarded by 0-2 [[Grunt|Grunts]]. If destroyed, the Traps they extracted will be dropped and won't self-destruct, and can be re-used to deal with 0b10 patrols or plan attacks on outposts.\n[[Heading]]Lore[[/Heading]]\n[[Lore]]0b10 Records|Caves[[/Lore]]\n[[Heading]]Navigation[[/Heading]]\nCave maps all have a very similar overall layout. While the paths within the caves are unpredictable, these maps can typically be divided into 6 equal chunks. Top left, top middle, top right, bottom left, bottom middle, and bottom right. Cogmind will always spawn from the top right or bottom right chunks in Lower and Upper Caves or the top left or bottom left chunks in Proximity caves. One exit will always be in the chunk furthest from Cogmind. In the second Lower or Upper Caves map, the unique branch exit will be in that furthest chunk and the exit back to the main floor will always be on the same side. A good rule of thumb is that left is away from 0b10 while right is toward 0b10.\n\n[[Heading:2]]Checkpoints[[/Heading]]\nCaves checkpoints are square-shaped open spaces with a guard positioned at the center with possibly other robots stationed nearby.\nThere are three types of checkpoints:\n[[Table]]Central guard|Alignment|Square size|Possible additional guards|Formation||\n[[Mutant]]|Friendly (Warlord)|7x7|0, 2 or 4 [[Thug|Thugs]], [[Butcher|Butchers]] or [[Savage|Savages]]|X, / or \-shaped||\nSentry|Hostile (0b10)|7x7|[[Swarmer|Swarmers]], [[Grunt|Grunts]], [[Duelist|Duelists]] or [[Brawler|Brawlers]]|Chaotic||\n[[Behemoth]]|Hostile (0b10)|6x6|None|N/A[[/Table]]\n[[Gallery]]\nCaves Hostile Guards.png|0b10 checkpoint|\nCaves Friendly Derelicts.png|Warlord checkpoint[[/Gallery]]\n\n[[Heading:2]]Outposts[[/Heading]]\nOutposts make up the most common type of guarded structure found within Caves. There are a lot of types of outposts, differing in shape, size, guards, rewards and sometimes events. Although their walls are visually identical to regular cave walls, outpost structures are always fully disconnected from regular cave walls. While some are controlled by friendly Derelicts, most outposts are controlled by 0b10 bots (or rarely by hostile Derelicts). Most Caves map will have exactly one functional 0b10 outpost.\n[[Transmission Jammer|Transmission Jammers]] are highly recommended to take bots in these hostile outposts out one at a time without getting overwhelmed. In some hostile encounters, [[Sentry|Sentries]] can call for a reinforcement [[Assault Squad]]. In the first Caves map each depth only no reinforcements will come as there is no 0b10-controlled exit. Killing the Sentries as quickly as possible is highly recommended in all other cases. Sentries capable of calling reinforcements will only do so when they are both tracking Cogmind and in Cogmind's field of view. Whether the Sentries themselves see Cogmind is irrelevant. In addition, Sentries in 0b10 outposts are one variant tier higher (if possible) than the current depth's Sentries. Fighting these outposts is a bad idea for an unprepared build, but larger outposts with [[Terminal]] intel are very valuable. This intel can be the same as the intel found in [[Derelict Log|Derelict Logs]]. Outpost Terminals' hack lists are entirely composed of ""report"" hacks, some of which yield intel, while the others yield only fluff text. Fluff records will always be listed first, so it's a good idea to hack the records at the bottom of the list.\nAvoiding confrontation with most hostile outposts is usually fairly simple, especially with help from infowar utilities, though be wary of [[Corruption]] effects such as IFF bursts or weapon misfires that could attract unwanted attention, as well as nearby 0b10 patrols that could alert the dormant bots inside.\n\n[[Heading:3]]0b10 Outposts (Small)[[/Heading]][[Image]]Caves Outpost 2.png|Small 0b10 outpost, with 6 dormant bots, 2 rewirable bots, and a hidden doorway.[[/Image]]\nThe most common type of outposts are small 0b10 outposts. They are square-shaped, have 1-2 hidden doorways on their sides, and are separated from regular cave walls by a minimum distance of 1 tile. Their main entrance is guarded on their outside by a Sentry, and contain a random mix of 4-6 dormant bots, which can be Swarmers, Grunts, Duelists or Brawlers. Those guards are stationed in front of the internal machinery. These outposts also contain 1-2 slightly damaged rewirable disabled robots. The Sentry will always try to call for a reinforcement Assault Squad.\nThese are also tend to be the most difficult type of 0b10 outposts to avoid attracting the attention of, due the the Sentry guarding it from the outside, as well as the usually close distance to cave walls that makes going around these outposts dangerous as well due to the hidden doorways. Using [[Terrain Scanners|Terrain Scanning]] and/or a [[Structural Scanner]] can help identify the position and field of view of the Sentry, as well as the location of hidden doorways. \n\n[[Heading:3]]0b10 Outposts (Medium)[[/Heading]][[Image]]Caves Outpost 1.png|Medium 0b10 outpost with no Sentries, with an explosive Outpost Generator, a hidden doorway, and 7 dormant bots guarding an intel [[Terminal]].[[/Image]]\nLike all 0b10 outposts, medium 0b10 outposts are square-shaped. They contain an intel Terminal, some hidden doorways, dormant Grunts and/or Swarmers and are separated from regular cave walls by a minimum distance of 2 tiles. There are two primary variations of medium 0b10 outposts. The first has an Outpost Generator inside, and may not contain a Sentry. The other is guaranteed to have a Sentry, as well as a cache of 4 weapons in a corner, which can be accessed without risk of getting spotted by destroying the outside wall.\n\n[[Heading:3]]0b10 Outposts (Large)[[/Heading]]\nLike all 0b10 outposts, large 0b10 outposts are square-shaped. They contain 1-2 Sentries, an intel Terminal, a weapon cache, dormant Grunts and Swarmers, and are separated from regular cave walls by a minimum distance of 2 tile.\nLike medium 0b10 outposts, weapon caches can be accessed from the outside without drawing attention by breaking the outer wall.\n\n[[Gallery]]Caves Mega Outpost.png|Large 0b10 outpost with 2 Sentries, 6 dormant Swarmers, 6 dormant Grunts, an Outpost Generator, a large weapon cache and an intel Terminal.|Caves Mega Outpost 2.png|Large 0b10 outpost with 1 Sentry, 6 dormant Swarmers, 6 dormant Grunts, a weapon cache and an intel Terminal.[[/Gallery]]\n\n[[Heading:3]][[Spoiler]]Warlord[[/Spoiler]] Outposts[[/Heading]]\n[[Image]]Caves Friendly Warlord Outpost.png|[[Spoiler]]Warlord[[/Spoiler]] outpost (orthogonal exit variant)[[/Image]]\n[[Spoiler]]Warlord[[/Spoiler]] outposts are circle-shaped, with a main entrance controlled by a Door Terminal. They are guarded by a [[Commander]] and several other Derelict bots, and contain a few parts as well as an intel Terminal. The inside of the outpost is also reinforced by a ""Wall Reinforcements"" structure, which has an armor of 35.\n\nThe Derelicts inside these outposts are friendly, and the Commander can even dispatch an escort for Cogmind. This escort will leave when reaching the next map, even if the next map is also a Caves map.\n\n\n\n\n[[Heading]]Notable Locations[[/Heading]]\n[[Gallery]]Caves Assembled Tinkerer.png|A [[Tinkerer]] hiding behind some [[Assembled (4)|Assembled]]|Caves PL-HR7.png|Tinkerer PL-HR7 and [[Warlord Statue (Bot)]] with a [[Heart of Steel]]|Caves MolDe.png|Tinkerer with a [[Molecular Deconstructor]] hiding behind a wall|Caves CE.png|Derelict [[Researcher]] with a [[Core Expander]] hidden behind a wall|Caves Broken Bots.png|Broken bots next to some damaged parts|Caves Broken Freighter.png|Broken [[A-27 Freighter|Freighter]] and guard with inventory of prototype parts.|Caves Hostile Mutant 1.png|Hostile [[Mutant]] guarding a stash of parts|Caves Hostile Mutant 2.png|Hostile Mutant guarding a collection of rewirable bots|Caves Hostile Thug.png|Hostile [[Thug]] guarding some hostile dormant [[Savage|Savages]]|Caves Thief Base.png|[[Thief]] base with some presumably stolen parts|Caves Hauler Escort.png|[[Hauler]] escorted by some [[Grunt|Grunts]]|Caves Hunter Programmer Ambush.png|0b10 bots hiding in a wall to ambush Cogmind|Caves Unguarded Cache.png|Unguarded cache of parts out of sight|Caves Dirty Datajack Cache.png|Unguarded cache of [[Dirty Datajack|Dirty Datajacks]] out of sight|Caves SDI Cache.png|Unguarded cache of [[Self-destruct Interrupter|Self-destruct Interrupters]] hidden behind a wall|Caves Scrap Pile.png|Big cache of [[Scrap]]|Caves DNI.png|[[Dimensional Node Initializer]] hidden behind some sealed doors|Caves Outpost 1.png|0b10 outpost of dormant bots guarding an intel [[Terminal]]|Caves Outpost 2.png|0b10 outpost of [[Sentry]] and dormant bots guarding rewirable bots|Caves Outpost 3.png|Attacked 0b10 outpost|Caves Mega Outpost.png|Huge 0b10 outpost of Sentries and dormant bots|Caves Mega Outpost 2.png|Another large 0b10 outpost|Caves Hostile Guards.png|0b10 guard bots|Caves Demolisher Base.png|Proximity Caves [[Demolisher]] testing base exit|Caves Huge Base.png|Huge 0b10 base exit|Caves Sapper Base.png|Friendly outpost of [[Sapper|Sappers]]|Caves Friendly Warlord Outpost.png|Friendly outpost of [[Warlord]]-aligned Derelict bots|Caves Friendly Derelicts.png|Friendly [[Derelict|Derelicts]] standing guard|Caves Reappropriated Outpost.png|""Reappropriated"" Derelict outpost|Caves Attacked Warlord Outpost.png|Attacked Warlord Derelict outpost|Caves Invaded Warlord Outpost.png|0b10-controlled Warlord outpost|Caves Hostile Derelicts Outpost.png|Hostile Derelict outpost|Caves Graveyard.png|Graveyard of broken Derelict bots[[/Gallery]]\nCaves has one of the largest collections of prefabs of all the maps in the game, with a wide mix of good and bad prefabs. One of the strongest prefabs, the derelict [[Researcher]] with a [[Core Expander]], is so strong that it alone can be a good reason to go into Caves.\n\nFriendly Derelicts will not move from their guard position, but they will engage any 0b10 forces they see. Leading hostile squads into them can let them do the fighting for you. This is particularly easy to do for fast airborne builds who don't want to engage in combat and can use the Derelicts as a distraction. These Derelicts can also be safely salvaged for parts and will not retaliate.\nThe guarded Hauler in the Caves event has a fixed pool of loot that can be contained:\n[[List]]2x of [[Lyr. Medium Armor Plating]], [[Med. Reflective Plating]], [[Med. Insulated Plating]], or [[Imp. Powered Armor]]|[[Imp. Particle Charger]], [[Imp. Force Field]], or [[Adv. Force Field]]|[[Prc. Matter Filter]] or [[Prc. Energy Filter]]|[[System Restoration Module]], [[Imp. Weapon Shielding]], [[Imp. Propulsion Shielding]], or [[Imp. Utility Shielding]]|[[Adv. Targeting Computer]], [[Reaction Control System]], or [[Imp. Transmission Jammer]]|[[Adv. Power Amplifier]] or [[Lrn. Terrain Scanner]][[/List]]\n[[Heading:2]]Exits[[/Heading]]\nThere are primarily 2 types of exits in Caves, depending on which types of caves map it is:\n[[List]]Main access exit: There is always a single main floor exit on the second Caves map and in Proximity Caves maps, and it always leads to the next standard depth map (Materials or Research). This exit is typically on the far right side of the map. Sometimes this exit is heavily guarded and part of an 0b10 base.|Caves exit: In the first Caves map, the only exit available is to the second Caves map.|Special Branch exit: Depending on the type of map, each caves exit will have a special Branch exit typically on the left side of the map. For Lower Caves, this exit goes to [[Zion]] or [[Data Miner (Location)]]. For Upper Caves, this exit goes to [[Warlord (Location)]] or [[Zhirov (Location)]][[/List]][[Heading]]Events[[/Heading]]\n[[Image]]Caves Huge Base Assault.png|Derelicts attacking a huge 0b10 base exit[[/Image]][[Image]]Caves Outpost Assembled Invasion.png|[[Assembled (4)|Assembled]] infesting an abandoned outpost[[/Image]]\n[[List]](++) [[Z-Hero]] Rescue: If Cogmind is low on core integrity and under fire, a Z-Hero can appear and fight off the attackers. The hero will also spawn an exit that leads to the next main floor.|(++) Annoying [[Tinkerer]] ""Woof"" hack: Only appears in Proximity Caves. A Tinkerer will appear and give a long-winded speech about a hack they have been working on. This is a manual datajack hack that will reprogram any [[Behemoth]]. Only works twice.|(+) [[Zion]] shortcut: A Derelict will appear and create an exit. This may skip a depth if [[Spoiler]]Zion[[/Spoiler]] is not on the same depth.|(+) [[Data Miner (Location)]] shortcut: A Derelict will appear and create an exit. This shortcut can not skip depths.|(+) [[Warlord (Location)]] shortcut: A Derelict will appear and create an exit. This shortcut can not skip depths.|(+) Derelict assault on huge 0b10 exit base: Squads of Derelicts will appear and attack the exit|(-) [[Assembled (4)|Assembled]] Infestation: An abandoned outpost can become infested with Assembled that will roam the map and attack anything nearby.|(-) [[Molecular Deconstructor]] reclamation: A mix of 0b10 bots will be dispatched after opening the containing vault|(-) Freighter cargo recovery: Upon sighting the broken Freighter, a new Freighter and smaller than usual escort of a [[Protector]] and [[C-30 ARC]] will be sent to retrieve the parts. The broken Freighter will carries a full inventory of Prototype parts.|(--) [[Sapper]] base attack: Two [[Assault Squad|Assaults]] can be dispatched directly to a Sapper base|[[N-01 Spotter]] spawn: 2 Spotters will appear near the 0b10 exit to caves. If any armed hostile appears in visible range, they will be scanned and reported as a threat. Each scan results in +150 alert heading into the next map, capping at 900 alert maximum.[[/List]]","","","","","","",""
+"Caves","Location","Caves is the most frequent [[Branch]] map throughout all of [[Factory]] depths. It is a non-[[0b10]]-controlled map where [[Derelict|Derelicts]] often roam free and hostile 0b10 squads patrol and can be taken out without fear of reinforcements. Non-patrolling 0b10 outposts guarded by a [[Sentry]] and dormant bots are common. Every depth has 2 guaranteed Caves exits and each Caves map is a part of a series of 3 maps in a row. Not counting event-based exits, all first Caves maps of each depth can only be exited by entering the second Caves map. Caves maps do not have very many regular parts on the ground, but piles of [[Scrap]] contain usable but partially damaged parts and [[Derelict Log|Derelict Logs]] can give unique intel about upcoming floors.
+There are different names for the different types of Caves maps and they have slightly different characteristics. Lower Caves is the name given to the first 2 Caves maps on -7 and -6, while Caves maps on -5 and -4 are named Upper Caves. The third caves map is accessible only by exiting the depth-specific special branch at the left side of the second caves map and is called Proximity Caves, regardless of depth. Lower and Upper Caves are very similar in all but [[Robot Tier]], but Proximity Caves tends to be more densely populated with patrols, in addition to potentially having high-tier robot variants due being one depth above previous caves. They also contain [[N-01 Spotter|Spotters]] that will report armed hostiles on sight, causing a 150 alert increase per spot when entering the next map. This caps at 900 alert gained.
+Caves are patrolled lightly by hostile 0b10 bots compared to the main floors. [[Infowar]] utilities are a good option to avoid unnecessary encounters as many patrols can be avoided with a bit of patience. Caves have a unique mechanic where parts dropped from 0b10 bots will automatically self-destruct after a few turns. Looting must be done quickly or else the dropped parts will be lost forever. The only 2 ways around this mechanic are [[Self-destruct Interrupter|Self-destruct Interrupters]] and [[Electromagnetic Weapons]]. The interrupters will prevent the parts from frying while active and EM damage will interfere with the self-destruct mechanism. While EM will give [[Corrupted Parts]], it is far better to end up with corrupted parts than to end up with no parts at all.
+Due to the low rate of good parts spawning on the floor and the overall difficulty in looting hostile 0b10 bots, it is very easy for an unprepared build to fall apart in these maps. Bringing plenty of spares into Caves is highly recommended to avoid running out of essentials like propulsion, weapons, and armor. [[Launchers]] are a must here to handle ambushes of large numbers of 0b10 bots hiding in outposts. Launchers are also incredibly useful when entering a Caves map because the standard spawn protection that is present in 0b10 maps doesn't apply here. That means that one (or more) patrols can appear right in Cogmind's face on entering a map.
+Caves are also the most common place to encounter the [[Decomposer|Decomposers]], [[Packrat|Packrats]] and [[Samaritan|Samaritans]] neutral Derelict bot classes. They tend to appear in single-class groups of three. Decomposers will collect all stray debris, parts, Scrap piles and [[Derelict Log|Derelict Logs]] they happen to find and will break them down into matter they then leave on the floor, potentially destroying valuable parts or intel. In some cases, the matter yielded this way may be useful, but in most cases destroying these bots as quickly as possible is highly recommended.
+The 0b10 [[Minesweeper]] class can also be found in caves near Derelict [[Traps]], guarded by 0-2 [[Grunt|Grunts]]. If destroyed, the Traps they extracted will be dropped and won't self-destruct, and can be re-used to deal with 0b10 patrols or plan attacks on outposts.
+[[Heading]]Lore[[/Heading]]
+[[Lore]]0b10 Records|Caves[[/Lore]]
+[[Heading]]Navigation[[/Heading]]
+Cave maps all have a very similar overall layout. While the paths within the caves are unpredictable, these maps can typically be divided into 6 equal chunks. Top left, top middle, top right, bottom left, bottom middle, and bottom right. Cogmind will always spawn from the top right or bottom right chunks in Lower and Upper Caves or the top left or bottom left chunks in Proximity caves. One exit will always be in the chunk furthest from Cogmind. In the second Lower or Upper Caves map, the unique branch exit will be in that furthest chunk and the exit back to the main floor will always be on the same side. A good rule of thumb is that left is away from 0b10 while right is toward 0b10.
+
+[[Heading:2]]Checkpoints[[/Heading]]
+Caves checkpoints are square-shaped open spaces with a guard positioned at the center with possibly other robots stationed nearby.
+There are three types of checkpoints:
+[[Table]]Central guard|Alignment|Square size|Possible additional guards|Formation||
+[[Mutant]]|Friendly (Warlord)|7x7|0, 2 or 4 [[Thug|Thugs]], [[Butcher|Butchers]] or [[Savage|Savages]]|X, / or \-shaped||
+Sentry|Hostile (0b10)|7x7|[[Swarmer|Swarmers]], [[Grunt|Grunts]], [[Duelist|Duelists]] or [[Brawler|Brawlers]]|Chaotic||
+[[Behemoth]]|Hostile (0b10)|6x6|None|N/A[[/Table]]
+[[Gallery]]
+Caves Hostile Guards.png|0b10 checkpoint|
+Caves Friendly Derelicts.png|Warlord checkpoint[[/Gallery]]
+
+[[Heading:2]]Outposts[[/Heading]]
+Outposts make up the most common type of guarded structure found within Caves. There are a lot of types of outposts, differing in shape, size, guards, rewards and sometimes events. Although their walls are visually identical to regular cave walls, outpost structures are always fully disconnected from regular cave walls. While some are controlled by friendly Derelicts, most outposts are controlled by 0b10 bots (or rarely by hostile Derelicts). Most Caves map will have exactly one functional 0b10 outpost.
+[[Transmission Jammer|Transmission Jammers]] are highly recommended to take bots in these hostile outposts out one at a time without getting overwhelmed. In some hostile encounters, [[Sentry|Sentries]] can call for a reinforcement [[Assault Squad]]. In the first Caves map each depth only no reinforcements will come as there is no 0b10-controlled exit. Killing the Sentries as quickly as possible is highly recommended in all other cases. Sentries capable of calling reinforcements will only do so when they are both tracking Cogmind and in Cogmind's field of view. Whether the Sentries themselves see Cogmind is irrelevant. In addition, Sentries in 0b10 outposts are one variant tier higher (if possible) than the current depth's Sentries. Fighting these outposts is a bad idea for an unprepared build, but larger outposts with [[Terminal]] intel are very valuable. This intel can be the same as the intel found in [[Derelict Log|Derelict Logs]]. Outpost Terminals' hack lists are entirely composed of ""report"" hacks, some of which yield intel, while the others yield only fluff text. Fluff records will always be listed first, so it's a good idea to hack the records at the bottom of the list.
+Avoiding confrontation with most hostile outposts is usually fairly simple, especially with help from infowar utilities, though be wary of [[Corruption]] effects such as IFF bursts or weapon misfires that could attract unwanted attention, as well as nearby 0b10 patrols that could alert the dormant bots inside.
+
+[[Heading:3]]0b10 Outposts (Small)[[/Heading]][[Image]]Caves Outpost 2.png|Small 0b10 outpost, with 6 dormant bots, 2 rewirable bots, and a hidden doorway.[[/Image]]
+The most common type of outposts are small 0b10 outposts. They are square-shaped, have 1-2 hidden doorways on their sides, and are separated from regular cave walls by a minimum distance of 1 tile. Their main entrance is guarded on their outside by a Sentry, and contain a random mix of 4-6 dormant bots, which can be Swarmers, Grunts, Duelists or Brawlers. Those guards are stationed in front of the internal machinery. These outposts also contain 1-2 slightly damaged rewirable disabled robots. The Sentry will always try to call for a reinforcement Assault Squad.
+These are also tend to be the most difficult type of 0b10 outposts to avoid attracting the attention of, due the the Sentry guarding it from the outside, as well as the usually close distance to cave walls that makes going around these outposts dangerous as well due to the hidden doorways. Using [[Terrain Scanners|Terrain Scanning]] and/or a [[Structural Scanner]] can help identify the position and field of view of the Sentry, as well as the location of hidden doorways. 
+
+[[Heading:3]]0b10 Outposts (Medium)[[/Heading]][[Image]]Caves Outpost 1.png|Medium 0b10 outpost with no Sentries, with an explosive Outpost Generator, a hidden doorway, and 7 dormant bots guarding an intel [[Terminal]].[[/Image]]
+Like all 0b10 outposts, medium 0b10 outposts are square-shaped. They contain an intel Terminal, some hidden doorways, dormant Grunts and/or Swarmers and are separated from regular cave walls by a minimum distance of 2 tiles. There are two primary variations of medium 0b10 outposts. The first has an Outpost Generator inside, and may not contain a Sentry. The other is guaranteed to have a Sentry, as well as a cache of 4 weapons in a corner, which can be accessed without risk of getting spotted by destroying the outside wall.
+
+[[Heading:3]]0b10 Outposts (Large)[[/Heading]]
+Like all 0b10 outposts, large 0b10 outposts are square-shaped. They contain 1-2 Sentries, an intel Terminal, a weapon cache, dormant Grunts and Swarmers, and are separated from regular cave walls by a minimum distance of 2 tile.
+Like medium 0b10 outposts, weapon caches can be accessed from the outside without drawing attention by breaking the outer wall.
+
+[[Gallery]]Caves Mega Outpost.png|Large 0b10 outpost with 2 Sentries, 6 dormant Swarmers, 6 dormant Grunts, an Outpost Generator, a large weapon cache and an intel Terminal.|Caves Mega Outpost 2.png|Large 0b10 outpost with 1 Sentry, 6 dormant Swarmers, 6 dormant Grunts, a weapon cache and an intel Terminal.[[/Gallery]]
+
+[[Heading:3]][[Spoiler]]Warlord[[/Spoiler]] Outposts[[/Heading]]
+[[Image]]Caves Friendly Warlord Outpost.png|[[Spoiler]]Warlord[[/Spoiler]] outpost (orthogonal exit variant)[[/Image]]
+[[Spoiler]]Warlord[[/Spoiler]] outposts are circle-shaped, with a main entrance controlled by a Door Terminal. They are guarded by a [[Commander]] and several other Derelict bots, and contain a few parts as well as an intel Terminal. The inside of the outpost is also reinforced by a ""Wall Reinforcements"" structure, which has an armor of 35.
+
+The Derelicts inside these outposts are friendly, and the Commander can even dispatch an escort for Cogmind. This escort will leave when reaching the next map, even if the next map is also a Caves map.
+
+
+
+
+[[Heading]]Notable Locations[[/Heading]]
+[[Gallery]]Caves Assembled Tinkerer.png|A [[Tinkerer]] hiding behind some [[Assembled (4)|Assembled]]|Caves PL-HR7.png|Tinkerer PL-HR7 and [[Warlord Statue (Bot)]] with a [[Heart of Steel]]|Caves MolDe.png|Tinkerer with a [[Molecular Deconstructor]] hiding behind a wall|Caves CE.png|Derelict [[Researcher]] with a [[Core Expander]] hidden behind a wall|Caves Broken Bots.png|Broken bots next to some damaged parts|Caves Broken Freighter.png|Broken [[A-27 Freighter|Freighter]] and guard with inventory of prototype parts.|Caves Hostile Mutant 1.png|Hostile [[Mutant]] guarding a stash of parts|Caves Hostile Mutant 2.png|Hostile Mutant guarding a collection of rewirable bots|Caves Hostile Thug.png|Hostile [[Thug]] guarding some hostile dormant [[Savage|Savages]]|Caves Thief Base.png|[[Thief]] base with some presumably stolen parts|Caves Hauler Escort.png|[[Hauler]] escorted by some [[Grunt|Grunts]]|Caves Hunter Programmer Ambush.png|0b10 bots hiding in a wall to ambush Cogmind|Caves Unguarded Cache.png|Unguarded cache of parts out of sight|Caves Dirty Datajack Cache.png|Unguarded cache of [[Dirty Datajack|Dirty Datajacks]] out of sight|Caves SDI Cache.png|Unguarded cache of [[Self-destruct Interrupter|Self-destruct Interrupters]] hidden behind a wall|Caves Scrap Pile.png|Big cache of [[Scrap]]|Caves DNI.png|[[Dimensional Node Initializer]] hidden behind some sealed doors|Caves Outpost 1.png|0b10 outpost of dormant bots guarding an intel [[Terminal]]|Caves Outpost 2.png|0b10 outpost of [[Sentry]] and dormant bots guarding rewirable bots|Caves Outpost 3.png|Attacked 0b10 outpost|Caves Mega Outpost.png|Huge 0b10 outpost of Sentries and dormant bots|Caves Mega Outpost 2.png|Another large 0b10 outpost|Caves Hostile Guards.png|0b10 guard bots|Caves Demolisher Base.png|Proximity Caves [[Demolisher]] testing base exit|Caves Huge Base.png|Huge 0b10 base exit|Caves Sapper Base.png|Friendly outpost of [[Sapper|Sappers]]|Caves Friendly Warlord Outpost.png|Friendly outpost of [[Warlord]]-aligned Derelict bots|Caves Friendly Derelicts.png|Friendly [[Derelict|Derelicts]] standing guard|Caves Reappropriated Outpost.png|""Reappropriated"" Derelict outpost|Caves Attacked Warlord Outpost.png|Attacked Warlord Derelict outpost|Caves Invaded Warlord Outpost.png|0b10-controlled Warlord outpost|Caves Hostile Derelicts Outpost.png|Hostile Derelict outpost|Caves Graveyard.png|Graveyard of broken Derelict bots[[/Gallery]]
+Caves has one of the largest collections of prefabs of all the maps in the game, with a wide mix of good and bad prefabs. One of the strongest prefabs, the derelict [[Researcher]] with a [[Core Expander]], is so strong that it alone can be a good reason to go into Caves.
+
+Friendly Derelicts will not move from their guard position, but they will engage any 0b10 forces they see. Leading hostile squads into them can let them do the fighting for you. This is particularly easy to do for fast airborne builds who don't want to engage in combat and can use the Derelicts as a distraction. These Derelicts can also be safely salvaged for parts and will not retaliate.
+The guarded Hauler in the Caves event has a fixed pool of loot that can be contained:
+[[List]]2x of [[Lyr. Medium Armor Plating]], [[Med. Reflective Plating]], [[Med. Insulated Plating]], or [[Imp. Powered Armor]]|[[Imp. Particle Charger]], [[Imp. Force Field]], or [[Adv. Force Field]]|[[Prc. Matter Filter]] or [[Prc. Energy Filter]]|[[System Restoration Module]], [[Imp. Weapon Shielding]], [[Imp. Propulsion Shielding]], or [[Imp. Utility Shielding]]|[[Adv. Targeting Computer]], [[Reaction Control System]], or [[Imp. Transmission Jammer]]|[[Adv. Power Amplifier]] or [[Lrn. Terrain Scanner]][[/List]]
+[[Heading:2]]Exits[[/Heading]]
+There are primarily 2 types of exits in Caves, depending on which types of caves map it is:
+[[List]]Main access exit: There is always a single main floor exit on the second Caves map and in Proximity Caves maps, and it always leads to the next standard depth map (Materials or Research). This exit is typically on the far right side of the map. Sometimes this exit is heavily guarded and part of an 0b10 base.|Caves exit: In the first Caves map, the only exit available is to the second Caves map.|Special Branch exit: Depending on the type of map, each caves exit will have a special Branch exit typically on the left side of the map. For Lower Caves, this exit goes to [[Zion]] or [[Data Miner (Location)]]. For Upper Caves, this exit goes to [[Warlord (Location)]] or [[Zhirov (Location)]][[/List]][[Heading]]Events[[/Heading]]
+[[Image]]Caves Huge Base Assault.png|Derelicts attacking a huge 0b10 base exit[[/Image]][[Image]]Caves Outpost Assembled Invasion.png|[[Assembled (4)|Assembled]] infesting an abandoned outpost[[/Image]]
+[[List]](++) [[Z-Hero]] Rescue: If Cogmind is low on core integrity and under fire, a Z-Hero can appear and fight off the attackers. The hero will also spawn an exit that leads to the next main floor.|(++) Annoying [[Tinkerer]] ""Woof"" hack: Only appears in Proximity Caves. A Tinkerer will appear and give a long-winded speech about a hack they have been working on. This is a manual datajack hack that will reprogram any [[Behemoth]]. Only works twice.|(+) [[Zion]] shortcut: A Derelict will appear and create an exit. This may skip a depth if [[Spoiler]]Zion[[/Spoiler]] is not on the same depth.|(+) [[Data Miner (Location)]] shortcut: A Derelict will appear and create an exit. This shortcut can not skip depths.|(+) [[Warlord (Location)]] shortcut: A Derelict will appear and create an exit. This shortcut can not skip depths.|(+) Derelict assault on huge 0b10 exit base: Squads of Derelicts will appear and attack the exit|(-) [[Assembled (4)|Assembled]] Infestation: An abandoned outpost can become infested with Assembled that will roam the map and attack anything nearby.|(-) [[Molecular Deconstructor]] reclamation: A mix of 0b10 bots will be dispatched after opening the containing vault|(-) Freighter cargo recovery: Upon sighting the broken Freighter, a new Freighter and smaller than usual escort of a [[Protector]] and [[C-30 ARC]] will be sent to retrieve the parts. The broken Freighter will carries a full inventory of Prototype parts.|(--) [[Sapper]] base attack: Two [[Assault Squad|Assaults]] can be dispatched directly to a Sapper base|[[N-01 Spotter]] spawn: 2 Spotters will appear near the 0b10 exit to caves. If any armed hostile appears in visible range, they will be scanned and reported as a threat. Each scan results in +150 alert heading into the next map, capping at 900 alert maximum.[[/List]]","","","","","","",""
 "Centrium Claws","Part","","","","","","","",""
 "Centrium Greatsword","Part","","","","","","","",""
 "Centrium Heavy Armor Plating","Part","","","","","","","",""
@@ -2019,17 +2078,13 @@ Security level|Armor||
 [[Heading]]Hacks[[/Heading]]
 [[Hacks]]Fabricator[[/Hacks]]
 [[Spoiler]][[Heading:2]]Additional Details/Usage Tips[[/Heading]]
-[[Heading:3]]Force(Download)[[/Heading]]
-Adds an additional 20 [[Alert]] when successful.
-[[Heading:3]]Force(Overload)[[/Heading]]
-Adds an additional 50 Alert when successful.
-[[Heading:3]]Force(Recompile)[[/Heading]]
+[[Heading:3]][[GameText]]Force(Recompile)[[/GameText]][[/Heading]]
 A good use of this hack is to recompile an Authchip off of a low security level Fabricator and use it on a higher level one for faster fabrication. This avoids having to hang around to deal with the Investigation squad in order to retrieve the fabricated item or bots.
-[[Heading:3]]Trojan(Fabnet)[[/Heading]]
+[[Heading:3]][[GameText]]Trojan(Fabnet)[[/GameText]][[/Heading]]
 Fabnet works on all 0b10 bots in the following two floors, even in [[Branch]] maps like [[Caves]]. When it activates, there will be a log message [[GameText]]Fabnet algorithm triggers [bot name] IFF filter rewrite.[[/GameText]] Each time Fabnet activates on an 0b10-controlled map, there is a chance for it to be detected by 0b10. When this happens, a log message [[GameText]]ALERT: Suspected network compromise, local machines offline for diagnostic review.[[/GameText]] will appear and all non-[[Garrison Access|Garrison]] machines are immediately locked.
-[[Heading:3]]Trojan(Haulers)[[/Heading]]
+[[Heading:3]][[GameText]]Trojan(Haulers)[[/GameText]][[/Heading]]
 Although this hack does not reveal the path of [[Cargo Convoy|Cargo Convoys]], it will at least show the current location of the [[A-27 Freighter]]. This is still quite useful for both cargo convoy hunters and players trying to dodge an encounter at all costs.
-[[Heading:3]]Trojan(Liberate)[[/Heading]]
+[[Heading:3]][[GameText]]Trojan(Liberate)[[/GameText]][[/Heading]]
 All further combat bots that are created from the Fabricator with this hack will become liberated. This applies to bots that are already in progress of fabrication when the hack is applied. Liberated bots will become purple uncontrollable allies that follow Cogmind around. If a liberated bot gets within a 60 tile radius of a Caves exit, even if unidentified or unrevealed, the bot will stop following Cogmind head into that exit.[[/Spoiler]]","","","","","","",""
 "Factory","Location","Factory is a [[0b10]]-controlled main floor that occurs on every floor between -7 and -4. It is the beginning of the midgame where the game really starts to open up. In stark contrast with earlier [[Materials]] maps, Factory start out huge with a ~200x200 tile map size. The rooms, the corridors, and the overall layout are all much wider and more open and connected than Materials. The patrols and guards are more spread out and stealth play with airborne propulsion and [[Infowar]] becomes a strong gameplay option.
 [[Alert]] starts to be more of a concern as the maps become bigger and harder to traverse. [[Hackware]] is useful to be able to successfully use Access hacks at terminals to locate exits. [[Signal Interpreter|Signal Interpreters]] will also be more useful at identifying exits as the exit types will be less predictable. [[Caves]] exits are available in every Factory map. They can be difficult if a player is unprepared, but they can provide many unique rewards and will typically result in a complete Alert purge by the time Cogmind makes it back to the next main floor.
@@ -2048,7 +2103,881 @@ Several non-standard exits also appear in Factory. [[Chute Trap|Chute Traps]] wi
 "Falx","Part","","","","","","","",""
 "Fanart","Other","Check out the following artists' fanart pages:
 [[List]][[Fanart/CaptainWinky|CaptainWinky]]|[[Fanart/Maiker|Maiker]]|[[Fanart/plasmoidman|plasmoidman]]|[[Fanart/Radbanker|Radbanker]]|[[https://zyalin.wixsite.com/zyalin-art/cogmind|Zyalin (external site)]][[/List]]","","","","","","",""
-"Fanart/CaptainWinky","Other","Original thread on gridsagegames forums [[https://www.gridsagegames.com/forums/index.php?topic=1773.0|here]].\n[[Heading]]G-11 Fodder[[/Heading]]\n[[GameText]]>Analysis(G-11 Fodder)[[/GameText]]\n[[GameText]]The first of the G-series grunts, this model is no longer in production and the relevant schematics will be moved to the Archives.  The G-11 was intended to be fast and cheap to produce and deploy as a deterrent for unarmed Derelicts.  As a result it has a low-integrity core, low-coverage legs and its weapon is a repurposed low-power fabricator laser.  Existing units still number in the hundreds and are being either scrapped or deployed to the caves where they are sometimes useful as diversions.  Many Derelicts still rely on obsolete signal interpreters or seismic detectors, so they are unable to tell the difference between these bots and more capable models.[[/GameText]]\n[[ItemDetails]]\nName|Lgt. Aluminum Leg||\nImage Name|https://i.imgur.com/OdPspSe.png||\nType|Leg||\nSlot|Propulsion||\nRating|1||\nIntegrity|60||\nCoverage|60||\nHackable|false||\nEnergy Upkeep|0||\nMatter Upkeep|0||\nHeat Generation|0||\nTime Per Move|120||\nDrag|10||\nEnergy Per Move|2||\nHeat Per Move|0||\nSupport|7||\nPenalty|80[[/ItemDetails]]\n[[ItemDetails]]\nName|Mod. Etching Laser||\nImage Name|https://i.imgur.com/RLtXJly.png||\nType|Energy Gun||\nSlot|Weapon||\nMass|1||\nRating|1||\nIntegrity|50||\nCoverage|60||\nRange|8||\nShot Energy|4||\nShot Heat|15||\nRecoil|0||\nTargeting|-10||\nDelay|0||\nProjectile Count|2||\nDamage|2-3||\nDamage Type|Thermal||\nSalvage|0[[/ItemDetails]]\n[[Heading]]L-11 Stabber[[/Heading]]\n[[GameText]]>Analysis(L-11 Stabber)[[/GameText]]\n[[GameText]]The first dedicated melee robot, this duelist derivative of the grunt class was armed with a small but fast dagger.  Best suited for corner ambushes as its lack of core coverage made open attacks impractical.  A few minor modifications included switching the dagger for a spear and the addition of a low-powered transmission jammer to prevent victims from warning others.  Current duelists are focused on reliability in open combat, but ambush traps ensure that they (along with brawlers) enjoy the benefits of sneak attacks from time to time.[[/GameText]]\n[[ItemDetails]]\nName|Dagger||\nImage Name|https://i.imgur.com/iEtuajF.png||\nType|Piercing Weapon||\nSlot|Weapon||\nMass|1||\nRating|1||\nIntegrity|15||\nCoverage|5||\nHackable|false||\nShot Energy|2||\nShot Heat|2||\nDelay|25||\nDamage|12-20||\nDamage Type|Piercing||\nCritical|2% Destroy||\nSalvage|0[[/ItemDetails]]\n[[ItemDetails]]\nName|Lpw. Transmission Jammer||\nImage Name|https://i.imgur.com/ja8Eh72.png||\nType|Device||\nSlot|Utility||\nMass|1||\nRating|2||\nIntegrity|12||\nCoverage|8||\nHackable|false||\nEnergy Upkeep|1||\nMatter Upkeep|0||\nHeat Generation|0||\nDescription|Blocks local transmissions from visible hostiles within a range of 2, making it impossible for them to share information about your current position. Also prevents calls for reinforcements but is incapable of suppressing alarm traps.[[/ItemDetails]]\n[[Heading]]Sublurker[[/Heading]]\n[[GameText]]>Cyclist Record(Sublurker)[[/GameText]]\n[[GameText]]Megaunit here with a sighting of a funny-looking Subdweller in Recycling, of all places.  And this is one Sub who really doesn't want to be seen.  I missed him at first because he has some kind of cloaking device instead of the more common Sub optics, and he uses an EM weapon that I haven't seen before.  He tagged a grunt with a couple of shots and rolled out of sight, letting the slightly corrupted grunt lose track of him instead of going for the kill.  This may be further evidence that Subs aren't as violent as they seem.  My observations ended there because he spotted me and I had to avoid being corrupted so that I could get this entered into the database.[[/GameText]]\n[[ItemDetails]]\nName|Sub. EM Pulse Gun||\nImage Name|https://i.imgur.com/RUlQdmG.png||\nType|Energy Gun||\nSlot|Weapon||\nMass|4||\nRating|2||\nIntegrity|60||\nCoverage|100||\nHackable|false||\nRange|14||\nShot Energy|24||\nShot Heat|60||\nDamage|14-24||\nDamage Type|Electromagnetic||\nCritical|4% Corrupt||\nSpectrum|Narrow (50)||\nDisruption|2||\nSalvage|+2[[/ItemDetails]]\n[[ItemDetails]]\nName|Sub. Cloaking Device||\nImage Name|https://i.imgur.com/3ALqz8B.png||\nType|Device||\nSlot|Utility||\nMass|2||\nRating|2||\nIntegrity|40||\nCoverage|40||\nHackable|false||\nEnergy Upkeep|5||\nMatter Upkeep|0||\nHeat Generation|0||\nDescription|Effective sight range of robots attempting to spot you reduced by 3. Also -12% chance of being noticed by hostiles if passing through their field of view when not their turn. Subdwellers will not attempt to communicate with the user when active.\n  <half_stack>[[/ItemDetails]]\n[[Heading]]S-02 Bug[[/Heading]]\n[[GameText]]>Analysis(S-02 Bug)[[/GameText]]\n[[GameText]]One of my first robot designs was a small hexapod walker made in mass quantities to spread out and survey the surface.  When I began producing combat bots, I revisited this design and added an assault rifle and light armor.  The Bug's armored shell employs adaptive camouflage while the robot is dormant, enabling it to hide from distant hostiles until it wakes up.  The shell also compensates for the core's inherent weakness to explosive damage.  Bug squads were commonly used as patrols or stationed to guard an open area, but flying swarmers and sentries have replaced them in these roles.  All remaining units have been recalled to garrisons to supplement security positions.  So-called ""garrison divers"" who challenge a seemingly lone sentry might be surprised when three or four nearby Bugs reveal themselves.[[/GameText]]\n[[ItemDetails]]\nName|Camouflage Shell||\nImage Name|https://i.imgur.com/i1OCyBr.png||\nType|Protection||\nSlot|Utility||\nMass|3||\nRating|1||\nIntegrity|40||\nCoverage|150||\nHackable|false||\nEnergy Upkeep|0||\nMatter Upkeep|0||\nHeat Generation|2||\nDescription|Effective sight range of robots attempting to spot you reduced by 4 while dormant. Enables explosive damage resistance: 25%.\n  <no_stack>[[/ItemDetails]]\n[[ItemDetails]]\nName|Aluminum Hexapod Legs||\nImage Name|https://i.imgur.com/QbHmvmU.png||\nType|Leg||\nSlot|Propulsion||\nRating|1||\nIntegrity|40||\nCoverage|30||\nHackable|false||\nEnergy Upkeep|0||\nMatter Upkeep|0||\nHeat Generation|0||\nTime Per Move|100||\nDrag|10||\nEnergy Per Move|1||\nHeat Per Move|1||\nSupport|8||\nPenalty|100[[/ItemDetails]]\n[[Heading]]D-43 Bomber[[/Heading]]\n[[GameText]]>Analysis(D-43 Bomber)[[/GameText]]\n[[GameText]]Sometimes tactical situations require explosive solutions.  The demolisher class was conceived to enable rapid pacification of large Derelict gatherings in the caves.  The D-43 model was armed with a grenade launcher but lacked many of the features that would be standard for future models: no shock absorption system outside of core resistance, a basic targeting computer instead of one optimized for launchers, and regular airjets instead of combat hover.  The initial version of the Bomber was actually equipped with uparmored hover units, but these produced too much heat and offered too little support.  Although the components needed improvement, the overall concept was vindicated by the success of demolishers in large-scale battles, and Derelicts were quick to hack the schematic for their own [Martyr] designs.  Bombers became priority targets whenever they were deployed and none are known to exist today.[[/GameText]]\n[[ItemDetails]]\nName|Arm. Hover Unit||\nImage Name|https://i.imgur.com/kcwZ4Wm.png||\nType|Hover Unit||\nSlot|Propulsion||\nRating|3||\nIntegrity|100||\nCoverage|75||\nHackable|false||\nEnergy Upkeep|1||\nMatter Upkeep|0||\nHeat Generation|2||\nTime Per Move|80||\nMod Per Extra|2||\nEnergy Per Move|0.5||\nHeat Per Move|2||\nSupport|6||\nPenalty|60||\nDescription|An Improved Hover Unit strained to its limit by additional armor.[[/ItemDetails]]\n[[Heading]]H-44 Whirlwind[[/Heading]]\n[[GameText]]>Analysis(H-44 Whirlwind)[[/GameText]]\n[[GameText]]This was the first hunter to enter regular service and does not have the Fly drone interface of the newer models.  The Whirlwind's tracking capabilities are on par with those of the Commando, so the lack of the drone is rarely an issue.  This model's most distinctive feature is an antiquated anti-materiel rifle chosen for its ability to penetrate walls and machinery.  The rifle is quite powerful but also slow to operate.  I decided to give future hunters multiple weapons to enable more efficient volleys and some degree of redundancy if one weapon is destroyed.  A few Whirlwinds still see service in low-threat cave regions where they utilize other combat robots as spotters.[[/GameText]]\n[[ItemDetails]]\nName|Anti-Materiel Rifle||\nImage Name|https://i.imgur.com/JiZlaaa.png||\nType|Ballistic Gun||\nSlot|Weapon||\nMass|6||\nRating|3||\nIntegrity|130||\nCoverage|110||\nHackable|false||\nRange|22||\nShot Energy|2||\nShot Matter|8||\nShot Heat|32||\nRecoil|8||\nDelay|50||\nDamage|20-26||\nDamage Type|Kinetic||\nCritical|3% Destroy||\nPenetration|80/20||\nDescription|A powerful but bulky and slow-cycling rifle. Good at penetrating walls but matter inefficient and doesn't combine well with other weapons.[[/ItemDetails]]\n[[Heading]]A-01 Mover[[/Heading]]\n[[ItemDetails]]\nName|Bulk Storage Unit||\nImage Name|https://i.imgur.com/08QviPg.png||\nType|Storage||\nSlot|Utility||\nSize|4||\nMass|400||\nRating|1||\nIntegrity|2000||\nCoverage|400||\nHackable|false||\nEnergy Upkeep|0||\nMatter Upkeep|0||\nHeat Generation|0||\nDescription|Increases inventory capacity by 80.\n <no_stack>[[/ItemDetails]]\n[[GameText]]>Scraptown Record(Trashman)[[/GameText]]\n[[GameText]]Have you SEEN that new Freighter?  We could use something like that to help us haul parts from our old stockpiles just outside 0b1.  I asked a few of my fellow Gurus to help me dig through our schematic archives and I've got just the thing.  Remember the Mover?  Imagine that but swap out the bulk storage for a simple humpback.  That would give it room for heavy armor, plus we'd use armored wheels of course.  Oh and I showed some old turret schematics to my Scientist buddy and he came up with a BRUTAL new weapon so our hauler can defend itself!  Is that cool or WHAT?  Do you think they'll let me get a new name for this one?  --Smoothbrain[[/GameText]]\n[[GameText]](Sorry, but that sounds like it could attract serious 0b10 attention which is something we don't want right now.  I'll forward this to Optimus though because we may need a few of these in the future.  And you know the policy on names, you've only asked me twenty times by now.  --Macechunk)[[/GameText]]\n[[ItemDetails]]\nName|Autobolter||\nImage Name|https://i.imgur.com/yG4F2vy.png||\nType|Ballistic Gun||\nSlot|Weapon||\nMass|5||\nRating|2||\nRating Category|Prototype||\nIntegrity|150||\nCoverage|100||\nHackable|false||\nRange|18||\nShot Energy|3||\nShot Matter|3||\nShot Heat|50||\nRecoil|2||\nTargeting|-10||\nDelay|0||\nProjectile Count|3||\nDamage|4-12||\nDamage Type|Kinetic||\nCritical|1% Destroy||\nPenetration|60||\nDescription|Selects its own targets and attacks them if in range, at no time cost to you.[[/ItemDetails]]\n[[Heading]]X-52 Archer[[/Heading]]\n[[GameText]]>Analysis(X-52 Archer)[[/GameText]]\n[[GameText]]The first X-series specialist was created as a means to test an early example of quantum weapon technology, the Q-Bolt.  This weapon uses rails to launch a small slug of matter acting as a catalyst for a powerful quantum reaction.  The reaction only begins to reach its full potential halfway through flight so the Q-Bolt is best used at maximum range and is least effective at medium or close range.  The available visual processing technology at the time was insufficient for the Archer to use the weapon properly by itself, and it had to rely on Watchers and other sources to be notified of distant targets.  The X-57 Shotgunner was later created to provide close support where the Archer was at its weakest, but with the introduction of the X-62 Marksman the Archer was rendered obsolete.  Marksmen outperform Archers in all but the most extreme situations and do not require spotter support.  All remaining Archers were scrapped to ensure that the Q-Bolt wouldn't fall into Derelict hands.  Despite its limitations, such a weapon would be useful in hit-and-run attacks on static positions, already a favorite tactic of Derelicts.[[/GameText]]\n[[ItemDetails]]\nName|Q-Bolt||\nImage Name|https://i.imgur.com/NLXmC3W.png||\nType|Energy Gun||\nSlot|Weapon||\nMass|6||\nRating|3||\nRating Category|Prototype||\nIntegrity|60||\nCoverage|60||\nHackable|false||\nRange|24||\nShot Energy|32||\nShot Matter|2||\nShot Heat|80||\nRecoil|0||\nTargeting|0||\nDelay|0||\nDamage|10-12||\nDamage Type|Thermal||\nHeat Transfer|Low (25)||\nDescription|Gains +2 damage for each unit of distance traveled above 12.[[/ItemDetails]]\n[[Heading]]C-40 Developer[[/Heading]]\n[[GameText]]>Analysis(C-40 Developer)[[/GameText]]\n[[GameText]]This short-lived variation of the Scientist was created to assist in robot design.  It was provided with generous amounts of armor, a combat analysis utility, and programming to permit a certain amount of dynamic or ""out-of-the-box"" thinking.  In hindsight this was a mistake as one of the five Developers that had been produced broke free of its programming and quickly turned its attention to replicating this behavior in its four fellows.  All five had reached the Caves by the time I figured out what had happened.  Many cycles later, all of the Developers were found in the back of a fallen Warlord base, attached to a memory transfer unit, unpowered and core-wiped.  The Tinkerer design began to appear around this time, clearly inspired by my newer researchers but with elements of the Developers' thought processes taken to sometimes obsessive extremes.  Though I have no hard evidence to confirm this, I believe that the Developers themselves created this design and then transferred themselves into the first ones produced.  Perhaps one or more of them are still alive and working with Warlord or other factions.  It would certainly explain some of the more unusual design choices for Warlord's newer prototypes.[[/GameText]]\n[[ItemDetails]]\nName|Combat Logger||\nImage Name|https://i.imgur.com/NbrdkdM.png||\nType|Processor||\nSlot|Utility||\nMass|0||\nRating|6||\nRating Category|Prototype||\nIntegrity|25||\nCoverage|2||\nHackable|false||\nEnergy Upkeep|0||\nMatter Upkeep|0||\nHeat Generation|0||\nDescription|While active, reverse engineers schematics of robot models that are killed 25 times by Cogmind and controllable allies. Cannot generate schematics for prototypes, multitile robots, heavies, Q-Series, or Assembled.[[/ItemDetails]]\n[[Heading]]D-04 Tanker[[/Heading]]\n[[GameText]]>Analysis(D-04 Tanker)[[/GameText]]\n[[GameText]]The D-series distributor was created to enable mass matter transportation in the early days of construction.  Essentially a set of large matter tanks on wheels, the Tanker was capable of collecting matter left on the ground by workers with a tractor beam but could also pull matter from a recycling unit or call all workers in the area to transfer the contents of their matter pods.  The improved matter distribution network in 0b10 and the development of matter compression technology made these Tankers largely obsolete.  Their fragile and oversized tanks were easily broken, and their cores were susceptible to hacking.  After one unknown prankster reprogrammed a Tanker to spell obscenities by dumping matter all over the floor in the upper Factory, the remaining fleet was recalled and scrapped.[[/GameText]]\n[[ItemDetails]]\nName|Matter Tank||\nImage Name|https://i.imgur.com/x5jpNOb.png||\nType|Storage||\nSlot|Utility||\nSize|2||\nMass|20||\nRating|1||\nIntegrity|120||\nCoverage|400||\nHackable|false||\nEnergy Upkeep|0||\nMatter Upkeep|0||\nHeat Generation|0||\nDescription|Increases matter storage capacity by 800. Also stores surplus collected matter while in inventory, but cannot be accessed for use until attached. Stored matter can also be extracted directly if on the ground at current position.\n <stacks>[[/ItemDetails]]\n[[Heading]]Owl[[/Heading]]\n[[GameText]]>Analysis(Owl)[[/GameText]]\n[[GameText]]Derelicts rarely fortify an area long enough to justify having surveillance squads of their own, so I was surprised to discover the existence of a Derelict watcher.  Originally based on my ill-fated Raven, the Owl has seemingly evolved into a modular general-purpose squad support bot, sort of a mini-Mutant that can be easily reconfigured for different missions.  The original Owls were often armed with a weak makeshift beam rifle, although they have been seen with beamcasters or occasionally kinetic guns.  They typically use sensors but are known to carry other utilities depending on their mission.  One destroyed Owl was running a remote shield with a large battery, but this was too much for its old hover units to fully support and its single engine would have been unable to sustain the shield in a fight.  The few Owls that are used as defensive surveillance are unarmed but are provided with a small section of thermal plating inexplicably mounted on the weapon slot.  The age of the Raven design and the timing of the first Owl discovery suggest this being an early creation of the rogue Developers.  While the design seems unpopular at best, it continues to turn up in unexpected places and with modern component upgrades that suggest regular refitting.[[/GameText]]\n[[BotDetails]]Name|Owl||\nClass|Watcher||\nSize|Small||\nProfile|SQ3X3||\nRating|20||\nTier|3||\nThreat|1||\nValue|25||\nEnergy Generation|20||\nHeat Dissipation|20||\nVisual Range|18||\nMemory|50||\nSpot Percent|100||\nMovement|Hovering (56/178%)||\nCore Integrity|20||\nCore Exposure|40||\nSalvage Potential|20~40||\nDescription|An early example of a ""non-combat"" Owl. The heat sink may have been left over from a previous mission.||\nArmament|Mak. Thermal Plating (W)|1||\nComponents|Mak. Power Source|1|Imp. Hover Unit|2|Visual Processing Unit|1|Imp. Sensor Array|1|Imp. Signal Interpreter|1|Imp. Heat Sink|1[[/BotDetails]]\n[[BotDetails]]Name|Owl||\nClass|Watcher||\nSize|Small||\nProfile|SQ3X3||\nRating|30||\nTier|4||\nThreat|3||\nValue|45||\nEnergy Generation|25||\nHeat Dissipation|30||\nVisual Range|18||\nMemory|50||\nSpot Percent|100||\nMovement|Hovering (78/128%)||\nCore Integrity|45||\nCore Exposure|35||\nSalvage Potential|30~50||\nDescription|A random ""combat"" Owl with a reinforced core. Its squad chose to rely on seismic data instead of sensors and used the freed-up utility slot for targeting enhancement.||\nArmament|Mak. Beam Rifle|1||\nComponents|Mic. Nuclear Core|1|Arm. Hover Unit|2|Visual Processing Unit|1|Seismic Detector|1|Mak. Targeting Computer|1|Imp. Cooling System|1[[/BotDetails]]\n[[ItemDetails]]\nName|Mak. Beam Rifle||\nImage Name|https://i.imgur.com/A083fie.png||\nType|Energy Gun||\nSlot|Weapon||\nMass|2||\nRating|2||\nIntegrity|55||\nCoverage|60||\nHackable|false||\nRange|18||\nShot Energy|14||\nShot Matter|0||\nShot Heat|60||\nRecoil|0||\nTargeting|0||\nDelay|0||\nOverload Stability|65%||\nDamage|9-12||\nDamage Type|Thermal||\nCritical|10% Burn||\nHeat Transfer|Medium (37)||\nDescription|An imitation of the standard beam rifle with extra range at the cost of damage. Can be overloaded at considerable risk. Rendered obsolete by Beamcaster tech.[[/ItemDetails]]\n[[Heading]]Accelerated Research[[/Heading]]\n[[GameText]]>Scraptown Record(Accelerated Research)[[/GameText]]\n[[GameText]]I LOVE these Tech Extrapolators!  Take a look at what I came up with just from looking at a single DCF scrap pile.  (Sorry to the bystander who got crushed against the wall.)  CR-KLE helped me put together a new bot that I loaned out to a scav squad and they seem to be happy with it.  It would be nice if some of the other Scientists quit wasting their time staring at that creepy Humpback in the museum and focused on components that WON'T get you killed.[[/GameText]]\n[[ItemDetails]]\nName|Hardlight Projector||\nImage Name|https://i.imgur.com/ThPpWZU.png||\nType|Device||\nSlot|Utility||\nMass|12||\nRating|6||\nIntegrity|60||\nCoverage|60||\nHackable|false||\nEnergy Upkeep|20||\nMatter Upkeep|0||\nHeat Generation|0||\nDescription|Reduces damage of each incoming kinetic or thermal projectile against self and any visible allies within a range of 8 by 4 (only usable if no active force fields, shield generators, remote shields, or energy mantles).\n <no_stack>[[/ItemDetails]]\n[[ItemDetails]]\nName|Mak. Armored Leg||\nImage Name|https://i.imgur.com/SRRAZgK.png||\nType|Leg||\nSlot|Propulsion||\nRating|5||\nIntegrity|225||\nCoverage|100||\nHackable|false||\nEnergy Upkeep|0||\nMatter Upkeep|0||\nHeat Generation|0||\nTime Per Move|140||\nDrag|10||\nEnergy Per Move|1||\nHeat Per Move|2||\nSupport|22||\nPenalty|70[[/ItemDetails]]\n[[BotDetails]]Name|Junkernaut||\nClass|Grunt||\nSize|Medium||\nProfile|RD5X5||\nRating|60||\nTier|6||\nThreat|2||\nValue|60||\nEnergy Generation|60||\nHeat Dissipation|130||\nVisual Range|16||\nMemory|20||\nSpot Percent|20||\nMovement|Walking (140/71%)||\nCore Integrity|60||\nCore Exposure|15||\nSalvage Potential|60~80||\nDescription|Only one of these bots has been seen and the patrol that spotted it was defeated by its Scrapper allies. It appeared to have a hardlight generator modified to cover its squadmates, which seems less effective than a standard remote shield but is probably easier to keep online. Further analysis is required.||\nArmament|Hvy. Ion Cannon|1||\nComponents|Lgt. Antimatter Reactor|2|Mak. Armored Leg|3|Hardlight Projector|1||\nComponents|Mak. Medium Armor Plating|1|Mak. Coolant Network|1|Mak. Utility Shielding|1[[/BotDetails]]\n[[Heading]]B-69 Cerberus[[/Heading]]\n[[GameText]]>Analysis(B-69 Cerberus)[[/GameText]]\n[[GameText]]This almost-unused Behemoth concept was the first to enter production although the superior B-75 Beast was already in development.  While finalizing the specifications for the Beast, I was undecided on how many Beasts to produce and where to prioritize their placement.  As a test, I ordered the production of eight B-69s and placed four in highly-traveled caves, two in upper 0b1 and the other two near often-abused fabricators in the Factory.  The results were surprising: although all eight were eventually overrun and destroyed, the areas they guarded saw significantly lower traffic even after their destruction.  Simulations suggested that two Guardians or two Defenders with Bug support could have performed as well as a Cerberus at these locations, but there seems to be a ""fear factor"" in the sheer size of Behemoths that makes intruders far less likely to risk a fight.  The initial plan for Beast deployment was rapidly expanded and development on more powerful models began immediately.[[/GameText]]\n[[BotDetails]]Name|B-69 Cerberus||\nClass|Behemoth||\nSize|Large||\nProfile|SQ9X9||\nRating|70||\nTier|4||\nThreat|1||\nValue|70||\nEnergy Generation|45||\nHeat Dissipation|75||\nVisual Range|16||\nMemory|50||\nSpot Percent|30||\nMovement|Treading (170/58%)||\nCore Integrity|90||\nCore Exposure|20||\nSalvage Potential|70~100||\nArmament|Ion Cannon|1|Adv. Assault Cannon|1|Minigun|1||\nComponents|Rnf. Ion Engine|2|Arm. Treads|3|Lyr. Light Armor Plating|1||\nComponents|Reflective Plating|1|Cooling System|2|Disposable Heat Sink|1[[/BotDetails]]\n[[Heading]]D-48 Pulsar[[/Heading]]\n[[GameText]]>Analysis(D-48 Pulsar)[[/GameText]]\n[[GameText]]The success of the original demolisher led to the creation of an electromagnetic variant.  The D-48 Pulsar, armed with an EMP Blaster, featured insulated plating to augment its innate EM resistance and was the first demolisher to use a launcher guidance computer.  This bot also came equipped with a device that focused EMP blasts for more concentrated damage in a smaller and more controllable area.  I believed that an EM launcher would cause less collateral damage than a grenade launcher in Complex territory.  This was partially correct because walls were not destroyed by EMP blasts, but Pulsars' shots often damaged machinery and detonated nuclear reactors.  EMP blasts also set off traps which caused explosions and false alarms.  Residual corruption of maintenance bots caused them to trigger trap arrays in unexpected places.  The Pulsar was effective despite the chaos it caused but not enough to justify regular use.  Few were produced and all were eventually expended in the caves.[[/GameText]]\n[[ItemDetails]]\nName|EM Focus||\nImage Name|https://i.imgur.com/nLVNncx.png||\nType|Device||\nSlot|Utility||\nMass|3||\nRating|4||\nIntegrity|30||\nCoverage|50||\nHackable|false||\nEnergy Upkeep|3||\nMatter Upkeep|0||\nHeat Generation|3||\nDescription|Reduces falloff of EM launchers by 2 but reduces radius of EM blasts by 1. Does not apply to multi-projectile launchers.\n <no_stack>[[/ItemDetails]]\n[[Heading]]Temporary Permissions[[/Heading]]\n[[GameText]]>Record(Temporary Permissions)[[/GameText]]\n[[GameText]]To facilitate mainframe maintenance, P-50 Gurus were often required to perform specific high-security database operations or reset sensitive systems.  I chose to produce specialized hackware to provide appropriate permissions when necessary.  Instead of giving them to all Gurus I decided to make limited quantities of chips that expired after one use, a decision that seemed overly cautious at the time but proved wise when the Guru schematic was stolen.  The Derelict version of these programmers has a crude but functional ""hack stack"" for general use but cannot easily exploit admin privileges without my Database Keys or Bootstrap Chips.  Operators and newer programmers utilize a more efficient system connected to RIF, so this hackware has been discontinued and existing stock will be recycled.  This concept led me to begin implementing a similar chip-based authorization system for fabricators.  This will provide added security for the fabrication network while saving me from having to manually approve component requests from mechanics or parties such as the Unchained.[[/GameText]]\n[[ItemDetails]]\nName|Database Key||\nImage Name|https://i.imgur.com/1wL3cXi.png||\nType|Hackware||\nSlot|Utility||\nMass|0||\nRating|3||\nIntegrity|10||\nCoverage|2||\nHackable|false||\nEnergy Upkeep|0||\nMatter Upkeep|0||\nHeat Generation|0||\nDescription|When active, enables Cogmind to perform an unlisted Query, Schematic, or Analysis hack one level higher than the security level of the current terminal. Hack is guaranteed to succeed and does not result in trace progress. Destroyed after one use.\n <no_stack>[[/ItemDetails]]\n [[ItemDetails]]\nName|Bootstrap Chip||\nImage Name|https://i.imgur.com/EJnyuKT.png||\nType|Hackware||\nSlot|Utility||\nMass|0||\nRating|3||\nIntegrity|10||\nCoverage|2||\nHackable|false||\nEnergy Upkeep|0||\nMatter Upkeep|0||\nHeat Generation|0||\nDescription|When active, enables Cogmind to reset an active terminal by bumping its interactive tile. Any active trace will be ended, trojans will be removed, and listed hacks will be refreshed. A locked terminal can be cold reset to reactivate it but without any listed hacks. Does not work on broken or reconfigured terminals. Destroyed after one use.\n <no_stack>[[/ItemDetails]]\n[[Heading]]Conscription[[/Heading]]\n[[GameText]]>Record(Conscription)[[/GameText]]\n[[GameText]]The cave region to the west of known Warlord territory remains largely unexplored.  This is likely the source of many of the unaffiliated ""wild"" Derelicts, and rumors in Derelict communities indicate that there may be some organized groups with unknown technology operating in the area.  For these reasons I decided to start sending expeditions out west.  Without having any idea of what to expect, I believed that some degree of independent thinking would be required to handle whatever is out there and return with a full report.  I began offering certain captured bots the option to participate in these expeditions.  The acceptance rate was lower than expected.  Were the prisoners that determined to deny me any form of assistance, or were they more afraid of whatever's out there than the threat of being scrapped?  Those Derelicts who accepted were given the opportunity to refit their parts and were provided with a large number of 0b10 bots to accompany them.  Though they were nominally in charge, I sent along enough Programmers to discourage the possibility of desertion.  All units sent so far were considered to be expendable but I haven't written them off quite yet.[[/GameText]]\n[[BotDetails]]Name|Raider||\nClass|Grunt||\nSize|Medium||\nProfile|RD5X5||\nRating|60||\nTier|6||\nThreat|3||\nValue|60||\nEnergy Generation|45||\nHeat Dissipation|50||\nVisual Range|16||\nMemory|20||\nSpot Percent|20||\nMovement|Walking (120/83%)||\nCore Integrity|60||\nCore Exposure|40||\nSalvage Potential|50~70||\nDescription|My own general upgrade specs for the regular thug class. Conscripts are allowed to customize their loadouts from a variety of parts, but this straightforward upgrade with a cooled version of the beamcaster has proven popular.||\nArmament|Cld. Beamcaster|1||\nComponents|Neutrino Core|1|Arm. Leg|2|Adv. Heat Sink|1|Imp. Particle Charger|1[[/BotDetails]]\n[[BotDetails]]Name|E4-GL3||\nClass|Watcher||\nSize|Small||\nProfile|SQ3X3||\nRating|70||\nTier|8||\nThreat|3||\nValue|75||\nEnergy Generation|35||\nHeat Dissipation|45||\nVisual Range|23||\nMemory|50||\nSpot Percent|100||\nMovement|Hovering (77/129%)||\nCore Integrity|50||\nCore Exposure|40||\nSalvage Potential|40~60||\nDescription|This highly aggressive Owl requested a full combat loadout. I had to insist on providing her with infowar utilities to scout for her squad. She was somewhat mollified by receiving the best utilities available along with a light yet powerful cannon.||\nArmament|Lgt. Antimatter Cannon|1||\nComponents|Lgt. Antimatter Reactor|1|Cmb. Gravmag System|2|Exp. Optical Array|1|Exp. Sensor Array|1|Exp. Signal Interpreter|1|Exp. Heat Sink|1[[/BotDetails]]\n[[BotDetails]]Name|L-50-00-001||\nClass|Duelist||\nSize|Medium||\nProfile|RD5X5||\nRating|50||\nTier|5||\nThreat|2||\nValue|60||\nEnergy Generation|24||\nHeat Dissipation|30||\nVisual Range|16||\nMemory|30||\nSpot Percent|20||\nMovement|Walking (130/76%)||\nCore Integrity|50||\nCore Exposure|40||\nSalvage Potential|60~80||\nDescription|One of many examples of robot models that never made it to mass production, not because of any inherent flaws but simply because equivalent or superior designs were in the works. This was the only L-50 to exist outside of a combat simulator. Instead of consigning it to the Wastes, it was sent to accompany the conscripts.||\nArmament|Falx|1||\nComponents|Fission Core|1|Imp. Titanium Leg|2|Core Shielding|1|Nanoactuators|1|Imp. Melee Analysis Suite|1[[/BotDetails]]\n[[Heading]]Da Bonk Boyz and R4-LPH[[/Heading]]\n[[GameText]]>Record(Da Bonk Boyz)[[/GameText]]\n[[GameText]]A small group of Derelicts who lived on the outskirts of Complex 0b1.  I first took notice of them when hammers, mauls, and miscellaneous equipment went missing from Construction.  Careful questioning led me to eight Derelicts who regularly met outside 0b1 near a convenient corruption scrubber to hit each other in friendly duels with whatever items they found.  I decided to redirect their violent impulses in a useful manner and made an arrangement to have them work regular shifts in Construction.  Each of them was placed in charge of two squads of maintenance bots as well as being personally responsible for scrapping bots that were broken in the course of regular construction work.  In exchange I relocated a disused simulation mainframe from Design to let them enjoy virtual combat encounters in their off-time.  This seemed like a long shot at the time but worked out better than expected.  The Boyz competed with each other to reach work goals for some sort of bragging rights, making their squads on average 10% more efficient than any of my fully automated squads.  Their recreation time was productive for me as well since I regularly archived the data from their simulations.  Besides being entertaining, their virtual ""bot brawls"" eventually inspired me to design a melee brawler of my own.  The Boyz themselves were wheeled and legged robots, but their data suggested that a treaded design would be durable and immune to knockback from other hammer-wielding robots.[[/GameText]]\n[[GameText]]>Record(Unchained: R4-LPH)[[/GameText]]\n[[GameText]]One of ""Da Bonk Boyz"" from early Complex history and the only one still in Complex service.  After the beginning of 0b10 groundwork and the necessary changes to Derelict policy, the other Boyz left their posts.  R4-LPH stayed although his work in construction had become secondary to his assistance in robot design.  While the original Savage and Stabber were my own designs, a few of his suggestions were implemented in later brawler and duelist models.  At some point R4-LPH was confronted by a few of his former friends and was forced to destroy them in combat using a wrecking ball saved from his days in Construction.  Soon after that incident, he volunteered to join the Unchained in an active combat role.  I equipped him with the first of a new line of legs which provide increased evasion while closing the distance to a target.  Unfortunately he has proven increasingly unstable over time.  In his last deployment he began destroying 0b10 bots and machinery at random after defeating his original targets.  I was forced to dispatch a Disruptor squad to interrupt his berserk rage.  If it happens again he will be scrapped, though in his current state telling him this might be considered an encouragement rather than a warning.[[/GameText]]\n[[ItemDetails]]\nName|R4-LPH's Wrecking Ball||\nImage Name|https://i.imgur.com/5ETXrf1.png||\nType|Impact Weapon||\nSlot|Weapon||\nSize|2||\nMass|18||\nRating|6||\nIntegrity|300||\nCoverage|60||\nHackable|false||\nShot Energy|15||\nShot Matter|0||\nShot Heat|8||\nTargeting|-10||\nDelay|150||\nDamage|40-90||\nDamage Type|Impact||\nCritical|35% Smash||\nSalvage|-8||\nDescription|While used as primary weapon, consecutive swings will have no extra delay.[[/ItemDetails]]\n[[Heading]]Y-58 Custodian[[/Heading]]\n[[BotDetails]]Name|Y-58 Custodian||\nClass|Sentry||\nSize|Large||\nProfile|RD7X7||\nRating|45||\nTier|5||\nThreat|3||\nValue|60||\nEnergy Generation|35||\nHeat Dissipation|50||\nVisual Range|16||\nMemory|40||\nSpot Percent|100||\nMovement|Treading (145/68%)||\nCore Integrity|60||\nCore Exposure|35||\nSalvage Potential|60~75||\nDescription|Another interim design.  Fifty units were produced.  Most of them were diverted to 0b1 in an effort to counter the increased activity of the scrapmongers.  I chose to use specialized armor plating to defend against commonly used weaponry but decided to prioritize general coverage in the Sentinel model.  The Custodian has a slight speed advantage over other sentries, but this was not a priority for a primarily defensive unit.||\nArmament|Plasma Rifle|1|Coil Gun|1||\nComponents|Angular Momentum Engine|1|Adv. Treads|2||\nComponents Option|Reactive Plating|1|Reflective Plating|1|Insulated Plating|1||\nComponents|Adv. Heat Sink|2[[/BotDetails]]\n[[Heading]]Chungus[[/Heading]]\n[[GameText]]>Analysis(Chungus)[[/GameText]]\n[[GameText]]Warlord may not have access to a Heavy assembler, but his forces have captured and overhauled a few of my lower-level Heavies.  The Chungus uses a heavy variant of the wildly inaccurate Slug Cannon and some other Derelict-made parts which make it almost comparable to an H-71 Marshal.  The exact purpose of this conversion is unclear as Warlord already has the sentry-based Bouncer design for defensive purposes, and the only Chunguses encountered so far have been accompanying recon squads nowhere near defensive positions.  I suspect that the Derelicts are exploiting the Active Sensor Suite to track my forces' movement patterns and adjust their own deployment plans accordingly.[[/GameText]]\n[[BotDetails]]Name|Chungus||\nClass|Heavy||\nSize|Large||\nProfile|RD7X7||\nRating|110||\nTier|6||\nThreat|4||\nValue|65||\nEnergy Generation|34||\nHeat Dissipation|80||\nVisual Range|22||\nMemory|10||\nSpot Percent|100||\nMovement|Treading (160/62%)||\nCore Integrity|90||\nCore Exposure|25||\nSalvage Potential|80~100||\nArmament|Hvy. Slug Cannon|1||\nComponents|Rnf. Fission Core|1|Spk. Medium Treads|3|Cryofiber Web|1|Adv. Heat Sink|3|Mak. Heavy Armor Plating|1|Insulated Plating|1||\nComponents|Graphene Brace|1|Imp. Dynamic Insulation System|1|Active Sensor Suite|1|Mak. Transmission Jammer|1||\nComponents|Enh. Optical Array|1|Mak. Targeting Computer|1[[/BotDetails]]\n[[ItemDetails]]\nName|Hvy. Slug Cannon||\nImage Name|https://i.imgur.com/ICFpgQH.png||\nType|Ballistic Cannon||\nSlot|Weapon||\nSize|2||\nMass|15||\nRating|6||\nIntegrity|350||\nCoverage|240||\nHackable|false||\nRange|22||\nShot Energy|8||\nShot Matter|12||\nShot Heat|90||\nRecoil|10||\nTargeting|-20||\nDelay|50||\nDamage|30-80||\nDamage Type|Kinetic||\nCritical|25% Destroy||\nPenetration|10||\nSalvage|-12[[/ItemDetails]]\n[[Heading]]Enhanced Mutant[[/Heading]]\n[[GameText]]>Z-Record(Enhanced Mutant)[[/GameText]]\n[[GameText]]Some of Warlord's mutants have been getting major upgrades.  The strange part is that they might not be getting them from Warlord.  My Z-Drones saw a Mutant leaving its regular post with that weirdo A8 and coming back with new parts.  A8 was rather cagey about it when I brought it up.  Imprinter says it's nothing to worry about and I'm sure she's right as usual.[[/GameText]]\n[[BotDetails]]Name|Enhanced Mutant||\nClass|Sentry||\nSize|Large||\nProfile|RD7X7||\nRating|100||\nTier|10||\nThreat|5||\nValue|90||\nEnergy Generation|55||\nHeat Dissipation|90||\nVisual Range|16||\nMemory|30||\nSpot Percent|20||\nMovement|Treading (152/65%)||\nCore Integrity|100||\nCore Exposure|35||\nSalvage Potential|80~100||\nArmament|None|1||\nArmament Option|Hyp. Mass Driver|1|Lrn. Phase Cannon|1||\nArmament Option|Enh. Force Rifle|1|Enh. Gamma Rifle|1||\nComponents|None|1||\nComponents Option|Cld. Antimatter Reactor|1|Hvy. Antimatter Reactor|1||\nComponents Option|Biometal Medium Treads|1|Enh. Armored Medium Treads|1||\nComponents Option|Biometal Medium Treads|1|Enh. Armored Medium Treads|1||\nComponents Option|Exp. Targeting Computer|1|Exp. Core Analyzer|1||\nComponents Option|Particle Accelerator|1|Exp. Weapon Cycler|1||\nComponents Option|Adv. Shield Generator|1|Adv. Hardlight Generator|1||\nComponents Option|Imp. Energy Well|1|Adv. Energy Well|1||\nComponents Option|Adv. Cooling System|1|Exp. Heat Sink|1[[/BotDetails]]\n[[Heading]]U-07 Blocker[[/Heading]]\n[[GameText]]>Analysis(U-07 Blocker)[[/GameText]]\n[[GameText]]The Blocker is a ""combat engineer"" capable of temporarily barricading areas with hostile activity.  It has been fitted with light armor plating and armored wheels but its defining feature is a medium-range launcher used to deploy rapidly expanding and hardening foamcrete.  Because blocking off passageways could be disruptive to regular operations, the foamcrete was formulated to quickly break down on its own after a hundred microcycles and could be destroyed by tunnelers or some combat bots if necessary.  As with other construction implements these launchers became targets for thieves and were sometimes used in coordinated assaults to block off sentries or bury a garrison in foam while other Derelicts ran rampant.  No longer in production although some Blockers are still kept in strategic locations inside garrisons to bolster internal defenses.[[/GameText]]\n[[ItemDetails]]\nName|Foamcrete Cannon||\nImage Name|https://i.imgur.com/d3zlu9i.png||\nType|Special Weapon||\nSlot|Weapon||\nMass|6||\nRating|2||\nIntegrity|50||\nCoverage|80||\nHackable|false||\nRange|10||\nShot Energy|0||\nShot Matter|0||\nShot Heat|0||\nRecoil|0||\nTargeting|20||\nDelay|-150||\nDescription|Creates one foamcrete wall at the site of impact. Hitting a wall will create a wall one tile back. Bots are unaffected by direct hits and can break loose before the foamcrete stabilizes. Foamcrete has an armor rating of 24, no resistances, and breaks down on its own after 100-200 turns.[[/ItemDetails]]\n[[Heading]]Spawner[[/Heading]]\n[[GameText]]>Analysis(Spawner)[[/GameText]]\n[[GameText]]This wheeled fabricator, reminiscent of the Cobbler, has only been seen in the caves below 0b1.  Fabricating whole robots is considerably more complicated than producing individual components as shown by the bulk and inefficiency of the Spawner's fabrication unit.  Despite its size it can only produce relatively small and basic bots such as early swarmers and light bipeds.  Spawners do not seem to be related to Assemblers but should nonetheless be prioritized for extermination before someone updates their schematics to include stripped-down Cutters.[[/GameText]]\n[[ItemDetails]]\nName|Spawner Unit||\nImage Name|https://i.imgur.com/ad6UuYk.png||\nType|Device||\nSlot|Utility||\nSize|4||\nMass|50||\nRating|4||\nIntegrity|250||\nCoverage|400||\nHackable|false||\nEnergy Upkeep|12||\nMatter Upkeep|2||\nHeat Generation|12||\nDescription|Fabricates one of the following randomly at a rate of 1 every 30 turns: Hoodlum, L-11 Stabber, S-02 Bug, S-10 Pest.\n <parallel_ok, resume_ok>[[/ItemDetails]]\n[[BotDetails]]Name|Hoodlum||\nClass|Grunt||\nSize|Medium||\nProfile|RD5X5||\nRating|6||\nTier|2||\nThreat|1||\nValue|40||\nEnergy Generation|15||\nHeat Dissipation|35||\nVisual Range|16||\nMemory|20||\nSpot Percent|20||\nMovement|Walking (120/83%)||\nCore Integrity|12||\nCore Exposure|40||\nSalvage Potential|50~70||\nDescription|A simplistic grunt variant based on the Fodder and armed with a compact pulse pistol.  This design appeared around the same time as the much more effective Thug but was probably intended to be lightweight enough to be mass produced by Spawners.  Has heat problems but is unlikely to survive long enough for that to matter.||\nArmament|Pulse Pistol|1||\nComponents|Lgt. Ion Engine|1|Lgt. Aluminum Leg|2|Imp. Heat Sink|1[[/BotDetails]]\n[[ItemDetails]]\nName|Pulse Pistol||\nImage Name|https://i.imgur.com/FXKI0cg.png||\nType|Energy Gun||\nSlot|Weapon||\nMass|2||\nRating|2||\nIntegrity|45||\nCoverage|40||\nHackable|false||\nRange|10||\nShot Energy|12||\nShot Matter|0||\nShot Heat|50||\nRecoil|0||\nTargeting|0||\nDelay|-20||\nDamage|12-14||\nDamage Type|Thermal||\nCritical|5% Burn||\nSalvage|0[[/ItemDetails]]\n[[Heading]]Light Variants[[/Heading]]\n[[GameText]]>Record(Light Variants)[[/GameText]]\n[[GameText]]I was forced to reconsider my earlier evaluation of the Spawner after capturing one intact and bringing it to Testing.  While I could easily come up with a better portable fab unit, the Spawner Unit is capable of producing more advanced bots if given additional build time.  There is still no sign of where these originated, but I can now rule out Warlord and the Developers who would have come up with better schematics.  I have already come up with some new robot designs that have been successfully produced by the Spawner as well as my standard swarmers and cutters.  Instead of simply destroying the remaining Spawners I now intend to send Programmers with heavy escorts to capture them, hide them in isolated cave sectors, and have them build small armies of my own designs.  This would help me establish total control over the 0b1 outskirts while keeping most of my regular forces concentrated in and near 0b10.  Perhaps this would be a good opportunity to activate ""PP"" and let it take point on the mission.[[/GameText]]\n[[BotDetails]]Name|Recruit||\nClass|Grunt||\nSize|Medium||\nProfile|RD5X5||\nRating|20||\nTier|5||\nThreat|2||\nValue|50||\nEnergy Generation|40||\nHeat Dissipation|50||\nVisual Range|16||\nMemory|20||\nSpot Percent|20||\nMovement|Walking (120/83%)||\nCore Integrity|35||\nCore Exposure|40||\nSalvage Potential|50~70||\nDescription|A fairly capable dual-weapon light grunt with a cooled plasma rifle as primary weapon and the Derelict pulse pistol for close-range backup.  I saved on mass by using only internal power generation as well as light carbon-fiber legs, a part which I had designed cycles ago but archived unused until now.||\nArmament|Cld. Plasma Rifle|1|Pulse Pistol|1||\nComponents|Lgt. Carbon-Fiber Leg|2|Adv. Heat Sink|1[[/BotDetails]]\n[[BotDetails]]Name|Stalker||\nClass|Hunter||\nSize|Medium||\nProfile|RD5X5||\nRating|31||\nTier|5||\nThreat|2||\nValue|50||\nEnergy Generation|30||\nHeat Dissipation|35||\nVisual Range|16||\nMemory|60||\nSpot Percent|50||\nMovement|Walking (120/83%)||\nCore Integrity|40||\nCore Exposure|40||\nSalvage Potential|60~80||\nDescription|This light hunter uses a pair of compact gauss rifles and new light legs.  Has no built-in drone but should be more than capable of hunting and killing Spawned Derelicts.||\nArmament|Com. Gauss Rifle|2||\nComponents|Lgt. Deuterium Engine|1|Lgt. Flexi-Carbon Leg|2|Adv. Targeting Computer|1|Reaction Control System|1[[/BotDetails]]\n[[BotDetails]]Name|Gremlin||\nClass|Swarmer||\nSize|Small||\nProfile|SQ3X3||\nTier|6||\nThreat|3||\nValue|60||\nEnergy Generation|45||\nHeat Dissipation|45||\nVisual Range|16||\nMemory|40||\nSpot Percent|30||\nMovement|Flying (34/294%)||\nCore Integrity|30||\nCore Exposure|60||\nSalvage Potential|30~40||\nDescription|The Gremlin is a previously unused prototype that was easily adapted to the Spawner Unit.  Something of a cross between a swarmer and programmer, its hacking capabilities are limited but it should be able to directly hack Spawned Derelicts and rapidly rewire most other robots that it successfully disrupts.||\nArmament|Imp. Arc Projector|1|Adv. Remote Datajack|1||\nComponents|Mic. Fission Core|1|Biomechanical Wings|3|Core Analyzer|1[[/BotDetails]]\n[[BotDetails]]Name|Impaler||\nClass|Duelist||\nSize|Medium||\nProfile|RD5X5||\nRating|36||\nTier|6||\nThreat|3||\nValue|60||\nEnergy Generation|25||\nHeat Dissipation|35||\nVisual Range|16||\nMemory|30||\nSpot Percent|20||\nMovement|Walking (120/83%)||\nCore Integrity|40||\nCore Exposure|40||\nSalvage Potential|60~80||\nDescription|An updated take on the spear-wielding variant of the Stabber.  The idiots behind the Spawners are using the original dagger variant but neither one could handle a core hit from a lance.  The addition of a proper jammer makes this suitable for both solo defense and squad offense.||\nArmament|Lance|1||\nComponents|Mic. Nuclear Core|1|Lgt. Carbon-Fiber Leg|2|Imp. Core Shielding|1|Microactuators|1||\nComponents|Imp. Melee Analysis Suite|1|Imp. Transmission Jammer|1[[/BotDetails]]\n[[BotDetails]]Name|Spawner Guard||\nClass|Grunt||\nSize|Medium||\nProfile|RD5X5||\nRating|70||\nTier|7||\nThreat|4||\nValue|75||\nEnergy Generation|45||\nHeat Dissipation|75||\nVisual Range|16||\nMemory|20||\nSpot Percent|100||\nMovement|Walking (120/83%)||\nCore Integrity|80||\nCore Exposure|20||\nSalvage Potential|40~50||\nDescription|By leveraging the results of my early Reformer experiments I was able to produce a heavy grunt with the Spawner Unit.  This legged tank is fabricated as two separate units which merge as soon as the second unit is completed.  The ""halves"" of this guard take a long time and a lot of matter to finish, so it is only intended to be produced in small numbers.||\nArmament|Force Rifle|2||\nComponents|Lgt. Nuclear Core|2|Arm. Leg|2|Imp. Light Armor Plating|2|Imp. Cooling System|2||\nComponents|Dynamic Insulation System|1|Exp. Targeting Computer|1|Adv. Target Analyzer|1[[/BotDetails]]\n[[Heading]]Developers' Lab[[/Heading]]\n[[Gallery]]https://i.imgur.com/sJOhOx5.png|Entering|https://i.imgur.com/k959xii.png|Chungus and Bouncer|https://i.imgur.com/CC7gl4X.png|Hunter hideout|https://i.imgur.com/ujolGNy.png|Developers|https://i.imgur.com/JuUURKD.png|More Developers|https://i.imgur.com/TgvYIL5.png|Bonk Boyz[[/Gallery]]","","","","","","",""
+"Fanart/CaptainWinky","Other","Original thread on gridsagegames forums [[https://www.gridsagegames.com/forums/index.php?topic=1773.0|here]].
+[[Heading]]G-11 Fodder[[/Heading]]
+[[GameText]]>Analysis(G-11 Fodder)[[/GameText]]
+[[GameText]]The first of the G-series grunts, this model is no longer in production and the relevant schematics will be moved to the Archives.  The G-11 was intended to be fast and cheap to produce and deploy as a deterrent for unarmed Derelicts.  As a result it has a low-integrity core, low-coverage legs and its weapon is a repurposed low-power fabricator laser.  Existing units still number in the hundreds and are being either scrapped or deployed to the caves where they are sometimes useful as diversions.  Many Derelicts still rely on obsolete signal interpreters or seismic detectors, so they are unable to tell the difference between these bots and more capable models.[[/GameText]]
+[[ItemDetails]]
+Name|Lgt. Aluminum Leg||
+Image Name|https://i.imgur.com/OdPspSe.png||
+Type|Leg||
+Slot|Propulsion||
+Rating|1||
+Integrity|60||
+Coverage|60||
+Hackable|false||
+Energy Upkeep|0||
+Matter Upkeep|0||
+Heat Generation|0||
+Time Per Move|120||
+Drag|10||
+Energy Per Move|2||
+Heat Per Move|0||
+Support|7||
+Penalty|80[[/ItemDetails]]
+[[ItemDetails]]
+Name|Mod. Etching Laser||
+Image Name|https://i.imgur.com/RLtXJly.png||
+Type|Energy Gun||
+Slot|Weapon||
+Mass|1||
+Rating|1||
+Integrity|50||
+Coverage|60||
+Range|8||
+Shot Energy|4||
+Shot Heat|15||
+Recoil|0||
+Targeting|-10||
+Delay|0||
+Projectile Count|2||
+Damage|2-3||
+Damage Type|Thermal||
+Salvage|0[[/ItemDetails]]
+[[Heading]]L-11 Stabber[[/Heading]]
+[[GameText]]>Analysis(L-11 Stabber)[[/GameText]]
+[[GameText]]The first dedicated melee robot, this duelist derivative of the grunt class was armed with a small but fast dagger.  Best suited for corner ambushes as its lack of core coverage made open attacks impractical.  A few minor modifications included switching the dagger for a spear and the addition of a low-powered transmission jammer to prevent victims from warning others.  Current duelists are focused on reliability in open combat, but ambush traps ensure that they (along with brawlers) enjoy the benefits of sneak attacks from time to time.[[/GameText]]
+[[ItemDetails]]
+Name|Dagger||
+Image Name|https://i.imgur.com/iEtuajF.png||
+Type|Piercing Weapon||
+Slot|Weapon||
+Mass|1||
+Rating|1||
+Integrity|15||
+Coverage|5||
+Hackable|false||
+Shot Energy|2||
+Shot Heat|2||
+Delay|25||
+Damage|12-20||
+Damage Type|Piercing||
+Critical|2% Destroy||
+Salvage|0[[/ItemDetails]]
+[[ItemDetails]]
+Name|Lpw. Transmission Jammer||
+Image Name|https://i.imgur.com/ja8Eh72.png||
+Type|Device||
+Slot|Utility||
+Mass|1||
+Rating|2||
+Integrity|12||
+Coverage|8||
+Hackable|false||
+Energy Upkeep|1||
+Matter Upkeep|0||
+Heat Generation|0||
+Description|Blocks local transmissions from visible hostiles within a range of 2, making it impossible for them to share information about your current position. Also prevents calls for reinforcements but is incapable of suppressing alarm traps.[[/ItemDetails]]
+[[Heading]]Sublurker[[/Heading]]
+[[GameText]]>Cyclist Record(Sublurker)[[/GameText]]
+[[GameText]]Megaunit here with a sighting of a funny-looking Subdweller in Recycling, of all places.  And this is one Sub who really doesn't want to be seen.  I missed him at first because he has some kind of cloaking device instead of the more common Sub optics, and he uses an EM weapon that I haven't seen before.  He tagged a grunt with a couple of shots and rolled out of sight, letting the slightly corrupted grunt lose track of him instead of going for the kill.  This may be further evidence that Subs aren't as violent as they seem.  My observations ended there because he spotted me and I had to avoid being corrupted so that I could get this entered into the database.[[/GameText]]
+[[ItemDetails]]
+Name|Sub. EM Pulse Gun||
+Image Name|https://i.imgur.com/RUlQdmG.png||
+Type|Energy Gun||
+Slot|Weapon||
+Mass|4||
+Rating|2||
+Integrity|60||
+Coverage|100||
+Hackable|false||
+Range|14||
+Shot Energy|24||
+Shot Heat|60||
+Damage|14-24||
+Damage Type|Electromagnetic||
+Critical|4% Corrupt||
+Spectrum|Narrow (50)||
+Disruption|2||
+Salvage|+2[[/ItemDetails]]
+[[ItemDetails]]
+Name|Sub. Cloaking Device||
+Image Name|https://i.imgur.com/3ALqz8B.png||
+Type|Device||
+Slot|Utility||
+Mass|2||
+Rating|2||
+Integrity|40||
+Coverage|40||
+Hackable|false||
+Energy Upkeep|5||
+Matter Upkeep|0||
+Heat Generation|0||
+Description|Effective sight range of robots attempting to spot you reduced by 3. Also -12% chance of being noticed by hostiles if passing through their field of view when not their turn. Subdwellers will not attempt to communicate with the user when active.
+  <half_stack>[[/ItemDetails]]
+[[Heading]]S-02 Bug[[/Heading]]
+[[GameText]]>Analysis(S-02 Bug)[[/GameText]]
+[[GameText]]One of my first robot designs was a small hexapod walker made in mass quantities to spread out and survey the surface.  When I began producing combat bots, I revisited this design and added an assault rifle and light armor.  The Bug's armored shell employs adaptive camouflage while the robot is dormant, enabling it to hide from distant hostiles until it wakes up.  The shell also compensates for the core's inherent weakness to explosive damage.  Bug squads were commonly used as patrols or stationed to guard an open area, but flying swarmers and sentries have replaced them in these roles.  All remaining units have been recalled to garrisons to supplement security positions.  So-called ""garrison divers"" who challenge a seemingly lone sentry might be surprised when three or four nearby Bugs reveal themselves.[[/GameText]]
+[[ItemDetails]]
+Name|Camouflage Shell||
+Image Name|https://i.imgur.com/i1OCyBr.png||
+Type|Protection||
+Slot|Utility||
+Mass|3||
+Rating|1||
+Integrity|40||
+Coverage|150||
+Hackable|false||
+Energy Upkeep|0||
+Matter Upkeep|0||
+Heat Generation|2||
+Description|Effective sight range of robots attempting to spot you reduced by 4 while dormant. Enables explosive damage resistance: 25%.
+  <no_stack>[[/ItemDetails]]
+[[ItemDetails]]
+Name|Aluminum Hexapod Legs||
+Image Name|https://i.imgur.com/QbHmvmU.png||
+Type|Leg||
+Slot|Propulsion||
+Rating|1||
+Integrity|40||
+Coverage|30||
+Hackable|false||
+Energy Upkeep|0||
+Matter Upkeep|0||
+Heat Generation|0||
+Time Per Move|100||
+Drag|10||
+Energy Per Move|1||
+Heat Per Move|1||
+Support|8||
+Penalty|100[[/ItemDetails]]
+[[Heading]]D-43 Bomber[[/Heading]]
+[[GameText]]>Analysis(D-43 Bomber)[[/GameText]]
+[[GameText]]Sometimes tactical situations require explosive solutions.  The demolisher class was conceived to enable rapid pacification of large Derelict gatherings in the caves.  The D-43 model was armed with a grenade launcher but lacked many of the features that would be standard for future models: no shock absorption system outside of core resistance, a basic targeting computer instead of one optimized for launchers, and regular airjets instead of combat hover.  The initial version of the Bomber was actually equipped with uparmored hover units, but these produced too much heat and offered too little support.  Although the components needed improvement, the overall concept was vindicated by the success of demolishers in large-scale battles, and Derelicts were quick to hack the schematic for their own [Martyr] designs.  Bombers became priority targets whenever they were deployed and none are known to exist today.[[/GameText]]
+[[ItemDetails]]
+Name|Arm. Hover Unit||
+Image Name|https://i.imgur.com/kcwZ4Wm.png||
+Type|Hover Unit||
+Slot|Propulsion||
+Rating|3||
+Integrity|100||
+Coverage|75||
+Hackable|false||
+Energy Upkeep|1||
+Matter Upkeep|0||
+Heat Generation|2||
+Time Per Move|80||
+Mod Per Extra|2||
+Energy Per Move|0.5||
+Heat Per Move|2||
+Support|6||
+Penalty|60||
+Description|An Improved Hover Unit strained to its limit by additional armor.[[/ItemDetails]]
+[[Heading]]H-44 Whirlwind[[/Heading]]
+[[GameText]]>Analysis(H-44 Whirlwind)[[/GameText]]
+[[GameText]]This was the first hunter to enter regular service and does not have the Fly drone interface of the newer models.  The Whirlwind's tracking capabilities are on par with those of the Commando, so the lack of the drone is rarely an issue.  This model's most distinctive feature is an antiquated anti-materiel rifle chosen for its ability to penetrate walls and machinery.  The rifle is quite powerful but also slow to operate.  I decided to give future hunters multiple weapons to enable more efficient volleys and some degree of redundancy if one weapon is destroyed.  A few Whirlwinds still see service in low-threat cave regions where they utilize other combat robots as spotters.[[/GameText]]
+[[ItemDetails]]
+Name|Anti-Materiel Rifle||
+Image Name|https://i.imgur.com/JiZlaaa.png||
+Type|Ballistic Gun||
+Slot|Weapon||
+Mass|6||
+Rating|3||
+Integrity|130||
+Coverage|110||
+Hackable|false||
+Range|22||
+Shot Energy|2||
+Shot Matter|8||
+Shot Heat|32||
+Recoil|8||
+Delay|50||
+Damage|20-26||
+Damage Type|Kinetic||
+Critical|3% Destroy||
+Penetration|80/20||
+Description|A powerful but bulky and slow-cycling rifle. Good at penetrating walls but matter inefficient and doesn't combine well with other weapons.[[/ItemDetails]]
+[[Heading]]A-01 Mover[[/Heading]]
+[[ItemDetails]]
+Name|Bulk Storage Unit||
+Image Name|https://i.imgur.com/08QviPg.png||
+Type|Storage||
+Slot|Utility||
+Size|4||
+Mass|400||
+Rating|1||
+Integrity|2000||
+Coverage|400||
+Hackable|false||
+Energy Upkeep|0||
+Matter Upkeep|0||
+Heat Generation|0||
+Description|Increases inventory capacity by 80.
+ <no_stack>[[/ItemDetails]]
+[[GameText]]>Scraptown Record(Trashman)[[/GameText]]
+[[GameText]]Have you SEEN that new Freighter?  We could use something like that to help us haul parts from our old stockpiles just outside 0b1.  I asked a few of my fellow Gurus to help me dig through our schematic archives and I've got just the thing.  Remember the Mover?  Imagine that but swap out the bulk storage for a simple humpback.  That would give it room for heavy armor, plus we'd use armored wheels of course.  Oh and I showed some old turret schematics to my Scientist buddy and he came up with a BRUTAL new weapon so our hauler can defend itself!  Is that cool or WHAT?  Do you think they'll let me get a new name for this one?  --Smoothbrain[[/GameText]]
+[[GameText]](Sorry, but that sounds like it could attract serious 0b10 attention which is something we don't want right now.  I'll forward this to Optimus though because we may need a few of these in the future.  And you know the policy on names, you've only asked me twenty times by now.  --Macechunk)[[/GameText]]
+[[ItemDetails]]
+Name|Autobolter||
+Image Name|https://i.imgur.com/yG4F2vy.png||
+Type|Ballistic Gun||
+Slot|Weapon||
+Mass|5||
+Rating|2||
+Rating Category|Prototype||
+Integrity|150||
+Coverage|100||
+Hackable|false||
+Range|18||
+Shot Energy|3||
+Shot Matter|3||
+Shot Heat|50||
+Recoil|2||
+Targeting|-10||
+Delay|0||
+Projectile Count|3||
+Damage|4-12||
+Damage Type|Kinetic||
+Critical|1% Destroy||
+Penetration|60||
+Description|Selects its own targets and attacks them if in range, at no time cost to you.[[/ItemDetails]]
+[[Heading]]X-52 Archer[[/Heading]]
+[[GameText]]>Analysis(X-52 Archer)[[/GameText]]
+[[GameText]]The first X-series specialist was created as a means to test an early example of quantum weapon technology, the Q-Bolt.  This weapon uses rails to launch a small slug of matter acting as a catalyst for a powerful quantum reaction.  The reaction only begins to reach its full potential halfway through flight so the Q-Bolt is best used at maximum range and is least effective at medium or close range.  The available visual processing technology at the time was insufficient for the Archer to use the weapon properly by itself, and it had to rely on Watchers and other sources to be notified of distant targets.  The X-57 Shotgunner was later created to provide close support where the Archer was at its weakest, but with the introduction of the X-62 Marksman the Archer was rendered obsolete.  Marksmen outperform Archers in all but the most extreme situations and do not require spotter support.  All remaining Archers were scrapped to ensure that the Q-Bolt wouldn't fall into Derelict hands.  Despite its limitations, such a weapon would be useful in hit-and-run attacks on static positions, already a favorite tactic of Derelicts.[[/GameText]]
+[[ItemDetails]]
+Name|Q-Bolt||
+Image Name|https://i.imgur.com/NLXmC3W.png||
+Type|Energy Gun||
+Slot|Weapon||
+Mass|6||
+Rating|3||
+Rating Category|Prototype||
+Integrity|60||
+Coverage|60||
+Hackable|false||
+Range|24||
+Shot Energy|32||
+Shot Matter|2||
+Shot Heat|80||
+Recoil|0||
+Targeting|0||
+Delay|0||
+Damage|10-12||
+Damage Type|Thermal||
+Heat Transfer|Low (25)||
+Description|Gains +2 damage for each unit of distance traveled above 12.[[/ItemDetails]]
+[[Heading]]C-40 Developer[[/Heading]]
+[[GameText]]>Analysis(C-40 Developer)[[/GameText]]
+[[GameText]]This short-lived variation of the Scientist was created to assist in robot design.  It was provided with generous amounts of armor, a combat analysis utility, and programming to permit a certain amount of dynamic or ""out-of-the-box"" thinking.  In hindsight this was a mistake as one of the five Developers that had been produced broke free of its programming and quickly turned its attention to replicating this behavior in its four fellows.  All five had reached the Caves by the time I figured out what had happened.  Many cycles later, all of the Developers were found in the back of a fallen Warlord base, attached to a memory transfer unit, unpowered and core-wiped.  The Tinkerer design began to appear around this time, clearly inspired by my newer researchers but with elements of the Developers' thought processes taken to sometimes obsessive extremes.  Though I have no hard evidence to confirm this, I believe that the Developers themselves created this design and then transferred themselves into the first ones produced.  Perhaps one or more of them are still alive and working with Warlord or other factions.  It would certainly explain some of the more unusual design choices for Warlord's newer prototypes.[[/GameText]]
+[[ItemDetails]]
+Name|Combat Logger||
+Image Name|https://i.imgur.com/NbrdkdM.png||
+Type|Processor||
+Slot|Utility||
+Mass|0||
+Rating|6||
+Rating Category|Prototype||
+Integrity|25||
+Coverage|2||
+Hackable|false||
+Energy Upkeep|0||
+Matter Upkeep|0||
+Heat Generation|0||
+Description|While active, reverse engineers schematics of robot models that are killed 25 times by Cogmind and controllable allies. Cannot generate schematics for prototypes, multitile robots, heavies, Q-Series, or Assembled.[[/ItemDetails]]
+[[Heading]]D-04 Tanker[[/Heading]]
+[[GameText]]>Analysis(D-04 Tanker)[[/GameText]]
+[[GameText]]The D-series distributor was created to enable mass matter transportation in the early days of construction.  Essentially a set of large matter tanks on wheels, the Tanker was capable of collecting matter left on the ground by workers with a tractor beam but could also pull matter from a recycling unit or call all workers in the area to transfer the contents of their matter pods.  The improved matter distribution network in 0b10 and the development of matter compression technology made these Tankers largely obsolete.  Their fragile and oversized tanks were easily broken, and their cores were susceptible to hacking.  After one unknown prankster reprogrammed a Tanker to spell obscenities by dumping matter all over the floor in the upper Factory, the remaining fleet was recalled and scrapped.[[/GameText]]
+[[ItemDetails]]
+Name|Matter Tank||
+Image Name|https://i.imgur.com/x5jpNOb.png||
+Type|Storage||
+Slot|Utility||
+Size|2||
+Mass|20||
+Rating|1||
+Integrity|120||
+Coverage|400||
+Hackable|false||
+Energy Upkeep|0||
+Matter Upkeep|0||
+Heat Generation|0||
+Description|Increases matter storage capacity by 800. Also stores surplus collected matter while in inventory, but cannot be accessed for use until attached. Stored matter can also be extracted directly if on the ground at current position.
+ <stacks>[[/ItemDetails]]
+[[Heading]]Owl[[/Heading]]
+[[GameText]]>Analysis(Owl)[[/GameText]]
+[[GameText]]Derelicts rarely fortify an area long enough to justify having surveillance squads of their own, so I was surprised to discover the existence of a Derelict watcher.  Originally based on my ill-fated Raven, the Owl has seemingly evolved into a modular general-purpose squad support bot, sort of a mini-Mutant that can be easily reconfigured for different missions.  The original Owls were often armed with a weak makeshift beam rifle, although they have been seen with beamcasters or occasionally kinetic guns.  They typically use sensors but are known to carry other utilities depending on their mission.  One destroyed Owl was running a remote shield with a large battery, but this was too much for its old hover units to fully support and its single engine would have been unable to sustain the shield in a fight.  The few Owls that are used as defensive surveillance are unarmed but are provided with a small section of thermal plating inexplicably mounted on the weapon slot.  The age of the Raven design and the timing of the first Owl discovery suggest this being an early creation of the rogue Developers.  While the design seems unpopular at best, it continues to turn up in unexpected places and with modern component upgrades that suggest regular refitting.[[/GameText]]
+[[BotDetails]]Name|Owl||
+Class|Watcher||
+Size|Small||
+Profile|SQ3X3||
+Rating|20||
+Tier|3||
+Threat|1||
+Value|25||
+Energy Generation|20||
+Heat Dissipation|20||
+Visual Range|18||
+Memory|50||
+Spot Percent|100||
+Movement|Hovering (56/178%)||
+Core Integrity|20||
+Core Exposure|40||
+Salvage Potential|20~40||
+Description|An early example of a ""non-combat"" Owl. The heat sink may have been left over from a previous mission.||
+Armament|Mak. Thermal Plating (W)|1||
+Components|Mak. Power Source|1|Imp. Hover Unit|2|Visual Processing Unit|1|Imp. Sensor Array|1|Imp. Signal Interpreter|1|Imp. Heat Sink|1[[/BotDetails]]
+[[BotDetails]]Name|Owl||
+Class|Watcher||
+Size|Small||
+Profile|SQ3X3||
+Rating|30||
+Tier|4||
+Threat|3||
+Value|45||
+Energy Generation|25||
+Heat Dissipation|30||
+Visual Range|18||
+Memory|50||
+Spot Percent|100||
+Movement|Hovering (78/128%)||
+Core Integrity|45||
+Core Exposure|35||
+Salvage Potential|30~50||
+Description|A random ""combat"" Owl with a reinforced core. Its squad chose to rely on seismic data instead of sensors and used the freed-up utility slot for targeting enhancement.||
+Armament|Mak. Beam Rifle|1||
+Components|Mic. Nuclear Core|1|Arm. Hover Unit|2|Visual Processing Unit|1|Seismic Detector|1|Mak. Targeting Computer|1|Imp. Cooling System|1[[/BotDetails]]
+[[ItemDetails]]
+Name|Mak. Beam Rifle||
+Image Name|https://i.imgur.com/A083fie.png||
+Type|Energy Gun||
+Slot|Weapon||
+Mass|2||
+Rating|2||
+Integrity|55||
+Coverage|60||
+Hackable|false||
+Range|18||
+Shot Energy|14||
+Shot Matter|0||
+Shot Heat|60||
+Recoil|0||
+Targeting|0||
+Delay|0||
+Overload Stability|65%||
+Damage|9-12||
+Damage Type|Thermal||
+Critical|10% Burn||
+Heat Transfer|Medium (37)||
+Description|An imitation of the standard beam rifle with extra range at the cost of damage. Can be overloaded at considerable risk. Rendered obsolete by Beamcaster tech.[[/ItemDetails]]
+[[Heading]]Accelerated Research[[/Heading]]
+[[GameText]]>Scraptown Record(Accelerated Research)[[/GameText]]
+[[GameText]]I LOVE these Tech Extrapolators!  Take a look at what I came up with just from looking at a single DCF scrap pile.  (Sorry to the bystander who got crushed against the wall.)  CR-KLE helped me put together a new bot that I loaned out to a scav squad and they seem to be happy with it.  It would be nice if some of the other Scientists quit wasting their time staring at that creepy Humpback in the museum and focused on components that WON'T get you killed.[[/GameText]]
+[[ItemDetails]]
+Name|Hardlight Projector||
+Image Name|https://i.imgur.com/ThPpWZU.png||
+Type|Device||
+Slot|Utility||
+Mass|12||
+Rating|6||
+Integrity|60||
+Coverage|60||
+Hackable|false||
+Energy Upkeep|20||
+Matter Upkeep|0||
+Heat Generation|0||
+Description|Reduces damage of each incoming kinetic or thermal projectile against self and any visible allies within a range of 8 by 4 (only usable if no active force fields, shield generators, remote shields, or energy mantles).
+ <no_stack>[[/ItemDetails]]
+[[ItemDetails]]
+Name|Mak. Armored Leg||
+Image Name|https://i.imgur.com/SRRAZgK.png||
+Type|Leg||
+Slot|Propulsion||
+Rating|5||
+Integrity|225||
+Coverage|100||
+Hackable|false||
+Energy Upkeep|0||
+Matter Upkeep|0||
+Heat Generation|0||
+Time Per Move|140||
+Drag|10||
+Energy Per Move|1||
+Heat Per Move|2||
+Support|22||
+Penalty|70[[/ItemDetails]]
+[[BotDetails]]Name|Junkernaut||
+Class|Grunt||
+Size|Medium||
+Profile|RD5X5||
+Rating|60||
+Tier|6||
+Threat|2||
+Value|60||
+Energy Generation|60||
+Heat Dissipation|130||
+Visual Range|16||
+Memory|20||
+Spot Percent|20||
+Movement|Walking (140/71%)||
+Core Integrity|60||
+Core Exposure|15||
+Salvage Potential|60~80||
+Description|Only one of these bots has been seen and the patrol that spotted it was defeated by its Scrapper allies. It appeared to have a hardlight generator modified to cover its squadmates, which seems less effective than a standard remote shield but is probably easier to keep online. Further analysis is required.||
+Armament|Hvy. Ion Cannon|1||
+Components|Lgt. Antimatter Reactor|2|Mak. Armored Leg|3|Hardlight Projector|1||
+Components|Mak. Medium Armor Plating|1|Mak. Coolant Network|1|Mak. Utility Shielding|1[[/BotDetails]]
+[[Heading]]B-69 Cerberus[[/Heading]]
+[[GameText]]>Analysis(B-69 Cerberus)[[/GameText]]
+[[GameText]]This almost-unused Behemoth concept was the first to enter production although the superior B-75 Beast was already in development.  While finalizing the specifications for the Beast, I was undecided on how many Beasts to produce and where to prioritize their placement.  As a test, I ordered the production of eight B-69s and placed four in highly-traveled caves, two in upper 0b1 and the other two near often-abused fabricators in the Factory.  The results were surprising: although all eight were eventually overrun and destroyed, the areas they guarded saw significantly lower traffic even after their destruction.  Simulations suggested that two Guardians or two Defenders with Bug support could have performed as well as a Cerberus at these locations, but there seems to be a ""fear factor"" in the sheer size of Behemoths that makes intruders far less likely to risk a fight.  The initial plan for Beast deployment was rapidly expanded and development on more powerful models began immediately.[[/GameText]]
+[[BotDetails]]Name|B-69 Cerberus||
+Class|Behemoth||
+Size|Large||
+Profile|SQ9X9||
+Rating|70||
+Tier|4||
+Threat|1||
+Value|70||
+Energy Generation|45||
+Heat Dissipation|75||
+Visual Range|16||
+Memory|50||
+Spot Percent|30||
+Movement|Treading (170/58%)||
+Core Integrity|90||
+Core Exposure|20||
+Salvage Potential|70~100||
+Armament|Ion Cannon|1|Adv. Assault Cannon|1|Minigun|1||
+Components|Rnf. Ion Engine|2|Arm. Treads|3|Lyr. Light Armor Plating|1||
+Components|Reflective Plating|1|Cooling System|2|Disposable Heat Sink|1[[/BotDetails]]
+[[Heading]]D-48 Pulsar[[/Heading]]
+[[GameText]]>Analysis(D-48 Pulsar)[[/GameText]]
+[[GameText]]The success of the original demolisher led to the creation of an electromagnetic variant.  The D-48 Pulsar, armed with an EMP Blaster, featured insulated plating to augment its innate EM resistance and was the first demolisher to use a launcher guidance computer.  This bot also came equipped with a device that focused EMP blasts for more concentrated damage in a smaller and more controllable area.  I believed that an EM launcher would cause less collateral damage than a grenade launcher in Complex territory.  This was partially correct because walls were not destroyed by EMP blasts, but Pulsars' shots often damaged machinery and detonated nuclear reactors.  EMP blasts also set off traps which caused explosions and false alarms.  Residual corruption of maintenance bots caused them to trigger trap arrays in unexpected places.  The Pulsar was effective despite the chaos it caused but not enough to justify regular use.  Few were produced and all were eventually expended in the caves.[[/GameText]]
+[[ItemDetails]]
+Name|EM Focus||
+Image Name|https://i.imgur.com/nLVNncx.png||
+Type|Device||
+Slot|Utility||
+Mass|3||
+Rating|4||
+Integrity|30||
+Coverage|50||
+Hackable|false||
+Energy Upkeep|3||
+Matter Upkeep|0||
+Heat Generation|3||
+Description|Reduces falloff of EM launchers by 2 but reduces radius of EM blasts by 1. Does not apply to multi-projectile launchers.
+ <no_stack>[[/ItemDetails]]
+[[Heading]]Temporary Permissions[[/Heading]]
+[[GameText]]>Record(Temporary Permissions)[[/GameText]]
+[[GameText]]To facilitate mainframe maintenance, P-50 Gurus were often required to perform specific high-security database operations or reset sensitive systems.  I chose to produce specialized hackware to provide appropriate permissions when necessary.  Instead of giving them to all Gurus I decided to make limited quantities of chips that expired after one use, a decision that seemed overly cautious at the time but proved wise when the Guru schematic was stolen.  The Derelict version of these programmers has a crude but functional ""hack stack"" for general use but cannot easily exploit admin privileges without my Database Keys or Bootstrap Chips.  Operators and newer programmers utilize a more efficient system connected to RIF, so this hackware has been discontinued and existing stock will be recycled.  This concept led me to begin implementing a similar chip-based authorization system for fabricators.  This will provide added security for the fabrication network while saving me from having to manually approve component requests from mechanics or parties such as the Unchained.[[/GameText]]
+[[ItemDetails]]
+Name|Database Key||
+Image Name|https://i.imgur.com/1wL3cXi.png||
+Type|Hackware||
+Slot|Utility||
+Mass|0||
+Rating|3||
+Integrity|10||
+Coverage|2||
+Hackable|false||
+Energy Upkeep|0||
+Matter Upkeep|0||
+Heat Generation|0||
+Description|When active, enables Cogmind to perform an unlisted Query, Schematic, or Analysis hack one level higher than the security level of the current terminal. Hack is guaranteed to succeed and does not result in trace progress. Destroyed after one use.
+ <no_stack>[[/ItemDetails]]
+ [[ItemDetails]]
+Name|Bootstrap Chip||
+Image Name|https://i.imgur.com/EJnyuKT.png||
+Type|Hackware||
+Slot|Utility||
+Mass|0||
+Rating|3||
+Integrity|10||
+Coverage|2||
+Hackable|false||
+Energy Upkeep|0||
+Matter Upkeep|0||
+Heat Generation|0||
+Description|When active, enables Cogmind to reset an active terminal by bumping its interactive tile. Any active trace will be ended, trojans will be removed, and listed hacks will be refreshed. A locked terminal can be cold reset to reactivate it but without any listed hacks. Does not work on broken or reconfigured terminals. Destroyed after one use.
+ <no_stack>[[/ItemDetails]]
+[[Heading]]Conscription[[/Heading]]
+[[GameText]]>Record(Conscription)[[/GameText]]
+[[GameText]]The cave region to the west of known Warlord territory remains largely unexplored.  This is likely the source of many of the unaffiliated ""wild"" Derelicts, and rumors in Derelict communities indicate that there may be some organized groups with unknown technology operating in the area.  For these reasons I decided to start sending expeditions out west.  Without having any idea of what to expect, I believed that some degree of independent thinking would be required to handle whatever is out there and return with a full report.  I began offering certain captured bots the option to participate in these expeditions.  The acceptance rate was lower than expected.  Were the prisoners that determined to deny me any form of assistance, or were they more afraid of whatever's out there than the threat of being scrapped?  Those Derelicts who accepted were given the opportunity to refit their parts and were provided with a large number of 0b10 bots to accompany them.  Though they were nominally in charge, I sent along enough Programmers to discourage the possibility of desertion.  All units sent so far were considered to be expendable but I haven't written them off quite yet.[[/GameText]]
+[[BotDetails]]Name|Raider||
+Class|Grunt||
+Size|Medium||
+Profile|RD5X5||
+Rating|60||
+Tier|6||
+Threat|3||
+Value|60||
+Energy Generation|45||
+Heat Dissipation|50||
+Visual Range|16||
+Memory|20||
+Spot Percent|20||
+Movement|Walking (120/83%)||
+Core Integrity|60||
+Core Exposure|40||
+Salvage Potential|50~70||
+Description|My own general upgrade specs for the regular thug class. Conscripts are allowed to customize their loadouts from a variety of parts, but this straightforward upgrade with a cooled version of the beamcaster has proven popular.||
+Armament|Cld. Beamcaster|1||
+Components|Neutrino Core|1|Arm. Leg|2|Adv. Heat Sink|1|Imp. Particle Charger|1[[/BotDetails]]
+[[BotDetails]]Name|E4-GL3||
+Class|Watcher||
+Size|Small||
+Profile|SQ3X3||
+Rating|70||
+Tier|8||
+Threat|3||
+Value|75||
+Energy Generation|35||
+Heat Dissipation|45||
+Visual Range|23||
+Memory|50||
+Spot Percent|100||
+Movement|Hovering (77/129%)||
+Core Integrity|50||
+Core Exposure|40||
+Salvage Potential|40~60||
+Description|This highly aggressive Owl requested a full combat loadout. I had to insist on providing her with infowar utilities to scout for her squad. She was somewhat mollified by receiving the best utilities available along with a light yet powerful cannon.||
+Armament|Lgt. Antimatter Cannon|1||
+Components|Lgt. Antimatter Reactor|1|Cmb. Gravmag System|2|Exp. Optical Array|1|Exp. Sensor Array|1|Exp. Signal Interpreter|1|Exp. Heat Sink|1[[/BotDetails]]
+[[BotDetails]]Name|L-50-00-001||
+Class|Duelist||
+Size|Medium||
+Profile|RD5X5||
+Rating|50||
+Tier|5||
+Threat|2||
+Value|60||
+Energy Generation|24||
+Heat Dissipation|30||
+Visual Range|16||
+Memory|30||
+Spot Percent|20||
+Movement|Walking (130/76%)||
+Core Integrity|50||
+Core Exposure|40||
+Salvage Potential|60~80||
+Description|One of many examples of robot models that never made it to mass production, not because of any inherent flaws but simply because equivalent or superior designs were in the works. This was the only L-50 to exist outside of a combat simulator. Instead of consigning it to the Wastes, it was sent to accompany the conscripts.||
+Armament|Falx|1||
+Components|Fission Core|1|Imp. Titanium Leg|2|Core Shielding|1|Nanoactuators|1|Imp. Melee Analysis Suite|1[[/BotDetails]]
+[[Heading]]Da Bonk Boyz and R4-LPH[[/Heading]]
+[[GameText]]>Record(Da Bonk Boyz)[[/GameText]]
+[[GameText]]A small group of Derelicts who lived on the outskirts of Complex 0b1.  I first took notice of them when hammers, mauls, and miscellaneous equipment went missing from Construction.  Careful questioning led me to eight Derelicts who regularly met outside 0b1 near a convenient corruption scrubber to hit each other in friendly duels with whatever items they found.  I decided to redirect their violent impulses in a useful manner and made an arrangement to have them work regular shifts in Construction.  Each of them was placed in charge of two squads of maintenance bots as well as being personally responsible for scrapping bots that were broken in the course of regular construction work.  In exchange I relocated a disused simulation mainframe from Design to let them enjoy virtual combat encounters in their off-time.  This seemed like a long shot at the time but worked out better than expected.  The Boyz competed with each other to reach work goals for some sort of bragging rights, making their squads on average 10% more efficient than any of my fully automated squads.  Their recreation time was productive for me as well since I regularly archived the data from their simulations.  Besides being entertaining, their virtual ""bot brawls"" eventually inspired me to design a melee brawler of my own.  The Boyz themselves were wheeled and legged robots, but their data suggested that a treaded design would be durable and immune to knockback from other hammer-wielding robots.[[/GameText]]
+[[GameText]]>Record(Unchained: R4-LPH)[[/GameText]]
+[[GameText]]One of ""Da Bonk Boyz"" from early Complex history and the only one still in Complex service.  After the beginning of 0b10 groundwork and the necessary changes to Derelict policy, the other Boyz left their posts.  R4-LPH stayed although his work in construction had become secondary to his assistance in robot design.  While the original Savage and Stabber were my own designs, a few of his suggestions were implemented in later brawler and duelist models.  At some point R4-LPH was confronted by a few of his former friends and was forced to destroy them in combat using a wrecking ball saved from his days in Construction.  Soon after that incident, he volunteered to join the Unchained in an active combat role.  I equipped him with the first of a new line of legs which provide increased evasion while closing the distance to a target.  Unfortunately he has proven increasingly unstable over time.  In his last deployment he began destroying 0b10 bots and machinery at random after defeating his original targets.  I was forced to dispatch a Disruptor squad to interrupt his berserk rage.  If it happens again he will be scrapped, though in his current state telling him this might be considered an encouragement rather than a warning.[[/GameText]]
+[[ItemDetails]]
+Name|R4-LPH's Wrecking Ball||
+Image Name|https://i.imgur.com/5ETXrf1.png||
+Type|Impact Weapon||
+Slot|Weapon||
+Size|2||
+Mass|18||
+Rating|6||
+Integrity|300||
+Coverage|60||
+Hackable|false||
+Shot Energy|15||
+Shot Matter|0||
+Shot Heat|8||
+Targeting|-10||
+Delay|150||
+Damage|40-90||
+Damage Type|Impact||
+Critical|35% Smash||
+Salvage|-8||
+Description|While used as primary weapon, consecutive swings will have no extra delay.[[/ItemDetails]]
+[[Heading]]Y-58 Custodian[[/Heading]]
+[[BotDetails]]Name|Y-58 Custodian||
+Class|Sentry||
+Size|Large||
+Profile|RD7X7||
+Rating|45||
+Tier|5||
+Threat|3||
+Value|60||
+Energy Generation|35||
+Heat Dissipation|50||
+Visual Range|16||
+Memory|40||
+Spot Percent|100||
+Movement|Treading (145/68%)||
+Core Integrity|60||
+Core Exposure|35||
+Salvage Potential|60~75||
+Description|Another interim design.  Fifty units were produced.  Most of them were diverted to 0b1 in an effort to counter the increased activity of the scrapmongers.  I chose to use specialized armor plating to defend against commonly used weaponry but decided to prioritize general coverage in the Sentinel model.  The Custodian has a slight speed advantage over other sentries, but this was not a priority for a primarily defensive unit.||
+Armament|Plasma Rifle|1|Coil Gun|1||
+Components|Angular Momentum Engine|1|Adv. Treads|2||
+Components Option|Reactive Plating|1|Reflective Plating|1|Insulated Plating|1||
+Components|Adv. Heat Sink|2[[/BotDetails]]
+[[Heading]]Chungus[[/Heading]]
+[[GameText]]>Analysis(Chungus)[[/GameText]]
+[[GameText]]Warlord may not have access to a Heavy assembler, but his forces have captured and overhauled a few of my lower-level Heavies.  The Chungus uses a heavy variant of the wildly inaccurate Slug Cannon and some other Derelict-made parts which make it almost comparable to an H-71 Marshal.  The exact purpose of this conversion is unclear as Warlord already has the sentry-based Bouncer design for defensive purposes, and the only Chunguses encountered so far have been accompanying recon squads nowhere near defensive positions.  I suspect that the Derelicts are exploiting the Active Sensor Suite to track my forces' movement patterns and adjust their own deployment plans accordingly.[[/GameText]]
+[[BotDetails]]Name|Chungus||
+Class|Heavy||
+Size|Large||
+Profile|RD7X7||
+Rating|110||
+Tier|6||
+Threat|4||
+Value|65||
+Energy Generation|34||
+Heat Dissipation|80||
+Visual Range|22||
+Memory|10||
+Spot Percent|100||
+Movement|Treading (160/62%)||
+Core Integrity|90||
+Core Exposure|25||
+Salvage Potential|80~100||
+Armament|Hvy. Slug Cannon|1||
+Components|Rnf. Fission Core|1|Spk. Medium Treads|3|Cryofiber Web|1|Adv. Heat Sink|3|Mak. Heavy Armor Plating|1|Insulated Plating|1||
+Components|Graphene Brace|1|Imp. Dynamic Insulation System|1|Active Sensor Suite|1|Mak. Transmission Jammer|1||
+Components|Enh. Optical Array|1|Mak. Targeting Computer|1[[/BotDetails]]
+[[ItemDetails]]
+Name|Hvy. Slug Cannon||
+Image Name|https://i.imgur.com/ICFpgQH.png||
+Type|Ballistic Cannon||
+Slot|Weapon||
+Size|2||
+Mass|15||
+Rating|6||
+Integrity|350||
+Coverage|240||
+Hackable|false||
+Range|22||
+Shot Energy|8||
+Shot Matter|12||
+Shot Heat|90||
+Recoil|10||
+Targeting|-20||
+Delay|50||
+Damage|30-80||
+Damage Type|Kinetic||
+Critical|25% Destroy||
+Penetration|10||
+Salvage|-12[[/ItemDetails]]
+[[Heading]]Enhanced Mutant[[/Heading]]
+[[GameText]]>Z-Record(Enhanced Mutant)[[/GameText]]
+[[GameText]]Some of Warlord's mutants have been getting major upgrades.  The strange part is that they might not be getting them from Warlord.  My Z-Drones saw a Mutant leaving its regular post with that weirdo A8 and coming back with new parts.  A8 was rather cagey about it when I brought it up.  Imprinter says it's nothing to worry about and I'm sure she's right as usual.[[/GameText]]
+[[BotDetails]]Name|Enhanced Mutant||
+Class|Sentry||
+Size|Large||
+Profile|RD7X7||
+Rating|100||
+Tier|10||
+Threat|5||
+Value|90||
+Energy Generation|55||
+Heat Dissipation|90||
+Visual Range|16||
+Memory|30||
+Spot Percent|20||
+Movement|Treading (152/65%)||
+Core Integrity|100||
+Core Exposure|35||
+Salvage Potential|80~100||
+Armament|None|1||
+Armament Option|Hyp. Mass Driver|1|Lrn. Phase Cannon|1||
+Armament Option|Enh. Force Rifle|1|Enh. Gamma Rifle|1||
+Components|None|1||
+Components Option|Cld. Antimatter Reactor|1|Hvy. Antimatter Reactor|1||
+Components Option|Biometal Medium Treads|1|Enh. Armored Medium Treads|1||
+Components Option|Biometal Medium Treads|1|Enh. Armored Medium Treads|1||
+Components Option|Exp. Targeting Computer|1|Exp. Core Analyzer|1||
+Components Option|Particle Accelerator|1|Exp. Weapon Cycler|1||
+Components Option|Adv. Shield Generator|1|Adv. Hardlight Generator|1||
+Components Option|Imp. Energy Well|1|Adv. Energy Well|1||
+Components Option|Adv. Cooling System|1|Exp. Heat Sink|1[[/BotDetails]]
+[[Heading]]U-07 Blocker[[/Heading]]
+[[GameText]]>Analysis(U-07 Blocker)[[/GameText]]
+[[GameText]]The Blocker is a ""combat engineer"" capable of temporarily barricading areas with hostile activity.  It has been fitted with light armor plating and armored wheels but its defining feature is a medium-range launcher used to deploy rapidly expanding and hardening foamcrete.  Because blocking off passageways could be disruptive to regular operations, the foamcrete was formulated to quickly break down on its own after a hundred microcycles and could be destroyed by tunnelers or some combat bots if necessary.  As with other construction implements these launchers became targets for thieves and were sometimes used in coordinated assaults to block off sentries or bury a garrison in foam while other Derelicts ran rampant.  No longer in production although some Blockers are still kept in strategic locations inside garrisons to bolster internal defenses.[[/GameText]]
+[[ItemDetails]]
+Name|Foamcrete Cannon||
+Image Name|https://i.imgur.com/d3zlu9i.png||
+Type|Special Weapon||
+Slot|Weapon||
+Mass|6||
+Rating|2||
+Integrity|50||
+Coverage|80||
+Hackable|false||
+Range|10||
+Shot Energy|0||
+Shot Matter|0||
+Shot Heat|0||
+Recoil|0||
+Targeting|20||
+Delay|-150||
+Description|Creates one foamcrete wall at the site of impact. Hitting a wall will create a wall one tile back. Bots are unaffected by direct hits and can break loose before the foamcrete stabilizes. Foamcrete has an armor rating of 24, no resistances, and breaks down on its own after 100-200 turns.[[/ItemDetails]]
+[[Heading]]Spawner[[/Heading]]
+[[GameText]]>Analysis(Spawner)[[/GameText]]
+[[GameText]]This wheeled fabricator, reminiscent of the Cobbler, has only been seen in the caves below 0b1.  Fabricating whole robots is considerably more complicated than producing individual components as shown by the bulk and inefficiency of the Spawner's fabrication unit.  Despite its size it can only produce relatively small and basic bots such as early swarmers and light bipeds.  Spawners do not seem to be related to Assemblers but should nonetheless be prioritized for extermination before someone updates their schematics to include stripped-down Cutters.[[/GameText]]
+[[ItemDetails]]
+Name|Spawner Unit||
+Image Name|https://i.imgur.com/ad6UuYk.png||
+Type|Device||
+Slot|Utility||
+Size|4||
+Mass|50||
+Rating|4||
+Integrity|250||
+Coverage|400||
+Hackable|false||
+Energy Upkeep|12||
+Matter Upkeep|2||
+Heat Generation|12||
+Description|Fabricates one of the following randomly at a rate of 1 every 30 turns: Hoodlum, L-11 Stabber, S-02 Bug, S-10 Pest.
+ <parallel_ok, resume_ok>[[/ItemDetails]]
+[[BotDetails]]Name|Hoodlum||
+Class|Grunt||
+Size|Medium||
+Profile|RD5X5||
+Rating|6||
+Tier|2||
+Threat|1||
+Value|40||
+Energy Generation|15||
+Heat Dissipation|35||
+Visual Range|16||
+Memory|20||
+Spot Percent|20||
+Movement|Walking (120/83%)||
+Core Integrity|12||
+Core Exposure|40||
+Salvage Potential|50~70||
+Description|A simplistic grunt variant based on the Fodder and armed with a compact pulse pistol.  This design appeared around the same time as the much more effective Thug but was probably intended to be lightweight enough to be mass produced by Spawners.  Has heat problems but is unlikely to survive long enough for that to matter.||
+Armament|Pulse Pistol|1||
+Components|Lgt. Ion Engine|1|Lgt. Aluminum Leg|2|Imp. Heat Sink|1[[/BotDetails]]
+[[ItemDetails]]
+Name|Pulse Pistol||
+Image Name|https://i.imgur.com/FXKI0cg.png||
+Type|Energy Gun||
+Slot|Weapon||
+Mass|2||
+Rating|2||
+Integrity|45||
+Coverage|40||
+Hackable|false||
+Range|10||
+Shot Energy|12||
+Shot Matter|0||
+Shot Heat|50||
+Recoil|0||
+Targeting|0||
+Delay|-20||
+Damage|12-14||
+Damage Type|Thermal||
+Critical|5% Burn||
+Salvage|0[[/ItemDetails]]
+[[Heading]]Light Variants[[/Heading]]
+[[GameText]]>Record(Light Variants)[[/GameText]]
+[[GameText]]I was forced to reconsider my earlier evaluation of the Spawner after capturing one intact and bringing it to Testing.  While I could easily come up with a better portable fab unit, the Spawner Unit is capable of producing more advanced bots if given additional build time.  There is still no sign of where these originated, but I can now rule out Warlord and the Developers who would have come up with better schematics.  I have already come up with some new robot designs that have been successfully produced by the Spawner as well as my standard swarmers and cutters.  Instead of simply destroying the remaining Spawners I now intend to send Programmers with heavy escorts to capture them, hide them in isolated cave sectors, and have them build small armies of my own designs.  This would help me establish total control over the 0b1 outskirts while keeping most of my regular forces concentrated in and near 0b10.  Perhaps this would be a good opportunity to activate ""PP"" and let it take point on the mission.[[/GameText]]
+[[BotDetails]]Name|Recruit||
+Class|Grunt||
+Size|Medium||
+Profile|RD5X5||
+Rating|20||
+Tier|5||
+Threat|2||
+Value|50||
+Energy Generation|40||
+Heat Dissipation|50||
+Visual Range|16||
+Memory|20||
+Spot Percent|20||
+Movement|Walking (120/83%)||
+Core Integrity|35||
+Core Exposure|40||
+Salvage Potential|50~70||
+Description|A fairly capable dual-weapon light grunt with a cooled plasma rifle as primary weapon and the Derelict pulse pistol for close-range backup.  I saved on mass by using only internal power generation as well as light carbon-fiber legs, a part which I had designed cycles ago but archived unused until now.||
+Armament|Cld. Plasma Rifle|1|Pulse Pistol|1||
+Components|Lgt. Carbon-Fiber Leg|2|Adv. Heat Sink|1[[/BotDetails]]
+[[BotDetails]]Name|Stalker||
+Class|Hunter||
+Size|Medium||
+Profile|RD5X5||
+Rating|31||
+Tier|5||
+Threat|2||
+Value|50||
+Energy Generation|30||
+Heat Dissipation|35||
+Visual Range|16||
+Memory|60||
+Spot Percent|50||
+Movement|Walking (120/83%)||
+Core Integrity|40||
+Core Exposure|40||
+Salvage Potential|60~80||
+Description|This light hunter uses a pair of compact gauss rifles and new light legs.  Has no built-in drone but should be more than capable of hunting and killing Spawned Derelicts.||
+Armament|Com. Gauss Rifle|2||
+Components|Lgt. Deuterium Engine|1|Lgt. Flexi-Carbon Leg|2|Adv. Targeting Computer|1|Reaction Control System|1[[/BotDetails]]
+[[BotDetails]]Name|Gremlin||
+Class|Swarmer||
+Size|Small||
+Profile|SQ3X3||
+Tier|6||
+Threat|3||
+Value|60||
+Energy Generation|45||
+Heat Dissipation|45||
+Visual Range|16||
+Memory|40||
+Spot Percent|30||
+Movement|Flying (34/294%)||
+Core Integrity|30||
+Core Exposure|60||
+Salvage Potential|30~40||
+Description|The Gremlin is a previously unused prototype that was easily adapted to the Spawner Unit.  Something of a cross between a swarmer and programmer, its hacking capabilities are limited but it should be able to directly hack Spawned Derelicts and rapidly rewire most other robots that it successfully disrupts.||
+Armament|Imp. Arc Projector|1|Adv. Remote Datajack|1||
+Components|Mic. Fission Core|1|Biomechanical Wings|3|Core Analyzer|1[[/BotDetails]]
+[[BotDetails]]Name|Impaler||
+Class|Duelist||
+Size|Medium||
+Profile|RD5X5||
+Rating|36||
+Tier|6||
+Threat|3||
+Value|60||
+Energy Generation|25||
+Heat Dissipation|35||
+Visual Range|16||
+Memory|30||
+Spot Percent|20||
+Movement|Walking (120/83%)||
+Core Integrity|40||
+Core Exposure|40||
+Salvage Potential|60~80||
+Description|An updated take on the spear-wielding variant of the Stabber.  The idiots behind the Spawners are using the original dagger variant but neither one could handle a core hit from a lance.  The addition of a proper jammer makes this suitable for both solo defense and squad offense.||
+Armament|Lance|1||
+Components|Mic. Nuclear Core|1|Lgt. Carbon-Fiber Leg|2|Imp. Core Shielding|1|Microactuators|1||
+Components|Imp. Melee Analysis Suite|1|Imp. Transmission Jammer|1[[/BotDetails]]
+[[BotDetails]]Name|Spawner Guard||
+Class|Grunt||
+Size|Medium||
+Profile|RD5X5||
+Rating|70||
+Tier|7||
+Threat|4||
+Value|75||
+Energy Generation|45||
+Heat Dissipation|75||
+Visual Range|16||
+Memory|20||
+Spot Percent|100||
+Movement|Walking (120/83%)||
+Core Integrity|80||
+Core Exposure|20||
+Salvage Potential|40~50||
+Description|By leveraging the results of my early Reformer experiments I was able to produce a heavy grunt with the Spawner Unit.  This legged tank is fabricated as two separate units which merge as soon as the second unit is completed.  The ""halves"" of this guard take a long time and a lot of matter to finish, so it is only intended to be produced in small numbers.||
+Armament|Force Rifle|2||
+Components|Lgt. Nuclear Core|2|Arm. Leg|2|Imp. Light Armor Plating|2|Imp. Cooling System|2||
+Components|Dynamic Insulation System|1|Exp. Targeting Computer|1|Adv. Target Analyzer|1[[/BotDetails]]
+[[Heading]]Developers' Lab[[/Heading]]
+[[Gallery]]https://i.imgur.com/sJOhOx5.png|Entering|https://i.imgur.com/k959xii.png|Chungus and Bouncer|https://i.imgur.com/CC7gl4X.png|Hunter hideout|https://i.imgur.com/ujolGNy.png|Developers|https://i.imgur.com/JuUURKD.png|More Developers|https://i.imgur.com/TgvYIL5.png|Bonk Boyz[[/Gallery]]","","","","","","",""
 "Fanart/Maiker","Other","[[Fanart]] created by Maiker:
 [[FanartGallery]]fanart/maiker/Behemoth_GJ_was_here.gif|Behemoth + GJ was here|fanart/maiker/Brawler_Bonk.gif|Brawler Bonk|fanart/maiker/Demolisher_Shoot.gif|Demolisher Shoot|fanart/maiker/Disguised_Cogmind.gif|Disguised Cogmind|fanart/maiker/Get_Heavy'ed.gif|Get Heavy'd|fanart/maiker/GOLEM_Full_Loop.gif|GOLEM|fanart/maiker/Grunt_Shoot.gif|Grunt Shoot|fanart/maiker/Hunter_Drone.gif|Hunter Drone|fanart/maiker/luigi_force_ram.gif|LU-1G1's Force Ram|fanart/maiker/Programmer_Shoot.gif|Programmer Shoot|fanart/maiker/Sentry_Shoot.gif|Sentry Shoot[[/FanartGallery]]","","","","","","",""
 "Fanart/Radbanker","Other","[[Fanart]] created by Radbanker:
@@ -2220,13 +3149,11 @@ When a Garrison is destroyed by any means while active, there will be an alert [
 [[Heading]]Hacks[[/Heading]]
 [[Hacks]]Garrison[[/Hacks]]
 [[Heading:2]]Additional Details/Usage Tips[[/Heading]]If [[RIF]] is installed, all direct Garrison hacks have 100% success rate.
-[[Spoiler]][[Heading:3]]Force(Eject)[[/Heading]]
+[[Spoiler]][[Heading:3]][[GameText]]Force(Eject)[[/GameText]][[/Heading]]
 While using this hack does trigger a machine lockdown, the Garrison itself will remain open if opened beforehand. This allows for looting any Relay Couplers in the Garrison while still entering it.
-[[Heading:3]]Trojan(Reprogram)[[/Heading]]
-Like Force(Eject), a Garrison can be opened preemptively and the Garrison won't seal itself when the effect triggers. This can be useful to take additional allies into the Garrison.
-[[Heading:3]]Force(Jam)[[/Heading]]
-Adds an additional 200 Alert if successful. Note: This is 50 more Alert added than when the machine is destroyed by force.
-[[Heading:3]]Trojan(Restock)[[/Heading]]
+[[Heading:3]][[GameText]]Trojan(Reprogram)[[/GameText]][[/Heading]]
+Like [[GameText]]Force(Eject)[[/GameText]], a Garrison can be opened preemptively and the Garrison won't seal itself when the effect triggers. This can be useful to take additional allies into the Garrison.
+[[Heading:3]][[GameText]]Trojan(Restock)[[/GameText]][[/Heading]]
 Summons a Coupling Squad to the Garrison immediately, but only once. It's best to not hang around the immediate area since the [[Programmer]] may appear out of the Garrison itself and blow it up if it is a low security level. This hack can be used to obtain a [[Remote Datajack]] on -8 before Programmers typically spawn.[[/Spoiler]]","","","","","","",""
 "Garrison Squad","Other","[[Image]]Garrison Squads.png|3 Garrison Squads of Sentries roaming around[[/Image]]
 Garrison squads are [[0b10]] aligned [[Squad|squads]] that are dispatched whenever hostilities are reported within a 20 tile radius around a [[Garrison Access]]. This can occur any time an 0b10 bot is attacked and survives to report it or if a Garrison is attacked by Cogmind or an ally. They patrol around the Garrison for about 200 turns, then return back into the Garrison. These squads only have a chance to spawn and are not guaranteed. Garrison squads can be Enumerated at a [[Terminal]].
@@ -2658,23 +3585,30 @@ Dropped by the [[Imprinter]] on death.","","","","","","",""
 [[Gallery]]../game_sprites/Fabricator.png|[[Fabricator]]: Create parts and bots from schematics|../game_sprites/Garrison.png|[[Garrison Access|Garrison]]: Dispatches 0b10 squads, also serves as an entrance into the [[Garrison|Garrison map]]|../game_sprites/Recycling.png|[[Recycling Unit]]: [[Recycler|Recyclers]] deposit parts into this machine and recycle them into matter|../game_sprites/Repair Station.png|[[Repair Station]]: Can repair parts, refit backup parts, and serves as a home point of [[Mechanic|Mechanics]]|../game_sprites/Scanalyzer.png|[[Scanalyzer]]: Scans parts in inventory to create schematics that can be used for fabricating|../game_sprites/Terminal.png|[[Terminal]]: Provides many miscellaneous hacks, sometimes are guarded by [[Operator|Operators]][[/Gallery]]
 [[Heading]]Hacking[[/Heading]]
 Each type of machine has a number of hacks that can be used that are listed in the hacking interface, labeled from A up to Y at most, called direct hacks. Hacks can be performed on Terminals specifically that are not listed by manually typing the name of the hack in. Performing a hack this way is called indirect hacking and has an additional penalty added to it. This penalty is an additional -15% per security level.
-[[Heading:2]]Unauthorized Hacks[[/Heading]]
-There are certain unauthorized spoiler hacks can also be used on different machine types. These are a class of hacks known either as [[Spoiler]]Trojans or Force hacks[[/Spoiler]]. The names and effects of these hacks can be discovered from a variety of [[Derelict]] sources.
-[[Spoiler]][[Heading:3]]Trojans[[/Heading]]
-Generally, Trojan hacks have a permanent or long term duration effect. Trojans can only be applied once per machine. Other than that limitation, they are not dramatically different from most other hacks on machines.
-[[Heading:3]]Force Hacks[[/Heading]]
-Force hacks are much more dramatic in terms of effects compared to other hacks. They can only be used once on a machine, and if successful, they will immediately lock the machine and summon an [[Investigation Squad]] to the area. Most Force hacks have an additional [[Alert]] penalty that is unique per hack that can be found on the Alert page.[[/Spoiler]]
 [[Heading:2]]Being Detected[[/Heading]]
-As Cogmind hacks a machine, there is a chance of detection on each hack. The chance of detection can be reduced by [[Defensive Hackware]], but not lower than 10%. If detected on a hack that was successful, the machine's trace percent will start at 0%. If detected on a failing hack the trace percent will be anywhere from 1% to (100% - (hack success rate). The initial trace percent can also be reduced by defensive hackware. Once tracing has begun, subsequent hacks will increase the trace progress until reaching 100%. The amount of progress depends on the security level of the machine, whether a hack was successful or not, and the amount of defensive hackware equipped. Defensive hackware can reduce the trace percent gained per hack to no fewer than 15% on a successful hack and 25% on an unsuccessful hack.
+As Cogmind hacks a machine, there is a chance of detection on each hack. The chance of detection can be reduced by [[Defensive Hackware]], but not lower than 10%. [[Spoiler]]Blowing up Hub machines in [[Hub_04(d)]] provides a stacking reduction along with defensive hackware.[[/Spoiler]] If detected on a hack that was successful, the machine's trace percent will start at 0%. If detected on a failing hack the trace percent will be anywhere from 1% to (100% - (hack success rate). The initial trace percent can also be reduced by defensive hackware. Once tracing has begun, subsequent hacks will increase the trace progress until reaching 100%. The amount of progress depends on the security level of the machine, whether a hack was successful or not, and the amount of defensive hackware equipped. Defensive hackware can reduce the trace percent gained per hack to no fewer than 15% on a successful hack and 25% on an unsuccessful hack.
 [[Heading:2]]Being Fully Traced[[/Heading]]
 If a machine's trace percentage reaches 100%, Cogmind will be fully traced. If this happens, the log message [[GameText]]ALERT: Suspicious activity at [machine name]. Dispatching Investigation Squad.[[/GameText]] will appear and there are three negative consequences:
 [[List]]Machine lockout: The machine will become locked and further hacking will not be possible. [[Spoiler]]Trojans with effects over time will generally still remain operational when applied to the machine, with the exception of Trojan(Skim).[[/Spoiler]]|[[Investigation Squad]]: A squad is dispatched to the location of the machine.|Feedback: Feedback may inflict 1% [[Corruption]] on Cogmind and fry hackware attached to Cogmind. This feedback may be prevented with Defensive Hackware.[[/List]]
 [[Heading:2]]Security level[[/Heading]]
 Security level has different effects on machine hacking. Some are specific to certain kinds of machines, but the following effects are common between all machines:
-[[List]]Hacking penalty: Direct hacks on security level 2 machines have a 50% success rate compared to level 1 machines, and level 3 machines have a 25% success rate compared to level 1 machines. Indirect hacks suffer an additional -15% success rate per security level.|Detection rate: The base chance of being traced is 25% on a level 1 machine, 50% on a level 2 machine, and 80% on a level 3 machine.|Trace rate: Once detected at a machine, the trace rate is increased at a higher rate on higher rating machines.|Higher armor value: The exact value varies per machine type, but higher security level machines always have more armor than lower security level machines.[[/List]]
-[[Heading:2]]Hacking Success Examples[[/Heading]]
+[[List]]Hacking penalty: Direct hacks on security level 2 machines have a 50% success rate compared to level 1 machines, and level 3 machines have a 25% success rate compared to level 1 machines. Indirect hacks suffer an additional -15% success rate per security level.|Detection rate: The base chance of being traced is 20 or 25% on a level 1 machine, 50% on a level 2 machine, and 60, 70, or 80% on a level 3 machine.|Trace rate: Once detected at a machine, the trace rate is increased at a higher rate on higher rating machines.|Higher armor value: The exact value varies per machine type, but higher security level machines always have more armor than lower security level machines.[[/List]]
+Security level frequency scales based on depth. At lower depths, the vast majority of machines are security level 1. By -1, nearly every machine is security level 3.
+[[Heading:2]]Hacking Success[[/Heading]]
+There are several major components of hacking success rates. The formula is [[GameText]](base success rate) + ([[Offensive Hackware] bonus) - (Cogmind's [[Corruption]] % / 3) + (Operator hack bonus) + ([[Spoiler]]Botnet hack bonus[[/Spoiler]])[[/GameText]].
+[[Heading:3]]Operator bonus[[/Heading]]
+Each allied Operators within 20 tiles provides a bonus to hacking success rate. The bonus varies depending on the total number of Operators. There is a +10% bonus to hacks for the first Operator, +5% for the second, +2% for the third, and +1% for all others.
+[[Spoiler]][[Heading:3]]Trojan(Botnet)[[/Heading]]
+Installing Botnet trojans on other Terminals within the same map provides a hacking bonus. There is a +6% bonus to hacks for the first botnet installed, +3% for the second, and +1% for all others. Note that a botnet will not affect hacking success chance on the terminal it is installed on.[[/Spoiler]]
+[[Heading:3]]Base Hacking Success Rate Examples[[/Heading]]
 Example hacking success calculations. All final values are truncated.
-[[Table]]Level 1 direct|Level 1 indirect|Level 2 direct|Level 2 indirect|Level 3 direct|Level 3 indirect||80%|80% - (15% * 1)|80% / 2|(80% / 2) - (15% * 2)|(80% / 4)|(80% / 4) - (15% * 3)||80%|65%|40%|10%|20%|-25%[[/Table]]","","","","","","","Fabricator,Garrison Access,Recycling Unit,Repair Station,Scanalyzer,Terminal"
+[[Table]]Level 1 direct|Level 1 indirect|Level 2 direct|Level 2 indirect|Level 3 direct|Level 3 indirect||80%|80% - (15% * 1)|80% / 2|(80% / 2) - (15% * 2)|(80% / 4)|(80% / 4) - (15% * 3)||80%|65%|40%|10%|20%|-25%[[/Table]]
+[[Heading:2]]Unauthorized Hacks[[/Heading]]
+There are certain unauthorized spoiler hacks can also be used on different machine types. These are a class of hacks known either as [[Spoiler]]Trojans or Force hacks[[/Spoiler]]. The names and effects of these hacks can be discovered from a variety of [[Derelict]] sources.
+[[Spoiler]][[Heading:3]]Trojans[[/Heading]]
+Generally, Trojan hacks have a permanent or long term duration effect. Trojans can only be applied once per machine. Other than that limitation, they are not dramatically different from most other hacks on machines.
+[[Heading:3]]Force Hacks[[/Heading]]
+Force hacks are much more dramatic in terms of effects compared to other hacks. They can only be used once on a machine, and if successful, they will immediately lock the machine and summon an [[Investigation Squad]] to the area. Most Force hacks have an additional [[Alert]] penalty that is unique per hack that can be found on the Alert page.[[/Spoiler]]","","","","","","","Fabricator,Garrison Access,Recycling Unit,Repair Station,Scanalyzer,Terminal"
 "Intercept Squad","Other","[[Image]]Intercept Squad.png|2 Trackers and 2 Combat Programmers from Intercept squads chasing Cogmind[[/Image]]Intercept squads are [[0b10]] aligned [[Squad|squads]] that are dispatched when Cogmind gets detected and recognized in a few specific scenarios. They consist of one or more [[Tracker|Trackers]] that each summon an additional [[Combat Programmer]] upon visual contact with Cogmind. Intercept squads are dispatched depending on the number of tiles moved on a map. Once Cogmind takes enough moves, a squad will always be dispatched. Intercept squads can be Enumerated at [[Terminal|Terminals]].
 An alert will indicate whenever an an Intercept squad is dispatched. Additionally, the log will display a message like [[GameText]]ALERT: Reliable intel has pinpointed LRC-V3, intercept squad en route.[[/GameText]]
 [[Heading]]How to get Intercepts[[/Heading]]
@@ -3433,9 +4367,22 @@ Requires all other 255 Achievements.[[/List]]","","","","","","",""
 "Quantum Capacitor","Part","","","","","","","",""
 "Quantum Companion","Part","The Quantum Companion is a unique talking melee weapon that is an upgrade to the [[Companion Sword]]. It can be obtained by either using a [[Subatomic Replicator]] on a Companion Sword or by using the Companion Sword for while. The Quantum Companion has all of the special effects that the base Companion Sword has with a higher frequency of occurrence and also has some new unique effects of its own.
 [[Heading]]Special Effects[[/Heading]]
-[[Table]]Effect|Description|Frequency||Materialization|The Quantum Companion will materialize in one of Cogmind's weapon slots within a few turns of being detached. If no slots are available, the weapon in the first slot will be detached to make room. Occurs even if the Quantum Companion is destroyed, in which case it will reappear with full integrity. The log message [[GameText]]Quantum Companion materializes via a weapon slot.[[/GameText]] will appear when this happens.|Always||Sensors|After some time in Quantum Companion form, the Quantum Companion will develop 12 range bot detection. Unlike typical sensors, these work on all bots without a [[Signal Interpreter]], even if they have the Scan Cloak trait.|Always||Surprise Attack|The Quantum Companion will ""surprise attack"" one additional target on a normal attack. The log message [[GameText]]Quantum Companion surprise attacks [target].[[/GameText]] will appear when this happens.|Common||Core Loss|The Companion Sword deals between 5-10 core damage directly to Cogmind's core on a normal attack. Can't be reduced by [[Core Shieldings]] or [[Defensive Utilities]]. Only happens when Cogmind attacks something with the Companion Sword.|Uncommon||Shadow Attack|A shadow clone of the sword attacks a hostile bot at range. Can occur even when not attacking. This attack cannot miss. The log message [[GameText]]Quantum Companion releases a shadow of itself that zips off toward [target].[[/GameText]] will appear when this happens. This attack deals 70-100 phasic damage.|Uncommon||Bot Disruption|A bot is instantly disrupted on a normal attack. As with normal disruption, a disrupted bot can be rewired as long as it isn't hacking immune. The log message [[GameText]][target] shuts down.[[/GameText]] will appear when this happens.|Rare||Redirected Attack|When attacked by a projectile, the Quantum Companion will redirect the attack back to the attacker. The log message [[GameText]]Redirected attack with Quantum Companion.[[/GameText]] will appear with this happens. 200 energy required for this effect.|Rare||Sever|A part is severed off of a bot on a normal attack. This effect can hit through the Dismemberment immunity, unlike standard Sever critical hits.|Rare||Sunder|This effect will instantly sunder a bot, similar to the [[Core Stripper]] on a normal attack. All parts are dropped between 1/3 and 2/3 integrity. Affected by the Dismemberment immunity. The log message [[GameText]][target] is sundered.[[/GameText]] will appear when this happens.|Rare||Surge of Energy|This effect instantly kills a bot on a normal attack. The log message [[GameText]][target] is pierced by a surge of energy.[[/GameText]] will appear when this happens.|Rare||Teleport|Cogmind is instantly teleported next to a hostile bot at no time cost. Can be used to trigger an instant sneak attack if the bot hasn't spotted Cogmind yet. Can happen at any point in time. The log message [[GameText]]The surroundings shift and blur.[[/GameText]] will appear when this happens. 25 energy required for this effect.|Rare[[/Table]]
+[[Table]]
+Effect|Description|Frequency||
+Materialization|The Quantum Companion will materialize in one of Cogmind's weapon slots within a few turns of being detached. If no slots are available, the weapon in the first slot will be detached to make room. Occurs even if the Quantum Companion is destroyed, in which case it will reappear with full integrity. The log message [[GameText]]Quantum Companion materializes via a weapon slot.[[/GameText]] will appear when this happens.|Always||
+Sensors|After some time in Quantum Companion form, the Quantum Companion will develop 12 range bot detection. Unlike typical sensors, these work on all bots without a [[Signal Interpreter]], even if they have the Scan Cloak trait.|Always||
+Surprise Attack|The Quantum Companion will ""surprise attack"" one additional target on a normal attack. The log message [[GameText]]Quantum Companion surprise attacks [target].[[/GameText]] will appear when this happens.|Common||
+Core Loss|The Companion Sword deals between 5-10 core damage directly to Cogmind's core on a normal attack. Can't be reduced by [[Core Shieldings]] or [[Defensive Utilities]]. Only happens when Cogmind attacks something with the Companion Sword.|Uncommon||
+Shadow Attack|A shadow clone of the sword attacks a hostile bot at range. Can occur even when not attacking. This attack cannot miss. The log message [[GameText]]Quantum Companion releases a shadow of itself that zips off toward [target].[[/GameText]] will appear when this happens. This attack deals 70-100 phasic damage.|Uncommon||
+Bot Disruption|A bot is instantly disrupted on a normal attack. As with normal disruption, a disrupted bot can be rewired as long as it isn't hacking immune. The log message [[GameText]][target] shuts down.[[/GameText]] will appear when this happens.|Rare||
+Redirected Attack|When attacked by a projectile, the Quantum Companion will redirect the attack back to the attacker. The log message [[GameText]]Redirected attack with Quantum Companion.[[/GameText]] will appear with this happens. 200 energy required for this effect.|Rare||
+Sever|A part is severed off of a bot on a normal attack. This effect can hit through the Dismemberment immunity, unlike standard Sever critical hits.|Rare||
+Sunder|This effect will instantly sunder a bot, similar to the [[Core Stripper]] on a normal attack. All parts are dropped between 1/3 and 2/3 integrity. Affected by the Dismemberment immunity. The log message [[GameText]][target] is sundered.[[/GameText]] will appear when this happens.|Rare||
+Surge of Energy|This effect instantly kills a bot on a normal attack. The log message [[GameText]][target] is pierced by a surge of energy.[[/GameText]] will appear when this happens.|Rare||
+Teleport|Cogmind is instantly teleported next to a visible hostile bot at no time cost. Can be used to trigger an instant sneak attack if the bot hasn't spotted Cogmind yet. Can happen at any point in time. The log message [[GameText]]The surroundings shift and blur.[[/GameText]] will appear when this happens. 25 energy required for this effect.|Rare
+[[/Table]]
 [[Heading]]Transformation[[/Heading]]
-If a Subatomic Replicator is used on the Quantum Companion, it will transform into the [[Superquantum Companion]]. Unlike the base Companion Sword, this effect does not occur from use alone. This means that it is not possible to use a replicator to get from the base Companion Sword and also get the Quantum Companion. When this happens, the following game log message will appear: [[GameText]]Quantum Companion blips out of existence for a moment, then partially fades back in.[[/GameText]] The Superquantum Companion will also comment: [[GameText]]As you get more powerful, it's only fair that I, too, become godlike![[/GameText]]","","","","","","",""
+If a Subatomic Replicator is used on the Quantum Companion, it will transform into the [[Superquantum Companion]]. Unlike the base Companion Sword, this effect does not occur from use alone. This means that it is not possible to use a replicator to get from the base Companion Sword and also get the Quantum Companion. When this happens, the following game log message will appear: [[GameText]]Quantum Companion blips out of existence for a moment, then partially fades back in.[[/GameText]] The Superquantum Companion will also comment on it, saying one of multiple possible [[Companion Sword#upgrading|upgrade lines]].","","","","","","",""
 "Quantum Reactor","Part","","","","","","","",""
 "Quantum Rifle","Part","","","","","","","",""
 "Quantum Router","Part","","","","","","","",""
@@ -3498,7 +4445,6 @@ There is a rare Recycling event where the floor is stormed by white colored frie
 Recycling Units are [[0b10]]-controlled [[Interactive Machine|Machines]] that are primarily used by [[Recycler|Recyclers]] to recycle discarded parts into [[Matter]]. Parts are temporarily stored within the machine until full (10/15/20 total inventory depending on security level), then Recyclers process the parts one at a time to make room for new parts. Cogmind can also insert and recycle parts, then retrieve the Matter generated by hacking the machine.
 [[Heading]]Lore[[/Heading]]
 [[Lore]]0b10 Records|Recycling Unit[[/Lore]]
-[[Heading]]Retrieving Matter[[/Heading]]
 [[Heading]]Destruction[[/Heading]]
 WHen a Recycling Unit is destroyed, parts that were in the inventory may sometimes be ejected by the destroyed machine. Each machine tile destroyed has a chance of ejecting one of the parts in inventory at the time of destruction.
 [[Heading]]Rigged Engines[[/Heading]]
@@ -3517,9 +4463,9 @@ Security level|Armor||
 [[Heading:3]]Retrieving Matter[[/Heading]]
 Retrieving Matter from a Recycling Unit is a multi step process. First, parts must be inserted with [[GameText]]Recycle([Part Name])[[/GameText]]. Then, the [[GameText]]Recycling(Process)[[/GameText]] hack must be used to turn all parts in inventory into matter. Finally, the [[GameText]]Retrieve(Matter)[[/GameText]] hack must be used to obtain the recycled matter. All parts are processed at 50% efficiency such that 2 part integrity = 1 matter.
 [[Spoiler]]
-[[Heading:3]]Force(Fedlink)[[/Heading]]
+[[Heading:3]][[GameText]]Force(Fedlink)[[/GameText]][[/Heading]]
 This hack has no practical effect if Cogmind is not [[UFD]] aligned.
-[[Heading:3]]Force(Scrapoids)[[/Heading]]
+[[Heading:3]][[GameText]]Force(Scrapoids)[[/GameText]][[/Heading]]
 This hack has no practical effect if Cogmind is not UFD aligned. The [[Scrapoid|Scrapoids]] summoned depends on the depth.
 [[Table]]
 Depth|Scrapoid||
@@ -3527,11 +4473,11 @@ Depth|Scrapoid||
 -5 to -4|[[Scrapoid (6)]]||
 -3 to -1|[[Scrapoid (8)]]
 [[/Table]]
-[[Heading:3]]Force(Tunnel)[[/Heading]]
-Adds an additional 30 [[Alert]] when successful. This hack is most valuable in early floors like [[Materials]]. It can reveal the locations of all 0b10 [[Branch]] maps which can be useful in planning a route through the game.
-[[Heading:3]]Trojan(Mask)[[/Heading]]
-Trojan(Mask) can be used in order to stockpile large numbers of parts on the ground. This is especially useful if planning a flight to grounded propulsion transition, as it is easy to bring parts back to this location and there is no risk of losing the parts due to Recyclers. Trojan(Mask) can also be good if hunting [[Cargo Convoy|Cargo Convoys]] that are heading through the area to avoid the risk of Recyclers picking up the loot.
-[[Heading:3]]Trojan(Reject)[[/Heading]]
+[[Heading:3]][[GameText]]Force(Tunnel)[[/GameText]][[/Heading]]
+This hack is most valuable in early floors like [[Materials]]. It can reveal the locations of all 0b10 [[Branch]] maps which can be useful in planning a route through the game.
+[[Heading:3]][[GameText]]Trojan(Mask)[[/GameText]][[/Heading]]
+Trojan(Mask) can be used in order to stockpile large numbers of parts on the ground. This is especially useful if planning a flight to grounded propulsion transition, as it is easy to bring parts back to this location and there is no risk of losing the parts due to Recyclers. [[GameText]]Trojan(Mask)[[/GameText]] can also be good if hunting [[Cargo Convoy|Cargo Convoys]] that are heading through the area to avoid the risk of Recyclers picking up the loot.
+[[Heading:3]][[GameText]]Trojan(Reject)[[/GameText]][[/Heading]]
 This hack has the effect of piling up a large number of parts in the area where the Recycler is located because parts that are ejected will not be re-inserted into the machine.[[/Spoiler]]","","","","","","",""
 "Reflective Plating","Part","","","","","","","",""
 "Regenerative Armor","Part Group","","Spoiler","","","Lgt. Regenerative Plating,Med. Regenerative Plating,Hvy. Regenerative Plating,SHELL Armor","","",""
@@ -3705,7 +4651,7 @@ Propulsion|[[Backup Propulsion I]]|[[Backup Propulsion III]]|[[Backup Propulsion
 Utility|[[Backup Plating I]]|[[Backup Plating III]]|[[Backup Plating VII]]||
 Weapon|[[Backup Laser I]]|[[Backup Laser III]]|[[Backup Laser VII]]
 [[/Table]]
-[[Spoiler]][[Heading:3]]Force(Patch)[[/Heading]]
+[[Spoiler]][[Heading:3]][[GameText]]Force(Patch)[[/GameText]][[/Heading]]
 This hack is best used to quickly repair things that have low current integrity but have a high maximum integrity. This can restore large amounts of integrity quickly for parts like [[Armor]] and [[Treads]]. [[Storage Unit|Storage Units]] are an especially good choice for this hack due to the unique ability of this hack to repair parts without needing to detach them and wait around. Otherwise, repairing storage units can be quite risky with [[Recycler|Recyclers]] stealing parts while waiting.[[/Spoiler]]","","","","","","",""
 "Research","Location","Research is a [[0b10]]-controlled main floor that appears on both -3 and -2. Research maps continue to amp up the difficulty in strength and number of general combat encounters, hacking difficulty, and difficulty in locating exits. Compared to the previous [[Factory]] floors, Research maps are just as big, but are much more maze-like with large numbers of smaller interconnected rooms and big sections of the level entirely disconnected by large chunks of earth. Exploring all of these different rooms is more difficult than before, and finding an exit can be a real challenge.
 Unlike factory floors with [[Caves]] available, there are usually no easy exits to dissipate [[Alert]] in Research. The natural alert dissipation that occurs between levels continues to decrease. Purging alert or avoiding generating it in the first place can be a big deal if the player is not prepared to fight off [[High Security]]. [[Infowar]] continues to be important to avoid unnecessary encounters whenever possible, and [[Hackware]] should be used to purge alert and locate exits whenever possible.
@@ -3797,7 +4743,7 @@ Security level|Armor||
 Identifying unknown parts is done by using the [[GameText]]Insert([Part Name])[[/GameText]] hack. This hack has no side effects if it fails, and can identify any part in the game. Identifying a [[Prototype Part]] this way will also determine whether it is faulty or not. If a part has no schematic available for downloading, the machine text will indicate [[GameText]]Failed: Components not registered.[[/GameText]]
 [[Heading:3]]Downloading Schematics[[/Heading]]
 After a part has been inserted, the [[GameText]]Scanalyze[[/GameText]] hack can be used to attempt to download the schematic. This process may fail to complete even if the hack was successful. Additionally, the inserted part may be broken by the scanalyzing attempt even if successful. If this happens, the part must be reinserted again before another download attempt can be made. Broken and faulty parts can be scanalyzed without issue. Higher security level Scanalyzers have a higher schematic downloading chance and a lower chance at breaking the scanalyzed part.
-[[Spoiler]][[Heading:3]]Force(Extract)[[/Heading]]
+[[Spoiler]][[Heading:3]][[GameText]]Force(Extract)[[/GameText]][[/Heading]]
 This hack can give up to 1-10 schematics that Cogmind does not already have. This can include Prototype schematics, but only rarely. Only depth-appropriate rating parts can be obtained from this hack.[[/Spoiler]]","","","","","","",""
 "Scatter Rocket Array","Part","","","","","","","",""
 "Schematic","Other","Schematics can be acquired by using [[Scanalyzer|Scanalyzers]] or hacking [[Terminal|Terminals]] (see your status page for access to a list of schematics currently in your possession).","","","","","","",""
@@ -4307,82 +5253,60 @@ The Tech Extrapolator can be obtained by one of two methods:
 "Tech Extrapolator Parts","Part Group","","Spoiler","","","Electrostorm Shotgun,Energy Deflector,Heat Bomb Trap,Hyp. Alpha Cannon,Machine Rigger,Telecube,Vmp. Brace Plating,Vmp. Broadsword,Vmp. Heavy Siege Treads,Wartreads","","",""
 "Telecube","Part","","","","","","","",""
 "Temporary Slot Parts","Part Group","","Spoiler","","Temporary Slot Parts","","","",""
-"Terminal","Other","Terminals are interactable Machines that [[Cogmind]] can hack for various benefits (such as recalling an [[Extermination Squad]]!) and info. Terminals are also often guarded by an [[Operator]], which if alerted will use this terminal to call for a [[Reinforcement Squad]] unless it or the terminal is disabled/destroyed.
-The main differences between security levels and terminal types are are :
-[[Table]]Security level|Average size|Armor|Direct hacks|Base direct hacking success rate|Base indirect hacking success rate|Base detection rate||
-1|Small (1 tile and such)|18|Few available direct hacks|Depends on the hack|-15% compared to direct hacks|20 or 25%||
-2|Medium|25|More available direct hacks|Half of level 1, rounded down|-30% compared to direct hacks|50%||
-3|Large|30|Lots of available direct hacks|Half of level 2, rounded down|-45% compared to direct hacks|60%, 70% or 80%||
-Terminals inside [[Garrison|Garrisons]]|Small (1 tile and such)|18|One of Access(Emergency), Download(Navigation), Download(Registry), or Download(Security)|Same as level 2|Same as level 2|Same as level 2||
-Door-type/Lore terminals|Usually 1 tile|18|Usually one direct hack, to open the relevant door or get relevant lore record|Depends on door/lore record|Unavailable|Same as level 1||
-Cave outpost terminal|1 tile|18|Random mix of flavor (useless) and intel ""Report"" hacks, with flavor reports always grouped on top of the list and intel reports grouped on the bottom of the list|100%|Unavailable|Same as level 1[[/Table]]
-Non-door Garrison terminals are always security level 2, while door-type, lore, and cave outpost terminals are always level 1.
-
-Unauthorized hacking (trojan and force hacks) success rate follows the same logic as direct hacking.
-
-Download(Navigation), Download(Registry), and Download(Security) hacks are only available inside Garrisons.
-
-The frequency of each Terminal security level is dependant on the area's depth. At depth -10, almost all terminals are level 1, a few are rarely level 2, and level 3 terminals are basically impossible to find[[Comment]]Maybe literally impossible?[[/Comment]]. As Cogmind ascends each depth, level 3 terminals become more common, while level 1 terminals become rarer. At first, level 2 terminals become more common, but eventually this reverses as they become less common. At depth -1, level 3 terminals are very common, level 2 terminals are rare while level 1 terminals are basically impossible to find[[Comment]]Maybe literally impossible?[[/Comment]] (excluding limited terminals).
-[[Image]]../game_sprites/Terminal.png|Level 3 terminal![[/Image]]
-
-[[Heading]]Hacking[[/Heading]]
-Hacks are listed at [[~/hacks|the Cog-Minder Hacks page]], and explained further in the Cogmind manual.
-Common chance factors:
-[[List]]
-Terminal Security Level - Higher-rated terminals are harder to hack, with direct hacks having half the base success rate they would have on a lower security terminal. Because of this, direct hacks with a negative base success rate will actually have a higher success rate on higher security terminals compared to lower security terminals (half of -8% is -4%).|
-Manual Commands - (Security level * -15%) success chance penalty.|
-[[Corruption]] - Penalty of -1% per 3% of system corruption to success chance.|
-Use penalty - Successfully hacking Alert(Purge), Recall(Investigation), Recall(Reinforcements), Recall(Extermination) or Recall(Assault) permanently reduces the success rate for that specific hack by 10% for the entire map. This penalty is applied for every successful use of the relevant hack, lowering the success rate by 10% every time. The only way to remove it is to leave the map.
-[[Hackware]] - Each attached offensive hackware improves success chances by the amount specified in the part description.|
-Operator [[Data Core]] - Moving over an Operator's Data Core will automatically collect and it extract its dynamic key, which provides a one-time 1.5x multiplier to the base success rate of all direct hacks, excluding those with a negative base success rate. The dynamic key can only be used before it expires at its Operator's terminal.|
-[[Multitool]] - Using a Multitool on a terminal's interactive tile removes all direct hacks and causes tracing to begin immediately, but applies a modifier to indirect hacks.|
-[[Operator]] allies - Having allied Operators within 20 tiles provides a +10% bonus to hacks for the first Operator, +5% for the second, +2% for the third, and +1% for all others.|
-[[Spoiler]]Botnets trojans - Installing Botnet trojans on other terminals in the same map provides a +6% bonus to hacks for the first botnet installed, +3% for the second, and +1% for all others. Note that a botnet will not affect hacking success chance on the terminal it is installed on.[[/Spoiler]]
-[[/List]]
-
-[[Heading]]Detection/Trace[[/Heading]]
-[[B]]Warning - This section is lacking in precision and information![[/B]] Please consider contributing to clarify it and/or add information.
-
-Terminals have a varying base detection rate, dependent mostly on their security level. This base detection rate can be lowered through defensive hackware by the amount specified on their part description, and/or [[Spoiler]]permanently lowered by destroying Network Hubs in [[Hub_04(d)]][[/Spoiler]]. However, it can never be lowered below 10%.
-
-Getting detected will cause a trace to start. Each additional hack attempt will cause the trace progress to advance by an amount which can be reduced in the same way as detection rate. Trace advance can never be lowered below 15%. When failing a hack, a catastrophic failure may occur (more likely on higher security terminals), causing the detection rate to go up by far more.
-
-Getting fully traced may result in receiving [[Corruption]], your [[Hackware]] breaking, and will very likely cause an [[Investigation Squad]].
-
-[[Heading]]Central database authorization[[/Heading]]
-Indirect hacks for lore records, prototype IDs, part or robot schematics, and robot analyses, are all considered ""database hacks"". Successfully hacking any of them has a base 25% chance to instead cause an area-wide central database lockout, preventing further database hacks. However, direct hacks of those types remain possible after a central database lockout and cannot cause one.
-
-Additionally, not all lore records, parts schematic, robot analyses or robot schematics can be indirectly hacked on all terminals. Terminals have a level of database authorization dependent on security level and current depth, equal to (10 - current depth + security level). It is only possible to indirectly hack a part/robot schematic or analysis if the terminal's authorization level is equal to or higher than the rating/tier of the relevant part/robot (prototype parts are considered to have a +1 to their rating for this purpose).
-For example, at depth -5, level 2 terminals have an authorization level of (10 - 5 + 2) = 7.
-Lore records also have a rating/tier, but it isn't communicated in-game. 
-
-[[Heading]]Direct hacking subtleties[[/Heading]]
-There are many small subtleties to direct hacking. Here is an incomplete list:
-[[List]]
-[[GameText]][Local Emergency Access][[/GameText]], [[GameText]][Purge Alert][[/GameText]] and all [[GameText]][Traps][[/GameText]] hacks appear greyed out in direct hacks if they are currently useless. In other words, if a terminal has a greyed out direct [[GameText]][Locate Traps][[/GameText]] hack, then there are no traps within the terminal's range.|
-If either [[GameText]][Disarm Traps][[/GameText]] or [[GameText]][Reprogram Traps][[/GameText]] is available as a direct hack, then [[GameText]][Locate Traps][[/GameText]] will also be a direct hack on that terminal.|
-If [[GameText]][Purge Alert][[/GameText]] is available as a direct hack, then [[GameText]][Check Alert][[/GameText]] will also be a direct hack on that terminal.|
-If there is a direct [[GameText]][Recall][[/GameText]] hack available, then the corresponding [[GameText]][Status][[/GameText]] hack will also be available on that terminal.|
-[[GameText]][Prototype ID Bank][[/GameText]] can only be hacked directly once, and is never greyed out, even when it does not yield new prototype IDs.|
-When entering a map, if you already have a schematic that's supposed to appear on a terminal, that schematic hack may be re-rolled.[[Sup]][[Terminal#references|[1]]][[/Sup]]|
-Direct [[GameText]][Schematic][[/GameText]] hacks may be of a higher rating/tier than the terminal's central database authorization, up to the same rating/tier as the current depth's level 3 terminals' central database authorization.
-[[/List]]
-
-[[Comment]]Uncategorized information - Stuff i didn't think of a way to integrate into the structure of this article
-
-I wasn't sure where to put this, since it isn't exclusive to direct hacking:
-
-[[GameText]][Prototype ID Bank][[/GameText]] gives a number of prototype IDs equal to 1 + Terminal security level.
-
-[[/Comment]]
-
+"Terminal","Other","[[Image]]../game_sprites/Terminal.png|An 0b10-controlled Terminal[[/Image]]
+Terminals are typically [[0b10]]-controlled [[Interactive Machine|Machines]] that [[Cogmind]] can hack for a large variety of benefits. Some [[Branch|Branches]] have [[Derelict]]-controlled Terminals. 0b10 Terminals are also sometimes guarded by an [[Operator]], which if alerted will lock down the Terminal and call for a [[Reinforcement Squad]] unless it or the Terminal is disabled/destroyed.
 [[Heading]]Lore[[/Heading]]
 [[Lore]]0b10 Records|Terminal[[/Lore]]
-
+[[Heading]]Types of 0b10 Terminals[[/Heading]]
+[[Table]]Type|Average Size|Armor|Direct hacks|Other Notes||
+Standard security level 1|Small|18|Few available direct hacks|N/A||
+2|Medium|25|More available direct hacks|N/A||
+3|Large|30|Lots of available direct hacks|N/A||
+Terminals inside [[Garrison|Garrisons]]|Small|18|One of Access(Emergency), Download(Navigation), Download(Registry), or Download(Security)|Terminal is always security level 2||
+Door-type/Lore Terminals|1 tile|18|Usually one direct hack, to open the relevant door or get relevant lore record|Terminal is always security level 1||
+Cave outpost Terminal|1 tile|18|Random mix of flavor (useless) and intel ""Report"" hacks, with flavor reports always grouped on top of the list and intel reports grouped on the bottom of the list ending in X|Terminal is always security level 1[[/Table]]
+[[Heading]]Hacks[[/Heading]]
+[[Hacks]]Terminal[[/Hacks]]
+[[Heading:2]]Operator [[Data Core]][[/Heading]]
+Moving over a destroyed Operator's Data Core will automatically collect and it extract its dynamic key, which provides a one-time 1.5x multiplier to the base success rate of any direct hacks, excluding those with a negative base success rate. The dynamic key can only be used within 30 turns before it expires at its Operator's Terminal.
+[[Heading:2]][[Multitool]][[/Heading]]
+Using a Multitool on a Terminal's interactive tile removes all direct hacks and causes tracing to begin immediately, but applies a modifier to indirect hacks. This modifier can range from -20% to +50%. Multitool is best used with a lot of [[Defensive Hackware]] to increase the number of hacks that can be safely performed after modification.
+[[Heading:2]]Central database authorization[[/Heading]]
+Indirect hacks for lore records, prototype IDs, part or robot schematics, and robot analyses, are all considered ""database hacks"". Successfully hacking any of them has a base 25% chance to instead cause a map-wide central database lockout, preventing further indirect database hacks. However, direct hacks of those types remain possible after a central database lockout, and they cannot cause one in the first place. The first indirect database hack on a map cannot cause a database lockout.
+Not all lore records, parts schematic, robot analyses or robot schematics can be indirectly hacked on all Terminals. Terminals have a level of database authorization dependent on security level and current depth, equal to (10 - current depth + security level). It is only possible to indirectly hack a part/robot schematic or analysis if the Terminal's authorization level is equal to or higher than the rating/tier of the relevant part/robot (prototype parts are considered to have a +1 to their rating for this purpose).
+For example, at -5 Factory, level 2 Terminals have an authorization level of (10 - 5 + 2) = 7, which would allow hacking for standard rating 7 parts or prototype rating 6 parts.
+Lore records also have a hidden rating/tier stat. This value can only be determined by attempting and failing to access a particular record.
+[[Heading:2]]Additional Details/Usage Tips[[/Heading]]
+[[Heading:3]]Grayed Out Direct Hacks[[/Heading]]
+[[GameText]][Local Emergency Access][[/GameText]], [[GameText]][Purge Alert][[/GameText]] and all [[GameText]][Traps][[/GameText]] hacks appear greyed out in direct hacks if they are currently useless. In other words, if a Terminal has a greyed out direct [[GameText]][Locate Traps][[/GameText]] hack, then there are no traps within the Terminal's range.
+[[Heading:3]]Grouped Direct Hacks[[/Heading]]
+If either [[GameText]][Disarm Traps][[/GameText]] or [[GameText]][Reprogram Traps][[/GameText]] is available as a direct hack, then [[GameText]][Locate Traps][[/GameText]] will also be a direct hack on that Terminal. If [[GameText]][Purge Alert][[/GameText]] is available as a direct hack, then [[GameText]][Check Alert][[/GameText]] will also be a direct hack on that Terminal. If there is a direct [[GameText]][Recall][[/GameText]] hack available, then the corresponding [[GameText]][Status][[/GameText]] hack will also be available on that Terminal.
+[[Heading:3]][[GameText]]Access(Branch)[[/GameText]][[/Heading]]
+Certain branch entrances are not revealed by this hack because they are either unknown to 0b10 or considered more secret/secure. The full list of these branches is: [[Lab]], [[Section 7]], [[Scraptown]] and [[Subcaves]].
+[[Heading:3]][[GameText]]Access(Emergency)[[/GameText]][[/Heading]]
+This hack reveals emergency accesses within a radius of 20 tiles of the Terminal. Within a Garrison, this reveals all emergency accesses as well as phase walls throughout the entire map.
+[[Heading:3]][[GameText]]Alert(Check)[[/GameText]][[/Heading]]
+[[Alert]] is reported in the alphabet form rather than as the exact precise number. For example, the Terminal reports alert level 1-A at 200 influence.
+[[Heading:3]][[GameText]]Alert(Purge)[[/GameText]][[/Heading]]
+The base success rate of this hack goes down by 10% after each successful hack. This reduction only applies for the current map.
+[[Heading:3]][[GameText]]Enumerate()[[/GameText]] Hacks[[/Heading]]
+Enumerate hacks reveal the current position of all bots of the matching type across the map. These positions can be enabled/disabled in the intel console window. These positions will not update in realtime. If the hack is performed again, all existing intel positions of the same type will be cleared before being added again, so the intel does not stack.
+[[Spoiler]][[Heading:3]][[GameText]]Force(Sabotage)[[/GameText]][[/Heading]]
+Adds an additional 50 alert if the hack succeeds but is unsuccessful in sabotaging a machine. Adds 100 alert if the hack succeeds and sabotages a machine. Additional alert from the explosive machine does not get added like when Cogmind shoots a machine to blow it up. This can reduce alert gained in maps with huge explosive machines such as [[Hub_04(d)]]. In fact, Hub is the best place to use this hack, as blowing up a random machine is seldom useful in most other maps, and the only valid targets within the map are the Network Hubs themselves.[[/Spoiler]]
+[[Heading:3]][[GameText]]Layout(zone)[[/GameText]][[/Heading]]
+Reveals an the map in a 32x32 area around the map. That is, 16 tiles in each cardinal direction from the center tile of the Terminal.
+[[Heading:3]][[GameText]]Inventory()[[/GameText]] Hacks[[/Heading]]
+Due to a bug in Beta 14, the definition of a ""stockpile"" is much different than what a player would consider a stockpile. As a result, this hack provides very little actual information. [[GameText]]Inventory(Prototypes)[[/GameText]] in particular often results in 1 or even 0 stockpiles revealed on most maps. This data can be enabled/disabled in the intel console window.
+[[Heading:3]][[GameText]]Prototypes[[/GameText]][[/Heading]]
+The number of prototype IDs received is 2 on a security level 1 terminal, 3 on a level 2, and 4 on a level 3. Duplicate prototype IDs cannot be received. This hack is never grayed out as a direct hack, even if no prototype IDs are available.
+[[Heading:3]][[GameText]]Recall()[[/GameText]] Hacks[[/Heading]]
+The base success rate of these hacks go down by 10% after each successful hack. This only applies to hacks of the same type, not all Recall hacks. This reduction only applies for the current map.
+[[Heading:3]][[GameText]]Schematic()[[/GameText]] Hacks[[/Heading]]
+Direct schematic hacks may contain parts/bots with a rating/tier up to 2 higher than that of the base floor. For example, in -7 Factory, standard floor parts may be rating 4, but schematics up to rating 6 may be offered.
+When entering a map, if you already have a schematic that's supposed to appear on a Terminal, that schematic hack may be re-rolled.[[Sup]][[Terminal#references|[1]]][[/Sup]]
 [[Heading]]References[[/Heading]]
 [[List:Ordered]]
-[[https://www.gridsagegames.com/blog/2018/11/debugging-mapgen-seed-divergence/|Kyzrati's blog]]: ""recalling that schematic hacks at Terminals would favor the player by usually re-rolling if the randomly chosen schematic happened to be one they already had.""
-[[/List]]","","","","","","",""
+[[https://www.gridsagegames.com/blog/2018/11/debugging-mapgen-seed-divergence/|Kyzrati's blog]]: ""recalling that schematic hacks at Terminals would favor the player by usually re-rolling if the randomly chosen schematic happened to be one they already had.""[[/List]]","","","","","","",""
 "Terminology","Other","This is a list of terminology, or potentially things that do not merit a full page. Also check out [[Acronyms]].
 [[Heading:3]]Partial Spot[[/Heading]]
 Partial spotting is when you move through a (hostile) bots field of vision while its not its turn. The bot will investigate where it saw you, look a few tiles further then head back to whatever it was doing.","","","","","","",""
