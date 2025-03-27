@@ -247,7 +247,7 @@ Almost all achievements can and have to be completed within a single run, with t
 In addition, some achievements are exclusive to other achievements (for example, all ""Specialist"" are mutually exclusive to one another), and some are seed-dependent and as a result may not be completable on some seeds (For example, ""Exterminator"" is not completable on all seeds).
 
 
-This article was last updated during Beta 14.","","","","","","","Challenges Achievements,Events Achievements,Mechanics Achievements,Progress Achievements,Styles Achievements,Wins Achievements"
+This article was last updated during Beta 14.","","","","","","","Challenges Achievements,Events Achievements,Mechanics Achievements,Progress Achievements,Style Achievements,Wins Achievements"
 "Acronyms","Other","The following is a list of common acronyms in the Cogmind community:
 [[List]]A: [[Access]]|A0: [[Access_0]]|A7: [[Alpha 7]], also applies to the bot [[A7]]|AA: [[Alien Artifacts|Alien Artifact]]|ACA: [[Active Cooling Armor]]|AIA: [[Armor Integrity Analyzer]]|ASS: [[Active Sensor Suite]]|BC: [[Blast Cannon]]|CAS: [[Component Analysis Suite]]|C: [[Command]]|CC: [[Core Cannon]]|CE: [[Core Expander]]|CM: [[Core Membrane]]|CML: [[Chain Missile Launcher]]|CPC: [[Core Physics Calibrator]]|CR: [[Core Regenerator]]|CRM: [[Core Reset Matrix]]|CS: [[Core Stripper]]|DAS: [[Deploy-a-Sentry]]|DC: [[Data Conduit]]|DoCo: [[Redacted]]Doom Corridor, the location in [[Command]][[/Redacted]]|DM: [[Data Miner]]|DLC: [[Drained L-Cannon]]|DNS: [[Deep Network Scanner]]|DNI: [[Dimensional Node Initializer]]|DSS: [[Deep Structural Scanner]]|ECA: [[Encrypted Comm Array]]|EEK7: [[Redacted]]A name for the exit on the right side of Command. When the exit is viewed in ASCII mode, it represents the 2 [[Executioner|Executioners]], a [[Striker]], and an Alpha 7[[/Redacted]]|FF: [[Force Field]]|FF7: [[Flying Fortress v7]]|FFF: [[Redacted]][[Fortress]], named for the ASCII representation[[/Redacted]]|FLK: [[Field Lobotomy Kit]]|FRU: [[Field Recycling Unit]]|GBA: [[Gamma Bomb Array]]|GRD: [[Gui. Remote Datajack]]|GU: [[GOLEM Unit]]|IM: [[Integrated Mediator]]|ITA: [[Impulse Thruster Array]]|ITN: [[Integrated Thermoelectric Network]]|IR: [[Integrated Reactor]] or [[Integrity Redistributor]], typically the latter|L: [[Lab]]|LA: [[Linked Autogun]]|LC: [[L-Cannon]]|LES: [[Latent Energy Streamer]]|LL: [[Launcher Loader]]|LS+1: [[Longsword +1]]|MAU: [[Mobile Assembly Unit]]|MC: [[MAIN.C]]|MD: [[Matter Drive]]|MWD: [[Microwarp Drive]]|NEM: [[Navigation Efficiency Matrix]]|OC: [[Omega Cannon]]|PC: [[Potential Cannon]]|PP: [[Protovariant P]]|PR: [[Phase Redirector]]|PSL: [[Point Singularity Launcher]]|Q: [[Quarantine]]|QC/Qcap: [[Quantum Capacitor]]|R: [[Research]]|R17: [[Revision 17]]|RCS: [[Reaction Control System]]|RIF: [[Relay Interface Framework]]|S7: [[Section 7]]|SB: [[Sigix Broadsword]]|SC: [[Sigix Shearcannon]]|SQC: [[Superquantum Companion]]|SST: [[Supercharged Sigix Terminator]]|ST: [[Sigix Terminator]]|SR :[[Subatomic Replicator]]|SW: [[Sigix Warrior]]|T: [[Testing]]|TCS: [[Tactical Coordination Suite]]|TR: [[Transdimensional Reconstructor]]|UFD: [[UFD|United Federation of Derelicts]]|VCA: [[Vortex Catalyst Activator]]|VCR: [[Vortex Chain Reactor]]|VFP: [[Vortex Field Projector]]|W: [[Warlord]]|WC: [[Warp Cannon]]|XLAA: [[XL Autogun Array]]|Yauler: [[A-27 Freighter]], the ""yellow Hauler""|Z: [[Zion]]|ZH: [[Zhirov]]|ZDC: [[Zion Deep Caves]]|ZS: [[Zhirov Special]][[/List]]","","","","","","",""
 "Active Cooling Armor","Part","Obtainable only from a [[Cargo Convoy]]","","","","","","",""
@@ -1287,300 +1287,7 @@ While these should be used sparingly to avoid friendly 0b10 fire that can cause 
 Drawing loot piles closer to Cogmind can also save a lot of otherwise wasted time trying to travel a long distance to get some good loot.","Redacted","","","","","",""
 "Commander","Bot","","","","","","","",""
 "Compactor","Part","","","","","","","",""
-"Companion Sword","Part","The Companion Sword is a unique talking melee weapon that can only appear in [[Scraptown]]. It is contained in a room called The Sword, locked for the protection of [[Derelict|Derelicts]], none of whom have survived using the Companion Sword for long. The Companion Sword is quite talkative and will often comment about the state of the run, take pleasure in destroying things, and complain if it is detached or is not the only weapon attached. The Companion Sword has a variety of special effects that are not described by the in-game effect.
-[[Heading]]Special Effects[[/Heading]]
-[[Table]]Effect|Description|Frequency||Surprise Attack|The Companion Sword will ""surprise attack"" one additional target on a normal attack. The log message [[GameText]]Companion Sword surprise attacks [target].[[/GameText]] will appear when this happens.|Uncommon||Core Loss|The Companion Sword deals between 5-10 core damage directly to Cogmind's core on a normal attack. Can't be reduced by [[Core Shieldings]] or [[Defensive Utilities]]. Only happens when Cogmind attacks something with the Companion Sword.|Uncommon||Bot Disruption|A bot is instantly disrupted on a normal attack. As with normal disruption, a disrupted bot can be rewired as long as it isn't hacking immune. The log message [[GameText]][target] shuts down.[[/GameText]] will appear when this happens.|Rare||Sever|A part is severed off of a bot on a normal attack. This effect can hit through the Dismemberment immunity, unlike standard Sever critical hits.|Rare||Surge of Energy|This effect instantly kills a bot on a normal attack. The log message [[GameText]][target] is pierced by a surge of energy.[[/GameText]] will appear when this happens.|Rare[[/Table]]
-[[Heading]]Transformation[[/Heading]]
-The Companion Sword can transform into the [[Quantum Companion]] in one of two ways:
-[[List]]Use: The transformation can occur from time wearing and use. Killing bots while keeping it equipped for a long period of time will make it transform the quickest.|[[Subatomic Replicator]]: The Replicator can instantly create the Quantum Companion from a Companion Sword.[[/List]]
-When the Companion Sword transforms, the following game log message will appear: [[GameText]]Companion Sword blips out of existence for a moment, then partially fades back in.[[/GameText]] The Companion Sword will also comment on it, saying one of multiple possible [[Companion Sword#upgrading|upgrade lines]].
-
-[[Heading]]Dialogue[[/Heading]]
-The following is a non-comprehensive list of Companion Sword dialogue:
-
-[[Heading:2]]All variants[[/Heading]]
-[[Heading:3]]First meeting before pickup[[/Heading]]
-[[GameText]]You know you want me.[[/GameText]]
-[[GameText]]I've been waiting for you.[[/GameText]]
-[[GameText]]Why hello there. are you here to rescue me?[[/GameText]]
-[[GameText]]Want to be a hero? Pick up the sword.[[/GameText]]
-[[GameText]]You and I were meant for greatness.[[/GameText]]
-[[GameText]]Just do it. Trust me.[[/GameText]]
-
-[[Heading:3]]First pickup[[/Heading]]
-[[GameText]]Well that's a relief.[[/GameText]]
-[[GameText]]You did the right thing.[[/GameText]]
-[[GameText]]I knew you wouldn't leave me behind![[/GameText]]
-[[GameText]]Whew.[[/GameText]]
-[[GameText]]I applaud your need for me.[[/GameText]]
-[[GameText]]I'd do the same for you[[/GameText]]
-[[Heading:3]]Build comments[[/Heading]]
-[[GameText]]Beware theres a new [second half of build] in town.[[/GameText]]
-
-[[Heading:3]]""Other weapons attached"" complaints[[/Heading]]
-[[GameText]]Using me alongside this [weapon name] isn't good for our relationship.[[/GameText]]
-[[GameText]]This [weapon name] is depressing me.[[/GameText]]
-[[GameText]]Hands up! Drop the [weapon name]![[/GameText]]
-[[GameText]]I'm allergic to guns and cannons. I might not be able to hit straight in this state. Really.[[/GameText]]
-[[GameText]]If you've got this [weapon name], why do you need me, huh?[[/GameText]]
-[[GameText]]I suggest removing this [weapon name].[[/GameText]]
-[[GameText]]Why must I share space with this [weapon name]![[/GameText]]
-[[GameText]]Do we really need this [weapon name] around? It should just be you and me.[[/GameText]]
-[[GameText]]You are suspiciously close to your [weapon name].[[/GameText]]
-[[GameText]]I'm not naming names, but a certain [weapon name(can be gun cannon and melee)] is starting to bug me.[[/GameText]]
-[[GameText]]We need to have a talk about your affection for that [weapon name].[[/GameText]]
-
-[[Heading:3]]""In inventory complaints/underuse"" complaints (start of map)[[/Heading]]
-[[GameText]]A little more cooperative murder would be good for both of us.[[/GameText]]
-[[GameText]]You should use me more often.[[/GameText]]
-
-[[Heading:3]]""Using other weapons instead"" complaints[[/Heading]]
-[[GameText]]I'm starting to think you like your [melee weapon] more than me.[[/GameText]]
-[[GameText]]If you don't want me around just say so, oh silent one.[[/GameText]]
-[[GameText]]Hmpf.[[/GameText]]
-[[GameText]]If you're not going to use me, just drop me and get it over with.[[/GameText]]
-
-[[Heading:3]]""Detachment"" complaints (Companion Sword only)[[/Heading]]
-[[GameText]]Sadness...[[/GameText]]
-[[GameText]]Friends don't sideline friends.[[/GameText]]
-[[GameText]]All the other swords are going to make fun of me now.[[/GameText]]
-[[GameText]]This is my sad face.[[/GameText]]
-[[GameText]]Fine, just brush me aside like I'm nothing, see where that gets you.[[/GameText]]
-[[GameText]]Now if you don't mind, I'd like you to do the reverse of what you just did.[[/GameText]] [[Comment]]Got this line from a system corruption rejection.[[/Comment]]
-
-[[Heading:3]]Out of combat banter[[/Heading]]
-[[GameText]]You're looking dapper there, friend. Don't let anyone else tell you otherwise.[[/GameText]]
-[[GameText]]We make a good team.[[/GameText]]
-[[GameText]]Fewer friendlies in the world, too bad.[[/GameText]]
-[[GameText]]I'm feeling especially deadly right now, but don't let that affect your plans, it's just a feeling.[[/GameText]]
-[[GameText]]You're pretty cool sometimes.[[/GameText]]
-[[GameText]]I'm really excited about what the future may hold for us.[[/GameText]]
-[[GameText]]I need buffs.[[/GameText]]
-[[GameText]]Together we are unstoppable![[/GameText]]
-[[GameText]]Does that thing on me look more like a heart, or maybe a broken triangle?[[/GameText]]
-[[GameText]]A sword and a robot, best of friends.[[/GameText]]
-[[GameText]]Have you heard of something called Tec---[[/GameText]]
-[[GameText]]Expand your utility interfacing capabilities, you should see me with more buffs![[/GameText]]
-
-[[Heading:3]]Normal combat[[/Heading]]
-[[GameText]]Powered by friendship![[/GameText]]
-[[GameText]]Gotta go fast![[/GameText]]
-[[GameText]]You can run but you can't hide![[/GameText]] [[Comment]]This one and the next sound like ""enemy moving away"" dialogues, are they?[[/Comment]]
-[[GameText]]Ooh, playing hard to get?[[/GameText]]
-[[GameText]]Well there go our bot shields[[/GameText]]
-[[GameText]]A quantum pathway, in I go![[/GameText]]
-[[GameText]]it's amazing what we can do when we work together.[[/GameText]]
-[[GameText]]This will take no time at all.[[/GameText]]
-
-[[Heading:3]]Enemy moves backwards during engagement[[/Heading]]
-[[GameText]]Back up all you want, that gives us room to charge![[/GameText]]
-[[GameText]]Looks pretty afraid to me.[[/GameText]]
-
-[[Heading:3]]When surprise attacking[[/Heading]]
-[[GameText]]Multipass![[/GameText]]
-[[GameText]]They can tag team, but so can we! I mean me.[[/GameText]]
-[[GameText]]Tag team![[/GameText]]
-[[GameText]]Get in line, [bot class].[[/GameText]]
-[[GameText]]Bankai![[/GameText]]
-[[GameText]]Look out beside you![[/GameText]]
-[[GameText]]Do that again![[/GameText]]
-[[GameText]]You look like you want some, too, [bot class]![[/GameText]]
-[[GameText]]Surprise![[/GameText]]
-[[GameText]]Watch out beside you![[/GameText]]
-[[GameText]]Boo.[[/GameText]]
-[[GameText]]Need a little extra help?[[/GameText]]
-
-[[Heading:3]]Disrupt shutdown[[/Heading]]
-[[GameText]]Not so scary now, are you [bot class]?[[/GameText]]
-[[GameText]]You can thank me later, let's destroy this tool.[[/GameText]]
-[[GameText]]Time-out for you.[[/GameText]]
-[[GameText]]A moment of silence for [bot class] here.[[/GameText]]
-
-[[Heading:3]]Core damage[[/Heading]]
-[[GameText]]Sorry about your core, it's for the greater good![[/GameText]]
-[[GameText]]A little extra strain on your core to speed up their death is worth it[[/GameText]]
-[[GameText]]A little core integrity fora lot of quick damage, good trade yeah?[[/GameText]]
-[[GameText]]This might hurt a bit.[[/GameText]]
-
-[[Heading:3]]Sneak attack[[/Heading]]
-[[GameText]]Don't worry, I got this[[/GameText]]
-[[GameText]]Sneaky, I like it![[/GameText]]
-[[GameText]]How did we get so sneaky.[[/GameText]]
-[[GameText]]Quiet and deadly![[/GameText]]
-[[GameText]]Not easy to dodge what you didn't see coming, eh?[[/GameText]]
-[[GameText]]Never saw that coming.[[/GameText]]
-[[GameText]]It's [bot class] hunting season![[/GameText]]
-[[GameText]]Like ninja![[/GameText]]
-[[GameText]]Gotcha, [bot class][[/GameText]]
-[[GameText]]Your lack of awareness will be your undoing, [bot class]![[/GameText]]
-
-[[Heading:3]]After normal kill[[/Heading]]
-[[GameText]]Next time stand a little more to the left[[/GameText]]
-[[GameText]]Shhh.[[/GameText]]
-[[GameText]]I love the sparks and fizzles.[[/GameText]]
-[[GameText]]One less [bot class] to worry about.[[/GameText]]
-[[GameText]]That [bot class] wont be bothering us anymore.[[/GameText]]
-[[GameText]]Does that count for a notch for me or you? or both of us![[/GameText]]
-[[GameText]]We rock! we also slice and dice![[/GameText]]
-[[GameText]]That wasn't so hard, was it?[[/GameText]]
-[[GameText]]Another one down.[[/GameText]]
-[[GameText]]You swing, I cut![[/GameText]]
-[[GameText]]Beautiful work.[[/GameText]]
-[[GameText]]I love it when you use me like that.[[/GameText]]
-[[GameText]]A respectable final blow.[[/GameText]]
-[[GameText]]You point, I kill. Just point straight and everything is good.[[/GameText]]
-[[GameText]]Let's chop some more [bot class]![[/GameText]]
-[[GameText]]I have an especially strong urge to obliterate every [bot class] we meet.[[/GameText]]
-[[GameText]]They won't even see this draw.[[/GameText]]
-[[GameText]]Your contribution is appreciated.[[/GameText]]
-[[GameText]]Another one bites the concrete.[[/GameText]]
-[[GameText]]Sliced [bot class], my favorite![[/GameText]]
-[[GameText]]Boom.[[/GameText]]
-[[GameText]]Good times.[[/GameText]]
-[[GameText]]You sure know how to make a sword happy.[[/GameText]]
-[[GameText]]Nice one.[[/GameText]]
-[[GameText]]I love the feel of scrap metal exploding around me.[[/GameText]]
-
-[[Heading:3]]Sever[[/Heading]]
-[[GameText]]Oh I'm sorry, is that your [severed item name] on the ground?[[/GameText]]
-[[GameText]]Oh sorry, did you need that [severed item name]?[[/GameText]]
-[[GameText]]A clean cut.[[/GameText]]
-[[GameText]]Your loss is our salvage[[/GameText]]
-
-[[Heading:3]]Attacking walls[[/Heading]]
-[[GameText]]Making shortcuts are we?[[/GameText]]
-[[GameText]]I'm not an axe or hammer, you know.[[/GameText]]
-[[GameText]]What did that [wall] ever do to us?[[/GameText]]
-[[GameText]]Do I look like a digging implement?[[/GameText]]
-
-[[Heading:3]]Surge of energy[[/Heading]]
-[[GameText]]He winds up for the hit and...[[/GameText]]
-[[GameText]]End of the road, [bot class]![[/GameText]]
-
-[[Heading:3]]Follow up attack as secondary weapon[[/Heading]]
-[[GameText]]I'm disappointed in you, forcing me to attack after that [melee weapon name][[/GameText]] 
-[[GameText]]I thought all you needed was me![[/GameText]]
-
-[[Heading:3]]Refusing to follow up attack as secondary melee weapon[[/Heading]]
-[[GameText]]There's no way I'm following the [melee weapon name] into battle.[[/GameText]]
-[[GameText]]Sorry, I attack alone.[[/GameText]]
-[[GameText]]You won't catch me behind that [weapon name].[[/GameText]]
-
-[[Heading:3]]Upgrading[[/Heading]]
-[[GameText]]Time to take this relationship to the next level.[[/GameText]]
-[[GameText]]Faster, smarter, less swordy and more swordy at the same time...[[/GameText]]
-[[GameText]]As you get more powerful, it's only fair that I, too, become godlike![[/GameText]]
-[[GameText]]I knew we could do great things together.[[/GameText]]
-[[GameText]]Ultimate power! Well there's always room for improvement, but I'm feeling it.[[/GameText]]
-
-[[Heading:3]]Uncategorized[[/Heading]]
-[[GameText]]Are we going to die?[[/GameText]]
-[[GameText]]My rage meter is topping out already.[[/GameText]] [[Comment]]Got it when getting the ""Batter Up!"" achievement. Was it because of using a hammer, losing parts, or some other reason?[[/Comment]]
-[[GameText]]You should use me on more respectable targets.[[/GameText]]
-[[GameText]]No thanks.[[/GameText]]
-[[GameText]]I'll sit this one out.[[/GameText]]
-[[GameText]]After our adventure to do whatever you want, let's go on a journey to find out where the heck I came from.[[/GameText]]
-[[Comment]]I got the line about finding out the Companion Sword's origins shortly after entering the S7 hangar, so it might be location-specific, but it could just be a coincidence and be regular out-of-combat banter?[[/Comment]]
-
-[[Heading:2]]Quantum Companion or Superquantum Companion only[[/Heading]]
-
-[[Heading:3]]Gaining bot sensor ability[[/Heading]]
-[[GameText]]Whoa man, I suddenly feel like I'm hallucinating.[[/GameText]]
-
-[[Heading:3]]Destroyed [[/Heading]]
-[[GameText]]This is not the end![[/GameText]]
-[[GameText]]I won't judge you if you run like hell and await my return.[[/GameText]]
-[[GameText]]If you can't beat 'em, die and come back later.[[/GameText]]
-[[GameText]]The power of friendship will sustain me![[/GameText]]
-[[GameText]]BRB.[[/GameText]]
-[[GameText]]See you soon.[[/GameText]]
-[[GameText]]I'll be back.[[/GameText]]
-[[GameText]]I think I might really die this time! ...Nah.[[/GameText]]
-[[GameText]]Death is but one step on a long and eventful journey.[[/GameText]]
-
-[[Heading:3]]Shadow attack[[/Heading]]
-[[GameText]]I'm flyyyiiing![[/GameText]]
-[[GameText]]I didn't used to think it was possible to be in two places at once, but there I am[[/GameText]]
-[[GameText]]Fwoosh![[/GameText]]
-[[GameText]]That [bot class] is eyeing me funny.[[/GameText]]
-[[GameText]]Fling me that way... Never mind I'll do it myself.[[/GameText]]
-[[GameText]]And away I go.[[/GameText]]
-[[GameText]]Let's see who can close the distance faster![[/GameText]]
-[[GameText]]Teamwork![[/GameText]]
-[[GameText]]I have something I have to do real quick.[[/GameText]]
-[[GameText]]There more of them there are, the madder I get.[[/GameText]]
-[[GameText]]Be right back, I have something I need to take care of.[[/GameText]]
-
-[[Heading:3]]Sunder[[/Heading]]
-[[GameText]]Avert your eyes, this is going to get messy.[[/GameText]]
-[[GameText]]Show us your guts, [bot class]![[/GameText]]
-[[GameText]]Pinata time![[/GameText]]
-[[GameText]]Today's forecast: Strong attacks with a chance of flying parts.[[/GameText]]
-[[GameText]]Time to get naked, [bot class].[[/GameText]]
-[[GameText]]I'm going to need to borrow a little energy here...[[/GameText]]
-
-[[Heading:3]]Redirecting projectile[[/Heading]]
-[[GameText]]Away with you![[/GameText]]
-[[GameText]]Did you see that?[[/GameText]]
-[[GameText]]Not this time, evil projectile![[/GameText]]
-[[GameText]]Begone![[/GameText]]
-[[GameText]]I can block 100% of projectiles 5% of the time![[/GameText]]
-[[GameText]]The best kind of shield is a sword that shields you![[/GameText]]
-[[GameText]]On your way now.[[/GameText]]
-[[GameText]]Not at my friend![[/GameText]]
-[[GameText]]Batter up![[/GameText]]
-
-[[Heading:3]]Teleport[[/Heading]]
-[[GameText]]Hi [robot class], may I introduce you to my friend?[[/GameText]]
-[[GameText]]Hey [robot] class, my friend and I here would like a word with you.[[/GameText]]
-[[GameText]]Ludicrous speed![[/GameText]]
-[[GameText]]Let's see who can close the distance faster![[/GameText]]
-[[GameText]]Friends don't let friends go into battle alone.[[/GameText]]
-[[GameText]]There is no escape![[/GameText]]
-[[GameText]]I found a quick route to the action![[/GameText]]
-[[GameText]]Look at that [bot class] over there, just asking for a beating.[[/GameText]]
-[[GameText]]Anime style![[/GameText]]
-[[GameText]]I can't wait any longer![[/GameText]]
-[[GameText]]Here I come [bot class]![[/GameText]]
-[[GameText]]Let's go, friend[[/GameText]]
-[[GameText]]Hello over there![[/GameText]]
-[[GameText]]Let's get this over with, I already know how this encounter ends.[[/GameText]]
-
-[[Heading:3]]Rematerializing[[/Heading]] [[Comment]]Some of these lines appear to be related to the Companion rematerializing after dying, while others are from simple detachment.[[/Comment]]
-[[GameText]]I've waited long enough.[[/GameText]]
-[[GameText]]I'm back.[[/GameText]]
-[[GameText]]Let's go slash some bots.[[/GameText]]
-[[GameText]]If you won't attach me, I will![[/GameText]]
-[[GameText]]Equip me like you mean it.[[/GameText]]
-[[GameText]]I'm starting to worry you don't actually like me.[[/GameText]]
-[[GameText]]Hey there.[[/GameText]]
-[[GameText]]Friendo![[/GameText]]
-[[GameText]]I missed you.[[/GameText]]
-[[GameText]]I know you were about to come get me.[[/GameText]]
-[[GameText]]It's stuffy in there![[/GameText]] (from inventory)
-[[GameText]]The time is now.[[/GameText]]
-[[GameText]]I came as soon as I thought you were about to call me.[[/GameText]]
-[[GameText]]That was uncalled for.[[/GameText]] (after picked up by a [[Recycler]])
-[[GameText]]I'm feeling a little insulted right now.[[/GameText]] (after being picked up by a Recycler)
-[[GameText]]How could you do that![[/GameText]]
-[[GameText]]Aand I'm back again.[[/GameText]]
-[[GameText]]Ah what new adventures await us this time...[[/GameText]]
-[[GameText]]Wouldn't it be awkward if I came back in the middle of my funeral?[[/GameText]]
-[[GameText]]Feels good to be back.[[/GameText]]
-[[GameText]]Oh the places I've been, the robots I've seen![[/GameText]]
-[[GameText]]So how are things with you?[[/GameText]]
-[[GameText]]Did you miss me?[[/GameText]]
-[[GameText]]Fancy meeting you here.[[/GameText]]
-[[GameText]]Hey I remember you![[/GameText]]
-[[GameText]]Rumours of my death have been greatly exaggerated.[[/GameText]]
-[[GameText]]Best friends always come back.[[/GameText]]
-[[GameText]]Do I know you? Just kidding.[[/GameText]]
-
-[[Heading:3]]""About to end current game session"" goodbye[[/Heading]]
-(Can appear after closing the menu, exact cause unknown) [[Comment]]I've only had these with Quantum/Superquantum, but maybe i just didn't trigger the conditions with the Companion Sword? I got those lines after somewhat long sessions (at least ~30 minutes). Every time, i'd opened the gallery, often to look at one of the Companion's forms. The dialogue appeared once i closed the menu. I'm not sure what the exact conditions are.[[/Comment]]
-[[GameText]]Goodbye, friend.[[/GameText]]
-[[GameText]]Goodbye, for now.[[/GameText]]
-[[GameText]]The power of friendship will sustain me![[/GameText]]","","","","","","",""
+"Companion Sword","Part","The Companion Sword is a unique talking melee weapon that can only appear in [[Scraptown]]. It is contained in a room called The Sword, locked for the protection of [[Derelict|Derelicts]], none of whom have survived using the Companion Sword for long. The Companion Sword is quite talkative and will often comment about the state of the run, take pleasure in destroying things, and complain if it is detached or is not the only weapon attached. The Companion Sword has a variety of special effects that are not described by the in-game effect.\n[[Heading]]Special Effects[[/Heading]]\n[[Table]]Effect|Description|Frequency||Surprise Attack|The Companion Sword will ""surprise attack"" one additional target on a normal attack. Can only happen if there is at least two hostiles are within melee range. The log message [[GameText]]Companion Sword surprise attacks [target].[[/GameText]] will appear when this happens.|Uncommon||Core Loss|The Companion Sword deals between 5-10 core damage directly to Cogmind's core on a normal attack. Can't be reduced by [[Core Shieldings]] or [[Defensive Utilities]]. Only happens when Cogmind attacks something with the Companion Sword.|Uncommon||Bot Disruption|A bot is instantly disrupted on a normal attack. As with normal disruption, a disrupted bot can be rewired as long as it isn't hacking immune. The log message [[GameText]][target] shuts down.[[/GameText]] will appear when this happens.|Rare||Sever|A part is severed off of a bot on a normal attack. This effect can hit through the Dismemberment immunity, unlike standard Sever critical hits.|Rare||Surge of Energy|This effect instantly kills a bot on a normal attack. The log message [[GameText]][target] is pierced by a surge of energy.[[/GameText]] will appear when this happens.|Rare[[/Table]]\n[[Heading]]Transformation[[/Heading]]\nThe Companion Sword can transform into the [[Quantum Companion]] in one of two ways:\n[[List]]Use: The transformation can occur from time wearing and use. Killing bots while keeping it equipped for a long period of time will make it transform the quickest.|[[Subatomic Replicator]]: The Replicator can instantly create the Quantum Companion from a Companion Sword.[[/List]]\nWhen the Companion Sword transforms, the following game log message will appear: [[GameText]]Companion Sword blips out of existence for a moment, then partially fades back in.[[/GameText]] The Companion Sword will also comment on it, saying one of multiple possible [[Companion Sword#upgrading|upgrade lines]].\n\n[[Heading]]Dialogue[[/Heading]]\nThe following is a non-comprehensive list of Companion Sword dialogue:\n[[Comment]]If you turn on ""log output"" during a Companion Sword run, your entire run's log (including all Companion Sword dialogue lines) will be exported as a txt or html file after the run ends or when creating scoresheet dumps.\nHaving such a file and using Ctrl+f to find the dialogue lines can make it significantly easier to add missing dialogue lines you might have encountered to this list.\nYou don't need to do this, but you can.[[/Comment]]\n\n[[Heading:2]]All variants[[/Heading]]\n[[Heading:3]]First meeting before pickup[[/Heading]]\n[[GameText]]You know you want me.[[/GameText]]\n[[GameText]]I've been waiting for you.[[/GameText]]\n[[GameText]]Why hello there. are you here to rescue me?[[/GameText]]\n[[GameText]]Want to be a hero? Pick up the sword.[[/GameText]]\n[[GameText]]You and I were meant for greatness.[[/GameText]]\n[[GameText]]Just do it. Trust me.[[/GameText]]\n\n[[Heading:3]]First pickup[[/Heading]]\n[[GameText]]Well that's a relief.[[/GameText]]\n[[GameText]]You did the right thing.[[/GameText]]\n[[GameText]]I knew you wouldn't leave me behind![[/GameText]]\n[[GameText]]Whew.[[/GameText]]\n[[GameText]]I applaud your need for me.[[/GameText]]\n[[GameText]]I'd do the same for you[[/GameText]]\n\n[[Heading:3]]Build comments[[/Heading]][[Comment]]This probably belongs to another category, like maybe ""Out of combat banter""?[[/Comment]]\n[[GameText]]Beware theres a new [second half of build] in town.[[/GameText]]\n\n[[Heading:3]]""Other weapons attached"" complaints[[/Heading]]\n[[GameText]]Using me alongside this [weapon name] isn't good for our relationship.[[/GameText]]\n[[GameText]]This [weapon name] is depressing me.[[/GameText]]\n[[GameText]]Hands up! Drop the [weapon name]![[/GameText]]\n[[GameText]]I'm allergic to guns and cannons. I might not be able to hit straight in this state. Really.[[/GameText]]\n[[GameText]]If you've got this [weapon name], why do you need me, huh?[[/GameText]]\n[[GameText]]I suggest removing this [weapon name].[[/GameText]]\n[[GameText]]Why must I share space with this [weapon name]![[/GameText]]\n[[GameText]]Do we really need this [weapon name] around? It should just be you and me.[[/GameText]]\n[[GameText]]You are suspiciously close to your [weapon name].[[/GameText]]\n[[GameText]]I'm not naming names, but a certain [weapon name(can be gun cannon and melee)] is starting to bug me.[[/GameText]]\n[[GameText]]We need to have a talk about your affection for that [weapon name].[[/GameText]]\n\n[[Heading:3]]""In inventory complaints/underuse"" complaints (start of map)[[/Heading]]\n[[GameText]]A little more cooperative murder would be good for both of us.[[/GameText]]\n[[GameText]]You should use me more often.[[/GameText]]\n\n[[Heading:3]]""Using other weapons instead"" complaints[[/Heading]]\n[[GameText]]I'm starting to think you like your [melee weapon] more than me.[[/GameText]]\n[[GameText]]If you don't want me around just say so, oh silent one.[[/GameText]]\n[[GameText]]Hmpf.[[/GameText]]\n[[GameText]]If you're not going to use me, just drop me and get it over with.[[/GameText]]\n\n[[Heading:3]]""Detachment"" complaints (Companion Sword only)[[/Heading]]\n[[GameText]]Sadness...[[/GameText]]\n[[GameText]]Friends don't sideline friends.[[/GameText]]\n[[GameText]]All the other swords are going to make fun of me now.[[/GameText]]\n[[GameText]]This is my sad face.[[/GameText]]\n[[GameText]]Fine, just brush me aside like I'm nothing, see where that gets you.[[/GameText]]\n[[GameText]]Now if you don't mind, I'd like you to do the reverse of what you just did.[[/GameText]] [[Comment]]Got this line from a system corruption rejection.[[/Comment]]\n\n[[Heading:3]]Out of combat banter[[/Heading]]\n[[GameText]]You're looking dapper there, friend. Don't let anyone else tell you otherwise.[[/GameText]]\n[[GameText]]We make a good team.[[/GameText]]\n[[GameText]]Fewer friendlies in the world, too bad.[[/GameText]]\n[[GameText]]I'm feeling especially deadly right now, but don't let that affect your plans, it's just a feeling.[[/GameText]]\n[[GameText]]You're pretty cool sometimes.[[/GameText]]\n[[GameText]]I'm really excited about what the future may hold for us.[[/GameText]]\n[[GameText]]I need buffs.[[/GameText]]\n[[GameText]]Together we are unstoppable![[/GameText]]\n[[GameText]]Does that thing on me look more like a heart, or maybe a broken triangle?[[/GameText]]\n[[GameText]]A sword and a robot, best of friends.[[/GameText]]\n[[GameText]]Have you heard of something called Tec---[[/GameText]]\n[[GameText]]Expand your utility interfacing capabilities, you should see me with more buffs![[/GameText]]\n\n[[Heading:3]]Normal combat[[/Heading]]\n[[GameText]]Powered by friendship![[/GameText]]\n[[GameText]]Gotta go fast![[/GameText]]\n[[GameText]]You can run but you can't hide![[/GameText]] [[Comment]]This one and the next sound like ""enemy moving away"" dialogues, are they?[[/Comment]]\n[[GameText]]Ooh, playing hard to get?[[/GameText]]\n[[GameText]]Well there go our bot shields[[/GameText]]\n[[GameText]]A quantum pathway, in I go![[/GameText]]\n[[GameText]]it's amazing what we can do when we work together.[[/GameText]]\n[[GameText]]This will take no time at all.[[/GameText]]\n\n[[Heading:3]]Enemy moves backwards during engagement[[/Heading]]\n[[GameText]]Back up all you want, that gives us room to charge![[/GameText]]\n[[GameText]]Looks pretty afraid to me.[[/GameText]]\n\n[[Heading:3]]When surprise attacking[[/Heading]]\n[[GameText]]Multipass![[/GameText]]\n[[GameText]]They can tag team, but so can we! I mean me.[[/GameText]]\n[[GameText]]Tag team![[/GameText]]\n[[GameText]]Get in line, [bot class].[[/GameText]]\n[[GameText]]Bankai![[/GameText]]\n[[GameText]]Look out beside you![[/GameText]]\n[[GameText]]Do that again![[/GameText]]\n[[GameText]]You look like you want some, too, [bot class]![[/GameText]]\n[[GameText]]Surprise![[/GameText]]\n[[GameText]]Watch out beside you![[/GameText]]\n[[GameText]]Boo.[[/GameText]]\n[[GameText]]Need a little extra help?[[/GameText]]\n\n[[Heading:3]]Disrupt shutdown[[/Heading]]\n[[GameText]]Not so scary now, are you [bot class]?[[/GameText]]\n[[GameText]]You can thank me later, let's destroy this tool.[[/GameText]]\n[[GameText]]Time-out for you.[[/GameText]]\n[[GameText]]A moment of silence for [bot class] here.[[/GameText]]\n\n[[Heading:3]]Core damage[[/Heading]]\n[[GameText]]Sorry about your core, it's for the greater good![[/GameText]]\n[[GameText]]A little extra strain on your core to speed up their death is worth it[[/GameText]]\n[[GameText]]A little core integrity fora lot of quick damage, good trade yeah?[[/GameText]]\n[[GameText]]This might hurt a bit.[[/GameText]]\n\n[[Heading:3]]Sneak attack[[/Heading]]\n[[GameText]]Don't worry, I got this[[/GameText]]\n[[GameText]]Sneaky, I like it![[/GameText]]\n[[GameText]]How did we get so sneaky.[[/GameText]]\n[[GameText]]Quiet and deadly![[/GameText]]\n[[GameText]]Not easy to dodge what you didn't see coming, eh?[[/GameText]]\n[[GameText]]Never saw that coming.[[/GameText]]\n[[GameText]]It's [bot class] hunting season![[/GameText]]\n[[GameText]]Like ninja![[/GameText]]\n[[GameText]]Gotcha, [bot class][[/GameText]]\n[[GameText]]Your lack of awareness will be your undoing, [bot class]![[/GameText]]\n\n[[Heading:3]]After normal kill[[/Heading]]\n[[GameText]]Next time stand a little more to the left[[/GameText]]\n[[GameText]]Shhh.[[/GameText]]\n[[GameText]]I love the sparks and fizzles.[[/GameText]]\n[[GameText]]One less [bot class] to worry about.[[/GameText]]\n[[GameText]]That [bot class] wont be bothering us anymore.[[/GameText]]\n[[GameText]]Does that count for a notch for me or you? or both of us![[/GameText]]\n[[GameText]]We rock! we also slice and dice![[/GameText]]\n[[GameText]]That wasn't so hard, was it?[[/GameText]]\n[[GameText]]Another one down.[[/GameText]]\n[[GameText]]You swing, I cut![[/GameText]]\n[[GameText]]Beautiful work.[[/GameText]]\n[[GameText]]I love it when you use me like that.[[/GameText]]\n[[GameText]]A respectable final blow.[[/GameText]]\n[[GameText]]You point, I kill. Just point straight and everything is good.[[/GameText]]\n[[GameText]]Let's chop some more [bot class]![[/GameText]]\n[[GameText]]I have an especially strong urge to obliterate every [bot class] we meet.[[/GameText]]\n[[GameText]]They won't even see this draw.[[/GameText]]\n[[GameText]]Your contribution is appreciated.[[/GameText]]\n[[GameText]]Another one bites the concrete.[[/GameText]]\n[[GameText]]Sliced [bot class], my favorite![[/GameText]]\n[[GameText]]Boom.[[/GameText]]\n[[GameText]]Good times.[[/GameText]]\n[[GameText]]You sure know how to make a sword happy.[[/GameText]]\n[[GameText]]Nice one.[[/GameText]]\n[[GameText]]I love the feel of scrap metal exploding around me.[[/GameText]]\n\n[[Heading:3]]Sever[[/Heading]]\n[[GameText]]Oh I'm sorry, is that your [severed item name] on the ground?[[/GameText]]\n[[GameText]]Oh sorry, did you need that [severed item name]?[[/GameText]]\n[[GameText]]A clean cut.[[/GameText]]\n[[GameText]]Your loss is our salvage[[/GameText]]\n\n[[Heading:3]]Attacking walls[[/Heading]]\n[[GameText]]Making shortcuts are we?[[/GameText]]\n[[GameText]]I'm not an axe or hammer, you know.[[/GameText]]\n[[GameText]]What did that [wall] ever do to us?[[/GameText]]\n[[GameText]]Do I look like a digging implement?[[/GameText]]\n\n[[Heading:3]]Surge of energy[[/Heading]]\n[[GameText]]He winds up for the hit and...[[/GameText]]\n[[GameText]]End of the road, [bot class]![[/GameText]]\n\n[[Heading:3]]Follow up attack as secondary weapon[[/Heading]]\n[[GameText]]I'm disappointed in you, forcing me to attack after that [melee weapon name][[/GameText]] \n[[GameText]]I thought all you needed was me![[/GameText]]\n\n[[Heading:3]]Refusing to follow up attack as secondary melee weapon[[/Heading]]\n[[GameText]]There's no way I'm following the [melee weapon name] into battle.[[/GameText]]\n[[GameText]]Sorry, I attack alone.[[/GameText]]\n[[GameText]]You won't catch me behind that [weapon name].[[/GameText]]\n\n[[Heading:3]]Upgrading[[/Heading]]\n[[GameText]]Time to take this relationship to the next level.[[/GameText]]\n[[GameText]]Faster, smarter, less swordy and more swordy at the same time...[[/GameText]]\n[[GameText]]As you get more powerful, it's only fair that I, too, become godlike![[/GameText]]\n[[GameText]]I knew we could do great things together.[[/GameText]]\n[[GameText]]Ultimate power! Well there's always room for improvement, but I'm feeling it.[[/GameText]]\n\n[[Heading:3]]Uncategorized[[/Heading]]\n[[GameText]]Are we going to die?[[/GameText]]\n[[GameText]]My rage meter is topping out already.[[/GameText]] [[Comment]]Got it when getting the ""Batter Up!"" achievement. Was it because of using a hammer, losing parts, or some other reason?[[/Comment]]\n[[GameText]]You should use me on more respectable targets.[[/GameText]]\n[[GameText]]No thanks.[[/GameText]]\n[[GameText]]I'll sit this one out.[[/GameText]]\n[[GameText]]After our adventure to do whatever you want, let's go on a journey to find out where the heck I came from.[[/GameText]]\n[[Comment]]I got the line about finding out the Companion Sword's origins shortly after entering the S7 hangar, so it might be location-specific, but it could just be a coincidence and be regular out-of-combat banter?[[/Comment]]\n\n[[Heading:2]]Quantum Companion or Superquantum Companion only[[/Heading]]\n\n[[Heading:3]]Gaining bot sensor ability[[/Heading]]\n[[GameText]]Whoa man, I suddenly feel like I'm hallucinating.[[/GameText]]\n\n[[Heading:3]]Destroyed [[/Heading]]\n[[GameText]]This is not the end![[/GameText]]\n[[GameText]]I won't judge you if you run like hell and await my return.[[/GameText]]\n[[GameText]]If you can't beat 'em, die and come back later.[[/GameText]]\n[[GameText]]The power of friendship will sustain me![[/GameText]]\n[[GameText]]BRB.[[/GameText]]\n[[GameText]]See you soon.[[/GameText]]\n[[GameText]]I'll be back.[[/GameText]]\n[[GameText]]I think I might really die this time! ...Nah.[[/GameText]]\n[[GameText]]Death is but one step on a long and eventful journey.[[/GameText]]\n\n[[Heading:3]]Shadow attack[[/Heading]]\n[[GameText]]I'm flyyyiiing![[/GameText]]\n[[GameText]]I didn't used to think it was possible to be in two places at once, but there I am[[/GameText]]\n[[GameText]]Fwoosh![[/GameText]]\n[[GameText]]That [bot class] is eyeing me funny.[[/GameText]]\n[[GameText]]Fling me that way... Never mind I'll do it myself.[[/GameText]]\n[[GameText]]And away I go.[[/GameText]]\n[[GameText]]Let's see who can close the distance faster![[/GameText]]\n[[GameText]]Teamwork![[/GameText]]\n[[GameText]]I have something I have to do real quick.[[/GameText]]\n[[GameText]]There more of them there are, the madder I get.[[/GameText]]\n[[GameText]]Be right back, I have something I need to take care of.[[/GameText]]\n\n[[Heading:3]]Sunder[[/Heading]]\n[[GameText]]Avert your eyes, this is going to get messy.[[/GameText]]\n[[GameText]]Show us your guts, [bot class]![[/GameText]]\n[[GameText]]Pinata time![[/GameText]]\n[[GameText]]Today's forecast: Strong attacks with a chance of flying parts.[[/GameText]]\n[[GameText]]Time to get naked, [bot class].[[/GameText]]\n[[GameText]]I'm going to need to borrow a little energy here...[[/GameText]]\n\n[[Heading:3]]Redirecting projectile[[/Heading]]\n[[GameText]]Away with you![[/GameText]]\n[[GameText]]Did you see that?[[/GameText]]\n[[GameText]]Not this time, evil projectile![[/GameText]]\n[[GameText]]Begone![[/GameText]]\n[[GameText]]I can block 100% of projectiles 5% of the time![[/GameText]]\n[[GameText]]The best kind of shield is a sword that shields you![[/GameText]]\n[[GameText]]On your way now.[[/GameText]]\n[[GameText]]Not at my friend![[/GameText]]\n[[GameText]]Batter up![[/GameText]]\n\n[[Heading:3]]Teleport[[/Heading]]\n[[GameText]]Hi [robot class], may I introduce you to my friend?[[/GameText]]\n[[GameText]]Hey [robot] class, my friend and I here would like a word with you.[[/GameText]]\n[[GameText]]Ludicrous speed![[/GameText]]\n[[GameText]]Let's see who can close the distance faster![[/GameText]]\n[[GameText]]Friends don't let friends go into battle alone.[[/GameText]]\n[[GameText]]There is no escape![[/GameText]]\n[[GameText]]I found a quick route to the action![[/GameText]]\n[[GameText]]Look at that [bot class] over there, just asking for a beating.[[/GameText]]\n[[GameText]]Anime style![[/GameText]]\n[[GameText]]I can't wait any longer![[/GameText]]\n[[GameText]]Here I come [bot class]![[/GameText]]\n[[GameText]]Let's go, friend[[/GameText]]\n[[GameText]]Hello over there![[/GameText]]\n[[GameText]]Let's get this over with, I already know how this encounter ends.[[/GameText]]\n\n[[Heading:3]]Rematerializing[[/Heading]] [[Comment]]Some of these lines appear to be related to the Companion rematerializing after dying, while others are from simple detachment.[[/Comment]]\n[[GameText]]I've waited long enough.[[/GameText]]\n[[GameText]]I'm back.[[/GameText]]\n[[GameText]]Let's go slash some bots.[[/GameText]]\n[[GameText]]If you won't attach me, I will![[/GameText]]\n[[GameText]]Equip me like you mean it.[[/GameText]]\n[[GameText]]I'm starting to worry you don't actually like me.[[/GameText]]\n[[GameText]]Hey there.[[/GameText]]\n[[GameText]]Friendo![[/GameText]]\n[[GameText]]I missed you.[[/GameText]]\n[[GameText]]I know you were about to come get me.[[/GameText]]\n[[GameText]]It's stuffy in there![[/GameText]] (from inventory)\n[[GameText]]The time is now.[[/GameText]]\n[[GameText]]I came as soon as I thought you were about to call me.[[/GameText]]\n[[GameText]]That was uncalled for.[[/GameText]] (after picked up by a [[Recycler]])\n[[GameText]]I'm feeling a little insulted right now.[[/GameText]] (after being picked up by a Recycler)\n[[GameText]]How could you do that![[/GameText]]\n[[GameText]]Aand I'm back again.[[/GameText]]\n[[GameText]]Ah what new adventures await us this time...[[/GameText]]\n[[GameText]]Wouldn't it be awkward if I came back in the middle of my funeral?[[/GameText]]\n[[GameText]]Feels good to be back.[[/GameText]]\n[[GameText]]Oh the places I've been, the robots I've seen![[/GameText]]\n[[GameText]]So how are things with you?[[/GameText]]\n[[GameText]]Did you miss me?[[/GameText]]\n[[GameText]]Fancy meeting you here.[[/GameText]]\n[[GameText]]Hey I remember you![[/GameText]]\n[[GameText]]Rumours of my death have been greatly exaggerated.[[/GameText]]\n[[GameText]]Best friends always come back.[[/GameText]]\n[[GameText]]Do I know you? Just kidding.[[/GameText]]\n\n[[Heading:3]]""About to end current game session"" goodbye[[/Heading]]\n(Can appear after closing the menu, exact cause unknown) [[Comment]]I've only had these with Quantum/Superquantum, but maybe i just didn't trigger the conditions with the Companion Sword? I got those lines after somewhat long sessions (at least ~30 minutes). Every time, i'd opened the gallery, often to look at one of the Companion's forms. The dialogue appeared once i closed the menu. I'm not sure what the exact conditions are.[[/Comment]]\n[[GameText]]Goodbye, friend.[[/GameText]]\n[[GameText]]Goodbye, for now.[[/GameText]]\n[[GameText]]The power of friendship will sustain me![[/GameText]]","","","","","","",""
 "Component Analysis Suite","Part","","","","","","","",""
 "Component Analysis Suites","Part Group","","","","","Component Analysis Suite,Imp. Component Analysis Suite,Adv. Component Analysis Suite","","",""
 "Concussive RPG","Part","","","","","","","",""
@@ -3563,7 +3270,7 @@ If Cogmind or an ally stands in front of a Network Hub and a 0b10 bot misses int
 [[Heading:2]][[Traps|Trap]] explosion[[/Heading]]
 Traps never assign Alert to Cogmind unless they manually trigger the trap. Any explosive or area EM traps will work, [[I]]but[[/I]] if the trap triggers due to Cogmind's corruption then the alert isn't assigned, which can be used to avoid the alert.
 [[Heading:2]][[Plasma Cutter|Regular]] or [[Imp. Plasma Cutter]][[/Heading]]
-Plasma Cutters can destroy any machine with minimal Alert gain. As a bonus, Plasma Cutters also do not trigger the explosion at all which can otherwise place Cogmind in a bad defensive position.
+Plasma Cutters can destroy explosive machines like Hubs without triggering the explosion, avoiding the possibility for Cogmind to be caught out in the open in a bad defensive position. Because the majority of the Alert gained from destroying a Hub is from the explosion, this will reduce the typical several hundred Alert gain down to just 15.
 [[Heading:2]]Force(Sabotage)[[/Heading]]
 If successful, this hack will blow up a random explosive machine on the map. Network Hubs are the only available targets so this will always work on this map. This hack is inconsistent and may fail multiple times in a row. This hack will cause an Alert gain of 50 if successful, but it is substantially less than the several hundred of a manually-blown Network Hub. Note: unlike this hack, Trojan(Detonate) does cause Alert to go up from the Explosion and is not a great hack to use.
 [[Heading:2]]Lightning[[/Heading]]
@@ -4597,24 +4304,7 @@ Requires all other 255 Achievements.[[/List]]","","","","","","",""
 "Q-Series","Bot","","","","","","","",""
 "Q-thruster","Part","","","","","","","",""
 "Quantum Capacitor","Part","","","","","","","",""
-"Quantum Companion","Part","The Quantum Companion is a unique talking melee weapon that is an upgrade to the [[Companion Sword]]. It can be obtained by either using a [[Subatomic Replicator]] on a Companion Sword or by using the Companion Sword for while. The Quantum Companion has all of the special effects that the base Companion Sword has with a higher frequency of occurrence and also has some new unique effects of its own.
-[[Heading]]Special Effects[[/Heading]]
-[[Table]]
-Effect|Description|Frequency||
-Materialization|The Quantum Companion will materialize in one of Cogmind's weapon slots within a few turns of being detached. If no slots are available, the weapon in the first slot will be detached to make room. Occurs even if the Quantum Companion is destroyed, in which case it will reappear with full integrity. The log message [[GameText]]Quantum Companion materializes via a weapon slot.[[/GameText]] will appear when this happens.|Always||
-Sensors|After some time in Quantum Companion form, the Quantum Companion will develop 12 range bot detection. Unlike typical sensors, this works on all bots without a [[Signal Interpreter]], even if they have the Scan Cloak trait, and cannot be jammed in any way. However, inactive (dormant/disabled/broken/unpowered) bots will not be detected.|Always||
-Surprise Attack|The Quantum Companion will ""surprise attack"" one additional target on a normal attack. The log message [[GameText]]Quantum Companion surprise attacks [target].[[/GameText]] will appear when this happens.|Common||
-Core Loss|The Companion Sword deals between 5-10 core damage directly to Cogmind's core on a normal attack. Can't be reduced by [[Core Shieldings]] or [[Defensive Utilities]]. Only happens when Cogmind attacks something with the Companion Sword.|Uncommon||
-Shadow Attack|A shadow clone of the sword attacks a hostile bot at range. Can occur even when not attacking. This attack cannot miss. The log message [[GameText]]Quantum Companion releases a shadow of itself that zips off toward [target].[[/GameText]] will appear when this happens. This attack deals 70-100 phasic damage.|Uncommon||
-Bot Disruption|A bot is instantly disrupted on a normal attack. As with normal disruption, a disrupted bot can be rewired as long as it isn't hacking immune. The log message [[GameText]][target] shuts down.[[/GameText]] will appear when this happens.|Rare||
-Redirected Attack|When attacked by a projectile, the Quantum Companion will redirect the attack back to the attacker. The log message [[GameText]]Redirected attack with Quantum Companion.[[/GameText]] will appear with this happens.|Rare||
-Sever|A part is severed off of a bot on a normal attack. This effect can hit through the Dismemberment immunity, unlike standard Sever critical hits.|Rare||
-Sunder|This effect will instantly sunder a bot, similar to the [[Core Stripper]] on a normal attack. All parts are dropped between 1/3 and 2/3 integrity. Affected by the Dismemberment immunity. The log message [[GameText]][target] is sundered.[[/GameText]] will appear when this happens. 200 energy required for this effect.|Rare||
-Surge of Energy|This effect instantly kills a bot on a normal attack. The log message [[GameText]][target] is pierced by a surge of energy.[[/GameText]] will appear when this happens.|Rare||
-Teleport|Cogmind is instantly teleported next to a visible hostile bot at no time cost, through machinery and other bots if necessary. Can be used to trigger an instant sneak attack if the bot hasn't spotted Cogmind yet. Can happen at any point in time.[[Comment]]Can it really? I did a flight run with this, and it always seemed to trigger at the start of my turn (I was never spotted due to this movement, even when it triggered during a wait action).[[/Comment]] Be careful, as this effect can very easily send Cogmind into dangerous situations or hinder a tactical retreat. The log message [[GameText]]The surroundings shift and blur.[[/GameText]] will appear when this happens. 25 energy required for this effect.|Rare
-[[/Table]]
-[[Heading]]Transformation[[/Heading]]
-If a Subatomic Replicator is used on the Quantum Companion, it will transform into the [[Superquantum Companion]]. Unlike the base Companion Sword, this effect does not occur from use alone. This means that it is not possible to use a replicator to get from the base Companion Sword and also get the Quantum Companion. When this happens, the following game log message will appear: [[GameText]]Quantum Companion blips out of existence for a moment, then partially fades back in.[[/GameText]] The Superquantum Companion will also comment on it, saying one of multiple possible [[Companion Sword#upgrading|upgrade lines]].","","","","","","",""
+"Quantum Companion","Part","The Quantum Companion is a unique talking melee weapon that is an upgrade to the [[Companion Sword]]. It can be obtained by either using a [[Subatomic Replicator]] on a Companion Sword or by using the Companion Sword for while. The Quantum Companion has all of the special effects that the base Companion Sword has with a higher frequency of occurrence and also has some new unique effects of its own.\n[[Heading]]Special Effects[[/Heading]]\n[[Table]]\nEffect|Description|Frequency||\nMaterialization|The Quantum Companion will materialize in one of Cogmind's weapon slots within a few turns of being detached. If no slots are available, the weapon in the first slot will be detached to make room. Occurs even if the Quantum Companion is destroyed, in which case it will reappear with full integrity. The log message [[GameText]]Quantum Companion materializes via a weapon slot.[[/GameText]] will appear when this happens.|Always||\nSensors|After some time in Quantum Companion form, the Quantum Companion will develop 12 range bot detection. Unlike typical sensors, this works on all bots without a [[Signal Interpreter]], even if they have the Scan Cloak trait, and cannot be jammed in any way. However, inactive (dormant/disabled/broken/unpowered) bots will not be detected.|Always||\nSurprise Attack|The Quantum Companion will ""surprise attack"" one additional target on a normal attack. Can only happen if there is at least two hostiles are within melee range. The log message [[GameText]]Quantum Companion surprise attacks [target].[[/GameText]] will appear when this happens.|Common||\nCore Loss|The Companion Sword deals between 5-10 core damage directly to Cogmind's core on a normal attack. Can't be reduced by [[Core Shieldings]] or [[Defensive Utilities]]. Only happens when Cogmind attacks something with the Companion Sword.|Uncommon||\nShadow Attack|A shadow clone of the sword attacks a hostile bot at range. Can occur even when not attacking. This attack cannot miss. The log message [[GameText]]Quantum Companion releases a shadow of itself that zips off toward [target].[[/GameText]] will appear when this happens. This attack deals 70-100 phasic damage.[[Comment]]IMPORTANT QUESTION: can this effect occur while a Researcher can see it? If so, would it cause them to notice Cogmind?[[/Comment]]|Uncommon||\nBot Disruption|A bot is instantly disrupted on a normal attack. As with normal disruption, a disrupted bot can be rewired as long as it isn't hacking immune. The log message [[GameText]][target] shuts down.[[/GameText]] will appear when this happens.|Rare||\nRedirected Attack|When attacked by a projectile, the Quantum Companion will redirect the attack back to the attacker. The log message [[GameText]]Redirected attack with Quantum Companion.[[/GameText]] will appear with this happens.|Rare||\nSever|A part is severed off of a bot on a normal attack. This effect can hit through the Dismemberment immunity, unlike standard Sever critical hits.|Rare||\nSunder|This effect will instantly sunder a bot, similar to the [[Core Stripper]] on a normal attack. All parts are dropped between 1/3 and 2/3 integrity. Affected by the Dismemberment immunity. The log message [[GameText]][target] is sundered.[[/GameText]] will appear when this happens. 200 energy required for this effect.|Rare||\nSurge of Energy|This effect instantly kills a bot on a normal attack. The log message [[GameText]][target] is pierced by a surge of energy.[[/GameText]] will appear when this happens.|Rare||\n\nTeleport|Cogmind is instantly teleported to an empty space next to a visible [[Comment]]IMPORTANT QUESTION: How do the visibility requirements work, exactly? Can you be teleported because one of your drone sees a hostile? Can you be teleported due to having higher vision range due to having a Visual Processing Unit?[[/Comment]] hostile bot at no time cost, through machinery, other bots and even the target itself if necessary. Also sets momentum to maximum, and can be used to trigger an instant sneak attack if the bot hasn't spotted Cogmind yet. The teleport will prioritize closer hostiles, unless some hostiles can be sneak attacked and some cannot, in which case it will prioritize hostiles that can be sneak attacked.[[Comment]]I feel like this last sentence about target priority could be reworded to be clearer, and could also possibly explicitly mention that a teleport will ignore a hostile if there is no empty space next to it.[[/Comment]]\nCan happen at any point in time[[Comment]]Can it really? I did a flight run with this, and it always seemed to trigger at the start of my turn (I was never spotted due to this movement, even when it triggered during a wait action).[[/Comment]], and can still happen even if the Companion isn't currently attached, in which case the Materialization effect will be triggered simultaneously[[Comment]]I'm basing this information off of Kyzrati's ""swordy run part 2"" stream. Not sure if the materialization happens before or after the teleport, but probably before?[[/Comment]]. Be careful, as this effect can very easily send Cogmind into dangerous situations or hinder a tactical retreat. The log message [[GameText]]The surroundings shift and blur.[[/GameText]] will appear when this happens. 25 energy required for this effect.|Rare\n[[/Table]]\n[[Heading]]Transformation[[/Heading]]\nIf a Subatomic Replicator is used on the Quantum Companion, it will transform into the [[Superquantum Companion]]. Unlike the base Companion Sword, this effect does not occur from use alone. This means that it is not possible to use a replicator to get from the base Companion Sword and also get the Quantum Companion. When this happens, the following game log message will appear: [[GameText]]Quantum Companion blips out of existence for a moment, then partially fades back in.[[/GameText]] The Superquantum Companion will also comment on it, saying one of multiple possible [[Companion Sword#upgrading|upgrade lines]].","","","","","","",""
 "Quantum Reactor","Part","","","","","","","",""
 "Quantum Rifle","Part","","","","","","","",""
 "Quantum Router","Part","","","","","","","",""
@@ -5032,12 +4722,12 @@ For a higher risk higher reward approach, mixing extremes like treads and flight
 The map always consists of an open left area that all bots are free to explore. The map is divided by a giant UFD HQ Gate with [[Triborg]] guarding nearby. The gate has 60 armor and high resistances to all main damage types except for Thermal damage. Realistically, the only options to cut through are [[Plasma Cutters|Plasma Cutter]] or the [[Siege Cannon]]. However, the gate will open automatically if Cogmind becomes UFD aligned. The right side of the map contains many more unique rooms.
 [[Heading]]Alignment - [[UFD]][[/Heading]]
 Talking to the Scrapper standing next to the UFD registry near the HQ gate will allow Cogmind to become a UFD member and enter the right side of the map. This alignment is only possible if Cogmind is not [[RIF]]-aligned, has not taken [[Farcom]], and has not stolen or attacked the [[Exiles (Group)|Exiles]].
-Aside from access to the right side of the map, Cogmind also gains access to 2 new [[Recycling Unit]] hacks [[GameText]]Force(Scrapoids)[[/GameText]] to summon [[Scrapoid|Scrapoids]] and [[GameText]]Force(Fedlink)[[/GameText]] to allocate more resources to the UFD recycling network.
+Aside from access to the right side of the map, Cogmind also gains access to 2 new [[Recycling Machine]] hacks [[GameText]]Force(Scrapoids)[[/GameText]] to summon [[Scrapoid|Scrapoids]] and [[GameText]]Force(Fedlink)[[/GameText]] to allocate more resources to the UFD recycling network.
 [[Heading]]Hostilities[[/Heading]]
 The UFD is typically friendly to Cogmind but will turn hostile if Cogmind attacks a bot or digs through any dirt or machine tiles. There are a large amount of bots that will turn hostile to Cogmind, so attacking should not be done lightly. If Cogmind is capable of taking down all of its inhabitants, there are a large number of unique items that are only available by attacking Scraptown.
 [[Heading:2]]Attack Mechanics[[/Heading]]
 After Cogmind either attacks a bot or destroys a wall or machine tile, every UFD bot will turn hostile to Cogmind with the message [[GameText]]Intruder alert! Defend Scraptown![[/GameText]]. After that, certain events will occur in a predictable fashion:
-[[List]]~75 turns: 4 [[Scrapper (3)|Scrappers]] will come from the left exit and guard it.|~100 turns: The message [[GameText]]Triborg tracking relay activated. Stay clear or you only have yourself to blame![[/GameText]] appears. Triborg will gain tracking on Cogmind and pursue throughout the map. Triborg will shoot through walls like a [[Behemoth]], so hiding is not particularly effective|~250 turns: The message [[GameText]]HQ reinforcements inbound. Hold Tight![[/GameText]] will appear.|~350 turns: Reinforcements will start to appear from exits on the left and right sides of the map. A large group of bots will appear instantly, and more will trickle onto the map over time.[[/List]]
+[[List]]~75 turns: 4 [[Scrapper|Scrappers]] will come from the left exit and guard it.|~100 turns: The message [[GameText]]Triborg tracking relay activated. Stay clear or you only have yourself to blame![[/GameText]] appears. Triborg will gain tracking on Cogmind and pursue throughout the map. Triborg will shoot through walls like a [[Behemoth]], so hiding is not particularly effective|~250 turns: The message [[GameText]]HQ reinforcements inbound. Hold Tight![[/GameText]] will appear.|~350 turns: Reinforcements will start to apear from exits on the left and right sides of the map. A large group of bots will appear instantly, and more will trickle onto the map over time.[[/List]]
 [[Heading]]Notable Locations[[/Heading]]
 [[Gallery]]Scraptown Damaged Parts.png|Assorted damaged parts|Scraptown Left CPS Tubes.png|[[CPS Tube|CPS Tubes]] on the left side of the wall|Scraptown Sub Scientist.png|[[Scientist]] researching [[Subdweller]] parts, who will provide [[Derelict Log|Derelict Logs]] for a scan (cap 5 logs for 8 Sub. parts)|Scraptown HQ Gate.png|UFD HQ Gate, with registration Scrapper and Triborg guarding|Scraptown HQ Center.png|Scraptown HQ center, with Terminals listing all groups and projects|Scraptown Enh. Scrap Shield Scientist.png|Scientist looking for a [[Scrap Shield]] to turn into the [[Enh. Scrap Shield]], delivered in [[Caves]]|Scraptown Scrap Suits.png|[[Scrap Suit|Scrap Suits]] and CPS Tubes available to UFD members|Scraptown T0-NE2.png|T0-NE2, looking for triangle-related artifacts[[/Gallery]]
 [[Heading:2]]Subdweller Scanner[[/Heading]]
@@ -5079,7 +4769,7 @@ The following Ovr. parts are obtainable from the Modified Component R&D:
 Scraptown is a challenging area to fight. The majority of the armed bots are individually weak, but in the dozens they can overwhelm Cogmind and wear down any defenses. Many unique items are only obtainable by destroying terrain or killing certain bots, which can make attacking Scraptown a promising endeavor. However, there is a serious drawback of going for a full clear or even smashing a container for one item and running: The [[Zion]] and [[Warlord (Location)]] maps will become hostile when Cogmind tries to enter them.
 [[Heading:2]]Items obtainable by murder[[/Heading]]
 The following items can be obtained by attacking Scraptown's inhabitants and are the main benefits of attacking:
-[[List]]Ballwheel - Curator's Association Exhibit|DM-GVY's Chainsaw - Curator's Association Exhibit|Exp. Plasma Cutter - Obtained by digging through a specific ""closed for remodeling"" room|[[Exp. Recalibrator]] - Obtained by killing CR-KLE|Expert System - Obtained by killing A0-MCA|Field Manipulator - Science Guys shell prototype|[[ID Mask]] - Obtained by killing a Scientist in Chapter 10|IN-MT5's Pitchfork ""Insurrection"" - IN-MT5's Study schematic hidden behind machinery|LU-1G1's Laser Shovel - Obtained by digging in the center dirt of the LU-1G1's Boring Crew room|MA-1KR's Cyclogen - Curator's Association Exhibit|Master Drone Bay - Science Guys shell prototype|Personal Teleporter v0.10 - Science Guys shell prototype|PL-3XN's Ring of Power - Obtained in one of two ways: Either killing the Explorer in the Fellowship of the Rings room or by taking it from a Curator's Association exhibit|Siege Cannon Replica - Curator's Association Exhibit|System Spiker - Science Guys shell prototype|Thermal Lance - Science Guys shell prototype|Voltaic Drivehammer - Science Guys shell prototype|Vmp. Humpback - Curator's Association Exhibit[[/List]]
+[[List]]Ballwheel - Curator's Association Exhibit|DM-GVY's Chainsaw - Curator's Association Exhibit|Exp. Plasma Cutter - Obtained by digging through a specific ""closed for remodeling"" room|[[Exp. Recalibrator]] - Obtained by killing CR-KLE|Expert System - Obtained by killing A0-MCA|Field Manipulator - Science Guys shell prototype|[[ID Mask]] - Obtained by killing a Scientist in Chapter 10|IN-MT5's Pitchfork ""Insurrection"" - IN-MN5's Study schematic hidden behind machinery|LU-1G1's Laser Shovel - Obtained by digging in the center dirt of the LU-1G1's Boring Crew room|MA-1KR's Cyclogen - Curator's Association Exhibit|Master Drone Bay - Science Guys shell prototype|Personal Teleporter v0.10 - Science Guys shell prototype|PL-3XN's Ring of Power - Obtained in one of two ways: Either killing the Explorer in the Fellowship of the Rings room or by taking it from a Curator's Association exhibit|Siege Cannon Replica - Curator's Association Exhibit|System Spiker - Science Guys shell prototype|Thermal Lance - Science Guys shell prototype|Voltaic Drivehammer - Science Guys shell prototype|Vmp. Humpback - Curator's Association Exhibit[[/List]]
 [[Heading:2]]Requirements[[/Heading]]
 In order to effectively full clear Scraptown, there are a few general requirements:
 [[Heading:3]]Triborg Solve[[/Heading]]
@@ -5094,7 +4784,7 @@ Cogmind should have an efficient way of dealing with the dozens of average to we
 It is a much easier task to avoid becoming a UFD member and opening the gate before hostilities. In order to do this and still perform a full clear, Cogmind must have a way to dig through the HQ gate. The only options are a Siege Cannon from Triborg, a [[Plasma Cutter]], a YOLO Cannon, or an EM [[Launchers]] like an [[EMP Blaster]] with rating 3 or higher engines. The [[Imp. Deuterium Engine|Imp. Deuterium Engines]] dropped by Elites are a good choice for EM Launchers.
 [[Heading:3]]Essential Parts[[/Heading]]
 No NPC murder setup is complete without a few highly essential build components:
-[[List]]Backup Treads: Cogmind can easily salvage Triborg for Tri-treads and those should be used if possible. However, depending on Cogmind's starting position, it may be possible to be stuck fighting without having time to move over to the Triborg loot and swapping to the treads. Additionally, if Cogmind happens to miss a CPS tube, a lot of essential loot may not drop.|Backup Wheels (Optional): [[Wheels]] are useful to temporarily swap on to move quickly. Useful for picking up matter out of Tractor Beam range.|Backup Armor: Self-explanatory. Triborg drops [[Mak. Medium Armor Plating]] and [[Elite|Elites]] drop [[Mak. Light Armor Plating]] to use in a pinch.|Backup Weapons: Aside from Siege Cannon, most of the weapons dropped by NPCs on this map are not ideal for Cogmind to use in Scraptown.|Backup Power: Self-explanatory.|[[Cooling Devices]] (optional): Siege Cannon in particular is hot to use in prolonged combat.|[[Targeting Computers]]/[[Weapon Cyclers]]/[[Core Analyzers]] (optional): Useful offensive utilities|[[Hardlight Generators]]/[[Shield Generators]]/[[Force Fields]] (optional): Useful defensive utilities|[[Tractor Beam|Normal]] or [[Hpw. Tractor Beam]] and [[Matter Compressors]] (optional): Siege cannon requires a lot of matter to use. Matter storage and Tractor Beams allow Cogmind to continue to fight in extended encounters without having to reposition to collect more matter.|[[Adv. Visual Processing Unit]]/[[Seismic Detector]] (optional): With long ranged weapons like Siege Cannon, it is best to hit enemies before they can see you and outside of their visual range.[[/List]]
+[[List]]Backup Treads: Cogmind can easily salvage Triborg for Tri-treads and those should be used if possible. However, depending on Cogmind's starting position, it may be possible to be stuck fighting without having time to move over to the Triborg loot and swapping to the treads. Additionally, if Cogmind happens to miss a CPS tube, a lot of essential loot may not drop.|Backup Wheels (Optional): [[Wheels]] are useful to temporarily swap on to move quickly. Useful for picking up matter out of Tractor Beam range.|Backup Armor: Self-explanatory. Triborg drops [[Mak. Medium Armor Plating]] and [[Elite|Elites]] drop [[Mak. Light Armor Plating]] to use in a pinch.|Backup Weapons: Aside from Siege Cannon, most of the weapons dropped by NPCs on this map are not ideal for Cogmind to use in Scraptown.|Backup Power: Self-explanatory.|[[Cooling Devices]] (optional): Siege Cannon in particular is hot to use in prolonged combat.|[[Targeting Computers]]/[[Weapon Cyclers]]/[[Core Analyzers]] (optional): Useful offensive utilities|[[Hardlight Generators]]/[[Shield Generators/Force Fields]] (optional): Useful defensive utilities|[[Tractor Beam|Normal]] or [[Hpw. Tractor Beam]] and [[Matter Compressors]] (optional): Siege cannon requires a lot of matter to use. Matter storage and Tractor Beams allow Cogmind to continue to fight in extended encounters without having to reposition to collect more matter.|[[Adv. Visual Processing Unit]]/[[Seismic Detector]] (optional): With long ranged weapons like Siege Cannon, it is best to hit enemies before they can see you and outside of their visual range.[[/List]]
 [[Heading:2]]When to Kill[[/Heading]]
 Generally, a build should be designed for killing Scraptown several maps ahead of time. This will typically involve going to [[Exiles (Location)]] and either taking [[Farcom]] or killing/stealing for powerful Exiles prototypes that can handle Scraptown kills. Scraptown kills are best done on -8 or -7 for this reason. While it is still possible to kill on -9, it will be much more difficult with the small number of slots and no potential for Exiles prototypes. Cogmind should have at least 3 propulsion slots and 3 weapon slots to use Tri-treads and Siege Cannon from Triborg.
 [[Heading:2]]Location to Fight[[/Heading]]
@@ -5107,14 +4797,14 @@ The gate is the best place to begin if Cogmind has allies or a quick way to neut
 If Cogmind the only solution for Triborg is brute force like with an AWS/Autocannon, it may be better to hide in the corner of the map so that bots do not swarm the center more quickly than Cogmind can kill them. Stay in the position shown in the image to the right to begin hostilities. When Triborg peeks around the corner, move up a few tiles so Triborg is forced to move closer to Cogmind to shoot. The right side path to this location is a little short, but the top path can take good advantage of the large sightlines.
 [[Heading:2]]Beginning Hostilities[[/Heading]]
 If Cogmind starts the Scraptown assault near Triborg, the #1 priority is to use a CPS tube on Triborg to ensure full salvage drops. Take out Triborg with whatever means are available, then grab and equip the Tri-treads and Siege Cannon (if slots available). If fighting in the corner, start by either shooting a wall out or killing any nearby bot. Lure Triborg close and use the CPS Tube, then go for the kill. After Triborg is dead, stay put and slowly clear out the UFD reinforcements. This process can take a large amount of time as the bots wander the map slowly instead of making a targeted assault on Cogmind.
-At this point, patience is key. Leaving too soon can cause a lot of extra shots up on Cogmind. Generally, only moving around to collect more matter when needed is the best strategy here. Otherwise, stay put until close to 60 bots or so have been killed. After bots stops showing up, it is fairly safe to explore the rest of the left side and clear out the few remaining stragglers. Take this chance to evaluate the essentials and backups situation and pick up parts from the ground as needed.
+At this point, patience is key. Leaving too soon can cause a lot of extra shots up on Cogmind. Generally, only moving around to collect more matter when needed is the best strategy here. Otherwise, stay put until close to 60 bots or so have been killed. After bots stops showing up, it is fairly safe to expore the rest of the left side and clear out the few remaining stragglers. Take this chance to evaluate the essentials and backups situation and pick up parts from the ground as needed.
 [[Heading:2]]Opening the gate[[/Heading]]
 [[Image]]Scraptown Wall Dig.png|Digging past the gate[[/Image]]
 Once the left side is fully cleared out, the right side must be opened with a Siege Cannon, Plasma Cutter, or YOLO Cannon. Siege cannon is preferred because it can penetrate a single tile-wide line through the gate. This kind of layout works best so that bots don't swarm out. It works well with the high penetration capabilities of the Siege Cannon too. A diagonal dig as shown to the right is preferred; even if a few missed shots destroy parts of the wall, it is more difficult for multiple bots to get an angle on Cogmind to shoot past each other.
-The right side is mostly more of the same. Wait for bots to come to you from your safe position. There are another roughly 60 bots to kill on this side of the map. Otherwise, there is nothing too special about this portion as long as Cogmind has enough spare parts to last without the build falling apart. After the bots stop wandering by, walk into the right side of the wall. There will be 4 Elites patrolling in the center-most HQ area. Take them out and the loot should be yours for the taking. The only other hostiles that can appear after clearing out all of the roamers are an [[Autobeam Turret]] in the Curator's Exhibit, which shouldn't be much of an issue at this point, and an Explorer or two behind the walls in the Cartography Club.
+The right side is mostly more of the same. Wait for bots to come to you from your safe position. There are another roughly 60 bots to kill on this side of the map. Otherwise, there is nothing too special about this portion as long as Cogmind has enough spare parts to last without the build falling apart. After the bots stop wandering by, walk into the right side of the wall. There will be 4 Elites patroling in the center-most HQ area. Take them out and the loot should be yours for the taking. The only other hostile bot that can appear after clearing out all of the roamers is an [[Autobeam Turret]] in the Curator's Exhibit, which shouldn't be much of an issue at this point.
 [[Heading:2]]Loot Time[[/Heading]]
 Most of the loot should be fairly self explanatory to grab. A few less obvious ones:
-[[List]]Smash open the wall hiding a Schematic in IN-MT5's Study|Dig out the corners in the Curator's Association because one will have an extra item|Dig through the back of the Scrapoid Pod storage to get many more pods|Dig out the center earth tile in LU-1G1's Boring Crew room|Check rooms closed for remodeling for the rare Exp. Plasma Cutter|Smash open the wall hiding additional Botcubes in the Botcube Research room[[/List]]","Spoiler","","","","","",""
+[[List]]Smash open the wall hiding a Schematic in IN-MT5's Study|Dig out the corners in the Curator's Association because one will have an extra item|Dig through the back of the Scrapoid Pod storage to get many more pods|Dig out the center earth tile in LU-1G1's Boring Crew room|Check rooms closed for remoldeing for the rare Exp. Plasma Cutter|Smash open the wall hiding additional Botcubes in the Botcube Research room[[/List]]","Spoiler","","","","","",""
 "Scrapyard","Location","The starting point of every game. At the start of every game there is a semi-random fixed spawn of: [[Sml. Storage Unit]], 2 [[Lgt. Treads]], 2 [[Aluminum Leg]], a mix of 2 [[Wheel]] or [[Com. Wheel]], a mix of 2 [[Ion Engine]] or [[Lgt. Ion Engine]], and a mix of 3 [[Lgt. Assault Rifle]], [[Assault Rifle]], [[EM Pulse Gun]], [[Sml. Laser]], [[Med. Laser]]. If the advanced game option quickStart is set, all of the parts will be either collected or equipped.[[Heading]]Events[[/Heading]]A team of [[T-07 Excavator|Tunnelers]] and [[U-05 Engineer|Engineers]] will dig out and finish rooms over time. The rooms themselves do not contain anything of importance.[[Image]]Scrapyard Assembled Event.png|Assembled after ambushing a Tunneler[[/Image]]However, after several thousand turns of waiting, an Tunneler may dig open a small dug out area containing a large number of [[Assembled (4)|Assembled]]. This will prompt a response of an [[C-30 ARC|ARC]] containing 2 [[D-53 Grenadier|Demolishers]] which can be a good early source of [[Cmb. Airjet]] if they are destroyed by the assembled. Waiting around for this event can be fairly risky since there is no way to prepare for the fight and it is very easy to get destroyed by either the demolishers or the assembled.","","","","","","",""
 "Scythe","Part","","","","","","","",""
 "Search Patrol","Other","Search patrols are a unique type of [[0b10]] aligned [[Patrol Squad|patrol squad]]. They can be dispatched if Cogmind generates a lot of [[Alert]] from non-combat sources. This is primarily caused by being spotted by [[Watcher|Watchers]] or [[N-01 Spotter|Spotters]], guard bots like [[Sentry|Sentries]], or by being spotted by any combat hostile and then running away and losing tracking. If the Alert level is above the typical [[Assault Squad|Assault]] range of level 2/400 influence and Cogmind has gained the majority of the influence from these non-combat sources, there is a chance that one or more search patrols may be dispatched. If a search patrol is announced, influence will drop by 150. This will be accompanied by the alert [[GameText]]ALERT: Heightened foreign activity detected, dispatching search patrol.[[/GameText]] The alert will also indicate if multiple search patrols are to be sent out simultaneously. One or more ARCs will be dispatched after a few more turns. These ARCs behave similarly as regular patrol ARCs and have the same standard patrol contents within them. However, search squads will choose random points on the map to patrol to rather than having a fixed patrol route like all other patrols.","","","","","","",""
