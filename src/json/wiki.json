@@ -8007,7 +8007,7 @@
   },
   {
    "Name": "Chute Trap",
-   "Content": ""
+   "Content": "Chute Traps are [[Traps]] found exclusively in the first [[Factory]] map of each depth from -7 to -4. In other words, additional Factory maps reached via [[Wastes]] or [[Garrison]] looping do not have any Chute Traps. Like [[Alarm Trap|Alarm Traps]] and [[Ambush Trap|Ambush Traps]], they cannot be extracted using a [[Trap Extractors|Trap Extractor]].\n\n[[Heading]]Effects[[/Heading]]\nWhen triggered, a Chute Trap will bring the victim to the current depth's Wastes map, permanently sealing itself afterwards.\nVictims can be followed by triggering a different Chute Trap. If Cogmind falls victim to one, all allies currently following Cogmind will fall into Wastes one after the other following Cogmind, even if there weren't enough remaining Chute Traps for them to follow. If Cogmind follows a purple allied [[Derelict]] into Wastes, the Derelict will thank Cogmind for not abandoning them.\n\nOn Factory maps containing Chute Traps, [[K-01 Serf|K-01 Serf Workers]] can sometimes spawn carrying disabled 0b10 bots towards Chutes, and some disabled 0b10 bots can sometimes be stored inside rooms. If a disabled bot is within range of a Worker, the Worker will try to latch onto the bot and carry them into the nearest Chute Trap, even if the bot is only temporarily disabled."
   },
   {
    "Name": "Community Challenges",
