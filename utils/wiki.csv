@@ -2799,6 +2799,7 @@ There is also a special ""looping"" exit that will always loop or lead to a 0b10
 [[Heading]]Events[[/Heading]]
 [[List]](+) Derelict assault: Shortly after entering the map, the interior compromised alert plays and a group of Derelicts will appear randomly at an exit. They will wander through the Garrison randomly, looking for fights.|
 (+) Cache delivery: An [[A-27 Freighter]] will deliver an inventory full of parts to a guarded prefab. If found before it drops its parts off, it may be looted without having to deal with the usual dormant guards.|
+(+) [[Cargo Convoy]]: A cargo convoy will path through one wing of the Garrison, pass through the center, and exit through another wing. The standard guard compliment of a Protector and 2 ARCs are also present.|
 (+) Post-[[Assembled]] attack: The Garrison has been ransacked by a group of Assembled. Rewirable and unpowered 0b10 and Assembled bots are scattered across the map, and random items appear on the ground. Some of the Garrison's machines and walls will be destroyed at random. The Garrison infiltrated message will appear shortly after entering the map.|
 (+) [[Sapper]] sabotage: A Sapper will plant a [[Sapper Charge]] near a Phase Generator, causing it to blow up soon after|
 (~) Assembled infestation: Shortly after entering the map, a message will appear in the log [[GameText]]Infestation breaching garrison interior. Local demolisher support unavailable.[[/GameText]] A large number of Assembled will appear near the center of the map and attack anything in sight. The Garrison infiltrated alert will occur soon after. More Assembled will continue to spawn from the original location.|
@@ -2810,6 +2811,7 @@ Garrison Derelict Assault.png|A group of Derelicts invading the map|
 Garrison Post Assembled Invasion.png|Garrison after an Assembled attack|
 Garrison Cache Delivery.png|A-27 Freighter delivering cache items|
 Garrison Sapper.png|A Sapper running from the impending explosion|
+Garrison Cargo Convoy.png|A Cargo Convoy passing through a Garrison|
 Garrison Assembled Infestation.png|Assembled attacking the Garrison
 [[/Gallery]]","","","","","","",""
 "Garrison Access","Other","[[Image]]../game_sprites/Garrison.png|A Garrison Access machine[[/Image]]
