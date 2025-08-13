@@ -5990,49 +5990,7 @@ Use [[Datajacks]] with Relay Couplers to perform special hacks at the cost of ch
 "Remote Datajacks","Part Group","","","","","Remote Datajack,Imp. Remote Datajack,Adv. Remote Datajack,Exp. Remote Datajack,ME-RLN's Wand,Gui. Remote Datajack","","",""
 "Remote Force Field","Part","","","","","","","",""
 "Remote Shield","Part","","","","","","","",""
-"Repair Station","Other","[[Image]]../game_sprites/Repair Station.png|A Repair Station[[/Image]]
-Repair Stations are [[0b10]]-controlled [[Interactive Machine|Machines]] that can repair damaged parts and refit backup parts. They also serve as a base of operations for [[Mechanic|Mechanics]]. As such, they can refill 0b10 aligned Mechanic repair integrity and backup part inventory that are spent as Mechanics repair and refit allied bots.
-
-[[Heading]]Lore[[/Heading]]
-[[Lore]]0b10 Records|Repair Station[[/Lore]]
-
-[[Heading]]Hacks[[/Heading]]
-[[Hacks]]Repair Station[[/Hacks]]
-[[Heading:2]]Additional Details/Usage Tips[[/Heading]]
-[[Heading:3]]Repairing Things[[/Heading]]
-Repair stations can repair most parts in the game. The main exceptions are rating 9* prototypes, [[Alien Artifacts]], and a variety of other unique parts. Parts that cannot be repaired have a * next to their integrity in the stat view. Parts must first be inserted with the [[GameText]]Scan([Part Name])[[/GameText]] hack. Then, the rating-specific [[GameText]]Repair[[/GameText]] must be performed. Sometimes a part will become [[Broken Part|broken]] if this hack is failed. After the repair is initiated, the machine will take a rating-dependent number of turns to repair, regardless of the amount of missing integrity.
-[[Heading:4]]Time to Repair[[/Heading]]
-Security level 2 Repair Stations repair roughly twice as fast as level 1s do, and level 3 Repair Stations repair three times as fast as level 1s.
-[[Table]]
-Rating|Level 1 Turns|Level 2 Turns|Level 3 Turns||
-1|26|13|8||
-2|32|16|10||
-2*|51|25|17||
-3|38|19|12||
-3*|60|30|20||
-4|44|22|14||
-4*|70|35|23||
-5|50|25|16||
-5*|80|40|26||
-6|56|28|18||
-6*|89|44|29||
-7|62|31|20||
-7*|99|44|33||
-8|68|34|22||
-8*|108|54|36||
-9|74|37|24
-[[/Table]]
-[[Heading:3]]Refit[[/Heading]]
-If Cogmind has fewer than 2 filled slots in any of Power, Propulsion, Utility, and Weapons when performing this hack, he will be refitted with Backup Power, Propulsion, Plating, or Lasers respectively for each type of slots. While a maximum of 2 can be obtained at a time, more can be obtained through multiple refits by detaching the parts in between each hack.
-[[Table]]
-Slot|Security Level 1|Security Level 2|Security Level 3||
-Power|[[Backup Power I]]|[[Backup Power III]]|[[Backup Power VII]]||
-Propulsion|[[Backup Propulsion I]]|[[Backup Propulsion III]]|[[Backup Propulsion VII]]||
-Utility|[[Backup Plating I]]|[[Backup Plating III]]|[[Backup Plating VII]]||
-Weapon|[[Backup Laser I]]|[[Backup Laser III]]|[[Backup Laser VII]]
-[[/Table]]
-[[Spoiler]][[Heading:3]][[GameText]]Force(Patch)[[/GameText]][[/Heading]]
-This hack is best used to quickly repair things that have low current integrity but have a high maximum integrity. This can restore large amounts of integrity quickly for parts like [[Armor]] and [[Treads]]. [[Storage Unit|Storage Units]] are an especially good choice for this hack due to the unique ability of this hack to repair parts without needing to detach them and wait around. Otherwise, repairing storage units can be quite risky with [[Recycler|Recyclers]] stealing parts while waiting.[[/Spoiler]]","","","","","","",""
+"Repair Station","Other","[[Image]]../game_sprites/Repair Station.png|A Repair Station[[/Image]]\nRepair Stations are [[0b10]]-controlled [[Interactive Machine|Machines]] that can repair damaged parts and refit backup parts. They also serve as a base of operations for [[Mechanic|Mechanics]]. As such, they can refill 0b10 aligned Mechanic repair integrity and backup part inventory that are spent as Mechanics repair and refit allied bots.\n\n[[Heading]]Lore[[/Heading]]\n[[Lore]]0b10 Records|Repair Station[[/Lore]]\n\n[[Heading]]Hacks[[/Heading]]\n[[Hacks]]Repair Station[[/Hacks]]\n[[Heading:2]]Additional Details/Usage Tips[[/Heading]]\n[[Heading:3]]Repairing Things[[/Heading]]\nRepair stations can repair most parts in the game. The main exceptions are rating 9* prototypes, [[Alien Artifacts]], and a variety of other unique parts. Parts that cannot be repaired have a * next to their integrity in the stat view. Parts must first be inserted with the [[GameText]]Scan([Part Name])[[/GameText]] hack. Then, the rating-specific [[GameText]]Repair[[/GameText]] must be performed. Sometimes a part will become [[Broken Part|broken]] if this hack is failed. After the repair is initiated, the machine will take a rating-dependent number of turns to repair, regardless of the amount of missing integrity. Broken parts do take longer to repair, however.\n[[Heading:4]]Time to Repair[[/Heading]]\n[[Comment]]The time to repair a part is equal to (20 + (6 * [rating])), +40% if broken, +60 if prototype, +100% if both / [Repair Station level], rounded down.[[/Comment]]\nSecurity level 2 Repair Stations repair roughly twice as fast as level 1s do, and level 3 Repair Stations repair three times as fast as level 1s.\nThe times to repair unbroken parts are as follows:\n[[Table]]\nRating|Level 1 Turns|Level 2 Turns|Level 3 Turns||\n1|26|13|8||\n2|32|16|10||\n2*|51|25|17||\n3|38|19|12||\n3*|60|30|20||\n4|44|22|14||\n4*|70|35|23||\n5|50|25|16||\n5*|80|40|26||\n6|56|28|18||\n6*|89|44|29||\n7|62|31|20||\n7*|99|49|33||\n8|68|34|22||\n8*|108|54|36||\n9|74|37|24\n[[/Table]]\n[[Heading:3]]Refit[[/Heading]]\nIf you have fewer than 2 attached parts in any of Power, Propulsion, Utility, or Weapons when performing this hack, Cogmind will be refitted with Backup Power, Propulsion, Plating, or Lasers respectively for each type of slots. While a maximum of 2 for each slot type can be obtained at a time, more can be obtained through multiple refits by detaching the parts in between each hack.\n[[Table]]\nSlot|Security Level 1|Security Level 2|Security Level 3||\nPower|[[Backup Power I]]|[[Backup Power III]]|[[Backup Power VII]]||\nPropulsion|[[Backup Propulsion I]]|[[Backup Propulsion III]]|[[Backup Propulsion VII]]||\nUtility|[[Backup Plating I]]|[[Backup Plating III]]|[[Backup Plating VII]]||\nWeapon|[[Backup Laser I]]|[[Backup Laser III]]|[[Backup Laser VII]]\n[[/Table]]\n[[Spoiler]][[Heading:3]][[GameText]]Force(Patch)[[/GameText]][[/Heading]]\nThis hack is best used to quickly repair things that have low current integrity but have a high maximum integrity. This can restore large amounts of integrity quickly for parts like [[Armor]] and [[Treads]]. [[Storage Unit|Storage Units]] are an especially good choice for this hack due to the unique ability of this hack to repair parts without needing to detach them and wait around. Otherwise, repairing storage units can be quite risky with [[Recycler|Recyclers]] stealing parts while waiting.[[/Spoiler]]","","","","","","",""
 "Research","Location","Research is a [[0b10]]-controlled main floor that appears on both -3 and -2. Research maps continue to amp up the difficulty in strength and number of general combat encounters, hacking difficulty, and difficulty in locating exits. Compared to the previous [[Factory]] floors, Research maps are just as big, but are much more maze-like with large numbers of smaller interconnected rooms and big sections of the level entirely disconnected by large chunks of earth. Exploring all of these different rooms is more difficult than before, and finding an exit can be a real challenge.
 Unlike factory floors with [[Caves]] available, there are usually no easy exits to dissipate [[Alert]] in Research. The natural alert dissipation that occurs between levels continues to decrease. Purging alert or avoiding generating it in the first place can be a big deal if the player is not prepared to fight off [[High Security]]. [[Infowar]] continues to be important to avoid unnecessary encounters whenever possible, and [[Hackware]] should be used to purge alert and locate exits whenever possible.
 As the difficulty increases, the rewards do to match. Many powerful unique parts can be found in Research specific branches [[Testing]] and [[Quarantine]]. There are also more [[Prototype Part|Prototypes]] lying around on the floor. Using a [[Component Analysis Suites|Component Analysis Suite]] can pay off to avoid attaching faulty prototypes.
