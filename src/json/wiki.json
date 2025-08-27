@@ -5816,7 +5816,7 @@
     "Omega Cannon",
     "Perforator"
    ],
-   "Content": "[[Heading]]List of Ballistic Weapons[[/Heading]]\n[[PartGroupTable]]\nBallistic Weapons|\nOverview/Size|\nOverview/Rating|\nOverview/Integrity|\nOverview/Coverage|\nShot/Range|\nShot/Energy|\nShot/Heat|\nShot/Targeting|\nShot/Delay|\nProjectile/Damage|\nProjectile/Type|\nProjectile/Critical|\nProjectile/Penetration|\nProjectile/Salvage|\nEffect/Effect|\nEffect/Description\n[[/PartGroupTable]]"
+   "Content": "[[Heading]]List of Ballistic Weapons[[/Heading]]\n[[PartGroupTable]]\nBallistic Weapons|\nOverview/Size|\nOverview/Rating|\nOverview/Integrity|\nOverview/Coverage|\nShot/Range|\nShot/Energy|\nShot/Heat|\nShot/Targeting|\nShot/Delay|\nProjectile/Count|\nProjectile/Damage|\nProjectile/Type|\nProjectile/Critical|\nProjectile/Penetration|\nProjectile/Salvage|\nEffect/Effect|\nEffect/Description\n[[/PartGroupTable]]"
   },
   {
    "Name": "Ballistic Guns",
@@ -5861,7 +5861,7 @@
     "Multirail",
     "Hyp. Multirail"
    ],
-   "Content": "[[Heading]]List of Ballistic Weapons[[/Heading]]\n[[PartGroupTable]]\nBallistic Weapons|\nOverview/Size|\nOverview/Rating|\nOverview/Integrity|\nOverview/Coverage|\nShot/Range|\nShot/Energy|\nShot/Heat|\nShot/Targeting|\nShot/Delay|\nProjectile/Damage|\nProjectile/Type|\nProjectile/Critical|\nProjectile/Penetration|\nProjectile/Salvage|\nEffect/Effect|\nEffect/Description\n[[/PartGroupTable]]"
+   "Content": "[[Heading]]List of Ballistic Weapons[[/Heading]]\n[[PartGroupTable]]\nBallistic Weapons|\nOverview/Size|\nOverview/Rating|\nOverview/Integrity|\nOverview/Coverage|\nShot/Range|\nShot/Energy|\nShot/Heat|\nShot/Targeting|\nShot/Delay|\nProjectile/Count|\nProjectile/Damage|\nProjectile/Type|\nProjectile/Critical|\nProjectile/Penetration|\nProjectile/Salvage|\nEffect/Effect|\nEffect/Description\n[[/PartGroupTable]]"
   },
   {
    "Name": "Cloaking Devices",
@@ -6239,7 +6239,7 @@
     "Enh. Flamer",
     "Plasma Flamer"
    ],
-   "Content": ""
+   "Content": "[[Heading]]List of Flamers[[/Heading]]\n[[PartGroupTable]]\nFlamers|\nOverview/Size|\nOverview/Rating|\nOverview/Integrity|\nOverview/Coverage|\nShot/Range|\nShot/Energy|\nShot/Heat|\nShot/Targeting|\nShot/Delay|\nProjectile/Count|\nProjectile/Damage|\nProjectile/Type|\nProjectile/Critical|\nProjectile/Heat Transfer|\nProjectile/Disruption|\nProjectile/Salvage\n[[/PartGroupTable]]"
   },
   {
    "Name": "Flight Units",
@@ -6381,7 +6381,7 @@
     "CL-ANK's Mallet",
     "Core Stripper"
    ],
-   "Content": ""
+   "Content": "[[Heading]]List of Impact Weapons[[/Heading]]\n[[PartGroupTable]]\nImpact Weapons|\nOverview/Size|\nOverview/Rating|\nOverview/Integrity|\nOverview/Coverage|\nShot/Range|\nShot/Energy|\nShot/Heat|\nShot/Targeting|\nShot/Delay|\nProjectile/Damage|\nProjectile/Type|\nProjectile/Critical|\nProjectile/Disruption|\nProjectile/Salvage|\nExplosion/Radius|\nExplosion/Damage|\nExplosion/Falloff|\nExplosion/Type|\nExplosion/Salvage|\nEffect/Effect|\nEffect/Description\n[[/PartGroupTable]]"
   },
   {
    "Name": "Kinecellerators",
@@ -6581,7 +6581,7 @@
     "CR-A16's Behemoth Slayer",
     "Vortex Lance"
    ],
-   "Content": ""
+   "Content": "[[Heading]]List of Piercing Weapons[[/Heading]]\n[[PartGroupTable]]\nPiercing Weapons|\nOverview/Size|\nOverview/Rating|\nOverview/Integrity|\nOverview/Coverage|\nShot/Range|\nShot/Energy|\nShot/Heat|\nShot/Targeting|\nShot/Delay|\nProjectile/Damage|\nProjectile/Type|\nProjectile/Critical|\nProjectile/Salvage|\nEffect/Description\n[[/PartGroupTable]]"
   },
   {
    "Name": "Plasma Cutters",
@@ -6589,7 +6589,7 @@
     "Plasma Cutter",
     "Imp. Plasma Cutter"
    ],
-   "Content": ""
+   "Content": "[[Heading]]List of Plasma Cutters[[/Heading]]\n[[PartGroupTable]]\nPlasma Cutters|\nOverview/Size|\nOverview/Rating|\nOverview/Integrity|\nOverview/Coverage|\nShot/Range|\nShot/Energy|\nShot/Heat|\nShot/Targeting|\nShot/Delay|\nProjectile/Count|\nProjectile/Damage|\nProjectile/Type|\nProjectile/Critical|\nProjectile/Heat Transfer|\nProjectile/Salvage|\nEffect/Effect\n[[/PartGroupTable]]"
   },
   {
    "Name": "Power Amplifiers",
@@ -6903,7 +6903,7 @@
     "1C-UTU's Sword \"Choppy\"",
     "Sigix Broadsword"
    ],
-   "Content": ""
+   "Content": "[[Heading]]List of Slashing Weapons[[/Heading]]\n[[PartGroupTable]]\nSlashing Weapons|\nOverview/Size|\nOverview/Rating|\nOverview/Integrity|\nOverview/Coverage|\nShot/Range|\nShot/Energy|\nShot/Heat|\nShot/Targeting|\nShot/Delay|\nProjectile/Damage|\nProjectile/Type|\nProjectile/Critical|\nProjectile/Salvage|\nEffect/Effect|\nEffect/Description\n[[/PartGroupTable]]"
   },
   {
    "Name": "Storage Units",
