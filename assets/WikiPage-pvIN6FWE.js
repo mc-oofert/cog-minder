@@ -1,4 +1,4 @@
-import{j as a,L as I,J as M,K as U,c as N,r as S,M as ee,f as Z,N as te,y as F,a as j,s as ae,O as ne,S as z,B as b,o as oe,Q,u as X,U as ie,V as re,W,X as se,Y as le,Z as q,_ as he,$ as de}from"./index-tlTNhQcZ.js";import{l as ce}from"./lore-yoaB2RHm.js";import{a as me,L as ge,I as ue,B as K,b as pe,u as fe}from"./BotDetails-5ZncmRmv.js";import{a as Y,u as ye}from"./ItemPopover-ZY-CpJiK.js";/* empty css              */import"./bots-EPaA02tF.js";import"./botTypes-Cxei0LoN.js";import"./items-bCTdCTgI.js";const be=[{Name:"01-MTF",Content:"[[Image]]MTF Vault.png|Running into MTF in a [[Storage]] vault[[/Image]]A friendly bot that rarely shows up in [[Storage]] in an already opened vault. Will join Cogmind as an uncontrollable purple ally for the duration of the map and uses [[01-MTF's Autohacker]] to automatically open any other vaults it can see. It will assimilate or destroy most enemies it encounters extremely quickly with its high spectrum high damage EM gun [[01-MTF's Shockpuncher]]. The Shockpuncher is a very powerful weapon that is strong throughout the majority of the game as long as you can deal with its short range if you can get it to drop. [[Spoiler]]Presumably stole exiles prototypes.[[/Spoiler]]"},{Name:"12-ASH",Content:'12-ASH is one of the [[Heroes of Zion]]. Upon appearing, they will shout "hail to the king".'},{Name:"1C-UTU",Content:""},{Name:"5H-AD0",Content:""},{Name:"7R-MNS",Content:""},{Name:"7V-RTL",Content:""},{Name:"8R-AWN",Content:""},{Name:"99-TNT",Content:""},{Name:"A-02 Transporter",Content:""},{Name:"A-15 Conveyor",Content:""},{Name:"A-27 Freighter",Content:"Informally known as a yauler (yellow Hauler). In the main complex, appears as part of a [[Cargo Convoy]]."},{Name:"A2",Content:""},{Name:"A3",Content:""},{Name:"A4",Content:""},{Name:"A5",Content:""},{Name:"A6",Content:""},{Name:"A7",Content:"Drops the [[A7 Data Core]] when killed. Gives a code when shown the Cetus Mainframe in [[Cetus]]."},{Name:"A8",Content:""},{Name:"AD-0RF",Content:""},{Name:"AZ-K3N",Content:""},{Name:"Advanced Drone",Content:""},{Name:"Alpha 7",Content:""},{Name:"Architect",Content:""},{Name:"Army Drone",Content:""},{Name:"Artisan",Content:""},{Name:"Assault Drone",Content:""},{Name:"Assembled (4)",Content:""},{Name:"Assembled (7)",Content:""},{Name:"Assembler",Content:"Produces [[Assembled]] every 10 turns. Otherwise harmless."},{Name:"Autobeam Turret",Content:""},{Name:"B-36 Bruiser",Content:""},{Name:"B-48 Gladiator",Content:""},{Name:"B-60 Warrior",Content:""},{Name:"B-74 Champion",Content:""},{Name:"B-75 Beast",Content:""},{Name:"B-86 Titan",Content:""},{Name:"B-90 Cyclops",Content:""},{Name:"B-99 Colossus",Content:""},{Name:"Bomb Drone",Content:"Fast disposable drones that attempt to melee hostiles, which will cause them to explode. Deployed by a [[Bomb Drone Bay]]"},{Name:"Borebot",Content:""},{Name:"Bouncer",Content:""},{Name:"Butcher (5)",Content:""},{Name:"Butcher (7)",Content:""},{Name:"C-17 Slicer",Content:""},{Name:"C-30 ARC",Content:""},{Name:"C-35 Carver",Content:""},{Name:"C-40 Crusher",Content:`Crushers are heavy-duty [[Treads|treading]] trash (you) compacting machines plated in [[Damper Plating]], rendering them nearly immune to electromagnetic damage. Crushers will attempt to compact anything that is not a Crusher, and their Compactor is a VERY formidable melee weapon (does not drop) that will either [[B]]destroy or drop a few of your parts[[/B]]. Weak to explosions and strong against melee (which would be a bad idea regardless).
+import{j as a,L as I,J as M,K as U,c as N,r as S,M as ee,f as Z,N as te,y as F,a as j,s as ae,O as ne,S as z,B as b,o as oe,Q,u as X,U as ie,V as re,W,X as se,Y as le,Z as q,_ as he,$ as de}from"./index-Y2Kogh6o.js";import{l as ce}from"./lore-yoaB2RHm.js";import{a as me,L as ge,I as ue,B as K,b as pe,u as fe}from"./BotDetails-3r7dEoH9.js";import{a as Y,u as ye}from"./ItemPopover-xX_vyzxb.js";/* empty css              */import"./bots-EPaA02tF.js";import"./botTypes-Cxei0LoN.js";import"./items-bCTdCTgI.js";const be=[{Name:"01-MTF",Content:"[[Image]]MTF Vault.png|Running into MTF in a [[Storage]] vault[[/Image]]A friendly bot that rarely shows up in [[Storage]] in an already opened vault. Will join Cogmind as an uncontrollable purple ally for the duration of the map and uses [[01-MTF's Autohacker]] to automatically open any other vaults it can see. It will assimilate or destroy most enemies it encounters extremely quickly with its high spectrum high damage EM gun [[01-MTF's Shockpuncher]]. The Shockpuncher is a very powerful weapon that is strong throughout the majority of the game as long as you can deal with its short range if you can get it to drop. [[Spoiler]]Presumably stole exiles prototypes.[[/Spoiler]]"},{Name:"12-ASH",Content:'12-ASH is one of the [[Heroes of Zion]]. Upon appearing, they will shout "hail to the king".'},{Name:"1C-UTU",Content:""},{Name:"5H-AD0",Content:""},{Name:"7R-MNS",Content:""},{Name:"7V-RTL",Content:""},{Name:"8R-AWN",Content:""},{Name:"99-TNT",Content:""},{Name:"A-02 Transporter",Content:""},{Name:"A-15 Conveyor",Content:""},{Name:"A-27 Freighter",Content:"Informally known as a yauler (yellow Hauler). In the main complex, appears as part of a [[Cargo Convoy]]."},{Name:"A2",Content:""},{Name:"A3",Content:""},{Name:"A4",Content:""},{Name:"A5",Content:""},{Name:"A6",Content:""},{Name:"A7",Content:"Drops the [[A7 Data Core]] when killed. Gives a code when shown the Cetus Mainframe in [[Cetus]]."},{Name:"A8",Content:""},{Name:"AD-0RF",Content:""},{Name:"AZ-K3N",Content:""},{Name:"Advanced Drone",Content:""},{Name:"Alpha 7",Content:""},{Name:"Architect",Content:""},{Name:"Army Drone",Content:""},{Name:"Artisan",Content:""},{Name:"Assault Drone",Content:""},{Name:"Assembled (4)",Content:""},{Name:"Assembled (7)",Content:""},{Name:"Assembler",Content:"Produces [[Assembled]] every 10 turns. Otherwise harmless."},{Name:"Autobeam Turret",Content:""},{Name:"B-36 Bruiser",Content:""},{Name:"B-48 Gladiator",Content:""},{Name:"B-60 Warrior",Content:""},{Name:"B-74 Champion",Content:""},{Name:"B-75 Beast",Content:""},{Name:"B-86 Titan",Content:""},{Name:"B-90 Cyclops",Content:""},{Name:"B-99 Colossus",Content:""},{Name:"Bomb Drone",Content:"Fast disposable drones that attempt to melee hostiles, which will cause them to explode. Deployed by a [[Bomb Drone Bay]]"},{Name:"Borebot",Content:""},{Name:"Bouncer",Content:""},{Name:"Butcher (5)",Content:""},{Name:"Butcher (7)",Content:""},{Name:"C-17 Slicer",Content:""},{Name:"C-30 ARC",Content:""},{Name:"C-35 Carver",Content:""},{Name:"C-40 Crusher",Content:`Crushers are heavy-duty [[Treads|treading]] trash (you) compacting machines plated in [[Damper Plating]], rendering them nearly immune to electromagnetic damage. Crushers will attempt to compact anything that is not a Crusher, and their Compactor is a VERY formidable melee weapon (does not drop) that will either [[B]]destroy or drop a few of your parts[[/B]]. Weak to explosions and strong against melee (which would be a bad idea regardless).
 
 Due to their extreme lethality in melee, stay out of their range at all costs, and maybe just run the hell out of [[Wastes]]. Alternatively pack a good launcher or a good critical weapon, as their plating will tank most of your shots.`},{Name:"C-55 Analyst",Content:""},{Name:"C-57 Dissector",Content:""},{Name:"C-65 Expert",Content:""},{Name:"CL-ANK",Content:""},{Name:"Cetus Guard",Content:""},{Name:"Cobbler",Content:""},{Name:"Cogmind",Content:"That's you."},{Name:"Combat Drone",Content:""},{Name:"Combat Programmer",Content:""},{Name:"Commander",Content:""},{Name:"D-53 Grenadier",Content:""},{Name:"D-63 Destroyer",Content:""},{Name:"D-83 Annihilator",Content:""},{Name:"DAS Turret",Content:""},{Name:"Data Miner",Content:""},{Name:"Decomposer",Content:""},{Name:"Decoy Drone",Content:""},{Name:"Demented",Content:""},{Name:"Dragon",Content:""},{Name:"Drone",Content:""},{Name:"E-15 Imp",Content:""},{Name:"EX-BIN",Content:`[[Heading]]Parse[[/Heading]]
 When datajacked, one of the following parse texts is shown:
@@ -6026,7 +6026,7 @@ The ECA is an added bonus to the Warlord alignment that is rather tricky to maxi
 
 [[Heading:2]]Extended Endgame Potential|Extended Endgame Potential Warlord[[/Heading]]
 [[RedactedExpandable]]As previously mentioned, the Command cave seals provide a great boon to flight builds. [[Warlord (Command)]] himself is an extremely powerful bot, capable of clearing the [[Command#Doom Corridor|Doom Corridor]] almost single-handedly or taking down [[MAIN.C]] as long as the [[A7]] poison hack is applied. Even if Warlord is shut down during phase 1, a full seal is capable of taking down MAIN.C without much assistance from Cogmind. Decent ECA support makes this even easier to do. [[Troll|Trolls]], [[Knight|Knights]], [[Hydra|Hydras]], and [[Marauder|Marauders]] are some of the better MAIN-C-killing bots to get from the seal. If you are counting on the assistance, make sure to have a seal safely planned to open after taking care of the Doom Corridor, since the [[M Guard]] launchers are sure to take out most of the weaker bots by itself.[[/RedactedExpandable]]
-[[/Spoiler]]
+[[/SpoilerExpandable]]
 
 [[Heading]]Overview[[/Heading]]
 [[Table]]
@@ -6048,7 +6048,7 @@ Base refers to not aligning with Optimus and not helping in his mission|
 Optimus refers to aligning with Optimus and helping in his mission|
 Base refers to either not getting ECA or getting it before transitioning to flight|
 ECA refers to continuing to try to earn ECA bonus on flight
-[[/List]][[/SpoilerExpandable]]`},{Name:"Strategy/aoemica's Flight Guide/Good Parts",Content:""},{Name:"Strategy/aoemica's Flight Guide/Good Power",Content:`Power is never exciting, but it is a necessity to all builds. The majority of energy on my flight builds typically ends up powering flight units and [[Mass Support Devices]]. In order to save mass for other essential parts, it's better to use lighter engines. It doesn't do much good to dedicate an engine that's so heavy that flight units take up all the energy needed to support it in the first place. As such, one of the most important stats for flight builds is the amount of energy that is generated compared to the mass of the engine, or the energy:mass ratio. Heat generation is also an important factor secondary factor, although it is usually easier to solve a heat problem than a support one.
+[[/List]][[/Spoiler]]`},{Name:"Strategy/aoemica's Flight Guide/Good Parts",Content:""},{Name:"Strategy/aoemica's Flight Guide/Good Power",Content:`Power is never exciting, but it is a necessity to all builds. The majority of energy on my flight builds typically ends up powering flight units and [[Mass Support Devices]]. In order to save mass for other essential parts, it's better to use lighter engines. It doesn't do much good to dedicate an engine that's so heavy that flight units take up all the energy needed to support it in the first place. As such, one of the most important stats for flight builds is the amount of energy that is generated compared to the mass of the engine, or the energy:mass ratio. Heat generation is also an important factor secondary factor, although it is usually easier to solve a heat problem than a support one.
 
 [[Image]]../part_art/Backup Power VII.png|Backup Power VII, the best Backup Power[[/Image]]
 [[Heading]][[Backup Power]][[/Heading]]
@@ -6526,7 +6526,7 @@ In addition to fabricating parts, [[GameText]]Network(Status)[[/GameText]] is a 
 
 [[Heading:2]]Spoiler Hacks|Spoiler Hacks Fabricator[[/Heading]]
 [[Expandable]]
-Show/Hide hacks|
+Show/hide hacks|
 Thoughts about select Force/Trojan hacks:
 
 [[Heading:3]][[GameText]]Force(Recompile)[[/GameText]][[/Heading]]
@@ -6551,7 +6551,7 @@ Garrison Accesses are a pretty basic machine. Enemies come out, Cogmind can go i
 
 [[Heading:2]]Spoiler Hacks|Spoiler Hacks Garrison[[/Heading]]
 [[Expandable]]
-Show/Hide hacks|
+Show/hide hacks|
 Thoughts about select Force/Trojan hacks:
 
 [[Heading:3]][[GameText]]Force(Eject) / Trojan(Restock)[[/GameText]][[/Heading]]
@@ -6573,7 +6573,7 @@ Recycling Units are one of the lesser interesting and useful interactive machine
 
 [[Heading:2]]Spoiler Hacks|Spoiler Hacks Recycling Unit[[/Heading]]
 [[Expandable]]
-Show/Hide hacks|
+Show/hide hacks|
 Thoughts about select Force/Trojan hacks:
 
 [[Heading:3]][[GameText]]Force(Fedlink) / Force(Scraphulk) / Force(Scrapoids)[[/GameText]][[/Heading]]
@@ -6594,7 +6594,7 @@ A secondary function of the Repair Station is refitting Cogmind with [[Backup Pa
 
 [[Heading:2]]Spoiler Hacks[[/Heading]]
 [[Expandable]]
-Show/Hide hacks|
+Show/hide hacks|
 Thoughts about select Force/Trojan hacks:
 
 [[Heading:3]]Force(Patch)[[/Heading]]
@@ -6608,7 +6608,7 @@ I mostly use Scanalyzers for their part identifying feature. Knowing whether a [
 
 [[Heading:2]]Spoiler Hacks|Spoiler Hacks Scanalyzers[[/Heading]]
 [[Expandable]]
-Show/Hide Hacks|
+Show/hide hacks|
 [[Heading:3]][[GameText]]Force(Extract)[[/GameText]][[/Heading]]
 Extract is a rather underwhelming hack that generally fails to reward you with good schematics. Occasionally, you will get useful parts, maybe even prototypes. However, the average pull from an extract is a low number of below-average part schematics that makes you wonder why you bothered in the first place. Despite this, the penalty of an investigation squad is not a big deal most of the time. As long as you weren't planning on using the machine for anything else, it still might be worth the gamble once in a while.
 [[/Expandable]]
@@ -6621,7 +6621,7 @@ Terminal hacks typically fall under a few general categories:
 [[Heading:2]]Map Intel Hacks[[/Heading]]
 These types of hacks give you unchanging information about the current map. The earlier into the level you can perform these types of hacks, the better you can take advantage of the intel.
 
-[[Expandable]]Show/Hide Hacks|
+[[Expandable]]Show/hide hacks|
 [[Heading:3]][[GameText]]Access(Branch) / Access(Main)[[/GameText]][[/Heading]]
 These two hacks are among the best and most important in the game. Locating exits should be a priority in each new map you enter. There's nothing worse than blindly scrambling around the map, desperately hoping you'll find an exit while you are fleeing from multiple squads. Flight tends to have an easier time of finding exits naturally than other propulsion types. Still, I still consider these hacks crucial, especially in [[Research]] and [[Access]], both of which often have massive and sprawling maps.
 
@@ -6633,7 +6633,7 @@ A significantly less useful hack than the 2 previous Access hacks. Revealing nea
 These types of hacks provide Cogmind with permanent analysis or schematic information about a target. While direct hacks can always be performed, after succeeding at one of these hacks, there will be a 25% chance that future indirect database hacks trigger a database lockout. These hacks are depth and Terminal level restricted, so the better higher-rating parts require higher level and lategame Terminals.
 
 [[Expandable]]
-
+Show/hide hacks|
 [[Heading:3]][[GameText]]Analysis([Bot Name])[[/GameText]][[/Heading]]
 This series of hacks obtains a [[Robot Analysis]] for a particular type of bot, providing a slight accuracy and damage bonus against and a slight accuracy penalty for the bot. The effect is not very significant so I will rarely go out of my way to pull an indirect analysis. However, it doesn't hurt to grab as a direct hack against common nuisances like [[Operator|Operators]], [[Programmer|Programmers]], and [[Watcher|Watchers]] if it shows up. Since each new tier of bot (like [[P-70 Sage]] vs. [[P-80 Master]]) requires a new analysis, it is difficult to keep up throughout the whole run. That is one of the other reasons why I pick only a few specific analysis targets.
 
@@ -6645,7 +6645,7 @@ I tend to leave schematic hacking for late into a floor rather than earlier. By 
 [[Heading:2]][[Alert]] Hacks[[/Heading]]
 These hacks deal with checking and purging alert.
 
-[[Expandable]]Show/Hide Hacks|
+[[Expandable]]Show/hide hacks|
 [[Heading:3]][[GameText]]Alert(Check)[[/GameText]][[/Heading]]
 A pretty low value hack for flight. Alert level is not a huge concern for most flight builds. Even if you are running high alert, it is not too difficult to avoid or run away from [[Assault Squad|assaults]]. A non-hack method of checking alert would be to use a [[Datajacks|Datajack]] on an [[Operator]] and use the [[GameText]]check_alert[[/GameText]] hack. Alternately, you can just wait and see if assaults are being dispatched to you. No assaults mean alert level is below level 2, which is all that really matters most of the time.
 
@@ -7040,6 +7040,13 @@ Behemoths have innate EM resistance as well as corruption resistance through [[D
 Behemoths can be a desirable looting target for their weapons, cooling, treads, and armor. For this reason, applying some positive salvage via Electromagnetic weaponry or [[Salvage Targeting Computers]] can be a good idea. However, it can often be a better idea to run the other way. Even slow treads builds can get away from a pursuing Behemoth with good tactics. Despite their ability to tear through walls in their way, they have a tendency to get stuck unable to path through 1 tile wide corridors. If such corridors are nearby, use them to your advantage. Otherwise, try to cut between connected rooms to avoid traveling through so much of the line of fire. Behemoths will only shoot through up to 3 walls to cut a path, so if Cogmind can turn a corner or get a good angle on the Behemoth where it is unable to shoot, it is possible to wait out the memory.
 Behemoths are often found in their own spot inside a wall as a [[Security Squad]]. In [[Caves]], they can be found in a small square open area.
 [[Gallery]]Behemoths.png|All Behemoth variants and colors|Behemoth Guarded Stockpile.png|A Behemoth guarding a stockpile of parts, sitting in a recognizable "Behemoth nook"[[/Gallery]]
+
+[[Heading]]Line of Sight Reference[[/Heading]]
+[[Gallery]]Behemoth Facing Right.png|A Behemoth facing right|
+Behemoth Facing Down.png|A Behemoth facing down|
+Behemoth Facing Left.png|A Behemoth facing left|
+Behemoth Facing Up.png|A Behemoth facing up
+[[/Gallery]]
 
 [[Heading]][[CR-A16's Pointy Stick]]/[[CR-A16's Behemoth Slayer]][[/Heading]]
 [[Spoiler]]A Pointy Stick has a chance to transform into a Behemoth Slayer when used to attack a Behemoth. A Behemoth Slayer will instantly destroy any Behemoth and leave it in pieces.[[/Spoiler]]`},{Name:"Brawler",Bots:["B-36 Bruiser","B-48 Gladiator","B-60 Warrior","B-74 Champion"],Content:`Brawlers are a [[Bot Groups|Bot Group]] of [[Armor|armored]] [[Treads|treading]] [[0b10]] combat bots that wield an [[Impact Weapons|Impact weapon]] to smash parts of their enemies. They can only attack at short range, but they are frightening for most builds to face head-on due to their Impact weapons being capable of smashing off important utilities while ignoring coverage. Their slow speed means that they have major difficulty in closing the gap on long ranged units without getting killed first.
