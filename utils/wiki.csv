@@ -711,8 +711,8 @@ Depth|[[Executioner]]|[[Hunter]]|[[Investigator]]|[[Programmer]]|[[Striker]]||
 -5|N/A|H-66 Slayer|N/A|[[P-70 Sage]]|N/A||
 -4|N/A|[[H-77 Assassin]]|N/A|P-70 Sage|N/A||
 -3|Yes|H-77 Assassin|Yes|[[P-80 Master]]|Yes||
--2|Yes|H-77 Assassin|Yes|P-80 Master|Yes||
--1|Yes|H-77 Assassin|Yes|P-80 Master|Yes
+-2|Yes|[[H-88 Terminator]]|Yes|P-80 Master|Yes||
+-1|Yes|H-88 Terminator|Yes|P-80 Master|Yes
 [[/Table]]
 [[Heading:2]]Utility bots[[/Heading]]
 [[Table]]
@@ -1036,7 +1036,7 @@ Once CL-0N3 is dropped back to base form, it will run away at 40 speed and be ha
 "CPS Tube","Part","","","","","","","",""
 "CR-A16's Behemoth Slayer","Part","Transformed from [[CR-A16's Pointy Stick]]. The Behemoth Slayer will always instantly kill any [[Behemoth]] it hits. Note: This only applies to standard [[0b10]] Behemoth-class bots. [[Marauder|Marauders]] and the [[Superbehemoth]] are immune to this effect. When its effect activates, the game log [[GameText]][Behemoth] suddenly blasts apart at the seams.[[/GameText]]","","","","","","",""
 "CR-A16's Pointy Stick","Part","Given by the [[Derelict]] CR-A16 in [[Zion]]. When used to attack [[Behemoth|Behemoths]], there is a chance that this will transform into [[CR-A16's Behemoth Slayer]]. When this occurs, the log message [[GameText]]CR-A16's Pointy Stick's crusty surface crumbles away to reveal its sleek core, which hums to life.[[/GameText]] will appear.
-Note: This transformation effect only applies to standard [[0b10]] Behemoth-class bots. [[Marauder|Marauders]] and the [[Superbehemoth]] are immune to this effect. However, it will still transform if used on an allied Behemoth or disabled one, such as the Behemoths that sometimes appear in [[Zhirov (Location)]].","Spoiler","","","","","",""
+Note: This transformation effect only applies to standard [[0b10]] Behemoth-class bots. [[Marauder|Marauders]] and the [[Superbehemoth]] are immune to this effect. However, it will still transform if used on an allied Behemoth or disabled one, such as the Behemoths that sometimes appear in [[Zhirov (Location)]].","","","","","","",""
 "Carbide Saw","Part","","","","","","","",""
 "Carbon-fiber Leg","Part","","","","","","","",""
 "Cargo Convoy","Other","[[Image]]Cargo Convoy.png|Intact cargo convoy[[/Image]]
@@ -1148,7 +1148,7 @@ Caves checkpoints are square-shaped open spaces with a guard positioned at the c
 There are three types of checkpoints:
 [[Table]]
 Central guard|Alignment|Square size|Possible additional guards|Formation||
-[[Mutant]]|Friendly (Warlord)|7x7|0, 2 or 4 [[Thug|Thugs]], [[Butcher|Butchers]] or [[Savage|Savages]]|X, / or \\-shaped||
+[[Mutant]]|Friendly (Warlord)|7x7|0, 2 or 4 [[Thug|Thugs]], [[Butcher|Butchers]] or [[Savage|Savages]]|X, / or \\\\-shaped||
 Sentry|Hostile (0b10)|7x7|[[Swarmer|Swarmers]], [[Grunt|Grunts]], [[Duelist|Duelists]] or [[Brawler|Brawlers]]|Chaotic||
 [[Behemoth]]|Hostile (0b10)|6x6|None|N/A
 [[/Table]]
@@ -4470,7 +4470,7 @@ Propulsion/Energy|
 Propulsion/Heat|
 Propulsion/Support|
 Propulsion/Burnout
-[[/PartGroupTable]]","","","Flight Units","","Cooled Flight Units,Diametric Drives,Flight Arrays,Surge Thrusters","",""
+[[/PartGroupTable]]","","","","","Cooled Flight Units,Diametric Drives,Flight Arrays,Surge Thrusters","",""
 "Flightbrick","Part","","","","","","","",""
 "Flying Fortress v7","Part","","","","","","","",""
 "Focal Shield","Part","","","","","","","",""
@@ -6717,7 +6717,7 @@ Just Browsing: Reach 25% gallery collection.
 Made in Tau Ceti IV: Enter [[Factory]].
 |Dangerous Findings: Enter [[Research]].
 |Denied?: Enter [[Access]].
-|\\IAMDERELICT: [[Spoiler]]Enter [[Recycling]] via [[Storage]].[[/Spoiler]]
+|\\\\IAMDERELICT: [[Spoiler]]Enter [[Recycling]] via [[Storage]].[[/Spoiler]]
 |I'm Back, Baby!: Exit [[Caves|Proximity Caves]].
 |Tourist: Visit 3 branch areas.
 |Adventurer: Visit 2 special cave areas.
@@ -6784,14 +6784,14 @@ For example, if a bot has equipped:
 [[/List]]
 its total mass is 14. Its movement speed depends on which propulsion unit it has activated:
 [[List]]
-With the treads: The bot is underweight (14 \u00e2\u2030\u00a4 20). The time to move one tile is 160.
-|With the wheel: The bot is 1 time overweight (10 < 14 \u00e2\u2030\u00a4 20). The time to move one tile is 80 + 15 = 95.
-|With neither (core propulsion): The bot is 4 times overweight (12 < 14 \u00e2\u2030\u00a4 15). The time to move one tile is 50 + (50 \u00c3\u2014 4) = 250.
+With the treads: The bot is underweight (14 ≤ 20). The time to move one tile is 160.
+|With the wheel: The bot is 1 time overweight (10 < 14 ≤ 20). The time to move one tile is 80 + 15 = 95.
+|With neither (core propulsion): The bot is 4 times overweight (12 < 14 ≤ 15). The time to move one tile is 50 + (50 × 4) = 250.
 [[/List]]
 
 [[Heading:2]]Formula[[/Heading]]
 Mathematically, the amount of time it takes a bot to move one tile (ignoring mechanics for flight and hover units) is
-\u00ce\u00a3[[I]]d[[/I]][[Sub]][[I]]i[[/I]][[/Sub]]/[[I]]n[[/I]] + \u00e2\u0152\u0160max(0, [[I]]m[[/I]] \u00e2\u02c6\u2019 1)/\u00ce\u00a3[[I]]s[[/I]][[Sub]][[I]]i[[/I]][[/Sub]]\u00e2\u0152\u2039(\u00ce\u00a3[[I]]p[[/I]][[Sub]][[I]]i[[/I]][[/Sub]]/[[I]]n[[/I]])
+Σ[[I]]d[[/I]][[Sub]][[I]]i[[/I]][[/Sub]]/[[I]]n[[/I]] + ⌊max(0, [[I]]m[[/I]] − 1)/Σ[[I]]s[[/I]][[Sub]][[I]]i[[/I]][[/Sub]]⌋(Σ[[I]]p[[/I]][[Sub]][[I]]i[[/I]][[/Sub]]/[[I]]n[[/I]])
 where
 [[List]]
 [[I]]s[[/I]][[Sub]][[I]]i[[/I]][[/Sub]] is the mass support for propulsion unit [[I]]i[[/I]]
@@ -6800,7 +6800,7 @@ where
 |[[I]]m[[/I]] is the total mass of all attached parts
 |[[I]]n[[/I]] is the total number of activated propulsion units
 [[/List]]
-and all sums \u00ce\u00a3 are over all activated propulsion units.
+and all sums Σ are over all activated propulsion units.
 
 [[Heading]]Flight and Hover Units[[/Heading]]
 Flight and hover units calculate their movement speed in the same basic way as legs, treads, and wheels, but they have the following additional mechanics that affect movement speed:
@@ -7060,10 +7060,10 @@ Weapons|Time to fire|Time per weapon||
 [[CellStyle:Neutral]][[B]]1 with QC[[/B]]|[[CellStyle:Neutral]][[B]]100[[/B]]|[[CellStyle:Neutral]][[B]]100[[/B]]||
 1|200|[[CellStyle:Bad]]200||
 2|300|[[CellStyle:Bad]]150||
-3|325|[[CellStyle:Bad]]≈108.3||
-4|350|[[CellStyle:Good]]87.5||
-5|375|[[CellStyle:Good]]75||
-6|400|[[CellStyle:Good]]≈66.7
+3|325|[[CellStyle:Bad]]108⅓||
+4|350|[[CellStyle:Good]] 87½||
+5|375|[[CellStyle:Good]] 75||
+6|400|[[CellStyle:Good]] 66⅔
 [[/Table]]
 
 The Quantum Capacitor has several benefits on top of firing time:
@@ -7075,7 +7075,8 @@ Equipping fewer weapons means they get damaged more slowly (but it leaves your c
 |No overkill: you can stop firing right when an enemy dies instead of finishing a large volley
 [[/List]]
 
-The Quantum Capacitor takes two slots, so it takes a lot of space and is difficult to swap in and out situationally. And because it tends to appear in the mid-to-late game, a build that has invested heavily in weapon slots may find the Quantum Capacitor difficult to justify, or at least face the sunk cost of extra weapon slots that will be little help with a Quantum Capacitor. The extra weapon slots can be used for situational weapons or for ""weapon armor"": high-coverage, high-integrity weapons like the [[Sigix Broadsword]].","","","","","","",""
+The Quantum Capacitor takes two slots, so it takes a lot of space and is difficult to swap in and out situationally. And because it tends to appear in the mid-to-late game, a build that has invested heavily in weapon slots may find the Quantum Capacitor difficult to justify, or at least face the sunk cost of extra weapon slots that will be little help with a Quantum Capacitor. The extra weapon slots can be used for situational weapons or for ""weapon armor"": high-coverage, high-integrity weapons like the [[Sigix Broadsword]].
+","","","","","","",""
 "Quantum Companion","Part","The Quantum Companion is a unique talking melee weapon that is an upgrade to the [[Companion Sword]]. It can be obtained by either using a [[Subatomic Replicator]] on a Companion Sword or by using the Companion Sword for while. The Quantum Companion has all of the special effects that the base Companion Sword has with a higher frequency of occurrence and also has some new unique effects of its own.
 
 [[Heading]]Special Effects[[/Heading]]
@@ -8976,8 +8977,10 @@ Dealing with Crushers on slower builds is a much more daunting task. Crushers ar
 [[Image]]Wastes Crusher Lure.png|Crusher loop strategy[[/Image]]Fighting Crushers head on without enough firepower can usually result in essential parts of the build getting crushed onto the floor. One way to reduce the risk is to fight the Crushers in a circle around the starting corner of the map. Dig a tunnel around the starting area and shoot Crushers through it like the image on the right. The walls in the map have 28 armor, so a thermal cannon or kinetic cannon are ideal for digging. [[Adv. Assault Cannon|Adv. Assault Cannons]] and [[Hvy. Ion Cannon|Hvy. Ion Cannons]] are both capable of doing the dig, although higher rating parts will do it better. Once the path is dug, Crushers are forced to take the long path around, giving plenty of time to get free shots off. However, this technique is a little risky as it is possible to get totally surrounded by multiple Crushers.
 Sometimes the best option is simply to detach all parts and make a run for it. If the EMP is off, dropping parts in the corner of the map preemptively is a good idea. If the Derelict allies are on the map, they can clear out most of the Crushers for you so you can go back and pick up your parts later. Even if there are no allies around, being able to pick the parts that you want to take is a lot better than having all your parts crushed and being stuck with potentially only junk.
 
+[[Spoiler]]
 [[Heading]][[RIF]][[/Heading]]
-Using RIF along with a [[Datajacks|Datajack]] and [[Relay Coupler [NC]|NC Couplers]] makes each Crusher non-hostile for 3 charges a pieces. This makes the Crushers trivial to loot for maximum salvage, although the EMP can still make the process be quite annoying. Since there are 6 Crushers, the total cost is 18 charges for the whole map. Ramming these bots when neutralized this way is safe to do if running low on matter.","","","","","","",""
+Using RIF along with a [[Datajacks|Datajack]] and [[Relay Coupler [NC]|NC Couplers]] makes each Crusher non-hostile for 3 charges a pieces. This makes the Crushers trivial to loot for maximum salvage, although the EMP can still make the process be quite annoying. Since there are 6 Crushers, the total cost is 18 charges for the whole map. Ramming these bots when neutralized this way is safe to do if running low on matter.
+[[/Spoiler]]","","","","","","",""
 "Strategy/Maps/Zion Deep Caves","Other","[[Zion Deep Caves]] is an optional challenge [[Branch]] that serves as a series of checklists. Each section of the map plays out in a similar way each time, and there are some requirements to deal with them in a consistent way. Here is a general checklist of things that will be useful throughout the map:
 [[List]]
 Propulsion/Weapon/Armor + backups: Lots of fighting is required in this map. Having backups of these more important parts will keep the build in fighting shape.|
@@ -11320,7 +11323,7 @@ Most weapons can be fired together as a volley, excluding Special Weapons, Speci
 
 [[Heading:2]]Volley Time Costs[[/Heading]]
 
-Each weapon in a ranged multi-weapon volley will increase the volley\u00e2\u20ac\u2122s total time cost, with each weapon being more efficient time-wise:
+Each weapon in a ranged multi-weapon volley will increase the volley's total time cost, with each weapon being more efficient time-wise:
 [[Table]]Number of Weapons|Time cost||1|200||2|300||3|325||4|350||5|375||6+|400[[/Table]]
 This is then modified by the sum of the delay stats of every weapon in the volley, then by the time cost reduction of an equipped [[Weapon Cyclers|Weapon Cycler]], [[Quantum Capacitor]], or [[Launcher Loader]], when applicable. A single volley may not cost less than 25 time units.
 
@@ -11330,7 +11333,7 @@ When multiple melee weapons are fired in a single volley, the first will always 
 
 [[Heading:2]]Recoil[[/Heading]]
 
-Certain weapons (Especially ballistic ones) suffer from recoil. The sum of every other weapon\u00e2\u20ac\u2122s recoil will be assessed as a penalty to each weapon in a volley containing weapon(s) suffering from recoil.
+Certain weapons (Especially ballistic ones) suffer from recoil. The sum of every other weapon's recoil will be assessed as a penalty to each weapon in a volley containing weapon(s) suffering from recoil.
 
 [[Heading]]Energy/Ballistic Gun Mechanics[[/Heading]]
 
