@@ -3438,13 +3438,14 @@ Several non-standard exits also appear in Factory. [[Chute Trap|Chute Traps]] wi
 "Fanart","Other","Check out the following artists' fanart pages:
 [[List]]
 [[Fanart/CaptainWinky|CaptainWinky]]|
+[[Fanart/Equine Sketcher|Equine Sketcher]]|
 [[Fanart/ivelieu|ivelieu|ivelieu]]|
 [[Fanart/jimmyl|jimmyl]]|
 [[Fanart/Maiker|Maiker]]|
-[[Fanart/Equine Sketcher|Equine Sketcher]]|
+[[Fanart/Nameless Sheetmusic|Nameless Sheetmusic]]|
 [[Fanart/Radbanker|Radbanker]]|
 [[https://zyalin.wixsite.com/zyalin-art/cogmind|Zyalin (external site)]]
-[[/List]]","","","","","","","Fanart/CaptainWinky,Fanart/Equine Sketcher,Fanart/Maiker,Fanart/Radbanker,Fanart/ivelieu,Fanart/jimmyl"
+[[/List]]","","","","","","","Fanart/CaptainWinky,Fanart/Equine Sketcher,Fanart/Maiker,Fanart/Nameless Sheetmusic,Fanart/Radbanker,Fanart/ivelieu,Fanart/jimmyl"
 "Fanart/CaptainWinky","Other","Original thread on gridsagegames forums [[https://www.gridsagegames.com/forums/index.php?topic=1773.0|here]].
 
 [[Heading]]G-11 Fodder[[/Heading]]
@@ -4360,6 +4361,15 @@ fanart/Equine Sketcher/Clone.png|Alike (Cogmind and [[CL-0N3]])
 [[/SpoilerExpandable]]","","","","","","",""
 "Fanart/Maiker","Other","[[Fanart]] created by Maiker:
 [[FanartGallery]]fanart/maiker/Behemoth_GJ_was_here.gif|Behemoth + GJ was here|fanart/maiker/Brawler_Bonk.gif|Brawler Bonk|fanart/maiker/Demolisher_Shoot.gif|Demolisher Shoot|fanart/maiker/Disguised_Cogmind.gif|Disguised Cogmind|fanart/maiker/Get_Heavy'ed.gif|Get Heavy'd|fanart/maiker/GOLEM_Full_Loop.gif|GOLEM|fanart/maiker/Grunt_Shoot.gif|Grunt Shoot|fanart/maiker/Hunter_Drone.gif|Hunter Drone|fanart/maiker/luigi_force_ram.gif|LU-1G1's Force Ram|fanart/maiker/Programmer_Shoot.gif|Programmer Shoot|fanart/maiker/Sentry_Shoot.gif|Sentry Shoot[[/FanartGallery]]","","","","","","",""
+"Fanart/Nameless Sheetmusic","Other","[[Fanart]] created by Nameless Sheetmusic:
+[[FanartGallery]]
+fanart/Nameless Sheetmusic/Chainsaw_Compact.png|Compact Chainsaw|
+fanart/Nameless Sheetmusic/Chainsaw.png|Chainsaw
+|fanart/Nameless Sheetmusic/Chainsaw_Armored.png|Armored Chainsaw
+|fanart/Nameless Sheetmusic/Chainsaw_Extended.png|Extended Chainsaw|
+fanart/Nameless Sheetmusic/Sawblade_launcher.png|Sawblade Launcher|
+fanart/Nameless Sheetmusic/PSL_Array.png|PSL Array
+[[/FanartGallery]]","","","","","","",""
 "Fanart/Radbanker","Other","[[Fanart]] created by Radbanker:
 [[FanartGallery]]fanart/radbanker/Part Art 1.png|Assorted part art[[/FanartGallery]]
 Top Left:
@@ -5728,7 +5738,7 @@ Power/Stability
 The majority of maps are randomly generated, meaning no two runs or two depths will have the exact same layout. However, the overall structure of each location type is very similar. Some maps tend to be more open with large rooms and wide corridors, while others are more maze-like with tiny rooms and many small corridors leading into dead-ends. A few branches are partially or entirely static in layout and tend to be much more predictable in contents than main floors.
 Branches do not progress upward toward the exit and can often be harder than the main floors. However, branches can offer unique challenges and have similarly unique rewards that can dramatically change a run. This could be powerful unique items, special events, gameplay-altering alignment, or rare permanent buffs.
 The following is a list of all locations in Cogmind:
-[[AllLocations]]","","","","","","","Access,Access_0,Archives,Armory,Caves,Cetus,Command,DSF,Data Miner (Location),Exiles (Location),Extension,Factory,Garrison,Hub_04(d),Lab,Materials,Mines,Protoforge,Quarantine,Recycling,Research,Scraptown,Scrapyard,Section 7,Storage,Subcaves,Surface,Testing,Warlord,Wastes,Zhirov,Zion,Zion Deep Caves"
+[[AllLocations]]","","","","","","","Access,Access_0,Archives,Armory,Caves,Cetus,Command,DSF,Data Miner (Location),Exiles (Location),Extension,Factory,Garrison,Hub_04(d),Lab,Materials,Mines,Protoforge,Quarantine,Recycling,Research,Scraptown,Scrapyard,Section 7,Storage,Subcaves,Surface,Testing,Warlord,Wastes,Zhirov (Location),Zion,Zion Deep Caves"
 "Longsword +1","Part","","","","","","","",""
 "Lrg. Battery","Part","","","","","","","",""
 "Lrg. Botcube","Part","","","","","","","",""
