@@ -29,6 +29,63 @@ Effect/Effect
 "12-ASH","Bot","[[GameText]]Hail to the king![[/GameText]]
 12-ASH is a member of the [[Heroes of Zion]] equipped with [[12-ASH's Boomstick]] and [[Ripper]].","","","","","","",""
 "12-ASH's Boomstick","Part","","","","","","","",""
+"1B-0RG","Bot","1B-0RG is part of the deadly group of [[Unchained]] [[Derelict|Derelicts]] that work for [[0b10]] to track down threats to the complex. Its signature weapon, [[1B-0RG's Assimilator]], can be used to assimilate friendly and hostile bots alike, granting them additional offensive and defensive parts as well as regeneration. While unable to deal damage directly, 1B-0RG always surrounds themselves with souped-up allies that make them hard to pin down. Standard 0b10 combat bots are buffed into larger threats while non-combat bots are armed. Additionally, they continue to assimilate bots throughout the map and send them in smaller scouting patrols, overwhelming the map given enough time. Although 1B-0RG is greatly overweight, their [[Sfc. Targeting Obfuscator]], [[Sfc. Borg Regenerator]], and [[Sfc. Absorption Layer]] make it difficult to deal enough damage to take them out while they are on the run.
+
+[[Heading]]Lore[[/Heading]]
+[[Lore]]Cyclists Records|UC/1B-0RG[[/Lore]]
+
+[[Heading:2]][[FarCom]] Lore[[/Heading]]
+If Cogmind has aligned with the [[Exiles (Group)|Exiles]] and has FarCom, the following message will be broadcast about 1B-0RG:
+[[GameText]]They won't come after you directly, and take a while to assimilate the locals, but if you let them reach critical mass you will be in serious trouble. Even worse, getting spotted by 1B-0RG himself will instantly let all Borg know exactly where you are.[[/GameText]]
+
+[[Heading]]Behavior[[/Heading]]
+1B-0RG starts off with a few allies and is relatively harmless at first, but they quickly get to work in assimilating large amounts of 0b10 bots. 1B-0RG doesn't go so far out of their way as to assimilate every bot nearby, though they do typically try to assimilate any bots who happen to cross their path. All assimilated bots follow 1B-0RG initially, though once there are 8 bots following, 3 of them split up and form their own ""collective"" of a patrol. There is no limit to the total number of assimilated bots that can be controlled, and over time, this army will increase size practically indefinitely due to repeated non-combat bot respawn and assimilation loop. While these traditionally non-combat bots have low core integrity, they can still be quite threatening offensively due to the power of the Sfc. weapons.
+Unlike most Unchained, 1B-0RG does not possess [[Perfect Tracking]] on Cogmind, instead roaming around the map at random. They do not actively pursue even once Cogmind is spotted. However, once Cogmind has been spotted by 1B-0RG specifically, they gain perfect tracking for the rest of the floor. 1B-0RG also grants that tracking to any assimilated bots as long as it is alive. This is a very dangerous ability if 1B-0RG has been allowed to assimilate a large number of bots, since that entire army will immediately head to Cogmind's position. Even more annoying, further assimilated bots also gain that perfect tracking, leading to a constant trickle of hostiles heading to Cogmind's location if 1B-0RG is left to their devices.
+
+[[Heading:2]]Assimilated Bots[[/Heading]]
+Bots that are assimilated by 1B-0RG get some AI behavior changes, core and part regeneration, as well as new unique [[Self-contained Parts]]. See [[1B-0RG's Assimilator#Assimilated Bots|this page]] for more details.
+
+[[Heading]]Strategy[[/Heading]]
+When 1B-0RG is authorized, make your decision quickly whether to find an exit and leave the map, to avoid them personally but continue to stay on the map, or to try to hunt them down as soon as possible. The longer you let them be, the more the map will become filled roaming groups of hostiles that are hard to avoid. Time is not on your side with this Unchained.
+Most assimilated bots end up being green non-combat bots, though there are typically plenty of combat bots thrown in the mix as well. Non-combat assimilated bots don't pose much of a threat for combat builds due to their low core integrity, though they can still deal some good damage with the self-contained weapons. Some combat bots can be made downright frightening, like a [[Hunter]] or [[Behemoth]] with 2 extra cannons added to their build, and especially paired with the defensive power of the [[Sfc. Absorption Layer]] or [[Sfc. Targeting Obfuscator]]. Make sure you pay careful attention to the unique Self-contained parts that are added to the build to see you need to adjust your typical strategies.
+For stealthier builds, some standard tools for dealing with squads like the [[Mni. Smartbomb Launcher]] or [[Combat Drone Bay]] paired with some form of robot detection can help take them out without risking much of Cogmind's own integrity. Avoiding assimilated bots can be a possibility if 1B-0RG has not spotted Cogmind personally, though increased patrol density is always a major nuisance. Once spotted by 1B-0RG though, be aware there is no longer any escape due to the perfect tracking granted to all borg.
+Although enhanced, assimilated combat bots still generally perform like their non-assimilated forms. You will want to use the same offensive techniques that you would to take out normal squads of bots (like using [[Launchers]]). However, the most noticeable difference with assimilated bots is that some of them may switch from ranged to fully melee combat, so make sure you check for weapon types on any borg bots that you fight. It may be worth carrying around a [[Kinetic Cannons|Kinetic Cannon]] for knockback purposes since there are far more melee borgs than there are standard melee 0b10 bots.
+Taking down 1B-0RG is much like fighting any other ally-spawning Unchained: Destroy their nearby allies, then take down the source of your troubles. Finding them may be a bit of a pain because the [[Triangulator]] that works against most other Unchained doesn't work here, though standard [[Sensor Arrays|Sensors]] or [[IFF Parsers]] work well enough. Telltale purple assimilated bots may also lead you in the right direction. 1B-0RG hovers at a leisurely 147 speed which is slower than all underweight propulsion types except for most [[Treads]], so it shouldn't be too much trouble to keep up with them. Remember that the moment you actually encounter them, all assimilated bots across the map will gain immediate perfect tracking on you, so a Triangulator may actually be useful at this point in time. Depending on how long it has been since 1B-0RG has entered the map, you may have to quickly deal with the assimilated bots heading to your direction or else risk getting beaten down by a large number of hostiles. Fighting in closed-off areas can help avoid being surrounded. However, if you do successfully burst down 1B-0RG before the bulk of the borg catch up, any remaining assimilated will lose tracking like normal afterwards.
+Any kind of standard non-EM weaponry works equally well against 1B-0RG, although it may also be said that they are all equally ineffective thanks to the 50% damage reduction of the Sfc. Absorption Layer. [[Vortex Weapons|Vortex]] or [[Phasic Weapons]] have a niche in bypassing the standard damage resistance. The Absorption Layer has high coverage and low integrity so it should get destroyed fairly quickly in combat, though 1B-0RG's part regeneration will keep it alive longer than it seems like it should.
+Pure 1-on-1 combat on a reasonably fast build is one of the better strategies to take down 1B-0RG. [[Traps]] are not generally very effective against them thanks to their highest slot parts being protection or multislot and thus being immune to sever. Allies can be effective but also may prove to be a liability thanks to 1B-0RG's assimilation capability. Unless you are confident in your allies' ability to conclusively end the fight quickly, you may end up fighting more of your own assimilated allies than 1B-0RG's own bots. The biggest exception here is drone-type allies like [[Combat Drone|Combat Drones]] and the [[Wardrone]] since they are immune to assimilation. Their high speed also makes them easily able to keep up with 1B-0RG as they try to run away. Their [[Sfc. Interdiction Field]] does provide a slight movement penalty to these fast fliers, though it is not as significant as it can be for a flight Cogmind.","","","","","","",""
+"1B-0RG's Assimilator","Part","1B-0RG's Assimilator is a unique weapon that is only found as a drop from [[1B-0RG]] or, as of Beta 16.1, in 4L-MR0's Lab in [[Subcaves]]. It cannot be used offensively, but instead has an effect to assimilate both friendly or hostile bots, buffing them in the process.
+[[Heading]]Assimilated Bots[[/Heading]]
+Bots that are assimilated with the Assimilator lose their standard AI and become combat bots if they weren't previously. For example, assimilated [[U-05 Engineer|Engineers]] no longer rebuild structures or flee during combat, instead engaging foes head-on. The exact behavior depends on whether it is Cogmind or 1B-0RG who assimilated the bot. 1B-0RG-assimilated bots do not retain any kind of non-combat behaviors whatsoever. However, Cogmind-assimilated bots still retain some of their old functionality. An assimilated [[Mechanic]] can still be used to AID Cogmind and other friendly bots.
+Assimilated bots gain a hidden ability to regenerate both part and core integrity based on the number of assimilated bots in their ""collective"" of active borg bots. The more bots in the collective, the higher the regeneration rate. Their loadout becomes modified as part of the assimilation process as well. 1-2 [[Self-contained Parts|Self-contained]] utilities and an additional 1-2 weapons are added at random to the bot. Existing weapons that are compatible with the current attack style of the bot are retained but  weapons not compatible are replaced. For example, a [[G-50 Soldier|G-50 Soldier's]] [[Hvy. Laser]] may be combined with a ranged [[Sfc. Borg Chaingun]] leading to a 2 weapon volley. However, if the Soldier gets a melee [[Sfc. Borg Fist]], the Hvy. Laser will be lost since it is not compatible in the volley. This variable effect can often be detrimental, like removing all of the good ranged armament of a [[Behemoth]] and instead replacing it with a less effective melee weapon.
+
+[[Heading:2]]Sfc. Weapons[[/Heading]]
+[[List]]
+[[Sfc. Borg Blade]]|
+[[Sfc. Borg Chaincannon]]|
+[[Sfc. Borg Chaingun]]|
+[[Sfc. Borg Fist]]|
+[[Sfc. Borg Gutpuncher]]|
+[[Sfc. Borg Joltstriker]]|
+[[Sfc. Borg Laser]]|
+[[Sfc. Borg Pulsar Launcher]]|
+[[Sfc. Borg Pulseblaster]]
+[[/List]]
+
+[[Heading:2]]Sfc. Utilities[[/Heading]]
+[[List]]
+[[Sfc. Absorption Layer]]|
+[[Sfc. Autominer]]|
+[[Sfc. Borg Regenerator]]|
+[[Sfc. Cooling Unit]]|
+[[Sfc. Door Spiker]]|
+[[Sfc. Materializer]]|
+[[Sfc. Impeller]]|
+[[Sfc. Interdiction Field]]|
+[[Sfc. Personal Shield]]|
+[[Sfc. Sightfinder]]|
+[[Sfc. Target Tracker]]|
+[[Sfc. Targeting Obfuscator]]
+[[/List]]","","","","","","",""
 "1C-UTU","Bot","","","","","","","",""
 "1C-UTU's Buckler","Part","","","","","","","",""
 "1C-UTU's Sword ""Choppy""","Part","","","","","","","",""
@@ -52,7 +109,8 @@ If Cogmind has aligned with the [[Exiles (Group)|Exiles]] and has FarCom, the fo
 6 projectiles at 25% Blast crit each is a terrifying prospect. Fighting 6S-H0T without a [[Graphene Brace]] is likely to lead to many parts on Cogmind's body being blasted off and onto the ground. 2 or more slot parts can mitigate this to some degree, though it's still quite likely to get multiple parts blasted off.
 Thanks to the Six Shooter's high targeting bonus, evasion utilities are unhelpful against 6S-H0T. Instead, focus on reducing damage through other parts. Kinetic damage resistance via [[Resistance Devices]] or [[Resistance Armor]] work well, particularly when combined with [[Hardlight Generators]]. [[Shield Generators]] and [[Force Fields]] are always useful, though they may require some [[Energy Wells]] to support the fast drain considering the high immediate damage.
 As with all Unchained, allies are extremely helpful when fighting 6S-H0T, both as damage dealers and as distractions to take some fire off of you. In a pinch, even a basic [[Drone Bay]] can be useful as a distraction. If 6S-H0T spots the [[Drone|Drones]] before Cogmind, it will shoot them first. A single bay can potentially waste 2 out of the 5 volleys, with each Drone most likely dying in a single volley.
-6S-H0T doesn't have any particular defensive weaknesses, though it does sport a slightly annoying 25% kinetic and very high 90% EM damage resistance. Because of this, Thermal is the best conventional damage type, although most forms of damage work reasonably well against this bot. [[Explosive Launchers]] may kill all chance of salvage, but they are a good choice at quickly dealing a lot of damage in a short period of time, even while missing the otherwise evasive 6S-H0T. If not using Launchers, [[Core Analyzers]] are incredibly valuable thanks to its extremely low base core coverage.","","","","","","",""
+6S-H0T doesn't have any particular defensive weaknesses, though it does sport a slightly annoying 25% kinetic and very high 90% EM damage resistance. Because of this, Thermal is the best conventional damage type, although most forms of damage work reasonably well against this bot. [[Explosive Launchers]] may kill all chance of salvage, but they are a good choice at quickly dealing a lot of damage in a short period of time, even while missing the otherwise evasive 6S-H0T. If not using Launchers, [[Core Analyzers]] are incredibly valuable thanks to its extremely low base core coverage.
+One good strategy against 6S-H0T is to use traps against them, specifically [[Blade Trap|Blade]] and [[Segregator Trap|Segregator Traps]]. Since they are not dismember immune, you can use these to easily remove higher coverage parts off of their body like their Six Shooter and hover units. With a [[Triangulator]] or other kind of sensors, it is easier to tell which way they are coming and plant the traps so they step on them to get to you. Without one, just place them near a corner or at a doorway so you can force 6S-H0T to step on them by repositioning a little bit. With some luck, you can remove their gun or even render them completely immobile, making them a piece of cake to take out.","","","","","","",""
 "6S-H0T's SS Cartridge","Part","","","","","","","",""
 "6S-H0T's Six Shooter","Part","","","","","","","",""
 "7R-MNS","Bot","","","","","","","",""
@@ -450,9 +508,9 @@ Method|Alert influence reduction||
 Cogmind part destroyed by combat hostile|10||
 Non-combat ally destroyed by combat hostile|10||
 Combat ally destroyed by combat hostile|20||
+[[Search Patrol]] dispatched|100||
 Alert(Purge) [[Terminal]] hack|150||
-purge_threat [[Operator]] RIF hack|150 [[Sub]]1[[/Sub]]||
-[[Search Patrol]] dispatched|150
+purge_threat [[Operator]] RIF hack|150 [[Sub]]1[[/Sub]]
 [[/Table]]
 [[List:Ordered]]Each purge_threat hack reduces the amount of influence reduced by 25 until the minimum value of 50 is reached. So purging will reduce by 150, 125, 100, 75, and remain at 50. This number resets back to 150 with each new map.[[/List]]","","","","","","",""
 "Alien Artifacts","Part Group","","Spoiler","","Alien Artifacts","","","",""
@@ -621,7 +679,7 @@ Upkeep/Energy|
 Upkeep/Heat|
 Effect/Effect|
 Effect/Description
-[[/PartGroupTable]]","","","","Lgt. Armor Plating,Med. Armor Plating,Hvy. Armor Plating,Zio. Light Carapace,Zio. Heavy Carapace,Hrd. Light Armor Plating,Hrd. Medium Armor Plating,Hrd. Heavy Armor Plating,Imp. Light Armor Plating,Imp. Medium Armor Plating,Imp. Heavy Armor Plating,Mak. Light Armor Plating,Mak. Medium Armor Plating,Mak. Heavy Armor Plating,Lyr. Light Armor Plating,Lyr. Medium Armor Plating,Lyr. Heavy Armor Plating,Gun Armor,Centrium Light Armor Plating,Centrium Medium Armor Plating,Centrium Heavy Armor Plating,Centrium Linked Plating,Mak. Ablative Armor,Active Cooling Armor,Scrap Shield,Enh. Scrap Shield,DW-4LL's Blast Wall,Tower Shield,Vmp. Brace Plating","Backup Plating,Powered Armor (Group),Regenerative Armor,Resistance Armor","Shieldings",""
+[[/PartGroupTable]]","","","","Lgt. Armor Plating,Med. Armor Plating,Hvy. Armor Plating,Zio. Light Carapace,Zio. Heavy Carapace,Hrd. Light Armor Plating,Hrd. Medium Armor Plating,Hrd. Heavy Armor Plating,Imp. Light Armor Plating,Imp. Medium Armor Plating,Imp. Heavy Armor Plating,Mak. Light Armor Plating,Mak. Medium Armor Plating,Mak. Heavy Armor Plating,Lyr. Light Armor Plating,Lyr. Medium Armor Plating,Lyr. Heavy Armor Plating,Gun Armor,Centrium Light Armor Plating,Centrium Medium Armor Plating,Centrium Heavy Armor Plating,Centrium Linked Plating,Mak. Ablative Armor,Active Cooling Armor,Scrap Shield,Enh. Scrap Shield,DW-4LL's Blast Wall,Tower Shield,Vmp. Brace Plating,V4-D3R's Cape,Sfc. Absorption Layer","Backup Plating,Powered Armor (Group),Regenerative Armor,Resistance Armor","Shieldings",""
 "Armor Guard","Bot","","","","","","","",""
 "Armor Integrity Analyzer","Part","","","","","","","",""
 "Armor Integrity Analyzers","Part Group","[[Heading]]List of Armor Integrity Analyzers[[/Heading]]
@@ -799,6 +857,33 @@ Effect/Description
 "B-90 Cyclops","Bot","","","","","","","",""
 "B-99 Colossus","Bot","","","","","","","",""
 "BFG-9k Vortex Edition","Part","","","","","","","",""
+"BL-1NK","Bot","BL-1NK is part of the deadly group of [[Unchained]] [[Derelict|Derelicts]] that work for [[0b10]] to track down threats to the complex. Most of their loadout is a fairly standard mix of offensive and defensive combat parts with one major exception: the [[Blink Core]]. This part forces BL-1NK to teleport at random close to Cogmind's position. It is impossible to shake them on faster propulsion types because they will always teleport nearby no matter how far away Cogmind gets. Slower builds may have trouble engaging them in combat, and especially finishing them off thanks to this ability. Tracking them down can be difficult post teleport thanks to their Scan Cloak 5 rendering them immune to standard [[Sensor Arrays|Sensors]]. Another unique aspect of BL-1NK is their ability to wield a different set of weapons each time they reappear.
+
+[[Heading]]Lore[[/Heading]]
+[[Lore]]Cyclists Records|UC/BL-1NK[[/Lore]]
+
+[[Heading:2]][[FarCom]] Lore[[/Heading]]
+If Cogmind has aligned with the [[Exiles (Group)|Exiles]] and has FarCom, the following message will be broadcast about BL-1NK:
+[[GameText]]BL-1NK has a problem staying in one place during fights, but that's also your problem if you're hoping to use terrain to your advantage. Setting up an ambush could be hard... maybe a [[Triangulator]] would help![[/GameText]]
+
+[[Heading]]Behavior[[/Heading]]
+BL-1NK is an unparalleled guerrilla ambusher among the Unchained, appearing near Cogmind in a different direction each time after being dispatched. Each time they teleport, they wind up roughly 20 tiles away from Cogmind out of line of sight. This will frequently place them in rooms or around corners. When BL-1NK engages Cogmind in combat, they stick around to shoot for a few volleys of combat and then teleport away. Sometimes they only stay for a single volley and immediately teleport, giving no chance to fire back on them. After this, they ditch their current weapon loadout and restock with 3 random weapons from the following list:[[List]]
+[[Adv. KE Penetrator]]|
+[[Helical Railgun]]|
+[[Hvy. Tesla Rifle]]|
+[[Gamma Rifle]]|
+[[Prc. Phase Gun]]|
+[[Quantum Rifle]]
+[[/List]]
+Note: If they have penetrating weapons, they shoot through walls like [[Hunter|Hunters]] do.
+When BL-1NK teleports due to combat, they stay still for a few turns to regenerate energy and rearm themselves. They come running back after Cogmind after this. Once armed, BL-1NK will almost always end up overweight at 90 speed instead of their stated 43 speed due to the mass of their weapons.
+Bl-1NK is impossible to shake simply by running on faster builds. They teleport close to Cogmind every time they get around 30 tiles or further away. While it is possible to avoid combat with them if Cogmind is fast enough, they will continue to pursue relentlessly for the entirety of the map unless their core is lowered enough in combat to run away.
+
+[[Heading]]Strategy[[/Heading]]
+BL-1NK is one of the more annoying but less immediately threatening Unchained. While their constantly changing armament makes it difficult to protect against all types of damage simultaneously, they don't have a high damage output, any scary critical hit types, or summon lots of allies. Their biggest threat is in their endless harassment and ability to drag out brief bursts of combat for a prolonged period of time, likely engaging you at inopportune moments when you are trying to stealth by or fight other squads. As such, an important decision to make when dealing with BL-1NK is whether you want to try to stay in one place to fight them or to keep moving and deal with them as they pop up. Depending on your depth and map position, staying still for extended periods of time may result in many [[Extermination Squad|exterminations]] being dispatched to your position or more [[Patrol Squad|patrols]] walking nearby. If you're in an isolated area and can kill [[Programmer|Programmers]] easily, it might be better to wait around and try to kill them in one spot.
+Regardless of whether you are going to engage BL-1NK or try to run from them, an extremely useful item to have around is a [[Triangulator]]. The Exiles recommend this part for good reason since it will reveal BL-1NK's location at all times. An [[IFF Parser]] is another part that works to locate them, although the range is much smaller and it suffers from a slower once every 2 turn update rate. The teleport range is around 20 tiles within Cogmind's position so they are always within the long 24 tile range of the Triangulator. This makes it easy to either avoid them or to plan your shots out preemptively. If you have penetrating weapons like [[Kinetic Guns]], you can sometimes get free shots off on BL-1NK before they are able to fire back at you. This is especially helpful in combination with the Triangulator since it provides immediate updates rather than the delayed once per turn updates like regular Sensors.
+Defensively, BL-1NK has a few strong points. An [[Adv. Hardlight Generator]] coupled with 25% innate kinetic resistance can cut down kinetic gun damage significantly, sometimes down to 50% or less for lower rating guns. Thermal damage is also reduced by the Hardlight, though at least there is no additional resistance. Kinetic or thermal cannons are more effective at taking BL-1NK down if you're going to use either of these 2 damage types. A standard Unchained 90% EM resistance makes [[Corruption]] death very difficult, although it is still theoretically possible. Melee damage types are fully unresisted which is a great option for airborne propulsion types that can easily maneuver into a favorable position to attack before they teleport away. If you do use melee, just watch out for their penetrating attacks with kinetic guns which can hit you in unexpected positions and eat away at your cover.
+","","","","","","",""
 "Backup Laser I","Part","","","","","","","",""
 "Backup Laser III","Part","","","","","","","",""
 "Backup Laser VII","Part","","","","","","","",""
@@ -956,6 +1041,7 @@ Behemoth Facing Up.png|A Behemoth facing up
 "Blade Trap","Part","","","","","","","",""
 "Blast Cannon","Part","","","","","","","",""
 "Blast Turret","Bot","","","","","","","",""
+"Blink Core","Part","","","","","","","",""
 "Bolt Gun","Part","","","","","","","",""
 "Bolteater","Bot","Bolteaters are fast [[Wheels|wheeled]] [[UFD]] combat bots armed with [[Ripteeth]]. Valuable for a wheels build with their [[Rocket Booster|Rocket Boosters]]. Their ripteeth can rip off a component ignoring armor, so keep them away from you. Slightly resistant to Kinetic, Thermal, Electromagnetic and Explosive damage.","","","","","","",""
 "Bomb Drone","Bot","Fast disposable drones that attempt to melee hostiles, which will cause them to explode. Deployed by a [[Bomb Drone Bay]]","","","","","","",""
@@ -984,7 +1070,9 @@ Brawlers may appear in the following squads:
 "C-17 Slicer","Bot","","","","","","","",""
 "C-30 ARC","Bot","","","","","","","",""
 "C-35 Carver","Bot","","","","","","","",""
-"C-40 Crusher","Bot","Wastes is a [[0b10]]-controlled sub-floor in Factory that appears on most floors between -7 and -4. It can only be entered when Cogmind triggers a [[Chute Trap]]. Cogmind will get dropped in instantly. Any bots that have been dropped into chutes previously will be present on the map. Any nearby allies will drop in over time. Wastes can be a very brutal map for an unprepared player thanks to the 6 hostile [[C-40 Crusher|Crushers]] that can crush Cogmind's build in a few hits. There is an EMP that is on in some Wastes maps that fires every 100 turns and adds between 5 to 10% [[Corruption]] to Cogmind. This corruption can be reduced by EM [[Resistance Devices]] and prevented with [[Dynamic Insulation Systems]]. There are various broken, faulty, or otherwise low integrity parts scattered on the ground. These parts can be up to 2 ratings out of depth and can be good to try to [[Repair Station|repair]] or [[Scanalyzer|scan]], and [[Fabricator|fabricate]].\nThe layout of this map is semi-fixed. The entrance, exits, and general layouts of the map are similar, although the exact layout can vary a bit in which way paths are connected. There are wide 4 tile corridors that sometimes have 8 by 8 tile wide dead ends on the far ends of the map. Cogmind spawns on the left side, and the exit will always be in an 8 by 8 tile section on the right side of the map.\n\n[[Heading]]Lore[[/Heading]]\n[[Lore]]0b10 Records|Waste[[/Lore]]\n\n[[Heading]]Variations[[/Heading]]\n[[Image]]Wastes Allies.png|[[Derelict|Derelicts]] hiding in the walls waiting to attack[[/Image]][[Image]]Wastes Allies Waiting.png|Allies that invaded chutes waiting for Cogmind[[/Image]]\nThere are 4 primary variations of Wastes:\n[[List]]No Allies: Crushers are present, and there are no allies. The EMP may be on or off.|Hiding Allies: Crushers are present, and there are Derelict allies hiding in the walls. The Derelicts will burst out of their hiding spot when coming near them. There is a small stash of weapons and armor in their hiding spot. The EMP may be on or off|Raided: The EMP is disabled but there are no alive Crushers or Derelicts on the map. Some damaged Crusher loot and broken Crushers and Derelicts are present. Broken crushers may suddenly reactivate if Cogmind gets too close.|Personal Army: The EMP is disabled, there are no alive Crushers, but there is a group of Derelicts waiting for Cogmind.[[/List]]\n\n[[Heading]]Strategy[[/Heading]]\nSee [[Strategy/Maps/Wastes]].","","","","","","",""
+"C-40 Crusher","Bot","Crushers are heavy-duty [[Treads|treading]] trash (you) compacting machines plated in [[Damper Plating]], rendering them nearly immune to electromagnetic damage. Crushers will attempt to compact anything that is not a Crusher, and their Compactor is a VERY formidable melee weapon (does not drop) that will either [[B]]destroy or drop a few of your parts[[/B]]. Weak to explosions and strong against melee (which would be a bad idea regardless).
+
+Due to their extreme lethality in melee, stay out of their range at all costs, and maybe just run the hell out of [[Wastes]]. Alternatively pack a good launcher or a good critical weapon, as their plating will tank most of your shots.","","","","","","",""
 "C-45 Heavy ARC","Bot","","","","","","","",""
 "C-55 Analyst","Bot","","","","","","","",""
 "C-57 Dissector","Bot","","","","","","","",""
@@ -1052,6 +1140,105 @@ Alternatively, with a long 1-tile corridor that has paths in both directions to 
 "CR-A16's Behemoth Slayer","Part","Transformed from [[CR-A16's Pointy Stick]]. The Behemoth Slayer will always instantly kill any [[Behemoth]] it hits. Note: This only applies to standard [[0b10]] Behemoth-class bots. [[Marauder|Marauders]] and the [[Superbehemoth]] are immune to this effect. When its effect activates, the game log [[GameText]][Behemoth] suddenly blasts apart at the seams.[[/GameText]]","","","","","","",""
 "CR-A16's Pointy Stick","Part","Given by the [[Derelict]] CR-A16 in [[Zion]]. When used to attack [[Behemoth|Behemoths]], there is a chance that this will transform into [[CR-A16's Behemoth Slayer]]. When this occurs, the log message [[GameText]]CR-A16's Pointy Stick's crusty surface crumbles away to reveal its sleek core, which hums to life.[[/GameText]] will appear.
 Note: This transformation effect only applies to standard [[0b10]] Behemoth-class bots. [[Marauder|Marauders]] and the [[Superbehemoth]] are immune to this effect. However, it will still transform if used on an allied Behemoth or disabled one, such as the Behemoths that sometimes appear in [[Zhirov (Location)]].","","","","","","",""
+"CY-PHR","Bot","CY-PHR is a part of the deadly group of [[Unchained]] [[Derelict|Derelicts]] that work for [[0b10]] to track down threats to the complex. They are arguably the most unique of the Unchained due to the fact that they can affect the game far before they appear on the map. CY-PHR interferes with Cogmind's [[Interactive Machine]] hacking capabilities early on and will not show up until several floors later. Offensively, they pose little threat with their [[CY-PHR's Mindspike]] only being capable of disabling Cogmind rather than dealing direct damage. However, this weapon paired with their high speed and [[Exp. Phase Shifter]] makes them difficult to pin down while fleeing, so killing them even after finding them can be a real challenge. While not functionally useful, they also have 4 slots of powerful [[Prototype Part|Prototype]] [[Hackware]] which make for some highly desirable loot.
+
+[[Heading]]Lore[[/Heading]]
+[[Lore]]Cyclists Records|UC/CY-PHR[[/Lore]]
+
+[[Heading:2]][[FarCom]] Lore[[/Heading]]
+If Cogmind has aligned with the [[Exiles (Group)|Exiles]] and has FarCom, the following message will be broadcast about CY-PHR:
+[[GameText]]Wow, you managed to get CY-PHR interested in you? Good luck in your future hacking endeavors, as they love to mess with the results. Keep at it and try to track them down... somewhere out there in 0b10. They're wimpy and will leave you alone for good if you can find them. Big if.[[/GameText]]
+
+[[Heading]]Behavior[[/Heading]]
+CY-PHR's first signs of interest in Cogmind come much sooner than the other Unchained. Rather than being authorized once Cogmind has caused lots of trouble, they will instead start to show their presence beforehand. CY-PHR adds cryptic leetspeak messages as part of machine hacking outputs under a stylized ascii MATRIX logo once Cogmind has performed enough successful hacks. There are 6 messages that appear this way, corresponding with 50%, 60%, 70%, 80%, 90%, and 100% of the successful hacking threshold required to fully trigger CY-PHR to begin interfering with Cogmind. The threshold to trigger is likely be somewhere between 150-300 successful hacks, with different hacks contributing a different amount of progress toward the trigger.
+
+[[Heading:2]]Threshold Messages[[/Heading]]
+[[Expandable]]Threshold messages with leetspeak|[[Gallery:Full]]CY-PHR Message 1.png|50% threshold message|CY-PHR Message 2.png|60% threshold message|CY-PHR Message 3.png|70% threshold message|CY-PHR Message 4.png|80% threshold message|CY-PHR Message 5.png|90% threshold message|CY-PHR Message 6.png|100% threshold message[[/Gallery]]
+Note: The binary ASCII around the MATRIX art translates to ""CYPHER"".
+[[/Expandable]]
+
+[[Heading:3]]""Translated"" Messages[[/Heading]]
+[[List]]
+50%: You feel like you're being watched. Probably because you are.|
+60%: You are quite the prolific hacker, derelict [random numbers]. Yep, you've done enough to enter into my personal database of naughty hacker bots. I've got my terminal eyes on you.|
+70%: You're probably dying to know who this is. Well try not to die too fast. This is just getting exciting because CYPHER is on your tail. Tracking your every mistake. And there sure are a lot of them.|
+80%: I may not be the oracle (that one is a subservient idiot), but I see a lot of roadblocks in your not-too-distance future if you keep this up.|
+90%: Pooling my resources as I send this message, just waiting until you cross the seemingly arbitrary threshold beyond which bossman said I can do whatever I want to counter network threats such as yourself. SOON ENOUGH.|
+100%: I can't believe it took this long, but I just discovered you are that Cogmind thing everyone's been raving about. Putting you in your place will be a nice digital trophy. IT'S ON.
+[[/List]]
+
+[[Heading:2]]Hacking Interference[[/Heading]]
+Once the final message has been met, CY-PHR will begin to interrupt Cogmind's hacking capabilities on all interactive machines. There are a large number of effects, some that are applicable to all Terminals, and others that are unique to specific types of hacks.
+
+[[Heading:3]]Random Comments[[/Heading]]
+CY-PHR will taunt Cogmind when performing hacks, either successfully or unsuccessfully. For example, when Cogmind loads a schematic in a [[Fabricator]], CY-PHR may say [[GameText]]I think there's something wrong with your [part name] schematic. It's upside down.[[/GameText]] Comments like these are simply flavor text and do not have any practical effect.
+
+[[Heading:3]]Random Keyboard Noises[[/Heading]]
+Sometimes when performing a hack, there will be an additional message of [[GameText]]*random keyboard noises*[[/GameText]]. This effect does not do anything by itself, but rather indicates that CY-PHR is messing with the results of a hack. It does not always show up, but if it is present, you can be sure that the results will be faulty.
+
+[[Heading:3]]Machine Lockout[[/Heading]]
+Sometimes when successfully hacking CY-PHR will cause the machine to be instantly shut down and an [[Investigation Squad]] will be summoned to the location. There is no chance of feedback effect with this occurs unlike standard machine tracing. This is always accompanied by the ""random keyboard noises"" effect.
+
+[[Heading:3]]Locating Failures[[/Heading]]
+Whenever Cogmind performs any kind of location hack, there is a chance that CY-PHR will reduce the number of found things or fail to report them entirely. For example, performing a [[GameText]]Access(Main)[[/GameText]] hack may report only 2 out of 4 main exits on the floor. This effect can occurs with all Access hacks and [[GameText]]Traps(Locate)[[/GameText]].
+
+[[Heading:3]]Database Failure[[/Heading]]
+When Cogmind is trying to hack for a [[Robot Analysis]] or [[Schematic]], the hack may succeed but have a joke entry replace the real hack results instead. It is also possible that a real but other random schematic will be hacked instead of the requested one.
+
+[[Heading:3]][[GameText]]Prototypes[[/GameText]] Failure[[/Heading]]
+Instead of retrieving random prototype part IDs, fake part names may be generated instead. If this happens, Cogmind doesn't gain any real prototype information.
+
+[[Heading:3]][[GameText]]Alert(Purge)[[/GameText]] Failure[[/Heading]]
+Occasionally, this hack will instead increase the alert level instead of purging it. When this happens, 100 alert will be added and the message will be replaced with [[GameText]]Added threat record, spice level increased.[[/GameText]]
+
+[[Heading:3]][[GameText]]Alert(Check)[[/GameText]] Indirection[[/Heading]]
+This hack no longer tells the exact alert level but instead gives a taunting message by CY-PHR based on the alert level:
+[[Table]]
+Alert level|Message 1|Message 2|Message 3|Message 4||
+Low Security|Green|Not A Troublemaker?!|Baby Mode|Laughable||
+Level 1|Yellow|Weakling|Disappointingly Low|Enjoyable||
+Level 2|Red|Bad Boy|Who Wants To Know?|Unfriendly||
+Level 3|Purple|Tough Nut|Just Right|Promising||
+Level 4|Black|Popular|Really Really High|Outrageous||
+Level 5|Brimstone|I Want My Mommy|Are We Winning Yet?|Impossible
+[[/Table]]
+
+[[Heading:3]]Unreliable Parts[[/Heading]]
+Parts that are repaired at a [[Repair Station]] (including [[GameText]]Force(Patch)[[/GameText]] or that are created by a [[Fabricator]] have a chance of becoming unreliable. These parts have a small chance of breaking with use, with the log message [[GameText]][Part name] shoots sparks and powers down.[[/GameText]] They enter the broken state, though they do not have any other negative effects like integrity loss. Parts broken this way may be repaired through normal means like with [[Recalibrators]], [[Mechanic|Mechanics]], or other Repair Stations, although they will continue to break again in the future.
+
+[[Heading:3]][[GameText]]Force(Recompile)[[/GameText]] Failure[[/Heading]]
+There is a random chance that performing a Recompile at a Fabricator will produce the wrong type of [[Authchips|Authchip]].
+
+[[Heading:3]]Traceback[[/Heading]]
+Performing a few hacks after CY-PHR has been fully triggered will result in a [[GameText]]### SYSTEM_CRASH ###[[/GameText]]. The machine will become locked, but among flavor text there is a depth listed that is a few depth higher than Cogmind's current depth. Another crash soon after will also indicate a map. This is the location that CY-PHR will appear. Once on the given map, two further crashes will reveal a quadrant of the map and a relative position of CY-PHR's lair.
+
+[[Heading:2]]Fake Alerts[[/Heading]]
+One additional effect CY-PHR has that isn't directly related to hacking is the generation of fake alerts like [[High Security]] engaged. These will broadcast through the standard map alert message and include the standard sound effect too. This is purely to mess with the player and does not have any real effect.
+
+[[Heading:2]]CY-PHR's Lair[[/Heading]]
+[[Image]]CY-PHR Lair.png|CY-PHR in their lair[[/Image]]
+CY-PHR's lair will appear on the map and depth indicated in the traceback info. This can either be fully inside a standard room and accessible through a normal door or a special hidden area only accessible through an emergency access door. In the latter case, [[Terrain Scanners|Terrain Scanning]] or a [[Structural Scanner]] can be helpful to find the location without having to walk along the edge of every map. CY-PHR will be in the middle of the room in some twisted machinery that they can move through, although Cogmind is unable to.
+
+[[Heading:3]]Engagement[[/Heading]]
+Once CY-PHR spots Cogmind, they will immediately start to flee toward a nearby exit or [[Garrison Access]]. They will use their Mindspike if blocked, but otherwise they will not attempt to engage in combat directly. At this time, they will also summon 6 random drones from a nearby exit. The summoned drones initially have tracking on Cogmind, though they can be shaken by running away. Drones can any of the following types with unique names:
+[[List]]
+[[Antisys Drone]]: EM-DR0N3 ""Zapster""|
+[[EX Drone]]: EX-DR0N3 ""Pwner""|
+[[Kinetic Drone]]: KI-DR0N3 ""Flydakka""|
+[[Thermal Drone]]: TH-DR0N3 ""Hotstuff""
+[[/List]]
+
+[[Heading:3]]Post-Engagement[[/Heading]]
+After Cogmind has met CY-PHR on the map they will leave Cogmind alone for good. All special hacking effects will go away on this and all future maps. This will happen even if CY-PHR is still alive and manages to escape.
+
+[[Heading]]Strategy[[/Heading]]
+ Offensively, CY-PHR is no threat alone. However, their summoned drones are much more problematic with their high damage output and 22 speed. CY-PHR tends to camp out close to stairs or a Garrison which they will summon the drones out of, so they will be on top of you almost immediately. You can deal with them reliably with an [[Explosive Launchers|Explosive Launcher]], though it does take precious time away from you chasing down CY-PHR before they leave the map. CY-PHR's Mindspike doesn't directly deal damage, but it will quickly immobilize you and stop your pursuit.
+Defensively, CY-PHR's main assets are a reasonably quick 32 speed, a sizeable chunk of low exposure core, an [[Exp. Propulsion Shielding]] to protect their hover units, and an [[Exp. Phase Shifter]]. The shielding prevents critical hits from removing their hover units too easily. They also have an [[Exp. Cloaking Device]], although Cogmind is not affected by it. Additionally, CY-PHR has a fairly standard Unchained 90% EM damage resistance which makes death by [[Corruption]] very unreliable. Other than that, all non-EM weapon types work equally well against CY-PHR.
+Depending on your offensive and defensive capabilities, it may be desirable to get spotted by CY-PHR purely so you can hack in peace. If you want to do this, the best strategy is to try to map out the nearby area before engaging. The moment you get spotted, the Drones will be instantly dispatched with tracking on Cogmind. If you are airborne, you can ideally take an alternate exit than the closest one or use an [[ECM Suites|ECM Suite]] to lose the Drones before they catch up. Using a cannon to dig into the room from another angle is a good way to get yourself an alternate route to safety. Note that you have to be fully spotted in order to trigger the Drones and the effect for them to leave you alone. A [[Partial Spot]] does not work to stop their harrassment. For combat builds, you will likely have to fight the summoned Drones no matter what.
+To successfully kill CY-PHR is another challenge entirely. Depending on the map layout, you might be able to block them in their lair by standing at the entrance to the room. They are unable to hop you while they have a weapon attached, though if you shoot off their Mindspike they will be able to hop Cogmind to get away. Melee weapons are good to use in this case since they can't miss and accidentally open up a path for CY-PHR to escape. The downside of this approach is that you can be consistently hit with the Mindspike and will have to tank the Drones coming up from behind. Some Drones can even dig a path for CY-PHR to escape around you which is not ideal. Having good offensive power like melee + 50% [[Actuators]] or lots of ranged weapons like [[Kinetic Guns]] can help you take them out before you are harassed too much by the Drones. Using salvage neutral or positive weapons is ideal due to the number of great parts they can drop.
+Another strategy to take out CY-PHR is to use traps. [[Blade Trap|Blade]] and [[Segregator Trap|Segregator Traps]] are the best choice for this. Planting 4 or more of these traps has a high chance of taking out the Mindspike and all 3 of their hover units, rendering them completely immobile and helpless. To have the best shot at pulling this out, try to figure out the path that CY-PHR will take to get to the exit and plant the traps along that path. Once you do this, try to fight the Drones away from where CY-PHR will hopefully be stuck waiting for you. The [[Zip Rocket]] from an EX Drone can kill your salvage otherwise.
+Large groups of allies are helpful to distract the Drones that are dispatched after being spotted by CY-PHR. However, unlike most other Unchained, they are not overly helpful to take down CY-PHR. The huge radius on their Mindspike will likely end up disabling most if not all of your allies immediately. Instead, you can try to park the allies at the nearest exit or Garrison so they can ambush the Drones when they appear. Worst case, they can still try to get a few shots off on CY-PHR if they manage to get away from you.","","","","","","",""
+"CY-PHR's Mindspike","Part","","","","","","","",""
 "Carbide Saw","Part","","","","","","","",""
 "Carbon-fiber Leg","Part","","","","","","","",""
 "Cargo Convoy","Other","[[Image]]Cargo Convoy.png|Intact cargo convoy[[/Image]]
@@ -1367,6 +1554,7 @@ Friendly Derelicts will not move from their guard position, but they will engage
 "Cep. Miniperforator","Part","","","","","","","",""
 "Cep. NT7 Matterbank","Part","","","","","","","",""
 "Cep. Nanofilaments [Conductive]","Part","","","","","","","",""
+"Cep. Nanofilaments [Endoweave]","Part","","","","","","","",""
 "Cep. Nanofilaments [Polyglass]","Part","","","","","","","",""
 "Cep. Nanofilaments [Tensile]","Part","","","","","","","",""
 "Cep. Navigation Harness","Part","","","","","","","",""
@@ -2079,7 +2267,7 @@ Upkeep/Energy|
 Effect/Effect
 [[/PartGroupTable]]","","","","Component Analysis Suite,Imp. Component Analysis Suite,Adv. Component Analysis Suite","","",""
 "Concussive RPG","Part","","","","","","","",""
-"Consumable Alien Artifacts","Part Supergroup","","Spoiler","","","Dimensional Node Initializer,Core Expander,Core Regenerator,Integrity Redistributor,Integrated Dissipator,Supercharged Integrated Dissipator,Integrated Thermoelectric Network,Integrated Reactor,Supercharged Integrated Reactor,Integrated Mediator,Core Membrane,Navigation Efficiency Matrix,Core Reset Matrix,Subatomic Replicator,Terrabomb,LRC Armor,LRC Energy Well,LRC Matter Compressor,LRC Inertial Stabilizer,LRC Insulator,LRC Storage,Core Physics Calibrator,Personal Teleporter v0.10,Telecube,Spacefold Activator,Microwarp Drive,LC Capacitor,Cep. Nanofilaments [Conductive],Cep. Nanofilaments [Tensile],Cep. Nanofilaments [Polyglass]","Transdimensional Reconstructors","",""
+"Consumable Alien Artifacts","Part Supergroup","","Spoiler","","","Dimensional Node Initializer,Core Expander,Core Regenerator,Integrity Redistributor,Integrated Dissipator,Supercharged Integrated Dissipator,Integrated Thermoelectric Network,Integrated Reactor,Supercharged Integrated Reactor,Integrated Mediator,Core Membrane,Navigation Efficiency Matrix,Core Reset Matrix,Subatomic Replicator,Terrabomb,LRC Armor,LRC Energy Well,LRC Matter Compressor,LRC Inertial Stabilizer,LRC Insulator,LRC Storage,Core Physics Calibrator,Personal Teleporter v0.10,Telecube,Spacefold Activator,Microwarp Drive,LC Capacitor,Cep. Nanofilaments [Conductive],Cep. Nanofilaments [Endoweave],Cep. Nanofilaments [Tensile],Cep. Nanofilaments [Polyglass]","Transdimensional Reconstructors","",""
 "Containment Facilitator","Part","","","","","","","",""
 "Coolant Injector","Part","","","","","","","",""
 "Coolant Injectors","Part Group","[[Heading]]List of Coolant Injectors[[/Heading]]
@@ -2103,7 +2291,7 @@ Overview/Integrity|
 Overview/Coverage|
 Upkeep/Energy|
 Effect/Effect
-[[/PartGroupTable]]","","","","Heat Sink,Imp. Heat Sink,Adv. Heat Sink,Exp. Heat Sink,Cep. Phasing Heat Sink,Cooling System,Imp. Cooling System,Mak. Coolant Network,Adv. Cooling System,Exp. Cooling System,Asb. Nanovents,Coolant Network,2N-1CE's Frost Array","","",""
+[[/PartGroupTable]]","","","","Heat Sink,Imp. Heat Sink,Mak. Heat Sink,Adv. Heat Sink,Exp. Heat Sink,Cep. Phasing Heat Sink,Cooling System,Imp. Cooling System,Mak. Coolant Network,Adv. Cooling System,Exp. Cooling System,Asb. Nanovents,Coolant Network,2N-1CE's Frost Array,Sfc. Cooling Unit","","",""
 "Cooling System","Part","","","","","","","",""
 "Cooling Utilities","Part Supergroup","[[Heading]]List of Cooling Utilities[[/Heading]]
 [[PartGroupTable]]
@@ -2774,7 +2962,7 @@ Overview/Rating|
 Overview/Integrity|
 Overview/Coverage|
 Effect/Effect
-[[/PartGroupTable]]","","","","Sml. Battery,Med. Battery,Lrg. Battery,Hcp. Battery,Com. Battery,Energy Well,Imp. Energy Well,Adv. Energy Well,Exp. Energy Well,Zio. Biocell,Zio. Biocell Array,Asb. Biocell Array,Superbattery,Cep. Chromion Battery","","",""
+[[/PartGroupTable]]","","","","Sml. Battery,Med. Battery,Lrg. Battery,Hcp. Battery,Com. Battery,Energy Well,Imp. Energy Well,Adv. Energy Well,Exp. Energy Well,Zio. Biocell,V4-D3R's Forcewell,Zio. Biocell Array,Asb. Biocell Array,Superbattery,Cep. Chromion Battery","","",""
 "Engines","Part Group","[[Heading]]List of Engines[[/Heading]][[PartGroupTable]]
 Engines|
 Overview/Size|
@@ -3438,7 +3626,7 @@ Several non-standard exits also appear in Factory. [[Chute Trap|Chute Traps]] wi
 [[List]]
 [[Fanart/CaptainWinky|CaptainWinky]]|
 [[Fanart/Equine Sketcher|Equine Sketcher]]|
-[[Fanart/ivelieu|ivelieu|ivelieu]]|
+[[Fanart/ivelieu|ivelieu]]|
 [[Fanart/jimmyl|jimmyl]]|
 [[Fanart/Maiker|Maiker]]|
 [[Fanart/Nameless Sheetmusic|Nameless Sheetmusic]]|
@@ -4805,7 +4993,7 @@ Another way to deal with Grunts is to take advantage of their low memory (20 act
 
 [[Heading]][[Squad|Squads]][[/Heading]]
 Grunts may appear in the following squads:
-[[List]][[Assault Squad]]|[[Garrison Squad]]|[[Investigation Squad]]|[[Patrol Squad]]|[[Reinforcement Squad]]|[[Security Squad]] - Only in [[Armory]], [[Garrison|Garrisons]], [[Quarantine]], and [[Testing]]|[[Transport Squad]][[/List]]","","G-34 Mercenary,G-47 Trooper,G-50 Soldier,G-67 Veteran,G-73 Enforcer,Protovariant G,Hotshot","","","","",""
+[[List]][[Assault Squad]]|[[Garrison Squad]]|[[Investigation Squad]]|[[Patrol Squad]]|[[Reinforcement Squad]]|[[Security Squad]] - Only in [[Armory]], [[Garrison|Garrisons]], [[Quarantine]], and [[Testing]]|[[Transport Squad]][[/List]]","","G-34 Mercenary,G-47 Trooper,G-50 Soldier,G-67 Veteran,G-73 Enforcer,Protovariant G,Hotshot,Stormtrooper","","","","",""
 "Guerrilla","Bot Group","Guerillas are [[Legs|legged]] [[Derelict]] combat bots equipped with an inaccurate yet powerful [[Bore Cannon]] with a high Destroy critical chance. These are the Derelict version of a [[Hunter]]. Their [[Targeting Computer]] somewhat offset the targeting penalty, and they have a minimal evasion boost with a [[Phase Shifter]]. Unlike Hunters, Guerillas have an [[Armor Integrity Analyzer]] allowing them to occasionally bypass enemy armor. Guerrillas are common bots that show up in many different types of Derelict encounters and events.","","Guerrilla (5),Guerrilla (7)","","","","",""
 "Guerrilla (5)","Bot","","","","","","","",""
 "Guerrilla (7)","Bot","","","","","","","",""
@@ -4831,10 +5019,13 @@ They cannot be fired in a volley with other weapons, only alone.
 "H-77 Assassin","Bot","","","","","","","",""
 "H-81 Overseer","Bot","","","","","","","",""
 "H-88 Terminator","Bot","","","","","","","",""
+"H3-MLN's Flail","Part","","","","","","","",""
 "HERF Cannon","Part","","","","","","","",""
 "HV-R5K","Bot","[[GameText]]They trapped me with the old Behemoth-in-the-wall trick. Won't happen again![[/GameText]]","","","","","","",""
 "Hacking Drone","Bot","","","","","","","",""
-"Hacking Drone Bay","Part","Deploys [[Hacking Drone|Hacking Drones]].\n\nWhen using with [[Imprint]], ensure you stay beyond the 10-tile ""ping"" radius of a terminal until the drone has hacked the terminal, since once the terminal has been hijacked by [[Zion]] it is unable to be hacked. The drone will only hack the terminal if it is within its field of view and its current command is ""Follow"". If you are unable to get within field of view of the terminal without triggering the Zion hijack, you can try and use the ""Explore"" and ""Roam"" ally commands to get the drone to fly into a spot where the terminal is in its field of view. When this happens, issue the ""Follow"" command. The drone will then hack the terminal.","","","","","","",""
+"Hacking Drone Bay","Part","Deploys [[Hacking Drone|Hacking Drones]].
+
+When using with [[Imprint]], ensure you stay beyond the 10-tile ""ping"" radius of a terminal until the drone has hacked the terminal, since once the terminal has been hijacked by [[Zion]] it is unable to be hacked. The drone will only hack the terminal if it is within its field of view and its current command is ""Follow"". If you are unable to get within field of view of the terminal without triggering the Zion hijack, you can try and use the ""Explore"" and ""Roam"" ally commands to get the drone to fly into a spot where the terminal is in its field of view. When this happens, issue the ""Follow"" command. The drone will then hack the terminal.","","","","","","",""
 "Hacking Suite","Part","A must-have for when you want to go for a hacking route. Download the schematic and make sure you fabricate enough in the factories. Can also be looted from [[Operator|Operators]].","","","","","","",""
 "Hackware","Part Supergroup","Hackware is a group of Utility parts that improve hacking capabilities, mainly success chance for terminal hacks, trap rewiring and robot rewiring. Hackware also helps you hack hostiles through the defense of a [[Programmer]]. Additionally, later Hackware makes it harder for your allies to be hacked.","","","","","Defensive Hackware,Offensive Hackware","",""
 "Hammer","Part","","","","","","","",""
@@ -5674,7 +5865,7 @@ Explosion/Disruption|
 Explosion/Salvage|
 Effect/Effect|
 Effect/Description
-[[/PartGroupTable]]","","","","Sub. Shrapnel Launcher,Thermoblaster,Vortex Catalyst Activator,Containment Facilitator","Electromagnetic Launchers,Explosive Launchers,Sigix Terminators","",""
+[[/PartGroupTable]]","","","","Sub. Shrapnel Launcher,Thermoblaster,Vortex Catalyst Activator,Containment Facilitator,Sfc. Borg Pulsar Launcher","Electromagnetic Launchers,Explosive Launchers,Sigix Terminators","",""
 "Legs","Part Group","Legs strike a middle ground in terms of support, speed, and structural integrity. They are commonly used by (and available from) light combat 0b10 bots, including [[Grunt|Grunts]], [[Hunter|Hunters]], and [[Specialist|Specialists]].
 
 While on legs, [[Cogmind]] is immune to damage from ramming hostile bots, and instead has a 20% chance per active leg slot to kick them out of the way (unless they are huge).
@@ -5785,6 +5976,7 @@ The following is a list of all locations in Cogmind:
 "Mak. Flight Unit","Part","","","","","","","",""
 "Mak. Hacking Suite","Part","","","","","","","",""
 "Mak. Hammer","Part","","","","","","","",""
+"Mak. Heat Sink","Part","","","","","","","",""
 "Mak. Heavy Armor Plating","Part","","","","","","","",""
 "Mak. Hover Unit","Part","","","","","","","",""
 "Mak. Kinetic Plating","Part","","","","","","","",""
@@ -5865,7 +6057,7 @@ This strategy is unreliable, uses up the unique Chronowheel part, requires havin
 [[/List]]
 
 Last edited during Beta 16.","","","","","","",""
-"Materials","Location","Materials is the first real level of the game. These maps are small, cramped and have few paths forward. This is the first map with hostile [[0b10]] patrols hanging around, comprised mainly of low level [[G-34 Mercenary]] and [[G-47 Trooper]] grunts and [[S-10 Pest]] swarmers. There are also a few special special mechanics such as [[U-05 Engineer|Engineers]] not calling for reinforcements when attacked while trying to build structures in -10 and -9 and [[A-02 Transporter|Haulers]] not calling for reinforcements at all.
+"Materials","Location","Materials is the first real level of the game. These maps are small, cramped and have few paths forward. This is the first map with hostile [[0b10]] patrols hanging around, comprised mainly of low level [[G-34 Mercenary]] and [[G-47 Trooper]] grunts and [[S-10 Pest]] swarmers. There are also a few special special mechanics such as [[U-05 Engineer|Engineers]] not calling for reinforcements when attacked while trying to build structures in -10, with a low but increasing chance from -9 onward, and [[A-02 Transporter|Haulers]] not calling for reinforcements at all.
 Trying to play flight or hover is not easy in Materials due to many forced encounters with combat robots, little room for maneuvering and few slots yet available for good utilities. The usual recommended way to play these maps is to grab some legs or treads and start blasting. Most players prefer not to transfer to airborne propulsion until [[Factory]] where it is much easier to stealth around and avoid combat. In Materials, it's good to fight enemies one at a time by leading them to one of the many doorways around the map. Use of launchers is very effective whenever there is more than a single bot grouped up close.
 [[Alert]] is not a big issue in these maps because of the relatively small map size and number of total patrols. If making a mess of the floors on -10 and -9, entering the [[Mines]] is a good way to lose all of the alert gained from the early Materials maps.
 Full list of depth-specific mechanics that apply in Materials:
@@ -6558,7 +6750,7 @@ Overview/Integrity|
 Overview/Coverage|
 Upkeep/Energy|
 Effect/Effect
-[[/PartGroupTable]]","","","","Phase Shifter,Imp. Phase Shifter,Adv. Phase Shifter,Exp. Phase Shifter,Asb. Combat Suite,Cep. Phase Shift Module","","",""
+[[/PartGroupTable]]","","","","Phase Shifter,Imp. Phase Shifter,Adv. Phase Shifter,Exp. Phase Shifter,Asb. Combat Suite,Cep. Phase Shift Module,Sfc. Targeting Obfuscator","","",""
 "Phasers","Part Group","[[Heading]]List of Phasers[[/Heading]]
 [[PartGroupTable]]
 Phasers|
@@ -6725,6 +6917,7 @@ Effect/Effect
 "Prc. Phase Gun","Part","","","","","","","",""
 "Prc. Rocket Launcher","Part","","","","","","","",""
 "Prc. Shock Rifle","Part","","","","","","","",""
+"Procsplitter","Part","","","","","","","",""
 "Programmer","Bot Group","Programmers are a [[Bot Groups|Bot Group]] of [[Hover Units|hovering]] [[0b10]] combat bots armed with EM weaponry and a [[Datajacks|Remote Datajack]]. Programmers will attempt to corrupt and hack any hostiles, potentially changing alliances by assimilating them. They can also remove system corruption from their allies and clear certain [[RIF]] hacks from allied bots. They are a persistent threat throughout [[Factory]] and beyond due to being sent as part of [[Extermination Squad|Extermination Squads]].
 Programmers are best fought with kinetic or thermal weaponry due to their slight weakness to them. Many cannons are able to kill a Programmer with only one core shot. These weapons are ideal to use. For thermal weaponry, they are also fairly susceptible to heat transfer triggering side effects and an early meltdown. Their EM resistance coupled with their tendency to travel in packs make EM and Impact poor choices to fight them, as corruption death is unlikely.
 Programmers are not initially very threatening bots. They deal small amounts of EM damage and appear only in small groups in [[Factory]] depths. However, in [[Research]] they turn into a frequent threat, appearing in larger groups and dealing significant EM damage inflicting consistent corruption to Cogmind. Having a good weapon that kill Programmers in a single core hit is ideal. For airborne builds, being able to outrun or recall Exterminations is a good strategy. Keep in mind that they are fairly fast for combat bots and have a high memory of 80. [[ECM Suites]] are very helpful for shaking Programmers more easily on the run.
@@ -6871,14 +7064,14 @@ For example, if a bot has equipped:
 [[/List]]
 its total mass is 14. Its movement speed depends on which propulsion unit it has activated:
 [[List]]
-With the treads: The bot is underweight (14 ≤ 20). The time to move one tile is 160.
-|With the wheel: The bot is 1 time overweight (10 < 14 ≤ 20). The time to move one tile is 80 + 15 = 95.
-|With neither (core propulsion): The bot is 4 times overweight (12 < 14 ≤ 15). The time to move one tile is 50 + (50 × 4) = 250.
+With the treads: The bot is underweight (14 â‰¤ 20). The time to move one tile is 160.
+|With the wheel: The bot is 1 time overweight (10 < 14 â‰¤ 20). The time to move one tile is 80 + 15 = 95.
+|With neither (core propulsion): The bot is 4 times overweight (12 < 14 â‰¤ 15). The time to move one tile is 50 + (50 Ã— 4) = 250.
 [[/List]]
 
 [[Heading:2]]Formula[[/Heading]]
 Mathematically, the amount of time it takes a bot to move one tile (ignoring mechanics for flight and hover units) is
-Σ[[I]]d[[/I]][[Sub]][[I]]i[[/I]][[/Sub]]/[[I]]n[[/I]] + ⌊max(0, [[I]]m[[/I]] − 1)/Σ[[I]]s[[/I]][[Sub]][[I]]i[[/I]][[/Sub]]⌋(Σ[[I]]p[[/I]][[Sub]][[I]]i[[/I]][[/Sub]]/[[I]]n[[/I]])
+Î£[[I]]d[[/I]][[Sub]][[I]]i[[/I]][[/Sub]]/[[I]]n[[/I]] + âŒŠmax(0, [[I]]m[[/I]] âˆ’ 1)/Î£[[I]]s[[/I]][[Sub]][[I]]i[[/I]][[/Sub]]âŒ‹(Î£[[I]]p[[/I]][[Sub]][[I]]i[[/I]][[/Sub]]/[[I]]n[[/I]])
 where
 [[List]]
 [[I]]s[[/I]][[Sub]][[I]]i[[/I]][[/Sub]] is the mass support for propulsion unit [[I]]i[[/I]]
@@ -6887,7 +7080,7 @@ where
 |[[I]]m[[/I]] is the total mass of all attached parts
 |[[I]]n[[/I]] is the total number of activated propulsion units
 [[/List]]
-and all sums Σ are over all activated propulsion units.
+and all sums Î£ are over all activated propulsion units.
 
 [[Heading]]Flight and Hover Units[[/Heading]]
 Flight and hover units calculate their movement speed in the same basic way as legs, treads, and wheels, but they have the following additional mechanics that affect movement speed:
@@ -7151,10 +7344,10 @@ Weapons|Time to fire|Time per weapon||
 [[CellStyle:Neutral]][[B]]1 with QC[[/B]]|[[CellStyle:Neutral]][[B]]100[[/B]]|[[CellStyle:Neutral]][[B]]100[[/B]]||
 1|200|[[CellStyle:Bad]]200||
 2|300|[[CellStyle:Bad]]150||
-3|325|[[CellStyle:Bad]]108⅓||
-4|350|[[CellStyle:Good]] 87½||
-5|375|[[CellStyle:Good]] 75||
-6|400|[[CellStyle:Good]] 66⅔
+3|325|[[CellStyle:Bad]]108â…“||
+4|350|[[CellStyle:Good]]â€‡87Â½||
+5|375|[[CellStyle:Good]]â€‡75||
+6|400|[[CellStyle:Good]]â€‡66â…”
 [[/Table]]
 
 The Quantum Capacitor has several benefits on top of firing time:
@@ -7516,7 +7709,15 @@ Heavy reinforcements are called more frequently if Cogmind is actively moving. I
 "Relay Coupler [Swarmer]","Part","","","","","","","",""
 "Relay Couplers","Part Group","Relay couplers are used with [[RIF]] to enable special bot hacks via [[Datajacks|datajacking]] that particular robot class described in the couplers description.
 Relay couplers will fry themselves when attached if you do not have [[RIF]].","","","","Relay Coupler [NC],Relay Coupler [C],Relay Coupler [Swarmer],Relay Coupler [Cutter],Relay Coupler [Grunt],Relay Coupler [Brawler],Relay Coupler [Duelist],Relay Coupler [Sentry],Relay Coupler [Demolisher],Relay Coupler [Specialist],Relay Coupler [Hunter],Relay Coupler [Heavy],Relay Coupler [Behemoth],Relay Coupler [Programmer],Relay Coupler [Proto]","","",""
-"Relay Interface Framework","Other","[[Image]]Garrison RIF Installer 1.png|RIF Installer in a Garrison[[/Image]]\nRelay Interface Framework, or RIF, is one of the major [[Alignment|alignments]] available to Cogmind in a run. It helps Cogmind to have much more control over [[0b10]] bots, both combat and non-combat. RIF comes with the downside of alienating several key [[Derelict]] factions, namely turning all Derelicts at [[Zion]] and [[Warlord (Location)]] hostile when passing their associated System Quarantine Field Array machines. [[Scraptown]] is safe to enter and you may safely use the c-scrubber machine, however you are unable to align with Scraptown and cannot enter the right side of the map.\n\nRIF is incompatible with the [[Core Reset Matrix]]. If Cogmind has used a CRM then it is not possible to gain RIF. If Cogmind uses a CRM after using RIF, then RIF will be entirely erased. Similarly, if Cogmind has [[Imprint|imprinted]], then the RIF will fail to be installed.\nInstalling RIF can be done at any [[Garrison]] by walking into a RIF Installer machine. These machines can be hidden behind emergency accesses and Phase Walls, but there are always 1-2 installers available per map. Doing so will grant several unique abilities:\n[[List]]Alert Monitor: Know the ambient influence level while in 0b10-controlled areas.\n [[Alert]] is displayed near the top right corner of the HUD, showing both the numeric influence value and the number-letter classification.|Garrison Interface: Gain control over Garrison Access machines, making it easier to hack them, and also easier to escape once inside. Also automatically detects [[Garrison Access|Garrisons]] and RIF Installers up to a range of 15.\nAll standard (non-manual) hacks at Garrison Machines will have a 100% chance to succeed. The 15-radius detection is very handy for finding new Garrisons to enter, as well as finding hidden RIF installers behind walls.|Coupler Protocols: Use [[Relay Couplers]] to interface with their respective robots.\nUse [[Datajacks]] with Relay Couplers to perform special hacks at the cost of charges on the Couplers. See [[~/rif|this page]] for the full list of hackable bots as well as unique hacks applicable to each type of bot.|Additional RIF abilities: See [[~/rif|this page]] for the full list of abilities.|Special [[Wintypes|Wintype]] interaction: [[Redacted]]If Cogmind touches the intact 0b10 Conduit machine in [[Command]] while being RIF-aligned, the W4 Assimilated 0b10 win will be achieved without needing to destroy both phases of [[MAIN.C]] as is typically required.[[/Redacted]][[/List]]","Spoiler","","","","","",""
+"Relay Interface Framework","Other","[[Image]]Garrison RIF Installer 1.png|RIF Installer in a Garrison[[/Image]]
+Relay Interface Framework, or RIF, is one of the major [[Alignment|alignments]] available to Cogmind in a run. It helps Cogmind to have much more control over [[0b10]] bots, both combat and non-combat. RIF comes with the downside of alienating several key [[Derelict]] factions, namely turning all Derelicts at [[Zion]] and [[Warlord (Location)]] hostile when passing their associated System Quarantine Field Array machines. [[Scraptown]] is safe to enter and you may safely use the c-scrubber machine, however you are unable to align with Scraptown and cannot enter the right side of the map.
+
+RIF is incompatible with the [[Core Reset Matrix]]. If Cogmind has used a CRM then it is not possible to gain RIF. If Cogmind uses a CRM after using RIF, then RIF will be entirely erased. Similarly, if Cogmind has [[Imprint|imprinted]], then the RIF will fail to be installed.
+Installing RIF can be done at any [[Garrison]] by walking into a RIF Installer machine. These machines can be hidden behind emergency accesses and Phase Walls, but there are always 1-2 installers available per map. Doing so will grant several unique abilities:
+[[List]]Alert Monitor: Know the ambient influence level while in 0b10-controlled areas.
+ [[Alert]] is displayed near the top right corner of the HUD, showing both the numeric influence value and the number-letter classification.|Garrison Interface: Gain control over Garrison Access machines, making it easier to hack them, and also easier to escape once inside. Also automatically detects [[Garrison Access|Garrisons]] and RIF Installers up to a range of 15.
+All standard (non-manual) hacks at Garrison Machines will have a 100% chance to succeed. The 15-radius detection is very handy for finding new Garrisons to enter, as well as finding hidden RIF installers behind walls.|Coupler Protocols: Use [[Relay Couplers]] to interface with their respective robots.
+Use [[Datajacks]] with Relay Couplers to perform special hacks at the cost of charges on the Couplers. See [[~/rif|this page]] for the full list of hackable bots as well as unique hacks applicable to each type of bot.|Additional RIF abilities: See [[~/rif|this page]] for the full list of abilities.|Special [[Wintypes|Wintype]] interaction: [[Redacted]]If Cogmind touches the intact 0b10 Conduit machine in [[Command]] while being RIF-aligned, the W4 Assimilated 0b10 win will be achieved without needing to destroy both phases of [[MAIN.C]] as is typically required.[[/Redacted]][[/List]]","Spoiler","","","","","",""
 "Remote Datajack","Part","","","","","","","",""
 "Remote Datajacks","Part Group","[[Heading]]List of Remote Datajacks[[/Heading]]
 [[PartGroupTable]]
@@ -7630,7 +7831,7 @@ Overview/Integrity|
 Overview/Coverage|
 Upkeep/Energy|
 Effect/Effect
-[[/PartGroupTable]]","","","","Focal Shield,Imp. Focal Shield,Adv. Focal Shield,Exp. Focal Shield,Thermal Shield,Imp. Thermal Shield,Adv. Thermal Shield,Exp. Thermal Shield,Thermal Barrier,Cep. Beam Splitter,Thermal Defense Suite,Imp. Thermal Defense Suite,Adv. Thermal Defense Suite,Exp. Thermal Defense Suite,Shock Absorption System,Imp. Shock Absorption System,Exp. Shock Absorption System,EM Shield,Adv. EM Shield,Exp. EM Shield,ME-RLN's Chromatic Screen","","",""
+[[/PartGroupTable]]","","","","Focal Shield,Imp. Focal Shield,Adv. Focal Shield,Exp. Focal Shield,Thermal Shield,Imp. Thermal Shield,Adv. Thermal Shield,Exp. Thermal Shield,Thermal Barrier,Cep. Beam Splitter,Thermal Defense Suite,Imp. Thermal Defense Suite,Adv. Thermal Defense Suite,Exp. Thermal Defense Suite,Shock Absorption System,Imp. Shock Absorption System,Exp. Shock Absorption System,EM Shield,Adv. EM Shield,Exp. EM Shield,ME-RLN's Chromatic Screen,Sfc. Personal Shield,Sfc. Absorption Layer","","",""
 "Revision","Bot","","","","","","","",""
 "Revision 17","Bot","","","","","","","",""
 "Revision 17 (Alignment)","Other","[[Image]]Cetus Saving Revision 17.png|Saving Revision 17 in Cetus[[/Image]]
@@ -8208,6 +8409,7 @@ Seismic Detector Guarded Hauler.gif|Movement behavior of a [[Hauler]] guarded by
 Seismic Detector Noncombat Bots.gif|Wheeled non-combat bots rolling through a corridor|
 Seismic Detector Fusion Modulators.png|2 machines (Fusion Modulators) with seismic activity|
 Seismic Detector Machine Explosion.png|A machine array explosion[[/Gallery]]","","","","","","",""
+"Self-contained Parts","Part Group","These parts can only be found on [[1B-0RG]] and bots assimilated with [[1B-0RG's Assimilator]].","Spoiler","","Self-contained Parts","","","",""
 "Self-destruct Interrupter","Part","","","","","","","",""
 "Sensor Array","Part","","","","","","","",""
 "Sensor Arrays","Part Group","[[Heading]]List of Sensor Arrays[[/Heading]]
@@ -8231,6 +8433,28 @@ While combat bots will want (or will be forced) to fight Sentries head-on, airbo
 Sentries may appear in the following squads:
 [[List]][[Garrison Squad]]|[[Security Squad]][[/List]]
 Additionally, Sentries will appear at [[Garrison Access|Garrisons]] and 0b10 exits during [[High Security]] and [[Maximum Security]].","","Y-45 Defender,Y-54 Guardian,Y-64 Sentinel,Y-72 Warden,Cetus Guard,Armor Guard,Quarantine Guard,Protovariant Y,S7 Guard,M Guard,M Shell/Atk","","","","",""
+"Sfc. Absorption Layer","Part","","","","","","","",""
+"Sfc. Autominer","Part","","","","","","","",""
+"Sfc. Borg Blade","Part","","","","","","","",""
+"Sfc. Borg Chaincannon","Part","","","","","","","",""
+"Sfc. Borg Chaingun","Part","","","","","","","",""
+"Sfc. Borg Fist","Part","","","","","","","",""
+"Sfc. Borg Gutpuncher","Part","","","","","","","",""
+"Sfc. Borg Joltstriker","Part","","","","","","","",""
+"Sfc. Borg Laser","Part","","","","","","","",""
+"Sfc. Borg Power","Part","","","","","","","",""
+"Sfc. Borg Pulsar Launcher","Part","","","","","","","",""
+"Sfc. Borg Pulseblaster","Part","","","","","","","",""
+"Sfc. Borg Regenerator","Part","","","","","","","",""
+"Sfc. Cooling Unit","Part","","","","","","","",""
+"Sfc. Door Spiker","Part","","","","","","","",""
+"Sfc. Impeller","Part","","","","","","","",""
+"Sfc. Interdiction Field","Part","","","","","","","",""
+"Sfc. Materializer","Part","","","","","","","",""
+"Sfc. Personal Shield","Part","","","","","","","",""
+"Sfc. Sightfinder","Part","","","","","","","",""
+"Sfc. Target Tracker","Part","","","","","","","",""
+"Sfc. Targeting Obfuscator","Part","","","","","","","",""
 "Shearguns","Part Group","[[Heading]]List of Shearguns[[/Heading]]
 [[PartGroupTable]]
 Shearguns|
@@ -8394,7 +8618,7 @@ Spacefolds can allow for longer-range safe [[Digging|digs]]. While a [[Microwarp
 
 [[/List]]","","","","","","",""
 "Spear","Part","","","","","","","",""
-"Special Melee Weapons","Part Supergroup","","","","","Dirty Datajack,Detonator,Splice Injector,Master Link","Melee Datajacks","",""
+"Special Melee Weapons","Part Supergroup","","","","","Dirty Datajack,Detonator,Splice Injector,Master Link,1B-0RG's Assimilator","Melee Datajacks","",""
 "Special Propulsion Modes","Other","Certain [[Treads]] and [[Legs]] can be toggled into alternate states with special characteristics.
 
 [[Heading]]Treads[[/Heading]]
@@ -8432,7 +8656,7 @@ While in shielding mode:
 Coverage for this leg is doubled.
 |This leg gains a 50% chance to glance any projectile that would otherwise hit it, instead taking no damage.
 [[/List]]","","","","","","",""
-"Special Weapons","Part Supergroup","","","","","System Spiker,Field Lobotomy Kit,Mining Laser,Mak. Laser Shovel,LU-1G1's Laser Shovel,Welding Torch,CPS Tube,Multitool,Warlord Statue,Voltaic Drivehammer,AD-0RF's Magmablaster,IN-MT5's Pitchfork ""Insurrection"",Shield Trident,Junk Cannon,Molecular Deconstructor,Asb. F-torch,Asb. P-torch,Hammerchucker","Flamers,Plasma Cutters,Remote Datajacks,Stasis Beams,Throwing Claymores","",""
+"Special Weapons","Part Supergroup","","","","","System Spiker,Field Lobotomy Kit,Mining Laser,Mak. Laser Shovel,LU-1G1's Laser Shovel,Welding Torch,CPS Tube,Multitool,Warlord Statue,Voltaic Drivehammer,AD-0RF's Magmablaster,IN-MT5's Pitchfork ""Insurrection"",Shield Trident,Junk Cannon,Molecular Deconstructor,Asb. F-torch,Asb. P-torch,Hammerchucker,CY-PHR's Mindspike,V4-D3R's Forcegen","Flamers,Plasma Cutters,Remote Datajacks,Stasis Beams,Throwing Claymores","",""
 "Specialist","Bot Group","Specialists are a [[Bot Groups|Bot Group]] of [[Legs|legged]] [[0b10]] combat bots with many different themes between each variant. The best description of Specialists are glass cannons. They typically have high offensive output and little in the way of protection. Higher tier Specialists have some the highest damage output of any standard 0b10 bots in the game. Some Specialists also are unique users of [[VSS Leg|VSS Legs]] and its higher rating variants which allow them to walk at a higher speed than most legs (90 vs 120).
 Specialists have no specific weaknesses or immunities, so generally any damage type or strategy can work against them. A few have strong cooling and [[Coolant Injectors]] so heat transfer strategies may fall flat against certain Specialists. However, the same cooling parts can also be looted and taken advantage of by Cogmind. Since Specialists are capable of dealing so much damage, they tend to be high priority targets to kill off first.
 [[Gallery]]Specialists.png|All Specialist variants and colors[[/Gallery]]
@@ -8601,6 +8825,7 @@ Storage Units have special immunity to nearly all part-severing and instant dest
 
 This article was last updated during Beta 15.","","","","Sml. Storage Unit,Med. Storage Unit,Lrg. Storage Unit,Hcp. Storage Unit,Huge Storage Unit,Cargo Storage Unit,Humpback,Lgt. Humpback,Vmp. Humpback,Lightpack 2.0,Cep. Antigrav Storage Unit","","",""
 "Storm Laser","Part","","","","","","","",""
+"Stormtrooper","Bot","","","","","","","",""
 "Strategy","Other","Strategy guides to complete various content. Also see [[aoemica's Flight Guide]].","","","","","","","Strategy/Bosses,Strategy/Maps,Strategy/Wintypes"
 "Strategy/Bosses","Other","Strategy guides to kill the 3 bosses in the game achieve +s on the scoresheet.","Redacted","","","","","","Strategy/Bosses/Defeating Architect,Strategy/Bosses/Defeating MAIN.C,Strategy/Bosses/Defeating Superfortress"
 "Strategy/Bosses/Defeating Architect","Other","[[Image]]Access_0 Entrance.png|Hostile Entrance to Access_0[[/Image]]
@@ -8947,7 +9172,16 @@ Dig out the center earth tile in LU-1G1's Boring Crew room|
 Check rooms closed for remodelling for the rare Exp. Plasma Cutter|
 Smash open the wall hiding additional Botcubes in the Botcube Research room
 [[/List]]","Spoiler","","","","","",""
-"Strategy/Maps/Cetus","Other","When first entering [[Cetus]], the 4 [[Cetus Guard|Cetus Guards]] appearing around the corner may appear intimidating at first. However, they are not too tough of foes and have some extremely useful loot, especially the [[Adv. KE Penetrator]], [[Centrium Heavy Treads]], and [[Centrium Medium Armor Plating]]. They have an above average amount of core integrity but no critical destroy immunity or EM resistance, so destroy critical weapons like [[Hypervelocity Weapons]] and [[Electromagnetic Weapons]] work quite well against them. [[Electromagnetic Launchers]] like the [[Proton Missile Launcher|regular]] and [[Imp. Proton Missile Launcher]] are particularly effective at taking out 4 of them in a short amount of time. There will be some [[Corrupted Parts|corrupted]] parts, but this loot is definitely worth the corruption. There are numerous [[O-32 Director|Operators]] in [[Archives]], that drop [[Imp. System Restoration Module|Imp. System Restoration Modules]], allowing you to equip any corrupted parts and then clear [[Corruption|corruption]] right away rather than having to wait until the next evolution.\nOften, Cogmind will have a big group of allies brought over from [[Extension]]. These can be helpful and harmful at the same time. Too many allies, especially melee ones, will get in the way of each other. Telling some blue-controllable allies to stay back can be a good idea. [[A7]] in particular is a great ally, providing EM damage and [[Remote Force Field|remote force fielding]] effects. Another standout ally is the [[Guerrilla (5)|Guerilla]]. They have -Salvage from their [[Bore Cannon]], but perform very well against the Cetus Guards due to their very high critical destroy chance, often destroying weapons or even cores in a single hit. However, to get optimal salvage, they should be left behind.\n\n[[Heading]]Cetus Mainframe[[/Heading]]\nThe [[Reinforced Walls#cetus|Cetus Mainframe Doors]] have a very low base success rate of 10% and a high armor value of 40. While [[Hackware]] can help out here, the Cetus Guards can conveniently drop a [[Adv. Variable Charge Gun]] which can be overloaded to destroy the Sealed Heavy Doors. A [[Plasma Cutters|Plasma Cutter]] will eventually cut through as well.\n\n[[Heading]]Murdering A7[[/Heading]]\nIf not planning to tackle the extended game, you may decide to murder A7 in Cetus after doing any other desired activities, like activating the Cetus Manufacturing Module and defeating the Cetus Guards. A7 can drop valuable loot including [[Med. Regenerative Plating]], which is otherwise difficult to obtain at this point in the game. You also get the [[A7 Data Core]], which makes it much more viable to visit [[Lab]]: [[Redacted]]the data core grants entry and reveals the intruder-detecting lasers[[/Redacted]]. A7 does not fight back, even if attacked.\n\nThe tradeoff is, of course, that a dead A7 will not provide a code after exiting the map. A7 vanishes soon after leaving the map, so it's easiest to kill A7 while still in Cetus.","Spoiler","","","","","",""
+"Strategy/Maps/Cetus","Other","When first entering [[Cetus]], the 4 [[Cetus Guard|Cetus Guards]] appearing around the corner may appear intimidating at first. However, they are not too tough of foes and have some extremely useful loot, especially the [[Adv. KE Penetrator]], [[Centrium Heavy Treads]], and [[Centrium Medium Armor Plating]]. They have an above average amount of core integrity but no critical destroy immunity or EM resistance, so destroy critical weapons like [[Hypervelocity Weapons]] and [[Electromagnetic Weapons]] work quite well against them. [[Electromagnetic Launchers]] like the [[Proton Missile Launcher|regular]] and [[Imp. Proton Missile Launcher]] are particularly effective at taking out 4 of them in a short amount of time. There will be some [[Corrupted Parts|corrupted]] parts, but this loot is definitely worth the corruption. There are numerous [[O-32 Director|Operators]] in [[Archives]], that drop [[Imp. System Restoration Module|Imp. System Restoration Modules]], allowing you to equip any corrupted parts and then clear [[Corruption|corruption]] right away rather than having to wait until the next evolution.
+Often, Cogmind will have a big group of allies brought over from [[Extension]]. These can be helpful and harmful at the same time. Too many allies, especially melee ones, will get in the way of each other. Telling some blue-controllable allies to stay back can be a good idea. [[A7]] in particular is a great ally, providing EM damage and [[Remote Force Field|remote force fielding]] effects. Another standout ally is the [[Guerrilla (5)|Guerilla]]. They have -Salvage from their [[Bore Cannon]], but perform very well against the Cetus Guards due to their very high critical destroy chance, often destroying weapons or even cores in a single hit. However, to get optimal salvage, they should be left behind.
+
+[[Heading]]Cetus Mainframe[[/Heading]]
+The [[Reinforced Walls#cetus|Cetus Mainframe Doors]] have a very low base success rate of 10% and a high armor value of 40. While [[Hackware]] can help out here, the Cetus Guards can conveniently drop a [[Adv. Variable Charge Gun]] which can be overloaded to destroy the Sealed Heavy Doors. A [[Plasma Cutters|Plasma Cutter]] will eventually cut through as well.
+
+[[Heading]]Murdering A7[[/Heading]]
+If not planning to tackle the extended game, you may decide to murder A7 in Cetus after doing any other desired activities, like activating the Cetus Manufacturing Module and defeating the Cetus Guards. A7 can drop valuable loot including [[Med. Regenerative Plating]], which is otherwise difficult to obtain at this point in the game. You also get the [[A7 Data Core]], which makes it much more viable to visit [[Lab]]: [[Redacted]]the data core grants entry and reveals the intruder-detecting lasers[[/Redacted]]. A7 does not fight back, even if attacked.
+
+The tradeoff is, of course, that a dead A7 will not provide a code after exiting the map. A7 vanishes soon after leaving the map, so it's easiest to kill A7 while still in Cetus.","Spoiler","","","","","",""
 "Strategy/Maps/Extension","Other","[[Image]]Extension Guide Route.png|Recommended path through Extension[[/Image]]
 [[Extension]] is a straightforward map with little variation between runs. The typical strategy is a fairly simple one:
 [[List:Ordered]]
@@ -9512,7 +9746,7 @@ Overview/Rating|
 Overview/Integrity|
 Overview/Coverage|
 Effect/Effect
-[[/PartGroupTable]]","","","","Targeting Computer,Imp. Targeting Computer,Mak. Targeting Computer,Adv. Targeting Computer,Exp. Targeting Computer","","",""
+[[/PartGroupTable]]","","","","Targeting Computer,Imp. Targeting Computer,Mak. Targeting Computer,Adv. Targeting Computer,Exp. Targeting Computer,Sfc. Target Tracker","","",""
 "Tearclaws","Part","","","","","","","",""
 "Tearclaws (Group)","Part Group","","Spoiler","","","Tearclaws,Master Tearclaws","","",""
 "Tech Extrapolator","Part","The Tech Extrapolator is an item associated with the [[United Federation of Derelicts]], used by [[Scientist|Scientists]] to develop new parts. While attached, it can produce part schematics based on items that are seen on the ground or attached to other bots. Parts must be identified by Cogmind, but once they have been seen they can not be forgotten by the Tech Extrapolator, even if Cogmind forgets due to corruption or use of a [[Core Reset Matrix]]. A list of Tech Extrapolator only parts can be found at [[Tech Extrapolator Parts]].
@@ -10100,14 +10334,14 @@ There are a large number of triggers which can cause Unchained to be authorized:
 Too many turns: Spending too many turns on 0b10 maps.|
 Too many moves: Performing too many moves on 0b10 maps.|
 Too many maps visited: Visiting too many 0b10 maps.|
-Machine hacking: Either accessing or performing too many hacks at [[Interactive Machine|Interactive Machines]].|
-Robot hacking: Hacking too many 0b10 bots with [[RIF]].|
-[[Search Patrol|Search Patrol]] dispatches: Getting too many Search patrols dispatched.|
-[[Assault Squad|Assault]] dispatches: Getting too many Assault squads dispatched|
-Interrupting [[Cargo Convoy|Cargo Convoys]]: Interrupting too many Cargo Convoys.|
-[[Garrison Access|Garrison Accesses]] disabled: Disabling too many Garrison Accesses (which methods count toward this is unknown).|
-[[Garrison|Garrisons]] compromised: Getting too many Garrison compromised alerts.|
-[[DSF|DSFs]] visited: Visiting too many DSFs.|
+Machine hacking: Performing too many hacks at [[Interactive Machine|Interactive Machines]]. Different hacks contribute a different amount of progress, and usually this trigger is reached between 1-300 hacks. This can only trigger [[CY-PHR]].|
+Robot hacking: Performing too many [[RIF]] hacks on 0b10 bots. The amount of hacks needed is variable based on the type of hack, with more expensive hacks generally contributing more progress.|
+[[Search Patrol|Search Patrol]] dispatches: 6 search patrols dispatched in recent time. Multiple search patrols being dispatched at the same time only counts as a single dispatch for this counter. The counter decreases on map transitions.|
+[[Assault Squad|Assault]] dispatches: 60 Assaults dispatched in recent time. Multiple ARCs being dispatched at the same time only counts as a single dispatch for this counter. The counter decreases on map transitions.|
+Interrupting [[Cargo Convoy|Cargo Convoys]]: Every 3 Cargo Convoys interrupted.|
+[[Garrison Access|Garrison Accesses]] disabled: Every 15 Garrison Accesses disabled by any means, includes sealing or destroying Garrisons.|
+[[Garrison|Garrisons]] compromised: Every 6 Garrisons compromised. Multiple alerts per Garrison only count as a single instance toward this counter.|
+[[DSF|DSFs]] raided: Every 3 DSFs raided (unknown what counts as ""raiding"" a DSF).|
 [[Sterilization]]: Sterilizing any 0b10 map in [[Factory]] depth (-7) or higher.|
 Killing unique NPCs: This includes named Derelicts such as the [[Exiles (Group)]].|
 [[FarCom]] [[Research]] [[Branch]]: Visiting [[Quarantine]] or [[Testing]] after taking FarCom.|
@@ -10119,15 +10353,18 @@ When an Unchained has been decided to be authorized, an announcement like [[Game
 
 [[Heading]]Behavior[[/Heading]]
 Unchained have special behavior that allows them to follow Cogmind between multiple maps, so escape is not as easy as making it to the nearest exit. They take a few hundred turns after entering the map to show up, but once they appear, they will relentlessly pursue Cogmind with [[Perfect Tracking]]. Thanks to this tracking, a [[Triangulator]] may be used to help locate them from a distance before arrival.
-Each Unchained has different specific behavior, but all have a tendency to harass Cogmind throughout the floor. Some bots ([[GL-D0S]] and [[QV-33N]]) avoid direct engagement altogether, instead making use of combat-capable allies. Others ([[6S-H0T]], [[DW-4LL]], and [[CL-0N3]]) instead rely on ambushes and general hit-and-run tactics. All Unchained are capable of fleeing into Garrisons and through 0b10-controlled exits. Hit-and-run types can run to a Garrison and emerge later, ready to harass Cogmind again.
+Each Unchained has different specific behavior, but all have a tendency to harass Cogmind throughout the floor. Some bots avoid direct engagement altogether, instead making use of combat-capable allies. Others rely on ambushes or general hit-and-run tactics. CY-PHR has an even more unique styles of engagement that involves sabotaging your hacking capabilities across multiple maps even when not on the floor. All Unchained are capable of fleeing into Garrisons and through 0b10-controlled exits. Hit-and-run types can run to a Garrison and emerge later, ready to harass Cogmind again.
 
 [[Table]]
-Unchained|Engagement Style|Summons allies|Multiple returns per map||
-6S-H0T|Hit-and-run|No|Yes, with full repair||
-CL-0N3|Ambush|No|Yes, but with no core repair||
-DW-4LL|Ambush|No|Yes, with full repair||
-GL-D0S|Avoid|Yes|No||
-QV-33N|Avoid|Yes|No
+Unchained|Engagement Style|Summons allies|Multiple returns per map|Extra spawn restrictions||
+[[1B-0RG]]|Avoid|Yes|No|Yes, won't appear outside of main 0b10 maps||
+[[6S-H0T]]|Hit-and-run|No|Yes, with full repair|No||[[BL-1NK]]|Hit-and-run|No|Yes|No||
+[[CL-0N3]]|Ambush|No|Yes, but with no core repair|No||
+[[CY-PHR]]|Avoid|Yes|No|Yes, only appears in a single room on a random future map if triggered||
+[[DW-4LL]]|Ambush|No|Yes, with full repair|No||
+[[GL-D0S]]|Avoid|Yes|No|Yes, won't appear outside of main 0b10 maps||
+[[QV-33N]]|Avoid|Yes|No|Yes, won't appear outside of main 0b10 maps||
+[[V4-D3R]]|Ambush|Yes|Yes, with full repair|No
 [[/Table]]
 
 [[Heading:2]]Map Activity[[/Heading]]
@@ -10161,7 +10398,7 @@ Caves end branches ([[Data Miner (Location)|Data Miner]], [[Warlord (Location)|W
 [[/Table]]
 
 [[Heading]]Unique Drops[[/Heading]]
-In addition to normal salvage-based drops, each Unchained may also drop one of two special parts when destroyed. This can be either an [[ID Mask]] or a [[Zeronet Interface]].","Spoiler","6S-H0T,CL-0N3,DW-4LL,GL-D0S,QV-33N","","","","",""
+In addition to normal salvage-based drops, each Unchained may also drop one of two special parts when destroyed. This can be either an [[ID Mask]] or a [[Zeronet Interface]].","Spoiler","6S-H0T,BL-1NK,CL-0N3,CY-PHR,DW-4LL,GL-D0S,QV-33N,V4-D3R,1B-0RG","","","","",""
 "United Federation of Derelicts","Bot Supergroup","The United Federation of Derelicts (UFD) is a major faction of [[Derelict|Derelicts]] that live in [[Scraptown]]. Cogmind can [[Alignment|align]] with the UFD become a member by entering Scraptown through [[Recycling]]. This alignment provides further access into Scraptown along with a few special hacks.
 [[Image]]Scraptown Alignment Derelict.png|[[Scrapper (3)]] in Scraptown that gives Cogmind the option to align[[/Image]]
 
@@ -10234,7 +10471,7 @@ The following will prevent Cogmind from being able to align with UFD in the firs
 [[Heading:2]]Blocked Alignment[[/Heading]]
 Several factions will no longer assist Cogmind after UFD alignment:
 [[List]][[Imprint]]: The [[Imprinter]] will say that the Imprinting machine requires a more thorough vetting process for a UFD member such as Cogmind|[[Warlord (Alignment)]]: [[Warlord]] will call Cogmind a spy and not perform the -2 [[Research]] invasion[[/List]]","Spoiler","Bolteater,DRS Ranger,Explorer,Federalist,Guru,KN-7UR,Large Mutated Botcube,Master Drone,Mutated Botcube,Optimus,Ranger,Scientist,Surveybot 24,Triborg,Triborg (Optimus),Wyrm Statue","","","Elite,Scrapper,Scrapoid,Scraphulk","",""
-"Utilities","Part Supergroup","","","","","Scrap Engine,Arm. Scrap Engine,Encrypted Comm Array,Stasis Canceller,Skeleton Box,01-MTF's Autohacker,A0-MCA's Component Scanner,Tech Extrapolator,Trap Reconfigurator,Scrap Suit,0bPrime Scrap Suit,PSU Rigger,Machine Rigger,Phasing AFG,AS-neutralizer No. 17b,V3-11A's Pendant,Amulet of Y3-NDR,Chronowheel,Phase Armor,Power Bank,Rainbow Chip,VL-GR5's Exoskeleton ""Deathgrip"",Plexus Tether,Cep. Melee Reflex Suite,Cep. Projectile Intercept Suite,Jamming Amplifier,Crosscalibrator,Cep. Navigation Harness,Supercharged Navigation Harness,QV-33N's Launch Deck,GL-D0S's Turretformer","Authchips,Component Analysis Suites,Fabrication Devices,Mass Support Devices,Power Amplifiers,Recalibrators,Relay Couplers,Speed Boosting Utilities,Salvage Targeting Computers,Thermal Generators,Trap Extractors","Armor,Consumable Alien Artifacts,Cooling Utilities,Corruption Reduction Utilities,Defensive Utilities,Hackware,Infowar,Matter Refilling Devices,Offensive Utilities,Shieldings,Storage (Group)",""
+"Utilities","Part Supergroup","","","","","Scrap Engine,Arm. Scrap Engine,Encrypted Comm Array,Stasis Canceller,Skeleton Box,01-MTF's Autohacker,A0-MCA's Component Scanner,Tech Extrapolator,Trap Reconfigurator,Scrap Suit,0bPrime Scrap Suit,PSU Rigger,Machine Rigger,Phasing AFG,AS-neutralizer No. 17b,V3-11A's Pendant,Amulet of Y3-NDR,Chronowheel,Phase Armor,Power Bank,Rainbow Chip,VL-GR5's Exoskeleton ""Deathgrip"",Plexus Tether,Cep. Melee Reflex Suite,Cep. Projectile Intercept Suite,Jamming Amplifier,Crosscalibrator,Cep. Navigation Harness,Supercharged Navigation Harness,QV-33N's Launch Deck,GL-D0S's Turretformer,Blink Core,Procsplitter,Sfc. Impeller,Sfc. Door Spiker,Sfc. Materializer,Sfc. Borg Regenerator,Sfc. Interdiction Field,Sfc. Autominer","Authchips,Component Analysis Suites,Fabrication Devices,Mass Support Devices,Power Amplifiers,Recalibrators,Relay Couplers,Speed Boosting Utilities,Salvage Targeting Computers,Thermal Generators,Trap Extractors","Armor,Consumable Alien Artifacts,Cooling Utilities,Corruption Reduction Utilities,Defensive Utilities,Hackware,Infowar,Matter Refilling Devices,Offensive Utilities,Shieldings,Storage (Group)",""
 "Utility Shielding","Part","","","","","","","",""
 "Utility Shieldings","Part Group","[[Heading]]List of Utility Shieldings[[/Heading]]
 [[PartGroupTable]]
@@ -10486,6 +10723,29 @@ V-Series Melee.png|V-Series with melee only
 [[/Gallery]]","","","","","","",""
 "V2","Bot","","","","","","","",""
 "V3-11A's Pendant","Part","","","","","","","",""
+"V4-D3R","Bot","V4-D3R is a part of the deadly group of the [[Unchained]] [[Derelict|Derelicts]] that work for [[0b10]] to track down threats to the complex. They are a threat in many different ways, starting with their ability to summon swarms of [[Stormtrooper|Stormtroopers]] to search for Cogmind across the map. Once spotted Cogmind, their high damage, [[Femtoactuators]]-boosted melee [[V4-D3R's Sabre|Sabre]] and ranged impact and teleporting [[V4-D3R's Forcegen|Forcegen]] will quickly dismantle an unprepared Cogmind. Defensively, [[Exp. Reaction Control System]] combined with their high melee resistances and projectile-deflecting [[V4-D3R's Cape|Cape]] make them a formidable opponent.
+
+[[Heading]]Lore[[/Heading]]
+[[Lore]]Cyclists Records|UC/V4-D3R[[/Lore]]
+
+[[Heading:2]][[FarCom]] Lore[[/Heading]]
+If Cogmind has aligned with the [[Exiles (Group)|Exiles]] and has FarCom, the following message will be broadcast about V4-D3R:
+[[GameText]]V4-D3R can't be bothered to come after you right away themselves. Stay out of sight of their scouting parties, or may the force be with you.[[/GameText]]
+
+[[Heading]]Behavior[[/Heading]]
+V4-D3R is a hybrid ally summoning/ambushing type of Unchained. V4-D3R will not immediately begin chasing down Cogmind like most other aggressive Unchained. Rather, they summon large numbers of [[Stormtrooper|Stormtroopers]] in squads of 2 first. While they can theoretically be avoided, it is difficult to do so due to sheer number. Once a Stormtrooper has gained tracking Cogmind or another controllable (blue) bot, all Stormtroopers on the map will be alerted to Cogmind's location. Although they will lose tracking fairly quickly, they do trickle to the initial spot location before resuming normal patrolling behavior. Because of this, it is a good idea to avoid sticking around the area. Additionally, V4-D3R will appear nearby when spotted and begin pursuit of Cogmind. Note: Unlike most kinds of bot communication this effect can't be negated by [[Transmission Jammers]].
+Once V4-D3R is in line of sight of Cogmind, they will begin to attack with their Forcegen. This will result in nearby parts, terrain, or bots being thrown at Cogmind for massive impact damage. Occasionally, V4-D3R may instead pull Cogmind immediately next to them and perform a melee attack with the Sabre. This pulling ability makes it extremely difficult to escape V4-D3R in wide open areas. Only by turning the corner and blocking line of sight is it reasonably possible to make a run for it. While incredibly threatening in combat, V4-D3R has no further tricks if Cogmind can escape their line of sight.
+
+[[Heading]]Strategy[[/Heading]]
+V4-D3R is a huge threat to fight in direct combat for most builds. Melee combat is nearly useless due to their huge 75% resistances. Ranged combat is preferable to the lack of resistances, but it still has issues getting around the 50% and 40% (non-stacking) projectile deflection chances of their [[V4-D3R's Sabre|Sabre]] and [[V4-D3R's Cape|Cape]] respectively. However, penetrating projectiles like most [[Kinetic Guns]] have no issues shooting through the deflection. Both the Sabre and Cape have high coverage and low integrity, but in order to fully get around the deflection mechanism both need to be destroyed or removed.
+Offensively, V4-D3R deals either ranged impact or slashing damage. While the Sabre's slashing damage is higher thanks to [[Femtoactuators|Femtoactuator]]-reduced volley time, impact damage from the [[V4-D3R's Forcegen|Forcegen]] is usually scarier thanks to the ability to wreck your processors or other fragile utilities. [[Kinetic Cannons|Kinetic Cannon]]-inflicted knockback is the best way to keep V4-D3R out of melee range if you would rather tank the impact damage. Otherwise, it is possible to step back each time V4-D3R draws you in, though depending on luck you may end up having to step away many times throughout the fight.
+Groups of allies are a great choice if you can lure V4-D3R into a favorable location. While V4-D3R can easily take down single bots very quickly, they are easily overwhelmed by a large amount of firepower, like a collection of [[Fabricator|fabricated]] allies or a [[Wastes]] Derelict army. A word of warning about armies against V4-D3R specifically is to be aware of deflection mechanics. Projectiles can be deflected back at your army in a 90 degree arc which can wind up hitting other parts of your army. Bots with penetrating weapons like [[Hunter|Hunters]] are ideal, but otherwise, try to space bots out as much as possible to avoid friendly fire. Another issue is the Forcegen's ability to knock bots into each other, dealing Impact damage to all involved. This effect is not avoidable, but is something worth considering when planning to fight V4-D3R. Overall, they chew through armies much more efficiently than many other Unchained.
+Similar to many Unchained, V4-D3R is weak to sever-based traps like the [[Blade Trap|Blade]] and [[Segregator Trap|Segregator Traps]]. They have no sever immunity and several high coverage parts that are susceptible to being cut off. Planting a few of these is likely to remove the cape, [[Med. Regenerative Plating]], and possibly even some propulsion or weapons. If V4-D3R loses the Forcegen, they become very susceptible to kiting by airborne build types. Losing their Sabre reduces their deflection chance from 50 to 40%, but it also opens up the possibility of removing the Cape to eliminate all deflection capability.
+All of the above deals with fighting V4-D3R, though that is not the only possibility. Avoiding Stormtroopers is more possible on larger maps but can be impossible on more confined maps like [[Testing]] or [[Quarantine]]. Unfortunately, Stormtroopers' alerting ability is immune to Transmission Jammer effects, and even non-Cogmind allies trigger tracking on Cogmind, so using allies is not a reliable method to avoid triggering V4-D3R either. The only method that works to avoid V4-D3R is to get off the map without being spotted by any Stormtroopers at all.","","","","","","",""
+"V4-D3R's Cape","Part","","","","","","","",""
+"V4-D3R's Forcegen","Part","","","","","","","",""
+"V4-D3R's Forcewell","Part","","","","","","","",""
+"V4-D3R's Sabre","Part","","","","","","","",""
 "VL-GR5","Bot","Appears at the entrance of [[Spoiler]][[Armory]][[/Spoiler]]. Challenges [[Cogmind]] to get to 15 kills first, providing [[Spoiler]][[VL-GR5's Timing Chip]][[/Spoiler]] as a reward. After the competition, he will head to the exit on the left side of [[Spoiler]]Armory[[/Spoiler]], dropping the [[Spoiler]][[Multinova Projection Cannon]][[/Spoiler]] if he survives and exits the map. Hitting [[VL-GR5]] a few times will turn him hostile, causing him to shed 2 [[Enh. Nova Cannon|Enh. Nova Cannons]] and attach the [[Spoiler]]Multinova Projection Cannon[[/Spoiler]].","","","","","","",""
 "VL-GR5's Exoskeleton ""Deathgrip""","Part","","","","","","","",""
 "VL-GR5's Timing Chip","Part","","","","","","","",""
@@ -10503,7 +10763,7 @@ Overview/Integrity|
 Overview/Coverage|
 Upkeep/Energy|
 Effect/Effect
-[[/PartGroupTable]]","","","","Visual Processing Unit,Sub. Optics,Adv. Visual Processing Unit,Enh. Optical Array,Exp. Optical Array,Spectral Analyzer","","",""
+[[/PartGroupTable]]","","","","Visual Processing Unit,Sub. Optics,Adv. Visual Processing Unit,Enh. Optical Array,Sfc. Sightfinder,Exp. Optical Array,Spectral Analyzer","","",""
 "Vmp. Brace Plating","Part","","","","","","","",""
 "Vmp. Broadsword","Part","","","","","","","",""
 "Vmp. Heavy Siege Treads","Part","","","","","","","",""
@@ -10905,7 +11165,7 @@ W5 [[Redacted]]""Destroyed Tau Ceti IV"": In [[Access_0]], obtain the [[A2 Data 
 W6 [[Redacted]]""Escaped singularity"": In Access_0, destroy all 4 Subspace Access Nodes, destroy the [[Architect]], and take the surface exit within 10 turns.[[/Redacted]]
 W7 [[Redacted]]""Establishing Free Derelict Territories"": In Command, destroy both forms of MAIN.C with [[Warlord]] still alive and not shut down.[[/Redacted]]
 W8 [[Redacted]]""Fortifying 0b10"": Choose the Surrender option after destroying MAIN.C's outer shell, then destroy enough [[Enhanced Q-Series]] while keeping MAIN.C alive.[[/Redacted]]
-W9 [[Redacted]]Defending 0bPrime: Align with [[UFD]] and [[Optimus]] in [[Scraptown]], install [[GameText]]Force(Fedlink)[[/GameText]] in [[Protoforge]], and help plant 10 [[UFD Drillbomb|UFD Drillbombs]].[[/Redacted]]
+W9 [[Redacted]]""Defending 0bPrime"": Align with [[UFD]] and [[Optimus]] in [[Scraptown]], install [[GameText]]Force(Fedlink)[[/GameText]] in [[Protoforge]], and help plant 10 [[UFD Drillbomb|UFD Drillbombs]].[[/Redacted]]
 
 [[Heading]]Ending animations[[/Heading]]
 See the following video: [[https://www.youtube.com/watch?v=XR2RoB6gKWA]]","","","","","","",""
