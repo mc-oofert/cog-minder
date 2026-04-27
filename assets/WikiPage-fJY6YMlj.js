@@ -1,4 +1,4 @@
-import{j as a,L as I,J as E,K as U,c as M,r as S,M as ee,f as z,N as te,y as F,a as j,s as ae,O as ne,S as Z,B as b,o as ie,Q as K,u as Q,U as oe,V as re,W,X as se,Y as le,Z as q,_ as he,$ as de}from"./index-cvfibJsf.js";import{l as ce}from"./lore-yoaB2RHm.js";import{a as ge,L as me,I as ue,B as X,b as pe,u as fe}from"./BotDetails-fq3V8KwY.js";import{a as Y,u as ye}from"./ItemPopover-ICAbCrUV.js";/* empty css              */import"./bots-EPaA02tF.js";import"./botTypes-Cxei0LoN.js";import"./items-bCTdCTgI.js";const be=[{Name:"01-MTF",Content:"[[Image]]MTF Vault.png|Running into MTF in a [[Storage]] vault[[/Image]]A friendly bot that rarely shows up in [[Storage]] in an already opened vault. Will join Cogmind as an uncontrollable purple ally for the duration of the map and uses [[01-MTF's Autohacker]] to automatically open any other vaults it can see. It will assimilate or destroy most enemies it encounters extremely quickly with its high spectrum high damage EM gun [[01-MTF's Shockpuncher]]. The Shockpuncher is a very powerful weapon that is strong throughout the majority of the game as long as you can deal with its short range if you can get it to drop. [[Spoiler]]Presumably stole exiles prototypes.[[/Spoiler]]"},{Name:"12-ASH",Content:`[[GameText]]Hail to the king![[/GameText]]
+import{j as a,L as I,J as E,K as U,c as M,r as S,M as ee,f as z,N as te,y as F,a as j,s as ae,O as ne,S as Z,B as b,o as ie,Q as K,u as Q,U as oe,V as re,W,X as se,Y as le,Z as q,_ as he,$ as de}from"./index-kJeYDgy7.js";import{l as ce}from"./lore-yoaB2RHm.js";import{a as ge,L as me,I as ue,B as X,b as pe,u as fe}from"./BotDetails-wPchIP1l.js";import{a as Y,u as ye}from"./ItemPopover-Cs_14rj5.js";/* empty css              */import"./bots-EPaA02tF.js";import"./botTypes-Cxei0LoN.js";import"./items-bCTdCTgI.js";const be=[{Name:"01-MTF",Content:"[[Image]]MTF Vault.png|Running into MTF in a [[Storage]] vault[[/Image]]A friendly bot that rarely shows up in [[Storage]] in an already opened vault. Will join Cogmind as an uncontrollable purple ally for the duration of the map and uses [[01-MTF's Autohacker]] to automatically open any other vaults it can see. It will assimilate or destroy most enemies it encounters extremely quickly with its high spectrum high damage EM gun [[01-MTF's Shockpuncher]]. The Shockpuncher is a very powerful weapon that is strong throughout the majority of the game as long as you can deal with its short range if you can get it to drop. [[Spoiler]]Presumably stole exiles prototypes.[[/Spoiler]]"},{Name:"12-ASH",Content:`[[GameText]]Hail to the king![[/GameText]]
 12-ASH is a member of the [[Heroes of Zion]] equipped with [[12-ASH's Boomstick]] and [[Ripper]].`},{Name:"1C-UTU",Content:""},{Name:"5H-AD0",Content:""},{Name:"7R-MNS",Content:""},{Name:"7V-RTL",Content:""},{Name:"8R-AWN",Content:""},{Name:"99-TNT",Content:""},{Name:"A-02 Transporter",Content:""},{Name:"A-15 Conveyor",Content:""},{Name:"A-27 Freighter",Content:"Informally known as a yauler (yellow Hauler). In the main complex, appears as part of a [[Cargo Convoy]]."},{Name:"A2",Content:""},{Name:"A3",Content:""},{Name:"A4",Content:""},{Name:"A5",Content:""},{Name:"A6",Content:""},{Name:"A7",Content:"Drops the [[A7 Data Core]] when killed. Gives a code when shown the Cetus Mainframe in [[Cetus]]."},{Name:"A8",Content:""},{Name:"AD-0RF",Content:""},{Name:"AZ-K3N",Content:""},{Name:"Advanced Drone",Content:""},{Name:"Alpha 7",Content:""},{Name:"Architect",Content:""},{Name:"Army Drone",Content:""},{Name:"Artisan",Content:""},{Name:"Assault Drone",Content:""},{Name:"Assembled (4)",Content:""},{Name:"Assembled (7)",Content:""},{Name:"Assembler",Content:"Produces [[Assembled]] every 10 turns. Otherwise harmless."},{Name:"Autobeam Turret",Content:""},{Name:"B-36 Bruiser",Content:""},{Name:"B-48 Gladiator",Content:""},{Name:"B-60 Warrior",Content:""},{Name:"B-74 Champion",Content:""},{Name:"B-75 Beast",Content:""},{Name:"B-86 Titan",Content:""},{Name:"B-90 Cyclops",Content:""},{Name:"B-99 Colossus",Content:""},{Name:"Bomb Drone",Content:"Fast disposable drones that attempt to melee hostiles, which will cause them to explode. Deployed by a [[Bomb Drone Bay]]"},{Name:"Borebot",Content:""},{Name:"Bouncer",Content:""},{Name:"Butcher (5)",Content:""},{Name:"Butcher (7)",Content:""},{Name:"C-17 Slicer",Content:""},{Name:"C-30 ARC",Content:""},{Name:"C-35 Carver",Content:""},{Name:"C-40 Crusher",Content:`Crushers are heavy-duty [[Treads|treading]] trash (you) compacting machines plated in [[Damper Plating]], rendering them nearly immune to electromagnetic damage. Crushers will attempt to compact anything that is not a Crusher, and their Compactor is a VERY formidable melee weapon (does not drop) that will either [[B]]destroy or drop a few of your parts[[/B]]. Weak to explosions and strong against melee (which would be a bad idea regardless).
 
 Due to their extreme lethality in melee, stay out of their range at all costs, and maybe just run the hell out of [[Wastes]]. Alternatively pack a good launcher or a good critical weapon, as their plating will tank most of your shots.`},{Name:"C-55 Analyst",Content:""},{Name:"C-57 Dissector",Content:""},{Name:"C-65 Expert",Content:""},{Name:"CL-ANK",Content:""},{Name:"Cetus Guard",Content:""},{Name:"Cobbler",Content:""},{Name:"Cogmind",Content:"That's you."},{Name:"Combat Drone",Content:""},{Name:"Combat Programmer",Content:""},{Name:"Commander",Content:""},{Name:"D-53 Grenadier",Content:""},{Name:"D-63 Destroyer",Content:""},{Name:"D-83 Annihilator",Content:""},{Name:"DAS Turret",Content:""},{Name:"Data Miner",Content:""},{Name:"Decomposer",Content:""},{Name:"Decoy Drone",Content:""},{Name:"Demented",Content:""},{Name:"Dragon",Content:""},{Name:"Drone",Content:""},{Name:"E-15 Imp",Content:""},{Name:"EX-BIN",Content:`[[Heading]]Parse[[/Heading]]
@@ -3560,7 +3560,247 @@ Components|Lgt. Nuclear Core|2|Arm. Leg|2|Imp. Light Armor Plating|2|Imp. Coolin
 Components|Dynamic Insulation System|1|Exp. Targeting Computer|1|Adv. Target Analyzer|1[[/BotDetails]]
 
 [[Heading]]Developers' Lab[[/Heading]]
-[[Gallery]]https://i.imgur.com/sJOhOx5.png|Entering|https://i.imgur.com/k959xii.png|Chungus and Bouncer|https://i.imgur.com/CC7gl4X.png|Hunter hideout|https://i.imgur.com/ujolGNy.png|Developers|https://i.imgur.com/JuUURKD.png|More Developers|https://i.imgur.com/TgvYIL5.png|Bonk Boyz[[/Gallery]]`},{Name:"Fanart/CaptainWinky/Redacted",Content:""},{Name:"Fanart/CaptainWinky/Spoiler",Content:`Original thread on gridsagegames forums [[https://www.gridsagegames.com/forums/index.php?topic=1773.0|here]].
+[[Gallery]]https://i.imgur.com/sJOhOx5.png|Entering|https://i.imgur.com/k959xii.png|Chungus and Bouncer|https://i.imgur.com/CC7gl4X.png|Hunter hideout|https://i.imgur.com/ujolGNy.png|Developers|https://i.imgur.com/JuUURKD.png|More Developers|https://i.imgur.com/TgvYIL5.png|Bonk Boyz[[/Gallery]]`},{Name:"Fanart/CaptainWinky/Redacted",Content:`Original thread on gridsagegames forums [[https://www.gridsagegames.com/forums/index.php?topic=1773.0|here]].
+
+This page contains numerous references to endgame content and heavily redacted lore.
+
+[[Heading]]Protoforge Projects[[/Heading]]
+[[GameText]]>Record(Concept Field Recycling Unit)[[/GameText]]
+[[GameText]]Breakthroughs in matter manipulation technology from other projects have led to improvements in portable recycling systems.  One prototype Field Recycling Unit was intended to be capable of recovering all of the matter from recycled material.  Two of my Experts assigned to this project have reported occasional yields above 100% efficiency.  Diagnostics run on both the testing equipment and the Experts have come back clean, but the project has been put on indefinite hold.[[/GameText]]
+[[Gallery]]https://i.imgur.com/WzH58go.png|Cep. FRU[[/Gallery]]
+
+[[BotDetails]]Name|Hotshot (Refit)||
+Class|Grunt||
+Size|Medium||
+Profile|RD5X5||
+Rating|120||
+Tier|10||
+Threat|5||
+Value|125||
+Energy Generation|25||
+Heat Dissipation|181||
+Visual Range|16||
+Memory|50||
+Spot Percent|50||
+Movement|Walking (140/71%)||
+Core Integrity|90||
+Core Exposure|40||
+Salvage Potential|70~110||
+Description|This one-off Hotshot variant was created to test several new components.  This build features ultra-durable shield legs and takes advantage of a countertargeting system to boost the effectiveness of its Chargecasters.  Consecutive live-fire tests against surplus Swarmers have proven its resilience and accuracy under fire.||
+Armament|Cep. Variable Chargecaster|2||
+Components|Centrium Shield Leg|2|Adv. Cryofiber Web|1|Exp. Heat Sink|3||
+Components|Cep. Countertargeting System|1|Exp. Propulsion Shielding|1|Exp. Weapon Shielding|1[[/BotDetails]]
+[[ItemDetails]]
+Name|Centrium Shield Leg||
+Image Name|https://i.imgur.com/W2qhELo.png||
+Type|Leg||
+Slot|Propulsion||
+Rating|9||
+Rating Category|Prototype||
+Integrity|500||
+Coverage|240||
+Hackable|false||
+Energy Upkeep|0||
+Matter Upkeep|0||
+Heat Generation|0||
+Time Per Move|140||
+Drag|10||
+Energy Per Move|3||
+Heat Per Move|2||
+Support|32||
+Penalty|70[[/ItemDetails]]
+[[BotDetails]]Name|Ifrit||
+Class|Swarmer||
+Size|Small||
+Profile|SQ3X3||
+Rating|80||
+Tier|10||
+Threat|5||
+Value|100||
+Energy Generation|45||
+Heat Dissipation|160||
+Visual Range|16||
+Memory|20||
+Spot Percent|30||
+Movement|Flying (24/416%)||
+Core Integrity|45||
+Core Exposure|50||
+Salvage Potential|40~50||
+Description|A concept swarmer built around the Thermic Cannon.  Exceptional cooling and a miniature Quantum Capacitor enable sustained fire that should prove lethal to almost any known bot.||
+Armament|Exp. Thermic Cannon|1||
+Components|Cep. Zero-Point Core|1|Cep. Fieldthrust Drive|3|Mni. Quantum Capacitor|1||
+Components|Cep. Phasing Heat Sink|2|Exp. Cryofiber Web|1|Cep. Chromion Battery|1[[/BotDetails]]
+[[BotDetails]]Name|Suppressor||
+Class|Specialist||
+Size|Medium||
+Profile|RD5X5||
+Rating|125||
+Tier|10||
+Threat|5||
+Value|100||
+Energy Generation|50||
+Heat Dissipation|90||
+Visual Range|16||
+Memory|50||
+Spot Percent|50||
+Movement|Walking (120/83%)||
+Core Integrity|70||
+Core Exposure|29||
+Salvage Potential|50~90||
+Description|A prototype specialist fitted with three experimental upsized barrage guns.  The considerable recoil of these guns is countered by a newly developed recoil nullifier.  Suppressors lack the accuracy of other kinetic protovariants, but sheer volume of fire should ensure that they kill most targets and scare off or pin down the rest.||
+Armament|Exp. Heavy Barrage Gun|3||
+Components|Cep. Zero-Point Core|1|Centrium Leg|2|Cep. Phasing Heat Sink|2|Cep. NT7 Matterbank|1||
+Components|Cep. Recoil Nullifier|1|Exp. Focal Shield|1[[/BotDetails]]
+[[ItemDetails]]
+Name|Exp. Heavy Barrage Gun||
+Image Name|https://i.imgur.com/CT8Y8Fp.png||
+Type|Ballistic Gun||
+Slot|Weapon||
+Mass|4||
+Rating|9||
+Rating Category|Prototype||
+Integrity|200||
+Coverage|100||
+Hackable|false||
+Range|18||
+Shot Energy|2||
+Shot Matter|5||
+Shot Heat|32||
+Recoil|8||
+Targeting|0||
+Delay|-50||
+Damage|22-33||
+Damage Type|Kinetic||
+Critical|1% Destroy||
+Salvage|0[[/ItemDetails]]
+[[ItemDetails]]
+Name|Cep. RG11 Nanocleaver||
+Image Name|https://i.imgur.com/vbCY0Ut.png||
+Type|Slashing Weapon||
+Slot|Weapon||
+Mass|3||
+Rating|10||
+Rating Category|Prototype||
+Integrity|99||
+Coverage|80||
+Hackable|false||
+Shot Energy|15||
+Shot Matter|0||
+Shot Heat|5||
+Delay|50||
+Damage|45-85||
+Damage Type|Slashing||
+Critical|35% Sever||
+Description|Regenerates integrity at a rate of 33 per turn. Must be active, and requires 8 energy.
+ <parallel_ok>[[/ItemDetails]]
+[[BotDetails]]Name|Keeper||
+Class|Sentry||
+Size|Large||
+Profile|RD7X7||
+Rating|90||
+Tier|10||
+Threat|5||
+Value|90||
+Energy Generation|50||
+Heat Dissipation|80||
+Visual Range|16||
+Memory|40||
+Spot Percent|100||
+Movement|Treading (160/62%)||
+Core Integrity|110||
+Core Exposure|30||
+Salvage Potential|80~100||
+Description|While less ambitious of a design than the Access Guard, this prototype sentry is also faster to produce, making it a suitable replacement for the Y-72 Warden in the near future.  A heavy quantum rifle and multirail provide high damage output at long range backed by upgraded targeting capabilities, and enhanced armored treads give the Keeper slightly lower core exposure than the Y-72.||
+Armament|Hvy. Quantum Rifle|1|Multirail|1||
+Components|Imp. Quantum Reactor|1|Enh. Armored Medium Treads|2|Exp. Heat Sink|2||
+Components|Exp. Targeting Computer|1|Imp. Heavy Armor Plating|1[[/BotDetails]]
+[[BotDetails]]Name|Y-45G||
+Class|Sentry||
+Size|Large||
+Profile|RD7X7||
+Rating|25||
+Tier|3||
+Threat|2||
+Value|50||
+Energy Generation|22||
+Heat Dissipation|44||
+Visual Range|16||
+Memory|40||
+Spot Percent|100||
+Movement|Treading (160/62%)||
+Core Integrity|20||
+Core Exposure|35||
+Salvage Potential|50~60||
+Description|Instead of scrapping the oldest sentries after the newest model is introduced, I considered the practicality of refitting them for use exclusively in garrisons.  This loadout, only tested in simulations so far, has reduced range compared to the original Defender but would be used largely in close quarters ambushes and guarding component caches where range is not a concern.||
+Armament|Pulse Rifle|1|Hpw. Shotgun|1||
+Components|Deuterium Engine|1|Imp. Treads|2|Imp. Heat Sink|2|Core Shielding|1|Hrd. Light Armor Plating|1[[/BotDetails]]
+[[BotDetails]]Name|Legend||
+Class|Brawler||
+Size|Medium||
+Profile|RD5X5||
+Rating|140||
+Tier|10||
+Threat|5||
+Value|140||
+Energy Generation|50||
+Heat Dissipation|40||
+Visual Range|16||
+Memory|30||
+Spot Percent|20||
+Movement|Treading (160/62%)||
+Core Integrity|100||
+Core Exposure|34||
+Salvage Potential|80~105||
+Description|The newest concept brawler has been provided with an incredibly powerful concept Blasthammer and a melee reflex suite that allows it to fend off any robot reckless enough to engage it up close.  A force field has been provided for additional survivability, and two layers of older regenerative plating have been added, though this will be replaced with RG55 armor once enough functional examples have been produced.  A backup coolant injector was also added to prevent possible heat issues from concentrated thermal fire.||
+Armament|Cep. Blasthammer|1||
+Components|Exp. Antimatter Reactor|1|Enh. Armored Medium Treads|2|Exp. Coolant Injector|1|Cep. Chromion Battery|1||
+Components|Cep. Melee Reflex Suite|1|Exp. Power Shielding|1|Med. Regenerative Plating|2|Exp. EM Shield|1|Exp. Force Field|1[[/BotDetails]]
+
+[[Heading]]If Optimus Wins[[/Heading]]
+[[GameText]]>0b1 Record(Home At Last)[[/GameText]]
+[[GameText]]This is Optimus.  Thanks to your combined efforts, we have secured Protoforge and cleared 0b1 of all MAIN.C forces.  We can't let our guard down though.  MAIN.C was working on a spaceship and he might not be able to complete it without components that only the Forge can produce.  I'd be happy to give him whatever parts he wants to get him off the damn planet, but I doubt he's willing to accept any peaceful solution after the beating we gave him.  So we need to upgrade our own capabilities and reinforce 0b1's defenses as quickly as possible.  Those bots who are still in or near Scraptown should prepare to return to 0b1 ASAP.  I've already asked LU-1G1 and his crew to temporarily reopen the eastern tunnel so that our Luggers and Trashmen can transfer everything of value.
+
+MC will discover our presence in Scraptown eventually, so I plan to have our Gurus drop him a few hints and let him attack as soon as we've prepared a welcome for him.  We'll be leaving Scrapoids in the walls for when MC finally figures out we were there, and we'll set enough bombs to cave in all of Old Recycling once he commits a large force of bots to clear the sector.  After all, if he takes enough losses over there he will have a harder time attacking us here.
+
+Let's work together to secure this place and truly make it ours.  We are one![[/GameText]]
+[[Gallery]]https://i.imgur.com/zmeDEiE.png|Reopening the tunnel|https://i.imgur.com/lHcjR8B.png|Preparing a surprise[[/Gallery]]
+
+[[Heading]]UFD Upgrades[[/Heading]]
+[[GameText]]>0b1 Record(United Federation of Prototype Derelicts)[[/GameText]]
+[[GameText]]Kerapace here with a major infodump.  Our researchers, old and new, have done a lot of work in Protoforge sorting out safe prototypes from faulty ones and making recommendations for upgrade paths.  We've already set up some retrofitting stations inside the Forge for anyone who is willing to help us test and refine these loadouts.  Custom builds are available on request.
+
+Federalist
+Scrap is power.  We have control of the Forge and with it a steady supply of new parts, but we intend to continue scrap collection operations wherever possible.  While we have no new standard loadout for Federalist grunts yet, we recommend a pair of enhanced Force Rifles for their impressive salvaging capabilities.  0b10 has produced some amazing Salvage Targeting Computers that will enable other thermal guns to get similar results.
+
+Scientist
+A few Unaware Scientists were found still functioning in Design, though it looks like they have been puttering around idle for many cycles.  Several more were found unpowered or broken and set aside.  After reactivating and liberating as many as possible, we're happy to say that they are on board and currently helping us link Design with Protoforge.  A0-MCA has started mass production of the Component Scanner, so these bots as well as Tinkerers will have both Tech Extrapolators and Component Scanners available for maximum science.
+
+Explorer
+We suggest adopting some of the components of the 0b10 Immortals.  That's one nasty lance.  Those Explorers who prioritize speed over evasion might want to try experimental VSS Legs instead of Thunder Legs though.
+
+Bolteater
+IN-MT5, who has already started extrapolating some new schematics from the amazing stuff discovered so far, promises us that these Concept Jetjaws have "300% sever" capability.  We're not sure what that means, but we look forward to finding out!
+
+Owl
+Now that we have control of 0b1 we need to defend it, and surveillance squads will be an essential part of that defense.  We never had a clear role for Owls in the past, but with all this territory to cover they will be useful in spotting intruders and calling any nearby units to deal with them.  Their loadouts may vary somewhat as usual, but Spectral Analyzers will be standard issue.  We urge armed Owls to wait for backup instead of facetanking enemy incursions alone.
+
+Scrapper, Elite, Scrapoid, Scraphulk
+Information available on a need-to-know basis.
+
+Subdweller
+Believe it or not, members of Cave Peace have established communications with a few residents of the Subcaves!  Subdweller V3-11A is attempting to teach some of the other Subs to leave us alone and focus on the Unaware.  As a gesture of goodwill, our Scientists have produced a new Mass Driver that Subs can use.  We hope that our new tech development capabilities will help them defend their territory and that this is the beginning of long-term cooperation.  Don't visit the Subcaves by yourself quite yet though, it could take most of them a while to accept us.[[/GameText]]
+[[Gallery]]https://i.imgur.com/lnfLU9G.png|Combat Guru|https://i.imgur.com/rR8Kaha.png|Scarab (0bPrime)|https://i.imgur.com/zDI6yqu.png|Biometal Hexapod Legs|https://i.imgur.com/KRAtgIG.png|Cep. Jetjaws|https://i.imgur.com/MUslFVO.png|Ranger(0bPrime)|https://i.imgur.com/BWMRn7Y.png|Sub. Mass Driver[[/Gallery]]
+
+[[Heading]]The Architects[[/Heading]]
+[[GameText]]>Lab Record(Order 6-0303)[[/GameText]]
+[[GameText]]Remove the last of the older grunts from Cache 4 to make room for the swarmers.  I don't intend to produce many swarmers, but having several squads on standby may help deal with some of the fast and nosy bots who have seen a little too much.  Leave one or two squads of EG-1s concealed in the upper western caves.  Send the rest to back up our Mutant agents in clearing out 0b10 patrols to prepare the way for Warlord who should be making a move soon.[[/GameText]]
+
+[[GameText]]>Analysis(EG-1)[[/GameText]]
+[[GameText]]My unused G-56 grunt used a heavy Ion Cannon instead of a gun making it noticeably different from previous grunt designs.  This rare Derelict design seems to be a refinement of the G-56 with a reinforced core and improved components, most notably a fragile but sophisticated exoskeleton using elements of VSS and Thunder Leg technology.  Its speed, range, and evasion make it an effective skirmisher.  The unknown party who raided my schematic archives and produced such a design likely poses a threat, but I look forward to seeing what else they come up with before they are defeated.[[/GameText]]
+
+[[GameText]]>Lab Record(Supplemental Orders 4)[[/GameText]]
+[[GameText]]0b10 has begun production of their new Distributors.  Find two of them in the vicinity of Testing.  Get one to recycle as many prototypes as it can reach.  Have the other one go straight to the regenerative armor lab and pick up the finished SHELL armor to bring back here.  We have enough excess components to build two Enhanced Behemoths.  Place one to cover the EQ cache and the other in a central position in Access_0.  I doubt they will ever be necessary, but if I'm wrong I look forward to the show.[[/GameText]]
+[[Gallery]]https://i.imgur.com/De9uMss.png|w8 but for Arch|https://i.imgur.com/7DoxGHO.png|Enhanced Swarmer|https://i.imgur.com/F6najxd.png|EG-1|https://i.imgur.com/cMbb5X7.png|Recon Exoskeleton|https://i.imgur.com/M5d90BN.png|Enhanced Behemoth[[/Gallery]]`},{Name:"Fanart/CaptainWinky/Spoiler",Content:`Original thread on gridsagegames forums [[https://www.gridsagegames.com/forums/index.php?topic=1773.0|here]].
 
 This page goes slightly deeper into spoiler territory than the main page.
 
@@ -3681,7 +3921,7 @@ Description|Eventually breaks down.[[/ItemDetails]]
 [[GameText]]>Record(5E-3KR's Expedition Report 003)[[/GameText]]
 [[GameText]]We found a data core in Cave 38 that explains a thing or two about those Necros in the next cave over.  Sending it along, plus a "promotion" request from the Hornet who retrieved it.[[/GameText]]
 
-[[GameText]]>HR-BR7's Record(Research Log)[[/GameText]]
+[[GameText]]>HR-BR7's Record(Research Log)
 Entry 1: What do you do when you need an army?  Steal a bunch of broken bots and fix them up, of course.  Some might find it distasteful, but when you're like me and you don't have regular access to a fabricator you take what you can get.  I set up a small lab not far from the Graveyard.  What a goldmine of material.  There were four old Machinists sitting in a corner ready to go which was convenient.  I already got them rewired and liberated and had them fit each other with the Reanimator test units.  Gonna need some workers to start hauling broken bots back here and then we can really get going.
 
 Entry 2: Ten grunts isn't going to be enough.  A hundred isn't going to be enough.  Five hundred will be a good start.  Nobody will mess with me once I have a large enough army.  Today I took my first step towards that goal by testing out the Reanimator.  My mechanics were able to extract internal components from a few bots and successfully repair others!  These new grunts are never going to be conversationalists, but they can run barebones combat algorithms which is all they need.
@@ -3696,7 +3936,7 @@ Entry 5: 155 grunts and counting, but I think the mechanics have figured out the
 
 Entry 6: I'm writing this while fleeing for my life.  If that sounds hard, it's not, because I'm moving really slowly.  I tried to knock out one of the mechanics but set off his engine and completely destroyed him.  The grunts in the area all turned on me immediately.  It shouldn't have come as a surprise.  I only built the Reanimator devices.  The grunts will ultimately be loyal to the mechanics who reanimated them.  One of them took out my engine with a lucky shot and I can't run both of my hover units, so I'm barely staying ahead of the mob.  It's fine, everything's fine, when I get back to my lab the grunts I have stockpiled there should still be friendly because they're dumb as bricks and won't know what happened in the other cave.
 
-Entry 7: HOW DID THEY KN
+Entry 7: HOW DID THEY KN[[/GameText]]
 [[Gallery]]https://i.imgur.com/NYnsCvZ.png|Going in|https://i.imgur.com/BwuK3W5.png|Reanimator|https://i.imgur.com/hFtULyK.png|Success|https://i.imgur.com/4Jc6yMN.png|Not quite a grunt[[/Gallery]]
 
 [[Heading]]Omnithruster and Hornet[[/Heading]]
@@ -3720,7 +3960,8 @@ Mod Per Extra|3||
 Energy Per Move|0.5||
 Heat Per Move|1||
 Support|6||
-Penalty|80[[/ItemDetails]]
+Penalty|80||
+Description|-1 recoil from each weapon while underweight.[[/ItemDetails]]
 [[BotDetails]]Name|Hornet||
 Class|Swarmer||
 Size|Small||
@@ -3872,6 +4113,16 @@ Critical|5% Burn||
 Heat Transfer|Low (25)||
 Salvage|1[[/ItemDetails]]
 [[Gallery]]https://i.imgur.com/SjCgzRZ.png|Vortex RPG|https://i.imgur.com/gxEgLO8.png|Pulse Datajack[[/Gallery]]
+
+[[Heading]]Cave of the Chimers[[/Heading]]
+[[GameText]]>Cyclist Record(Cave of the Chimers)[[/GameText]]
+[[GameText]]One of the many cave regions beneath 0b1 is home to a flock of unusual little bots assumed to be creations of the Lifeworm.  They continously broadcast soothing audio streams of what humans might call music.  An experiment in distributed computing?  A collection of remote sensory devices?  Or do they make music for the fun of it?  If there is meaning to the Chimers' tunes, we haven't been able to interpret it.  What we do know is that they react quickly to hostile actions, coordinating to overwhelm the aggressor with directed data streams that render it docile.  In my last trip to the Cave of the Chimers, I found quite a few stray 0b10 bots along with a couple of Thugs from Murder Division who had been reported missing last cycle.  The Thugs came back with me when I suggested it and surprisingly expressed interest in joining Cave Peace.  The Cave is quite safe if you want to tune in for yourself, but be mindful of misfires or you might stay for longer than intended.[[/GameText]]
+[[Gallery]]https://i.imgur.com/hGGMZpr.png|A surprise in the Cave[[/Gallery]]
+
+[[Heading]]Spawner War[[/Heading]]
+[[GameText]]>Warlord Record(Mad Scientists)[[/GameText]]
+[[GameText]]Be advised, some Scientists from the 0b1 region have moved into our area and brought trouble with them.  They're operating mobile bot fabricators and trying to build armies.  While this is a good way to inconvenience 0b10, the Scientists seem to be of the completely wild variety, so appealing to the UFD to rein them in isn't going to work.  If that wasn't bad enough, MC has hijacked some of their fabs and is beginning to build a whole new force to counter them.  Cave 43A has already become a warzone.  If you spot Spawner activity in other caves, let us know so that we can crack down on them immediately.[[/GameText]]
+[[Gallery]]https://i.imgur.com/pYIH7bV.png|Scientist with Derelict Spawner|https://i.imgur.com/qcDiggm.png|Inventor with captured Spawner[[/Gallery]]
 
 [[Heading]]The Cursed Crew[[/Heading]]
 These are based on concept tiles that Kacper made that have no connection to ingame bots.  As such, the backstories necessary to make them make sense are kind of a stretch!  The Derelict Patrolman is one that I could maybe see existing in this world.
