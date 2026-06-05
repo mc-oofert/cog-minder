@@ -1364,15 +1364,15 @@
  "Parts": [
   {
    "Name": "01-MTF's Autohacker",
-   "Content": "A unique part only found on [[01-MTF]] that was stolen from the [[Exiles (Group)]]. Its Door [[Terminal]] hacking is most useful with high difficulty doors like the [[Access]] [[Surface]] exit. Generally better than [[Plasma Cutters]], although they have an advantage in being able to function even if the door Terminal gets destroyed."
+   "Content": "A unique [[Utilities|Utility]] only found on [[01-MTF]] that was stolen from the [[Exiles (Group)]]. Its Door [[Terminal]] hacking is most useful with high difficulty doors like the [[Access]] [[Surface]] exit. Generally better than [[Plasma Cutters]], although they have an advantage in being able to function even if the door Terminal gets destroyed."
   },
   {
    "Name": "01-MTF's Shockpuncher",
-   "Content": "A unique part only found on [[01-MTF]], this short ranged [[Electromagnetic Guns|Electromagnetic Gun]] is an energy-hungry but powerful shotgun-type weapon. Its raw damage output is better than even lategame weapons like the [[Com. HERF Cannon]], capable of easily killing most bots in the game in 2 or 3 hits, and its high disruption helps disable crucial parts on bots that it hits. However, its short range and high spectrum can be a detriment since it has a high chance of blowing up any bots that it hits. Any nearby cover is not likely to last very long."
+   "Content": "A unique [[Energy Guns|Energy Gun]] only found on [[01-MTF]], this short ranged [[Electromagnetic Guns|Electromagnetic Gun]] is an energy-hungry but powerful shotgun-type weapon. Its raw damage output is better than even lategame weapons like the [[Com. HERF Cannon]], capable of easily killing most bots in the game in 2 or 3 hits, and its high disruption helps disable crucial parts on bots that it hits. However, its short range and high spectrum can be a detriment since it has a high chance of blowing up any bots that it hits. Any nearby cover is not likely to last very long."
   },
   {
    "Name": "0b10 Alert Chip",
-   "Content": "This unique part is one of the [[Exiles Vault Prototypes]] and can primarily be found on the [[Exiles (Location)]] map [[Spoiler]]or in the [[Zion Deep Caves]][[/Spoiler]]. This item provides a [[RIF]]-like [[Alert]] Influence indicator on the HUD as well as reduces all Alert gained by 20%. This part is best used with builds that are likely to generate a lot of alert like heavy combat builds or with heavy ally [[Alignment|Alignments]] like [[Imprint]]."
+   "Content": "This unique [[Processors|Processor]] is one of the [[Exiles Vault Prototypes]] and can primarily be found on the [[Exiles (Location)]] map [[Spoiler]]or in the [[Zion Deep Caves]][[/Spoiler]]. This item provides a [[RIF]]-like [[Alert]] Influence indicator on the HUD as well as reduces all Alert gained by 20%. This part is best used with builds that are likely to generate a lot of alert like heavy combat builds or with heavy ally [[Alignment|Alignments]] like [[Imprint]]."
   },
   {
    "Name": "0b10 Decoder Chip [Generic]",
@@ -1380,7 +1380,7 @@
   },
   {
    "Name": "0b10 Decoder Chip [Looter]",
-   "Content": "This [[0b10 Decoder Chips|0b10 Decoder Chip]] specializes in finding parts on the ground while in [[0b10]] maps. It is the decoder chip with the fastest update rate, providing part intel roughly every 18 turns. Providing item intel is a fairly rare [[Infowar]] capability and has a lot of value for slower propulsion types, allowing them to skip exploring large areas of the map with no interesting loot. This is particularly good in tougher lategame maps, especially [[Research]] and its branches like [[Testing]] since it can reveal prefabs containing valuable unique items at an enormous 30 tile range."
+   "Content": "This [[0b10 Decoder Chips|0b10 Decoder Chip]] specializes in finding parts on the ground while in [[0b10]] maps. It is the decoder chip with the fastest update rate, providing part intel roughly every 18 turns. Providing item intel is a fairly rare [[Infowar]] capability and has a lot of value for slower propulsion types, allowing them to skip exploring large areas of the map with no interesting loot. This is particularly good in tougher lategame maps, especially [[Research]] and its branches like [[Testing]] since it can reveal prefabs containing valuable unique items at an enormous 50 square area range."
   },
   {
    "Name": "0b10 Decoder Chip [Scout]",
@@ -1392,35 +1392,35 @@
   },
   {
    "Name": "12-ASH's Boomstick",
-   "Content": ""
+   "Content": "This unique [[Kinetic Guns|Kinetic Gun]] belongs to the [[Heroes of Zion|Zion Hero]] [[12-ASH]] and is among the most powerful [[Kinetic Guns]] in the game. Its super high damage split across 2 projectiles outperforms even the [[Multirail]] in terms of pure damage, and the -40 delay helps to fire volleys even faster. It has a few relatively minor drawbacks in its fairly high recoil of 10 and its -3 salvage per projectile, though they are a small price to pay for this level of power."
   },
   {
    "Name": "1C-UTU's Buckler",
-   "Content": ""
+   "Content": "This unique [[Armor]] belongs to the [[Heroes of Zion|Zion Hero]] [[1C-UTU]] and has an interesting mix of qualities. Its 200 coverage is rather low for armor, sitting just below the standard medium armors at 225 coverage. However, its 400 integrity is pretty good alone, but the extra [[Powered Armor (Group)|Powered Armor]]-like damage reduction effect keeps it alive for a very long time."
   },
   {
    "Name": "1C-UTU's Sword \"Choppy\"",
-   "Content": ""
+   "Content": "This unique [[Slashing Weapons|Slashing Weapon]] is one of two belonging to the [[Heroes of Zion|Zion Hero]] [[1C-UTU]] and is quite an offensive powerhouse. While its twin the [[1C-UTU's Sword \"Lootmaker\"]] focuses on severing and salvaging, \"Choppy\" instead relies on pure damage and destructive power. It has a minor targeting penalty but its 0 delay and high damage potential allow it to easily outclass standard lategame melee weapons like the [[Nanosword]]."
   },
   {
    "Name": "1C-UTU's Sword \"Lootmaker\"",
-   "Content": ""
+   "Content": "This unique [[Slashing Weapons|Slashing Weapon]] is one of two belonging to the [[Heroes of Zion|Zion Hero]] [[1C-UTU]] and is a very strong utility-based weapon. While its twin the [[1C-UTU's Sword \"Choppy\"]] focuses on pure destructive power, \"Lootmaker\" instead leans into severing and salvaging enemies. It is not as good at pure killing but is great to use on bots with good loot to try to sever or salvage the parts off. This sword boasts a positive salvage stat of +5 and is the only melee weapon that isn't neutral or salvage negative."
   },
   {
    "Name": "2N-1CE's Frost Array",
-   "Content": ""
+   "Content": "This unique [[Cooling Utilities|Cooling Utility]] provides a near unparalleled cooling per slot at 100 [[Heat]] dissipation per turn with a low upkeep cost to boot. It can rarely be found only inside one of the reinforced shells in [[Testing]]. "
   },
   {
    "Name": "5H-AD0's Cloak",
-   "Content": ""
+   "Content": "This unique [[Cloaking Devices|Cloaking Device]]-like part belongs to the mysterious [[Derelict]] [[5H-AD0]] and doubles as both cloaking and armor. It has a high energy cost, high coverage, and an effective sight reduction of -6 that is tied for the largest sight reduction in the game along with the [[Cep. Cloak Mesh]]. While the part is very useful for Cogmind, it is quite difficult to get it off of 5H-AD0 due to their tendency to leave as soon as they are threatened."
   },
   {
    "Name": "5H-AD0's Sniper Rifle",
-   "Content": ""
+   "Content": "This unique [[Kinetic Guns|Kinetic Gun]] belongs to the mysterious [[Derelict]] [[5H-AD0]], and true to its name, is a powerful long ranged sniper rifle. 24 range is among the highest of weapons in the game and ties with Cogmind's maximum vision range when equipped with a [[Spectral Analyzer]]. Its high recoil and delay make it not ideal to use in a large weapon volley, but it is a solid sniping weapon by itself. However, it is difficult to get ahold of this item due to 5H-AD0's tendency to leave as soon as they are threatened."
   },
   {
    "Name": "7V-RTL's Ultimate Field",
-   "Content": ""
+   "Content": "A unique [[Force Fields|Force Field]] belonging to the [[Heroes of Zion|Zion Hero]] [[7V-RTL]] that is arguably the most powerful defensive utility in the game. Most other force fields, even top tier ones like [[Exp. Force Field]] and [[AEGIS Remote Shield]], only block up to 50% damage, but the Ultimate Field is twice as effective at damage reduction since it blocks 75% damage, energy permitting. The only other part so effective is the [[Vortex Field Projector]] which has other significant downsides. Keep this part well fed with 4 (or more) engines and maybe a [[Power Amplifiers|Power Amplifier]] and it will keep any build intact for a very long time."
   },
   {
    "Name": "8R-AWN's Armor/EX",
@@ -8043,6 +8043,10 @@
    "Content": ""
   },
   {
+   "Name": "Devices",
+   "Content": "Devices are a very generic class of [[Utilities]] that is the default for parts that don't fall under any of the other utility categories."
+  },
+  {
    "Name": "Distress Signals",
    "Content": ""
   },
@@ -8233,6 +8237,10 @@
   {
    "Name": "Power",
    "Content": ""
+  },
+  {
+   "Name": "Processors",
+   "Content": "Processors are [[Utilities]] that have very low coverage and integrity but are fragile so they can't be removed without being destroyed. They often have effects like providing [[Infowar]] or enhancing some of the attached robot's base capabilities in some way."
   },
   {
    "Name": "Progress Achievements",
