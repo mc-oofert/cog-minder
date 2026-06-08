@@ -1,4 +1,4 @@
-import{j as a,L as I,J as E,K as U,c as D,r as S,M as ee,f as z,N as te,y as F,a as j,s as ae,O as ne,S as Z,B as b,o as ie,Q as K,u as Q,U as oe,V as re,W,X as se,Y as le,Z as q,_ as he,$ as de}from"./index-lWorkUJX.js";import{l as ce}from"./lore-yoaB2RHm.js";import{a as ge,L as me,I as ue,B as Y,b as pe,u as fe}from"./BotDetails-f2_0toY6.js";import{a as X,u as ye}from"./ItemPopover-CE2WZjpl.js";/* empty css              */import"./bots-EPaA02tF.js";import"./botTypes-Cxei0LoN.js";import"./items-bCTdCTgI.js";const be=[{Name:"01-MTF",Content:"[[Image]]MTF Vault.png|Running into MTF in a [[Storage]] vault[[/Image]]A friendly bot that rarely shows up in [[Storage]] in an already opened vault. Will join Cogmind as an uncontrollable purple ally for the duration of the map and uses [[01-MTF's Autohacker]] to automatically open any other vaults it can see. It will assimilate or destroy most enemies it encounters extremely quickly with its high spectrum high damage EM gun [[01-MTF's Shockpuncher]]. The Shockpuncher is a very powerful weapon that is strong throughout the majority of the game as long as you can deal with its short range if you can get it to drop. [[Spoiler]]Presumably stole exiles prototypes.[[/Spoiler]]"},{Name:"12-ASH",Content:`[[GameText]]Hail to the king![[/GameText]]
+import{j as a,L as I,J as E,K as U,c as D,r as S,M as ee,f as z,N as te,y as F,a as j,s as ae,O as ne,S as Z,B as b,o as ie,Q as K,u as Q,U as oe,V as re,W,X as se,Y as le,Z as q,_ as he,$ as de}from"./index-BZ_A4txM.js";import{l as ce}from"./lore-yoaB2RHm.js";import{a as ge,L as me,I as ue,B as Y,b as pe,u as fe}from"./BotDetails-CDTfb5zs.js";import{a as X,u as ye}from"./ItemPopover-FK5CovZG.js";/* empty css              */import"./bots-EPaA02tF.js";import"./botTypes-Cxei0LoN.js";import"./items-bCTdCTgI.js";const be=[{Name:"01-MTF",Content:"[[Image]]MTF Vault.png|Running into MTF in a [[Storage]] vault[[/Image]]A friendly bot that rarely shows up in [[Storage]] in an already opened vault. Will join Cogmind as an uncontrollable purple ally for the duration of the map and uses [[01-MTF's Autohacker]] to automatically open any other vaults it can see. It will assimilate or destroy most enemies it encounters extremely quickly with its high spectrum high damage EM gun [[01-MTF's Shockpuncher]]. The Shockpuncher is a very powerful weapon that is strong throughout the majority of the game as long as you can deal with its short range if you can get it to drop. [[Spoiler]]Presumably stole exiles prototypes.[[/Spoiler]]"},{Name:"12-ASH",Content:`[[GameText]]Hail to the king![[/GameText]]
 12-ASH is a member of the [[Heroes of Zion]] equipped with [[12-ASH's Boomstick]] and [[Ripper]].`},{Name:"1C-UTU",Content:""},{Name:"5H-AD0",Content:""},{Name:"7R-MNS",Content:""},{Name:"7V-RTL",Content:""},{Name:"8R-AWN",Content:""},{Name:"99-TNT",Content:""},{Name:"A-02 Transporter",Content:""},{Name:"A-15 Conveyor",Content:""},{Name:"A-27 Freighter",Content:"Informally known as a yauler (yellow Hauler). In the main complex, appears as part of a [[Cargo Convoy]]."},{Name:"A2",Content:""},{Name:"A3",Content:""},{Name:"A4",Content:""},{Name:"A5",Content:""},{Name:"A6",Content:""},{Name:"A7",Content:"Drops the [[A7 Data Core]] when killed. Gives a code when shown the Cetus Mainframe in [[Cetus]]."},{Name:"A8",Content:""},{Name:"AD-0RF",Content:""},{Name:"AZ-K3N",Content:""},{Name:"Advanced Drone",Content:""},{Name:"Alpha 7",Content:""},{Name:"Architect",Content:""},{Name:"Army Drone",Content:""},{Name:"Artisan",Content:""},{Name:"Assault Drone",Content:""},{Name:"Assembled (4)",Content:""},{Name:"Assembled (7)",Content:""},{Name:"Assembler",Content:"Produces [[Assembled]] every 10 turns. Otherwise harmless."},{Name:"Autobeam Turret",Content:""},{Name:"B-36 Bruiser",Content:""},{Name:"B-48 Gladiator",Content:""},{Name:"B-60 Warrior",Content:""},{Name:"B-74 Champion",Content:""},{Name:"B-75 Beast",Content:""},{Name:"B-86 Titan",Content:""},{Name:"B-90 Cyclops",Content:""},{Name:"B-99 Colossus",Content:""},{Name:"Bomb Drone",Content:"Fast disposable drones that attempt to melee hostiles, which will cause them to explode. Deployed by a [[Bomb Drone Bay]]"},{Name:"Borebot",Content:""},{Name:"Bouncer",Content:""},{Name:"Butcher (5)",Content:""},{Name:"Butcher (7)",Content:""},{Name:"C-17 Slicer",Content:""},{Name:"C-30 ARC",Content:""},{Name:"C-35 Carver",Content:""},{Name:"C-40 Crusher",Content:`Crushers are heavy-duty [[Treads|treading]] trash (you) compacting machines plated in [[Damper Plating]], rendering them nearly immune to electromagnetic damage. Crushers will attempt to compact anything that is not a Crusher, and their Compactor is a VERY formidable melee weapon (does not drop) that will either [[B]]destroy or drop a few of your parts[[/B]]. Weak to explosions and strong against melee (which would be a bad idea regardless).
 
 Due to their extreme lethality in melee, stay out of their range at all costs, and maybe just run the hell out of [[Wastes]]. Alternatively pack a good launcher or a good critical weapon, as their plating will tank most of your shots.`},{Name:"C-55 Analyst",Content:""},{Name:"C-57 Dissector",Content:""},{Name:"C-65 Expert",Content:""},{Name:"CL-ANK",Content:""},{Name:"Cetus Guard",Content:""},{Name:"Cobbler",Content:""},{Name:"Cogmind",Content:"That's you."},{Name:"Combat Drone",Content:""},{Name:"Combat Programmer",Content:""},{Name:"Commander",Content:""},{Name:"D-53 Grenadier",Content:""},{Name:"D-63 Destroyer",Content:""},{Name:"D-83 Annihilator",Content:""},{Name:"DAS Turret",Content:""},{Name:"Data Miner",Content:""},{Name:"Decomposer",Content:""},{Name:"Decoy Drone",Content:""},{Name:"Demented",Content:""},{Name:"Dragon",Content:""},{Name:"Drone",Content:""},{Name:"E-15 Imp",Content:""},{Name:"EX-BIN",Content:`[[Heading]]Parse[[/Heading]]
@@ -1166,7 +1166,7 @@ See [[Strategy/Maps/Hub_04(d)]]
 [[Heading]]Exits[[/Heading]]
 There is only one type of exit on this map. All exits lead to the next main Factory or Research floor.`,Exits:["Garrison","Factory","Research"],SpecialBots:["Lightning"],MinDepth:-6,MaxDepth:-4,Branch:!0,Spoiler:"Spoiler"},{Name:"Lab",ImageName:"Lab.png",Content:`Lab is a [[Factory]]/[[Research]] branch between -4 and -3 that is only accessible from [[Armory]]. This map is fixed every game, with the only variations being variations in the guaranteed items. This secret lab is used as a safe spot by the [[A Bots|A bots]] to plan and coordinate as well as research stolen [[Sigix]] technology. This area has a special effect where Cogmind's [[Alert]] drops to 0 upon entering the map.
 Lab has a small square entrance and a 1 tile corridor that leads to the next main access exit and a Sealed Barrier with a [[Terminal]] locking it. There are a few different ways to get inside:
-[[List]]Breaking in: The main Sealed Barrier blocking the way has 80 armor and high resistances. Cutting through this is difficult without a strong overloadable thermal [[Energy Cannons|Energy Cannon]] backed with a [[Particle Chargers|Particle Charger]] or a [[Plasma Cutters|Plasma Cutter]]. Coming in this way will result in being scanned immediately.|[[Zhirov (Location)]] code: One of the Terminals at Zhirov contains an access code to open up this barrier. Opening the Lab this way not result in being scanned instantly.|Picking up the [[A7 Data Core]]: [[A7]] drops this item when destroyed. The doors will automatically open when approaching, and the message [[GameText]]A0_COM: WELCOME A7[[/GameText]] will appear in the log. This will also reveal the intruder detection lasers, but Cogmind will not be scanned immediately.|Using the [[Data Conduit]]: Using the Data Conduit in [[Data Miner (Location)]] will result in the doors opening automatically, the scanning lasers being visible, and no immediate scan.[[/List]]
+[[List]]Breaking in: The main Sealed Barrier blocking the way has 80 armor and high resistances. Cutting through this is difficult without a strong overloadable thermal [[Energy Cannons|Energy Cannon]] backed with a [[Particle Chargers|Particle Charger]] or a [[Plasma Cutters|Plasma Cutter]]. Breaking the door without a Plasma Cutter will result in being scanned immediately.|[[Zhirov (Location)]] code: One of the Terminals at Zhirov contains an access code to open up this barrier. Opening the Lab this way not result in being scanned instantly.|Picking up the [[A7 Data Core]]: [[A7]] drops this item when destroyed. The doors will automatically open when approaching, and the message [[GameText]]A0_COM: WELCOME A7[[/GameText]] will appear in the log. This will also reveal the intruder detection lasers, but Cogmind will not be scanned immediately.|Using the [[Data Conduit]]: Using the Data Conduit in [[Data Miner (Location)]] will result in the doors opening automatically, the scanning lasers being visible, and no immediate scan.[[/List]]
 [[Table]]
 Mode of entry|Breaking in|Zhirov code|A7 Data Core|Data Conduit||
 Immediately scanned|[[CellStyle:Bad]]Yes|[[CellStyle:Good]]No|[[CellStyle:Good]]No|[[CellStyle:Good]]No||
@@ -2173,7 +2173,7 @@ Demolisher squads are [[0b10]] aligned [[Squad|squads]] that are dispatched to e
 An alert will indicate whenever a Demolisher squad is dispatched. Additionally, the log will display a message like [[GameText]]ALERT: Infestation in the Mines, dispatching Demolisher response squad.[[/GameText]] Depending on the method triggering the squad, a different reason may be given in the alert.
 
 [[Heading]]How to get Demolisher Squads[[/Heading]]
-[[List]]Assembled infestation: Any Assembled infestation events will trigger an immediate Demolisher response|[[Spoiler]]Friendly Assembled: If Cogmind has used a [[Core Reset Matrix]] and uses a [[Mobile Assembly Unit]] to create allied Assembled, Demolishers will be sent after a random amount of turns[[/Spoiler]]|Too many allies: If Cogmind has 18 or more allies, Demolishers may be dispatched to Cogmind's current location.[[/List]]`},{Name:"Derelict",Content:""},{Name:"Devices",Content:"Devices are a very generic class of [[Utilities]] that is the default for parts that don't fall under any of the other utility categories."},{Name:"Distress Signals",Content:""},{Name:"Electromagnetic Weapons",Content:""},{Name:"Empty",Content:"Empty page for undisturbed creation of new pages"},{Name:"Energy",Content:"Once per turn energy is generated by power sources, and is necessary for moving, firing energy-based weapons, and sustaining the operation of some utility systems. Robot cores also generate some energy of their own, though not enough to support significant activity."},{Name:"Events Achievements",Content:`[[Comment]]                       ---NOTE FOR EDITORS---
+[[List]]Assembled infestation: Any Assembled infestation events will trigger an immediate Demolisher response|[[Spoiler]]Friendly Assembled: If Cogmind has used a [[Core Reset Matrix]] and uses a [[Mobile Assembly Unit]] to create allied Assembled, Demolishers will be sent after a random amount of turns[[/Spoiler]]|Too many allies: If Cogmind has 18 or more allies, Demolishers may be dispatched to Cogmind's current location.[[/List]]`},{Name:"Derelict",Content:""},{Name:"Devices",Content:"Devices are a very generic class of [[Utilities]] that is the default for parts that don't fall under any of the other utility categories."},{Name:"Disruption",Content:""},{Name:"Distress Signals",Content:""},{Name:"Electromagnetic Weapons",Content:""},{Name:"Empty",Content:"Empty page for undisturbed creation of new pages"},{Name:"Energy",Content:"Once per turn energy is generated by power sources, and is necessary for moving, firing energy-based weapons, and sustaining the operation of some utility systems. Robot cores also generate some energy of their own, though not enough to support significant activity."},{Name:"Events Achievements",Content:`[[Comment]]                       ---NOTE FOR EDITORS---
 Once Beta 16 releases, if you decide to update any of the Achievements pages, please consider whether it would be better to separate the new achievements from the old ones or not.
 I think that, ideally, whatever you choose to do, that decision should be applied to all Achievements pages, for the sake of consistency.[[/Comment]]
 
@@ -10524,7 +10524,12 @@ Projectile/Penetration|
 Projectile/Salvage|
 Effect/Effect|
 Effect/Description
-[[/PartGroupTable]]`},{Name:"Cloaking Devices",Parts:["Cloaking Device","Mak. Cloaking Device","Imp. Cloaking Device","Adv. Cloaking Device","Exp. Cloaking Device","Cloak of Protection","5H-AD0's Cloak"],Content:`[[Heading]]List of Cloaking Devices[[/Heading]]
+[[/PartGroupTable]]`},{Name:"Cloaking Devices",Parts:["Cloaking Device","Mak. Cloaking Device","Imp. Cloaking Device","Adv. Cloaking Device","Exp. Cloaking Device","Cloak of Protection","5H-AD0's Cloak"],Content:`Cloaking [[Devices]] are a type of [[Infowar]] that reduces the vision of hostile robots. They also have a secondary effect of reducing the chance of being [[Partial Spot|Partial Spotted]] by moving through an enemy's vision without them having a turn, although this effect rarely comes into play. Cloaking devices compete with [[Visual Processing Units]] as a vision-manipulating part that allows for safer map exploration.
+
+[[Heading]]Vision Manipulation Infowar Comparison[[/Heading]]
+[[Partial]]Vision Manipulation Infowar Comparison[[/Partial]]
+
+[[Heading]]List of Cloaking Devices[[/Heading]]
 [[PartGroupTable]]
 Cloaking Devices|
 Overview/Size|
@@ -10533,7 +10538,10 @@ Overview/Integrity|
 Overview/Coverage|
 Upkeep/Energy|
 Effect/Effect
-[[/PartGroupTable]]`},{Name:"Component Analysis Suites",Parts:["Component Analysis Suite","Imp. Component Analysis Suite","Adv. Component Analysis Suite"],Content:`[[Heading]]List of Component Analysis Suites[[/Heading]]
+[[/PartGroupTable]]`},{Name:"Component Analysis Suites",Parts:["Component Analysis Suite","Imp. Component Analysis Suite","Adv. Component Analysis Suite"],Content:`Component Analysis Suites are [[Devices]] that identify all non-[[Alien Artifacts|Alien]] unknown and [[Prototype Part|Prototype]] parts held in Cogmind's inventory. Low rating variants can take a while to identify parts, but the [[Adv. Component Analysis Suite|Adv. variant]] usually works pretty quickly with a 10% chance to identify each turn. Their greatest use is determining whether prototype parts are faulty to avoid the negative side effects of use-IDing parts.
+The advantage of using Component Analysis Suites over [[Scanalyzer|Scanalyzers]] is the ability to carry them with you and not requiring a successful hack. Scanalyzers may be in inconvenient locations but these parts can be kept in inventory and swapped on when necessary. Additionally, higher level Scanalyzers are difficult to insert parts into without [[Hackware]] bonuses. [[Research]] and branches like [[Testing]] and [[Quarantine]] have a higher than usual rate of prototype parts so they are most valuable in these maps.
+
+[[Heading]]List of Component Analysis Suites[[/Heading]]
 [[PartGroupTable]]
 Component Analysis Suites|
 Overview/Size|
@@ -10542,7 +10550,10 @@ Overview/Integrity|
 Overview/Coverage|
 Upkeep/Energy|
 Effect/Effect
-[[/PartGroupTable]]`},{Name:"Coolant Injectors",Parts:["Disposable Heat Sink","Coolant Injector","Imp. Coolant Injector","Adv. Coolant Injector","Exp. Coolant Injector"],Content:`[[Heading]]List of Coolant Injectors[[/Heading]]
+[[/PartGroupTable]]`},{Name:"Coolant Injectors",Parts:["Disposable Heat Sink","Coolant Injector","Imp. Coolant Injector","Adv. Coolant Injector","Exp. Coolant Injector"],Content:`A type of [[Cooling Utilities|Cooling Utility]] that trades integrity for heat dissipation when above 200 heat. Their dissipation potential is much greater than comparable [[Cooling Devices]] like heat sinks and cooling systems which makes it great for very heat-intensive volleys of weapons like [[Thermal Guns|Thermal Guns]] and [[Thermal Cannons|Cannons]]. For example, a rating 4 [[Coolant Injector]] can dissipate 65 heat per turn which is over twice as much as the rating 4 [[Imp. Cooling System]] can provide at only 27 heat per turn. However, injectors will not last as long as other types due to their integrity-spending effect.
+Injectors can be repaired to maintain their use over a longer period of time. An allied [[Mechanic]] can keep injectors topped up in the long run, albeit only to 50% integrity. [[Spoiler]][[Scrap Suit|Scrap Suits]] are also great choice in preserving injector integrity since [[Devices]] are dropped by many common bots.[[/Spoiler]]
+
+[[Heading]]List of Coolant Injectors[[/Heading]]
 [[PartGroupTable]]
 Coolant Injectors|
 Overview/Size|
@@ -10551,7 +10562,13 @@ Overview/Integrity|
 Overview/Coverage|
 Upkeep/Energy|
 Effect/Effect
-[[/PartGroupTable]]`},{Name:"Cooling Devices",Parts:["Heat Sink","Imp. Heat Sink","Adv. Heat Sink","Exp. Heat Sink","Cooling System","Imp. Cooling System","Adv. Cooling System","Exp. Cooling System","Asb. Nanovents","Coolant Network","2N-1CE's Frost Array"],Content:`[[Heading]]List of Cooling Devices[[/Heading]]
+[[/PartGroupTable]]`},{Name:"Cooling Devices",Parts:["Heat Sink","Imp. Heat Sink","Adv. Heat Sink","Exp. Heat Sink","Cooling System","Imp. Cooling System","Adv. Cooling System","Exp. Cooling System","Asb. Nanovents","Coolant Network","2N-1CE's Frost Array"],Content:`A type of [[Cooling Utilities|Cooling Utility]] that dissipates heat every turn they are active. Compared to equivalent rating [[Coolant Injectors]] they have less dissipation potential, but since they don't lose integrity each turn they are more reliable for extended use. For example, a rating 4 [[Coolant Injector]] can dissipate 65 heat per turn which is over twice as much as the rating 4 [[Imp. Cooling System]] can provide at only 27 heat per turn.
+
+[[Heading]]Heat Sinks vs. Cooling Systems[[/Heading]]
+The two main categories of cooling utilities are Heat Sinks and Cooling Devices. Heat sinks have less coverage, integrity, energy cost, and cooling capability. For example, the rating 5 [[Adv. Heat Sink]] dissipates 19 heat with a cost of 1 energy per turn, while the rating 6 [[Adv. Cooling System]] dissipates 31 heat with a cost of 3 energy per turn. They also tend to be used by more common bots like [[Grunt|Grunts]] and [[Sentry|Sentries]], making them easier to replace.
+[[Cryofiber Webs]] have a special effect on all Heat Sink variants that doubles their cooling effectiveness. This makes them more powerful per slot than cooling devices, although it does come with the downside of requiring an additional slot decided to the Cryofiber Web.
+
+[[Heading]]List of Cooling Devices[[/Heading]]
 [[PartGroupTable]]
 Cooling Devices|
 Overview/Size|
@@ -10577,7 +10594,12 @@ Overview/Rating|
 Overview/Integrity|
 Overview/Coverage|
 Effect/Effect
-[[/PartGroupTable]]`},{Name:"Corruption Screens",Parts:["Corruption Screen","Imp. Corruption Screen","Adv. Corruption Screen"],Content:`[[Heading]]List of Corruption Screens[[/Heading]]
+[[/PartGroupTable]]`},{Name:"Corruption Screens",Parts:["Corruption Screen","Imp. Corruption Screen","Adv. Corruption Screen"],Content:`[[Processors]] that prevent the user from gaining [[Corruption]], instead losing integrity of the attached Corruption Screens. Some good use cases for them are:
+[[List]]
+Fighting [[Programmer|Programmers]] or other [[Electromagnetic Weapons|Electromagnetic Weapon]]-wielding bots|Avoiding the side effects of the EMP in [[Wastes]]|Avoiding the side effects of attaching [[Corrupted Parts]]
+[[/List]]
+
+[[Heading]]List of Corruption Screens[[/Heading]]
 [[PartGroupTable]]
 Corruption Screens|
 Overview/Size|
@@ -10585,7 +10607,7 @@ Overview/Rating|
 Overview/Integrity|
 Overview/Coverage|
 Effect/Effect
-[[/PartGroupTable]]`},{Name:"Cryofiber Webs",Parts:["Cryofiber Web","Imp. Cryofiber Web","Adv. Cryofiber Web","Exp. Cryofiber Web"],Content:`[[Heading]]List of Cryofiber Webs[[/Heading]]
+[[/PartGroupTable]]`},{Name:"Cryofiber Webs",Parts:["Cryofiber Web","Imp. Cryofiber Web","Adv. Cryofiber Web","Exp. Cryofiber Web"],Content:`[[Cooling Utilities]] that lower the base temperature of the bot that attaches them as well as doubles the dissipation of Heat Sinks. This makes them good to pair with a large number of Heat Sinks for a ton of heat dissipation, although [[Coolant Injectors]] are a much more slot-efficient method of doing this. Note that this effect does not affect the base heat dissipation of the bot, nor does it affect the "surplus heat" number used by [[Thermal Generators]]. [[Heading]]List of Cryofiber Webs[[/Heading]]
 [[PartGroupTable]]
 Cryofiber Webs|
 Overview/Size|
@@ -10594,7 +10616,9 @@ Overview/Integrity|
 Overview/Coverage|
 Upkeep/Energy|
 Effect/Effect
-[[/PartGroupTable]]`},{Name:"Datajacks",Parts:["Datajack","Imp. Datajack","Adv. Datajack","Remote Datajack","Imp. Remote Datajack","Adv. Remote Datajack","Exp. Remote Datajack","ME-RLN's Wand","Gui. Remote Datajack"],Content:""},{Name:"Drone Bays",Parts:["Drone Bay","Mni. Drone Bay","Adv. Drone Bay","Mapping Drone Bay","Z-Drone Bay","Bomb Drone Bay","Combat Drone Bay","Decoy Drone Bay","Splice Drone Bay","Thief Drone Bay","Assault Drone Bay","Sensor Drone Bay","Stealth Drone Bay","Supersonic Drone Bay","Swarm Drone Bay","Hacking Drone Bay","Minesniffer Drone Bay","Wardrone Bay"],Content:`[[Heading]]List of Drone Bays[[/Heading]]
+[[/PartGroupTable]]`},{Name:"Datajacks",Parts:["Datajack","Imp. Datajack","Adv. Datajack","Remote Datajack","Imp. Remote Datajack","Adv. Remote Datajack","Exp. Remote Datajack","ME-RLN's Wand","Gui. Remote Datajack"],Content:""},{Name:"Drone Bays",Parts:["Drone Bay","Mni. Drone Bay","Adv. Drone Bay","Mapping Drone Bay","Z-Drone Bay","Bomb Drone Bay","Combat Drone Bay","Decoy Drone Bay","Splice Drone Bay","Thief Drone Bay","Assault Drone Bay","Sensor Drone Bay","Stealth Drone Bay","Supersonic Drone Bay","Swarm Drone Bay","Hacking Drone Bay","Minesniffer Drone Bay","Wardrone Bay"],Content:`Drone Bays are [[Devices]] that can deploy a specific type of [[Drone]] depending on the type of bay. Each bay has a fixed number of drones that it can deploy, although drones from other bays the same type can also be deployed simultaneously. Drones will become unpowered if there is no matching drone bay attached. Damaged drones can be repaired at the cost of integrity of the drone bay, but destroyed drones cannot be replaced without obtaining a new bay. Some types of drone are only used for recon and will run away when attacked by a hostile, but others are more combat-oriented and will engage hostiles on sight.
+
+[[Heading]]List of Drone Bays[[/Heading]]
 [[PartGroupTable]]
 Drone Bays|
 Overview/Size|
@@ -10602,7 +10626,9 @@ Overview/Rating|
 Overview/Integrity|
 Overview/Coverage|
 Effect/Effect
-[[/PartGroupTable]]`},{Name:"Dynamic Insulation Systems",Parts:["Dynamic Insulation System","Imp. Dynamic Insulation System","Adv. Dynamic Insulation System"],Content:`[[Heading]]List of Dynamic Insulation Systems[[/Heading]]
+[[/PartGroupTable]]`},{Name:"Dynamic Insulation Systems",Parts:["Dynamic Insulation System","Imp. Dynamic Insulation System","Adv. Dynamic Insulation System"],Content:`These are [[Corruption Reduction Utilities]] that have a chance of preventing [[Corruption]] gain on each attack and on [[Shock Trap|Shock]] and [[EM Surge Trap|EM Surge Traps]]. These parts are good to attach when fighting [[Electromagnetic Weapons|Electromagnetic Weapon]]-wielding bots like [[Programmer|Programmers]]. It also provides complete immunity to [[Disruption]] for all attached parts. One additional hidden effect is that it has a chance of blocking the corruption gain from the EMP inside of [[Wastes]]. Note: This part does not affect internal corruption gain from firing parts like the [[Latent Energy Streamer]].
+
+[[Heading]]List of Dynamic Insulation Systems[[/Heading]]
 [[PartGroupTable]]
 Dynamic Insulation Systems|
 Overview/Size|
@@ -10612,7 +10638,10 @@ Overview/Coverage|
 Upkeep/Energy|
 Upkeep/Heat|
 Effect/Effect
-[[/PartGroupTable]]`},{Name:"ECM Suites",Parts:["ECM Suite","Adv. ECM Suite","Mak. ECM Suite","Exp. ECM Suite"],Content:`[[Heading]]List of ECM Suites[[/Heading]]
+[[/PartGroupTable]]`},{Name:"ECM Suites",Parts:["ECM Suite","Adv. ECM Suite","Mak. ECM Suite","Exp. ECM Suite"],Content:`[[Infowar]] that reduces the effective memory of tracking bots when out of line of sight. For example, a [[Grunt]] has a memory of 20 actions once a bot is outside of LOS. If Cogmind has a regular [[ECM Suite]] (which has a forget multiplier of 2x) attached, that Grunt will only be able to perform 10 actions until they lose tracking on Cogmind. The ECM suite can be attached at any point in time after breaking LOS and it will take effect on remaining memory. So if the Grunt performed 4 actions before Cogmind attached the ECM suite, the Grunt will have (20 - 4) / 2 = 8 actions before losing tracking.
+ECM Suites are most effective on airborne propulsion since it is much easier to maneuver out of bots' LOS with higher speed. However, it is still usable on grounded propulsion types with good positioning. Attaching a higher rating ECM suite and ducking into a room can lose other grounded bots with low memory like Grunt squads fairly easily. However, there are lots of bot types that ECM Suites won't work effectively against without high speed like [[Programmer|Programmers]].
+
+[[Heading]]List of ECM Suites[[/Heading]]
 [[PartGroupTable]]
 ECM Suites|
 Overview/Size|
