@@ -1801,7 +1801,12 @@ This article was last edited during Beta 15 ","","","","","","",""
 "Cld. VTOL Module","Part","","","","","","","",""
 "Cloak of Protection","Part","","","","","","","",""
 "Cloaking Device","Part","","","","","","","",""
-"Cloaking Devices","Part Group","[[Heading]]List of Cloaking Devices[[/Heading]]
+"Cloaking Devices","Part Group","Cloaking [[Devices]] are a type of [[Infowar]] that reduces the vision of hostile robots. They also have a secondary effect of reducing the chance of being [[Partial Spot|Partial Spotted]] by moving through an enemy's vision without them having a turn, although this effect rarely comes into play. Cloaking devices compete with [[Visual Processing Units]] as a vision-manipulating part that allows for safer map exploration.
+
+[[Heading]]Vision Manipulation Infowar Comparison[[/Heading]]
+[[Partial]]Vision Manipulation Infowar Comparison[[/Partial]]
+
+[[Heading]]List of Cloaking Devices[[/Heading]]
 [[PartGroupTable]]
 Cloaking Devices|
 Overview/Size|
@@ -2339,7 +2344,10 @@ You don't need to do this, but you can.[[/Comment]]
 [[GameText]]Goodbye, for now.[[/GameText]]
 [[GameText]]The power of friendship will sustain me![[/GameText]]","","","","","","",""
 "Component Analysis Suite","Part","","","","","","","",""
-"Component Analysis Suites","Part Group","[[Heading]]List of Component Analysis Suites[[/Heading]]
+"Component Analysis Suites","Part Group","Component Analysis Suites are [[Devices]] that identify all non-[[Alien Artifacts|Alien]] unknown and [[Prototype Part|Prototype]] parts held in Cogmind's inventory. Low rating variants can take a while to identify parts, but the [[Adv. Component Analysis Suite|Adv. variant]] usually works pretty quickly with a 10% chance to identify each turn. Their greatest use is determining whether prototype parts are faulty to avoid the negative side effects of use-IDing parts.
+The advantage of using Component Analysis Suites over [[Scanalyzer|Scanalyzers]] is the ability to carry them with you and not requiring a successful hack. Scanalyzers may be in inconvenient locations but these parts can be kept in inventory and swapped on when necessary. Additionally, higher level Scanalyzers are difficult to insert parts into without [[Hackware]] bonuses. [[Research]] and branches like [[Testing]] and [[Quarantine]] have a higher than usual rate of prototype parts so they are most valuable in these maps.
+
+[[Heading]]List of Component Analysis Suites[[/Heading]]
 [[PartGroupTable]]
 Component Analysis Suites|
 Overview/Size|
@@ -2350,10 +2358,35 @@ Upkeep/Energy|
 Effect/Effect
 [[/PartGroupTable]]","","","","Component Analysis Suite,Imp. Component Analysis Suite,Adv. Component Analysis Suite","","",""
 "Concussive RPG","Part","","","","","","","",""
+"Concussive RPGs","Part Group","A type of disposable [[Explosive Launchers|Explosive Launcher]] that are wielded by [[Cutter|Cutters]]. They are quite unique among other launchers due to their one-time use, - delay, knockback capability, and small amount of impact damage dealt on initial hit.
+
+[[Heading]]List of Concussive RPGs[[/Heading]]
+[[PartGroupTable]]
+Concussive RPGs|
+Overview/Size|
+Overview/Rating|
+Overview/Integrity|
+Overview/Coverage|
+Shot/Range|
+Shot/Targeting|
+Shot/Delay|
+Projectile/Arc|
+Projectile/Count|
+Projectile/Damage|
+Projectile/Type|
+Explosion/Radius|
+Explosion/Damage|
+Explosion/Falloff|
+Explosion/Type|
+Effect/Description
+[[/PartGroupTable]]","","","","Concussive RPG,Imp. Concussive RPG,Adv. Concussive RPG,Cep. Concussive Dispersal Blaster","","",""
 "Consumable Alien Artifacts","Part Supergroup","","Spoiler","","","Dimensional Node Initializer,Core Expander,Core Regenerator,Integrity Redistributor,Integrated Dissipator,Supercharged Integrated Dissipator,Integrated Thermoelectric Network,Integrated Reactor,Supercharged Integrated Reactor,Integrated Mediator,Core Membrane,Navigation Efficiency Matrix,Core Reset Matrix,Subatomic Replicator,Terrabomb,LRC Armor,LRC Energy Well,LRC Matter Compressor,LRC Inertial Stabilizer,LRC Insulator,LRC Storage,Core Physics Calibrator,Personal Teleporter v0.10,Telecube,Spacefold Activator,Microwarp Drive,LC Capacitor,Cep. Nanofilaments [Conductive],Cep. Nanofilaments [Endoweave],Cep. Nanofilaments [Tensile],Cep. Nanofilaments [Polyglass]","Transdimensional Reconstructors","",""
 "Containment Facilitator","Part","","","","","","","",""
 "Coolant Injector","Part","","","","","","","",""
-"Coolant Injectors","Part Group","[[Heading]]List of Coolant Injectors[[/Heading]]
+"Coolant Injectors","Part Group","A type of [[Cooling Utilities|Cooling Utility]] that trades integrity for heat dissipation when above 200 heat. Their dissipation potential is much greater than comparable [[Cooling Devices]] like heat sinks and cooling systems which makes it great for very heat-intensive volleys of weapons like [[Thermal Guns|Thermal Guns]] and [[Thermal Cannons|Cannons]]. For example, a rating 4 [[Coolant Injector]] can dissipate 65 heat per turn which is over twice as much as the rating 4 [[Imp. Cooling System]] can provide at only 27 heat per turn. However, injectors will not last as long as other types due to their integrity-spending effect.
+Injectors can be repaired to maintain their use over a longer period of time. An allied [[Mechanic]] can keep injectors topped up in the long run, albeit only to 50% integrity. [[Spoiler]][[Scrap Suit|Scrap Suits]] are also great choice in preserving injector integrity since [[Devices]] are dropped by many common bots.[[/Spoiler]]
+
+[[Heading]]List of Coolant Injectors[[/Heading]]
 [[PartGroupTable]]
 Coolant Injectors|
 Overview/Size|
@@ -2365,7 +2398,13 @@ Effect/Effect
 [[/PartGroupTable]]","","","","Disposable Heat Sink,Coolant Injector,Mak. Microdissipator Network,Imp. Coolant Injector,Adv. Coolant Injector,Exp. Coolant Injector","","",""
 "Coolant Network","Part","","","","","","","",""
 "Cooled Flight Units","Part Group","","","","Cooled Flight Units","","","",""
-"Cooling Devices","Part Group","[[Heading]]List of Cooling Devices[[/Heading]]
+"Cooling Devices","Part Group","A type of [[Cooling Utilities|Cooling Utility]] that dissipates heat every turn they are active. Compared to equivalent rating [[Coolant Injectors]] they have less dissipation potential, but since they don't lose integrity each turn they are more reliable for extended use. For example, a rating 4 [[Coolant Injector]] can dissipate 65 heat per turn which is over twice as much as the rating 4 [[Imp. Cooling System]] can provide at only 27 heat per turn.
+
+[[Heading]]Heat Sinks vs. Cooling Systems[[/Heading]]
+The two main categories of cooling utilities are Heat Sinks and Cooling Devices. Heat sinks have less coverage, integrity, energy cost, and cooling capability. For example, the rating 5 [[Adv. Heat Sink]] dissipates 19 heat with a cost of 1 energy per turn, while the rating 6 [[Adv. Cooling System]] dissipates 31 heat with a cost of 3 energy per turn. They also tend to be used by more common bots like [[Grunt|Grunts]] and [[Sentry|Sentries]], making them easier to replace.
+[[Cryofiber Webs]] have a special effect on all Heat Sink variants that doubles their cooling effectiveness. This makes them more powerful per slot than cooling devices, although it does come with the downside of requiring an additional slot decided to the Cryofiber Web.
+
+[[Heading]]List of Cooling Devices[[/Heading]]
 [[PartGroupTable]]
 Cooling Devices|
 Overview/Size|
@@ -2491,7 +2530,12 @@ Evolving|
 [[Programmer]] effect to reset corruption (non-Cogmind only)[[/List]]","","","","","","",""
 "Corruption Reduction Utilities","Part Supergroup","","","","","","Corruption Screens,Dynamic Insulation Systems,System Guards,System Restoration Modules","",""
 "Corruption Screen","Part","","","","","","","",""
-"Corruption Screens","Part Group","[[Heading]]List of Corruption Screens[[/Heading]]
+"Corruption Screens","Part Group","[[Processors]] that prevent the user from gaining [[Corruption]], instead losing integrity of the attached Corruption Screens. Some good use cases for them are:
+[[List]]
+Fighting [[Programmer|Programmers]] or other [[Electromagnetic Weapons|Electromagnetic Weapon]]-wielding bots|Avoiding the side effects of the EMP in [[Wastes]]|Avoiding the side effects of attaching [[Corrupted Parts]]
+[[/List]]
+
+[[Heading]]List of Corruption Screens[[/Heading]]
 [[PartGroupTable]]
 Corruption Screens|
 Overview/Size|
@@ -2544,7 +2588,7 @@ Simply using more weapons, which increases the chance that a given volley will i
 |Using weapons with higher critical chances, such as [[Hypervelocity Weapons]]. (But weapons that specialize in critical hits generally do less raw damage.)[[/List]]","","","","","","",""
 "Crosscalibrator","Part","","","","","","","",""
 "Cryofiber Web","Part","","","","","","","",""
-"Cryofiber Webs","Part Group","[[Heading]]List of Cryofiber Webs[[/Heading]]
+"Cryofiber Webs","Part Group","[[Cooling Utilities]] that lower the base temperature of the bot that attaches them as well as doubles the dissipation of Heat Sinks. This makes them good to pair with a large number of Heat Sinks for a ton of heat dissipation, although [[Coolant Injectors]] are a much more slot-efficient method of doing this. Note that this effect does not affect the base heat dissipation of the bot, nor does it affect the ""surplus heat"" number used by [[Thermal Generators]]. [[Heading]]List of Cryofiber Webs[[/Heading]]
 [[PartGroupTable]]
 Cryofiber Webs|
 Overview/Size|
@@ -2650,12 +2694,14 @@ After the Data Miner is attacked these grunts hidden in the wall will burst out 
 [[List]]Use 2 or more [[Launchers]] and fight them all at once. Explosive launchers will be slower and provide little to no loot but can have a nice range advantage over the Grunts' below average 14 range. EM launchers have a smaller range but will provide a decent amount of loot, although it will be [[Corrupted Parts|Corrupted]].|Dig a tunnel deep into the Data Conduit machine and hide out inside. The Grunts will spread out over time and you can lure them in to fight 1-on-1. This approach works best with some kind of [[Transmission Jammers|Transmission Jammer]] to avoid drawing more than one Grunt at a time. This is the best tactic to fight Grunts with melee or conventional non-launcher methods.[[/List]]
 Another approach is to simply run from the Grunts. This works best for airborne builds as they can get in and out with the fewest number of shots. Digging a tunnel through the Data Conduit machine is also very helpful for escaping. Luring the Grunts into a tunnel as you escape out the other end can avoid most attacks. Flight can hop over the grouped-up Grunts and dodge into the spawn areas to avoid more shots","Spoiler","","","","","",""
 "Datajack","Part","","","","","","","",""
-"Datajacks","Part Supergroup","Datajacks are used for robot hacking, which provides some rudimentary capabilities, and many more with [[RIF]] and an appropriate [[Relay Couplers|Relay Coupler]].
+"Datajacks","Part Supergroup","Datajacks are used for robot hacking, which provides some rudimentary capabilities, and many more with [[RIF]] and an appropriate [[Relay Couplers|Relay Coupler]]. See the [[~/rif.html|RIF page]] for the full list of RIF hacks. Some special manual hacks can be unlocked during the course of each run, for example, the ""Woof"" code by a [[Tinkerer]] in [[Caves#Events]]. These hacks must also be performed with a Datajack. In addition to hacking, Datajacks can parse robots for some information about the class of robot as well as identifying all unknown and [[Prototype Part|Prototype Parts]] they have attached. Some special bots have unique parse text, usually lore-important bots.
+[[Image]]Parse Text.png|Parsing a [[R-06 Scavenger]][[/Image]]
 
 [[Melee Datajacks]] can hack a robot within melee range. [[Remote Datajacks]] can hack a robot at a greater distance. Melee datajacks have advantages to compensate for their reduced range:
 [[List]]
 If a melee datajack is active, moving into a known hostile trap will attempt to disarm or reprogram it. Remote datajacks do not have a similar capability.
-|[[Programmer|Programmers]] can defend their allies against remote datajacks, but not melee datajacks.
+|[[Programmer|Programmers]] can defend their allies against remote datajacks, but not melee datajacks.|
+Higher tier datajacks have a high -delay per volley. For example, the [[Adv. Datajack]] has -150 delay.
 [[/List]]
 
 [[Heading]]List of Datajacks[[/Heading]]
@@ -2769,6 +2815,7 @@ There are many ways to use Dirty Bomb Traps effectively. Some ways include:
 "Disintegrator","Part","","","","","","","",""
 "Dispersion Rifle","Part","","","","","","","",""
 "Disposable Heat Sink","Part","","","","","","","",""
+"Disruption","Other","","","","","","","",""
 "Disruptor Cannon","Part","","","","","","","",""
 "Distress Signals","Other","","","","","","","",""
 "Dragon","Bot","","","","","","","",""
@@ -2776,7 +2823,9 @@ There are many ways to use Dirty Bomb Traps effectively. Some ways include:
 "Drone","Bot","","","","","","","",""
 "Drone (Group)","Bot Group","","","Advanced Drone,Antisys Drone,Aperture Drone,Army Drone,Assault Drone,Bomb Drone,Combat Drone,Decoy Drone,Drone,EX Drone,Hacking Drone,Impact Drone,Kinetic Drone,Mapping Drone,Master Drone,Minesniffer Drone,Mini Drone,Sensor Drone,Splice Drone,Stasis Drone,Stealth Drone,Swarm Drone,Target Drone,Thermal Drone,Thief Drone,Wardrone,Z-Drone","","","","",""
 "Drone Bay","Part","Deploys [[Drone|Drones]].","","","","","","",""
-"Drone Bays","Part Group","[[Heading]]List of Drone Bays[[/Heading]]
+"Drone Bays","Part Group","Drone Bays are [[Devices]] that can deploy a specific type of [[Drone]] depending on the type of bay. Each bay has a fixed number of drones that it can deploy, although drones from other bays the same type can also be deployed simultaneously. Drones will become unpowered if there is no matching drone bay attached. Damaged drones can be repaired at the cost of integrity of the drone bay, but destroyed drones cannot be replaced without obtaining a new bay. Some types of drone are only used for recon and will run away when attacked by a hostile, but others are more combat-oriented and will engage hostiles on sight.
+
+[[Heading]]List of Drone Bays[[/Heading]]
 [[PartGroupTable]]
 Drone Bays|
 Overview/Size|
@@ -2794,7 +2843,9 @@ Duelists don't have any particular damage type weaknesses, though their biggest 
 Duelists may appear in the following squads:
 [[List]][[Assault Squad]]|[[Garrison Squad]]|[[Patrol Squad]] - [[Squad Leader]] only normally, or in [[Armory]]|[[Security Squad]] - Armory or [[Garrison|Garrisons]][[/List]]","","L-31 Rogue,L-41 Fighter,L-61 Swordsman,Protovariant L,Immortal","","","","",""
 "Dynamic Insulation System","Part","","","","","","","",""
-"Dynamic Insulation Systems","Part Group","[[Heading]]List of Dynamic Insulation Systems[[/Heading]]
+"Dynamic Insulation Systems","Part Group","These are [[Corruption Reduction Utilities]] that have a chance of preventing [[Corruption]] gain on each attack and on [[Shock Trap|Shock]] and [[EM Surge Trap|EM Surge Traps]]. These parts are good to attach when fighting [[Electromagnetic Weapons|Electromagnetic Weapon]]-wielding bots like [[Programmer|Programmers]]. It also provides complete immunity to [[Disruption]] for all attached parts. One additional hidden effect is that it has a chance of blocking the corruption gain from the EMP inside of [[Wastes]]. Note: This part does not affect internal corruption gain from firing parts like the [[Latent Energy Streamer]].
+
+[[Heading]]List of Dynamic Insulation Systems[[/Heading]]
 [[PartGroupTable]]
 Dynamic Insulation Systems|
 Overview/Size|
@@ -2807,7 +2858,10 @@ Effect/Effect
 [[/PartGroupTable]]","","","","Dynamic Insulation System,Imp. Dynamic Insulation System,Adv. Dynamic Insulation System","","",""
 "E-15 Imp","Bot","","","","","","","",""
 "ECM Suite","Part","","","","","","","",""
-"ECM Suites","Part Group","[[Heading]]List of ECM Suites[[/Heading]]
+"ECM Suites","Part Group","[[Infowar]] that reduces the effective memory of tracking bots when out of line of sight. For example, a [[Grunt]] has a memory of 20 actions once a bot is outside of LOS. If Cogmind has a regular [[ECM Suite]] (which has a forget multiplier of 2x) attached, that Grunt will only be able to perform 10 actions until they lose tracking on Cogmind. The ECM suite can be attached at any point in time after breaking LOS and it will take effect on remaining memory. So if the Grunt performed 4 actions before Cogmind attached the ECM suite, the Grunt will have (20 - 4) / 2 = 8 actions before losing tracking.
+ECM Suites are most effective on airborne propulsion since it is much easier to maneuver out of bots' LOS with higher speed. However, it is still usable on grounded propulsion types with good positioning. Attaching a higher rating ECM suite and ducking into a room can lose other grounded bots with low memory like Grunt squads fairly easily. However, there are lots of bot types that ECM Suites won't work effectively against without high speed like [[Programmer|Programmers]].
+
+[[Heading]]List of ECM Suites[[/Heading]]
 [[PartGroupTable]]
 ECM Suites|
 Overview/Size|
@@ -2818,7 +2872,9 @@ Upkeep/Energy|
 Effect/Effect
 [[/PartGroupTable]]","","","","ECM Suite,Adv. ECM Suite,Mak. ECM Suite,Exp. ECM Suite","","",""
 "EM Disruption Field","Part","","","","","","","",""
-"EM Disruption Fields","Part Group","[[Heading]]List of EM Disruption Fields[[/Heading]]
+"EM Disruption Fields","Part Group","[[Defensive Utilities]] that reduce the amount of [[Corruption]] that can be gained at a single time from standard attacks and EM [[Traps]]. The effect is not particularly useful for Cogmind since they will rarely take enough Corruption at at single time for it to be meaningfully reduced by the Disruption Field. However, it is great at reducing corruption received by ally bots since most bots are vulnerable to death by corruption long before they will die of core death. This part is most effective when used by builds or [[Alignment|Alignments]] that have a large number of allies that can easily get picked off by [[Programmer|Programmers]] like [[RIF]] and [[Imprint]].
+
+[[Heading]]List of EM Disruption Fields[[/Heading]]
 [[PartGroupTable]]
 EM Disruption Fields|
 Overview/Size|
@@ -6239,30 +6295,41 @@ Infowar is useful on all build types, from combat to stealth alike. Stealth buil
 Many infowar utilities tend to be low integrity devices and should ideally be swapped into inventory before entering combat. High coverage [[Armor]] can help protect these parts, but even then, these parts tend to get destroyed fairly easily in combat. [[Utility Shieldings]] may reduce the need for swapping in combat, especially for a faster-moving flight or hover build that doesn't want to stick around for prolonged combat.
 
 [[Heading]]Infowar Types[[/Heading]]
+
 [[Heading:2]]Robot Detection[[/Heading]]
 This type of infowar revolves around detecting bots before they are seen through normal [[Line of Sight]] mechanics. Being able to detect bots through walls, especially at a large distance, can be a large boon for avoiding unnecessary combat encounters.
+
 [[Heading:3]][[Sensor Arrays]][[/Heading]]
 Sensor Arrays are the most basic and one of the most common forms of robot detection. Lower rating sensors have a low detection radius, equal or smaller than the primary 16 tile line of sight distance, so their primary use is finding bots in nearby rooms or around corners rather than long-ranged detection. Sensors are best paired with [[Signal Interpreters]] due to their ability to distinguish between different classes of bots. They can easily be looted from [[TF Node|TF Nodes]].
 The [[Active Sensor Suite]] is a variant of the standard Sensor Array. It combines both the sensor and signal interpreting capabilities into a single part. It also provides a unique type of intel that shows commonly traveled robot paths to points of interest on the map.
+
 [[Heading:3]][[FarCom]][[/Heading]]
 FarCom is not a part, but is a free source of 18 tile radius robot detection that can be acquired by using the FarCom Aligner machine in the [[Exiles (Location)]]. Unlike most other types of robot detection, FarCom can detect only combat bots and only in [[0b10]] controlled maps. While [[Mines]] is counted as an 0b10-controlled map, [[Caves]] is notably not.
+
 [[Heading:3]][[Seismic Detector]] (bot detection)[[/Heading]]
 The Seismic Detector is an indirect and somewhat unreliable source of robot detection. Grounded bots that move generate varying amounts of seismic activity that can be detected. Wheeled, legged, and treading bots create dark orange short, bright orange medium, and bright yellow long trails. Airborne bots cannot be detected by Seismic Detectors. They can often be looted off of [[T-07 Excavator|T-07 Excavators]].
+
 [[Heading:3]][[IFF Parsers]][[/Heading]]
 IFF Parsers are a basic form of robot detection. All bots are revealed by this part, although the type of bot is not revealed. Instead, the IFF parser reveals the faction of the scanned bot. 0b10-aligned bots show up in yellow while other bots show up in blue.
 [[Spoiler]]
+
 [[Heading:3]][[Quantum Companion]][[/Heading]]
 The Quantum Companion is a unique weapon with many different effects. Some effects are not present on the [[Companion Sword|base form of the sword]], but only appear in the evolved Quantum form. One of these effects is a 12 tile radius sensor effect. While the range is very low, this part is unique in that it provides infowar in a weapon slot rather than in utility slots.
 [[/Spoiler]]
 [[Redacted]]
+
 [[Heading:3]][[Sigix Exoskeleton]] (Robot Detection)[[/Heading]]
 The Sigix Exoskeleton is a unique propulsion item. It has a large number of effects, one of which is an 18-tile range robot detection effect. All active bots within the range are instantly detected. This part is unique in that it provides infowar in propulsion slots rather than in utility slots.[[/Redacted]]
+
 [[Heading:3]]Robot Detection and Patrol Navigation ([[RIF]] abilities)[[/Heading]]
 Robot Detection and Patrol Navigation are abilities that can randomly be gained when using a RIF installer. Robot Detection grants the detection of any 0b10-aligned combat bot within a 24 tile range when a matching [[Relay Couplers|Relay Coupler]] is attached. Patrol Navigation grants the prediction of squad movement paths within a 24 tile range when a matching Relay Coupler is attached, although it only reveals the path of the squad leader. While these abilities can detect bots with the Scan Cloak trait, they will not work in non-0b10 controlled maps like Caves. They tend to be fairly unreliable due to the many different types of bots that are present in 0b10. Having a coupler for every possible bot type takes an unreasonable amount of slots.
+
 [[Heading:3]][[0b10 Decoder Chip [Skirmisher]]][[/Heading]]
 The Skirmisher, and to a lesser extent, the [[0b10 Decoder Chip [Generic]|Generic]] decoder chips, are two unique sources of bot detection. They do not directly reveal the class or location of specific bots like most bot detection sources. Instead, they can occasionally pick up the type and locations of patrol, investigation, reinforcement, and security squads and mark them as intel on the map. This effect only occurs in 0b10 controlled maps. This effect is somewhat unreliable due to the infrequent intel updates.
+
 [[Heading:3]][[Triangulator]][[/Heading]]
 The Triangulator is an extremely niche 24 tile robot detecting utility with one major catch: It can only detect robots that are currently tracking Cogmind. This makes it unhelpful for avoiding hostile bots in the first place. However, once spotted, it can be a helpful tool to shake pursuers on faster propulsion types. This makes it unlike all of the other forms of bot detection since they are proactive instead of reactive. The Triangulator also has other effects including hostile visual range detection and travel paths, but they effects don't actively help in detecting bots. It has no restrictions on bot detection and can even detect bots with the Scan Cloak trait.
+
 [[Heading:3]]Robot Detection Infowar Comparison[[/Heading]]
 [[Table]]
 Category|Sensor Arrays|Active Sensor Suite|FarCom|Seismic Detector|IFF Parsers|[[Spoiler]]Quantum Companion[[/Spoiler]]|[[Redacted]]Sigix Exoskeleton[[/Redacted]]|Robot Detection/Patrol Navigation|0b10 Decoder Chip [Skirmisher/Generic]|Triangulator||
@@ -6276,22 +6343,30 @@ Update frequency|[[CellStyle:Neutral]]Once per turn|[[CellStyle:Neutral]]Once pe
 Map restrictions|[[CellStyle:Good]]N/A|[[CellStyle:Good]]N/A|[[CellStyle:Neutral]]0b10 only|[[CellStyle:Good]]N/A|[[CellStyle:Good]]N/A|[[CellStyle:Good]]N/A|[[CellStyle:Good]]N/A|[[CellStyle:Neutral]]0b10 only|[[CellStyle:Neutral]]0b10 only|[[CellStyle:Good]]N/A||
 Other limitations|[[CellStyle:Neutral]]Can be difficult to decipher without a Signal Interpreter|[[CellStyle:Good]]N/A|[[CellStyle:Good]]N/A|[[CellStyle:Bad]]Can be difficult to decipher, many bots are not detected|[[CellStyle:Neutral]]Can be difficult to decipher|[[CellStyle:Good]]N/A|[[CellStyle:Good]]N/A|[[CellStyle:Good]]N/A|[[CellStyle:Good]]N/A|[[CellStyle:Good]]N/A
 [[/Table]]
+
 [[Heading:2]]Terrain Scanning[[/Heading]]
 This type of infowar revolves around detecting nearby terrain, especially exits, rooms, and machines. Terrain scanning can make traversal through a map more efficient and easier. When combined with robot detection, hostile squads can often be bypassed entirely with a safe path out of sight.
+
 [[Heading:3]][[Terrain Scanners]][[/Heading]]
 Terrain scanners are the basic form of terrain scanning that reveal a random selection of nearby tiles nearby. The basic rate of terrain scanning is very low and only reveals up to a few tiles per turn. They can be combined with [[Terrain Scan Processors]] to dramatically increase the amount of tiles that are scanned per turn. Slower propulsion types tend to get more value out of terrain scanners as it provides more time for the scanners to do their work. A powerful enough processor can make terrain scanning fast enough to work well for even fast flight builds.
+
 [[Heading:3]][[Structural Scanner]][[/Heading]]
 Structural Scanners are a form of short ranged terrain scanning that operate instantly. When a wall is seen in visual range, immediately surrounding tiles are instantly revealed, including emergency access doors. [[Spoiler]]For the [[Deep Structural Scanner]], 3 tiles deep are revealed instead.[[/Spoiler]] Due to its cheap upkeep and instant scanning speed, it is a high value for faster builds. It is particularly helpful at locating short digs and emergency accesses between adjacent rooms.
 [[Redacted]][[Heading:3]]Sigix Exoskeleton (Terrain Scanning)[[/Heading]]
 The Sigix Exoskeleton is a unique propulsion item. It has a large number of effects, one of which is an 18-tile range terrain scanning effect. All types of terrain within that range, including hidden doors, are instantly detected.[[/Redacted]]
+
 [[Heading:3]][[Machine Analyzer]][[/Heading]]
 The Machine Analyzer is an indirect source of terrain scanning. It does not reveal random terrain tiles, but it does reveal most types of machines. Once any interactive or non-interactive machine is spotted, nearby machines are also revealed. If an interactive machine was spotted, the nearest machine of the same type is also revealed regardless of distance.
+
 [[Heading:3]]Seismic Detector (terrain scanning)[[/Heading]]
 The Seismic Detector is an indirect and unreliable source of terrain scanning. Certain machines will generate seismic activity that are picked up by this part. This only happens for a few types of non-interactive machines, and mostly in Factory maps. Interactive machines are never detected. This does not reveal any specific information about the terrain, but approximate room sizes and locations may be guessed based on the detected machines.
+
 [[Heading:3]][[0b10 Decoder Chip [Scout]]][[/Heading]]
 The Scout, and to a lesser extent, the Generic decoder chips, are two sources of indirect terrain scanning. However, their terrain scanning effect is very limited. Only exits, [[Garrison Access|Garrisons]], and hidden doors can be detected.
+
 [[Heading:3]]Structural Interface  (RIF Ability)[[/Heading]]
 Structural Interface is an ability that can randomly be gained when using a RIF installer that provides an indirect source of terrain scanning. Hidden doors and phase walls (primarily inside Garrisons) are instantly revealed on sight, similar to the Structural Scanner.
+
 [[Heading:3]]Terrain Scanning Infowar Comparison[[/Heading]]
 [[Table]]
 Category|Terrain Scanners|Structural Scanner|[[Redacted]]Sigix Exoskeleton[[/Redacted]]|Machine Analyzer|Seismic Detector|0b10 Decoder Chip [Scout/Generic]|Structural Interface||
@@ -6303,28 +6378,30 @@ Alignment requirement|[[CellStyle:Good]]No|[[CellStyle:Good]]No|[[CellStyle:Neut
 Update frequency|[[CellStyle:Neutral]]Once per turn, very low rate without processor|[[CellStyle:Good]]Instant|[[CellStyle:Good]]Instant|[[CellStyle:Good]]Instant|[[CellStyle:Good]]Instant|[[CellStyle:Bad]]Infrequent|[[CellStyle:Good]]Instant||
 Map restrictions|[[CellStyle:Good]]N/A|[[CellStyle:Good]]None|[[CellStyle:Good]]N/A|[[CellStyle:Neutral]]0b10 only|[[CellStyle:Good]]N/A|[[CellStyle:Neutral]]0b10 only|[[CellStyle:Good]]None
 [[/Table]]
+
 [[Heading:2]]Vision Manipulation[[/Heading]]
 Unlike the previous larger categories, there are only 2 types of vision manipulation. [[Cloaking Devices]] reduce vision of hostile bots and [[Visual Processing Units]] increase vision of the bot using them. While they function slightly differently, they serve a similar purpose of allowing additional exploration without being spotted by hostiles.
+
 [[Heading:3]]Vision Manipulation Infowar Comparison[[/Heading]]
-[[Table]]
-Category|Cloaking Devices|Visual Processing Units||
-Range|[[CellStyle:Good]]-2 to -6, up to -9 when half_stacked|[[CellStyle:Good]]+2 to +8, not stackable||
-Energy Upkeep|[[CellStyle:Neutral]]Expensive: -5 to -20 energy per turn|[[CellStyle:Good]]None||
-Slot requirement|[[CellStyle:Good]]1 swappable|[[CellStyle:Neutral]]1 unswappable||
-Other positives|[[CellStyle:Good]]Allows sneaking into areas guarded by bots without being spotted|[[CellStyle:Good]]Allows for seeing further in combat and sniping||
-Other Negatives|[[CellStyle:Neutral]]Low integrity/high coverage, no use if bots are already tracking Cogmind|[[CellStyle:Good]]N/A
-[[/Table]]
+[[Partial]]Vision Manipulation Infowar Comparison[[/Partial]]
+
 [[Heading:2]]Other Infowar Types[[/Heading]]
+
 [[Heading:3]][[0b10 Decoder Chips]][[/Heading]]
 While some of the decoder chips were mentioned in other categories, as a whole they're an oddball group. They tend to provide intel that crosses in between major categories, while also providing unique intel like part detection.
+
 [[Heading:3]][[Drone Bays]][[/Heading]]
 Drone bays send out controlled allies to explore the map. Basic drones can only be used for exploration, although other drones can be used for combat purposes as well.
+
 [[Heading:3]][[ECM Suites]][[/Heading]]
 ECM Suites are used to end tracking against Cogmind quicker. Each type of ECM Suite has a multiplier that makes hostile tracking less effective. Additionally, the [[Alert]] gain that occurs when a bot loses tracking on Cogmind does not occur when active. While this doesn't help avoid bots in the first place, it is helpful for losing pursuers.
+
 [[Heading:3]][[Transmission Jammers]][[/Heading]]
 Transmission Jammers are used for several purposes, but generally help prevent communication between hostiles, especially summoning of reinforcements. While in range, they will prevent bots from transmitting tracking data about Cogmind to other allies on spot. This can help pick off bots in a squad 1 by 1 and to eliminate or bypass Watchers even when hostiles are nearby. They can also block [[Alarm Trap|Alarm Traps]] entirely.
+
 [[Heading:3]]Signal Jamming (RIF Ability)[[/Heading]]
 Signal Jamming is a RIF ability that behaves similar to Transmission Jammers. Instead of requiring a specific part to use, 0b10 bots are jammed based on attached Relay Couplers. Additionally, Alarm Traps are blocked entirely.
+
 [[Heading:3]][[Trap Scanners]][[/Heading]]
 Trap Scanners do exactly as their name implies: They scan for traps. Trap Scanners add fixed percentage to the chance to detect a trap each turn that one is within Cogmind's line of sight.
 
@@ -6482,7 +6559,7 @@ Effect/Effect
 Wants to blow it up. All of it.","","","","","","",""
 "Lab","Location","Lab is a [[Factory]]/[[Research]] branch between -4 and -3 that is only accessible from [[Armory]]. This map is fixed every game, with the only variations being variations in the guaranteed items. This secret lab is used as a safe spot by the [[A Bots|A bots]] to plan and coordinate as well as research stolen [[Sigix]] technology. This area has a special effect where Cogmind's [[Alert]] drops to 0 upon entering the map.
 Lab has a small square entrance and a 1 tile corridor that leads to the next main access exit and a Sealed Barrier with a [[Terminal]] locking it. There are a few different ways to get inside:
-[[List]]Breaking in: The main Sealed Barrier blocking the way has 80 armor and high resistances. Cutting through this is difficult without a strong overloadable thermal [[Energy Cannons|Energy Cannon]] backed with a [[Particle Chargers|Particle Charger]] or a [[Plasma Cutters|Plasma Cutter]]. Coming in this way will result in being scanned immediately.|[[Zhirov (Location)]] code: One of the Terminals at Zhirov contains an access code to open up this barrier. Opening the Lab this way not result in being scanned instantly.|Picking up the [[A7 Data Core]]: [[A7]] drops this item when destroyed. The doors will automatically open when approaching, and the message [[GameText]]A0_COM: WELCOME A7[[/GameText]] will appear in the log. This will also reveal the intruder detection lasers, but Cogmind will not be scanned immediately.|Using the [[Data Conduit]]: Using the Data Conduit in [[Data Miner (Location)]] will result in the doors opening automatically, the scanning lasers being visible, and no immediate scan.[[/List]]
+[[List]]Breaking in: The main Sealed Barrier blocking the way has 80 armor and high resistances. Cutting through this is difficult without a strong overloadable thermal [[Energy Cannons|Energy Cannon]] backed with a [[Particle Chargers|Particle Charger]] or a [[Plasma Cutters|Plasma Cutter]]. Breaking the door without a Plasma Cutter will result in being scanned immediately.|[[Zhirov (Location)]] code: One of the Terminals at Zhirov contains an access code to open up this barrier. Opening the Lab this way not result in being scanned instantly.|Picking up the [[A7 Data Core]]: [[A7]] drops this item when destroyed. The doors will automatically open when approaching, and the message [[GameText]]A0_COM: WELCOME A7[[/GameText]] will appear in the log. This will also reveal the intruder detection lasers, but Cogmind will not be scanned immediately.|Using the [[Data Conduit]]: Using the Data Conduit in [[Data Miner (Location)]] will result in the doors opening automatically, the scanning lasers being visible, and no immediate scan.[[/List]]
 [[Table]]
 Mode of entry|Breaking in|Zhirov code|A7 Data Core|Data Conduit||
 Immediately scanned|[[CellStyle:Bad]]Yes|[[CellStyle:Good]]No|[[CellStyle:Good]]No|[[CellStyle:Good]]No||
@@ -6717,7 +6794,7 @@ Upkeep/Energy|
 Effect/Effect
 [[/PartGroupTable]]","","","","Weight Redist. System,Adv. Weight Redist. System,Gravity Neutralizer,Adv. Gravity Neutralizer,Quantum Shading Machine,Asb. Suspension Frame,Adv. Quantum Shading Machine,Cep. Dimensional Manipulator","","",""
 "Master Drone","Bot","","","","","","","",""
-"Master Drone Bay","Part","Deploys a [[Master Drone]]","","","","","","",""
+"Master Drone Bay","Part","The Master Drone Bay is a very powerful item that is only obtainable in [[Scraptown]]. It deploys a single [[Master Drone]] which is capable of hijacking any 0b10 non-prototype bot and turn it into an uncontrollable ally. After taking over a bot, the drone cannot be recalled. It will only return when the bot it has taken over is destroyed. ","","","","","","",""
 "Master Link","Part","","","","","","","",""
 "Master Tearclaws","Part","","","","","","","",""
 "Master Thief","Bot","Master Thieves will sometimes appear in groups near entrance or exits[[Comment]]I don't think they can appear from both?[[/Comment]] in [[Caves]] maps if Cogmind has stolen from the Exiles. They are slightly slower than regular [[Thief|Thieves]]. Whether or not they appear in any given Caves map start is not truly random, but is instead dependent on the world seed and the number of allies Cogmind enters the map with, and sometimes Master Thieves are guaranteed to appear. When Master Thieves do appear, hostile/neutral bots are prevented from spawning near the Master Thieves' ambush. This may cause nearby prefabs, such as 0b10 outposts, to end up empty, indicating an incoming ambush. One of the Master Thieves of an ambush may appear with a [[CPS Tube]] in their inventory.
@@ -11604,6 +11681,14 @@ All of the above deals with fighting V4-D3R, though that is not the only possibi
 "VTOL Module","Part","","","","","","","",""
 "Variable Charge Gun","Part","","","","","","","",""
 "Vibroblade","Part","","","","","","","",""
+"Vision Manipulation Infowar Comparison","Partial","[[Table]]
+Category|Cloaking Devices|Visual Processing Units||
+Range|[[CellStyle:Neutral]]-2 to -6, up to -9 when half_stacked|[[CellStyle:Neutral]]+2 to +8, not stackable||
+Energy Upkeep|[[CellStyle:Bad]]Expensive: -5 to -20 energy per turn|[[CellStyle:Good]]None||
+Slot requirement|[[CellStyle:Good]]1 swappable|[[CellStyle:Bad]]1 unswappable||
+Other positives|[[CellStyle:Neutral]]Sneak into areas guarded by bots without being spotted|[[CellStyle:Neutral]]See further in combat, good for sniping and kiting||
+Other Negatives|[[CellStyle:Bad]]Low integrity/high coverage, no use if bots are already tracking Cogmind|[[CellStyle:Good]]N/A
+[[/Table]]","None","","","","","",""
 "Visual Processing Unit","Part","","","","","","","",""
 "Visual Processing Units","Part Group","[[Heading]]List of Visual Processing Units[[/Heading]]
 [[PartGroupTable]]
@@ -11931,7 +12016,7 @@ Piercing melee weapons inflict less collateral damage, but are more likely to hi
 
 [[Heading:2]][[Special Weapons]] and [[Special Melee Weapons]][[/Heading]]
 
-Special weapons are usually intended to serve some utility rather than directly deal damage.","","","","","Autonomous Weapons,Guided Weapons,Overloadable Weapons,Phasic Weapons,Vortex Weapons","Ballistic Weapons,Datajacks,Electromagnetic Weapons,Energy Cannons,Energy Guns,Hypervelocity Weapons,Launchers,Melee Weapons,Special Melee Weapons,Special Weapons,Thermal Weapons",""
+Special weapons are usually intended to serve some utility rather than directly deal damage.","","","","","Autonomous Weapons,Concussive RPGs,Guided Weapons,Overloadable Weapons,Phasic Weapons,Vortex Weapons","Ballistic Weapons,Datajacks,Electromagnetic Weapons,Energy Cannons,Energy Guns,Hypervelocity Weapons,Launchers,Melee Weapons,Special Melee Weapons,Special Weapons,Thermal Weapons",""
 "Weight Redist. System","Part","","","","","","","",""
 "Welding Torch","Part","","","","","","","",""
 "Wheel","Part","","","","","","","",""
