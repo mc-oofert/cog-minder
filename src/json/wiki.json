@@ -6287,7 +6287,7 @@
     "Imp. Force Booster",
     "Adv. Force Booster"
    ],
-   "Content": "[[Heading]]List of Force Boosters[[/Heading]]\n[[PartGroupTable]]\nForce Boosters|\nOverview/Size|\nOverview/Rating|\nOverview/Integrity|\nOverview/Coverage|\nUpkeep/Energy|\nEffect/Effect\n[[/PartGroupTable]]"
+   "Content": "[[Offensive Utilities|Offensive]] [[Devices]] that raise maximum damage of [[Melee Weapons]] at the cost of some targeting. They are best paired with [[Melee Analysis Suites]] or a [[Weapon Mount]] to mitigate the accuracy penalty. Force Boosters are quite heavy for an offensive utility which makes them harder to support for airborne propulsion types. The damage increase is helpful for killing enemies in a single core hit, helping both the maximum and average damage potential of the weapon. The damage increase also stacks with the increase from [[Momentum]], so high speed builds, especially those with [[Reaction Control Systems]], get much more benefit out of them. Additionally, the maximum damage increase can help dig through high armor [[Reinforced Walls]].\n\n[[Heading]]List of Force Boosters[[/Heading]]\n[[PartGroupTable]]\nForce Boosters|\nOverview/Size|\nOverview/Rating|\nOverview/Integrity|\nOverview/Coverage|\nUpkeep/Energy|\nEffect/Effect\n[[/PartGroupTable]]"
   },
   {
    "Name": "Hackware",
