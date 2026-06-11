@@ -1,4 +1,4 @@
-import{j as a,L as I,J as E,K as U,c as D,r as S,M as ee,f as z,N as te,y as F,a as j,s as ae,O as ne,S as Z,B as b,o as ie,Q as K,u as Q,U as oe,V as re,W,X as se,Y as le,Z as q,_ as he,$ as de}from"./index-kNVpurzd.js";import{l as ce}from"./lore-yoaB2RHm.js";import{a as ge,L as me,I as ue,B as Y,b as pe,u as fe}from"./BotDetails-1tZJS3ff.js";import{a as X,u as ye}from"./ItemPopover-MqSIvtk-.js";/* empty css              */import"./bots-EPaA02tF.js";import"./botTypes-Cxei0LoN.js";import"./items-bCTdCTgI.js";const be=[{Name:"01-MTF",Content:"[[Image]]MTF Vault.png|Running into MTF in a [[Storage]] vault[[/Image]]A friendly bot that rarely shows up in [[Storage]] in an already opened vault. Will join Cogmind as an uncontrollable purple ally for the duration of the map and uses [[01-MTF's Autohacker]] to automatically open any other vaults it can see. It will assimilate or destroy most enemies it encounters extremely quickly with its high spectrum high damage EM gun [[01-MTF's Shockpuncher]]. The Shockpuncher is a very powerful weapon that is strong throughout the majority of the game as long as you can deal with its short range if you can get it to drop. [[Spoiler]]Presumably stole exiles prototypes.[[/Spoiler]]"},{Name:"12-ASH",Content:`[[GameText]]Hail to the king![[/GameText]]
+import{j as a,L as I,J as E,K as U,c as D,r as S,M as ee,f as z,N as te,y as F,a as j,s as ae,O as ne,S as Z,B as b,o as ie,Q as K,u as Q,U as oe,V as re,W,X as se,Y as le,Z as q,_ as he,$ as de}from"./index-CLiNnRPI.js";import{l as ce}from"./lore-yoaB2RHm.js";import{a as ge,L as me,I as ue,B as Y,b as pe,u as fe}from"./BotDetails-xZH41oms.js";import{a as X,u as ye}from"./ItemPopover-7S6G4jvG.js";/* empty css              */import"./bots-EPaA02tF.js";import"./botTypes-Cxei0LoN.js";import"./items-bCTdCTgI.js";const be=[{Name:"01-MTF",Content:"[[Image]]MTF Vault.png|Running into MTF in a [[Storage]] vault[[/Image]]A friendly bot that rarely shows up in [[Storage]] in an already opened vault. Will join Cogmind as an uncontrollable purple ally for the duration of the map and uses [[01-MTF's Autohacker]] to automatically open any other vaults it can see. It will assimilate or destroy most enemies it encounters extremely quickly with its high spectrum high damage EM gun [[01-MTF's Shockpuncher]]. The Shockpuncher is a very powerful weapon that is strong throughout the majority of the game as long as you can deal with its short range if you can get it to drop. [[Spoiler]]Presumably stole exiles prototypes.[[/Spoiler]]"},{Name:"12-ASH",Content:`[[GameText]]Hail to the king![[/GameText]]
 12-ASH is a member of the [[Heroes of Zion]] equipped with [[12-ASH's Boomstick]] and [[Ripper]].`},{Name:"1C-UTU",Content:""},{Name:"5H-AD0",Content:"Sometimes appears as a friendly ally at the start of [[Zion Deep Caves]]. If attacked, he will quickly retreat. "},{Name:"7R-MNS",Content:"Sometimes appears on -8 [[Materials]] as a friendly ally. The player can follow him all the way through factory as he will take main exits till -4, at which point he will disappear. They are quite powerful, and they have no trouble taking out most bots. "},{Name:"7V-RTL",Content:""},{Name:"8R-AWN",Content:""},{Name:"99-TNT",Content:""},{Name:"A-02 Transporter",Content:""},{Name:"A-15 Conveyor",Content:""},{Name:"A-27 Freighter",Content:"Informally known as a yauler (yellow Hauler). In the main complex, appears as part of a [[Cargo Convoy]]."},{Name:"A2",Content:""},{Name:"A3",Content:""},{Name:"A4",Content:""},{Name:"A5",Content:""},{Name:"A6",Content:""},{Name:"A7",Content:"Drops the [[A7 Data Core]] when killed. Gives a code when shown the Cetus Mainframe in [[Cetus]]."},{Name:"A8",Content:""},{Name:"AD-0RF",Content:""},{Name:"AZ-K3N",Content:""},{Name:"Advanced Drone",Content:""},{Name:"Alpha 7",Content:""},{Name:"Architect",Content:""},{Name:"Army Drone",Content:""},{Name:"Artisan",Content:""},{Name:"Assault Drone",Content:""},{Name:"Assembled (4)",Content:""},{Name:"Assembled (7)",Content:""},{Name:"Assembler",Content:"Produces [[Assembled]] every 10 turns. Otherwise harmless."},{Name:"Autobeam Turret",Content:""},{Name:"B-36 Bruiser",Content:""},{Name:"B-48 Gladiator",Content:""},{Name:"B-60 Warrior",Content:""},{Name:"B-74 Champion",Content:""},{Name:"B-75 Beast",Content:""},{Name:"B-86 Titan",Content:""},{Name:"B-90 Cyclops",Content:""},{Name:"B-99 Colossus",Content:""},{Name:"Bomb Drone",Content:"Fast disposable drones that attempt to melee hostiles, which will cause them to explode. Deployed by a [[Bomb Drone Bay]]"},{Name:"Borebot",Content:""},{Name:"Bouncer",Content:""},{Name:"Butcher (5)",Content:""},{Name:"Butcher (7)",Content:""},{Name:"C-17 Slicer",Content:""},{Name:"C-30 ARC",Content:""},{Name:"C-35 Carver",Content:""},{Name:"C-40 Crusher",Content:`Crushers are heavy-duty [[Treads|treading]] trash (you) compacting machines plated in [[Damper Plating]], rendering them nearly immune to electromagnetic damage. Crushers will attempt to compact anything that is not a Crusher, and their Compactor is a VERY formidable melee weapon (does not drop) that will either [[B]]destroy or drop a few of your parts[[/B]]. Weak to explosions and strong against melee (which would be a bad idea regardless).
 
 Due to their extreme lethality in melee, stay out of their range at all costs, and maybe just run the hell out of [[Wastes]]. Alternatively pack a good launcher or a good critical weapon, as their plating will tank most of your shots.`},{Name:"C-55 Analyst",Content:""},{Name:"C-57 Dissector",Content:""},{Name:"C-65 Expert",Content:""},{Name:"CL-ANK",Content:""},{Name:"Cetus Guard",Content:""},{Name:"Cobbler",Content:""},{Name:"Cogmind",Content:"That's you."},{Name:"Combat Drone",Content:""},{Name:"Combat Programmer",Content:""},{Name:"Commander",Content:""},{Name:"D-53 Grenadier",Content:""},{Name:"D-63 Destroyer",Content:""},{Name:"D-83 Annihilator",Content:""},{Name:"DAS Turret",Content:""},{Name:"Data Miner",Content:""},{Name:"Decomposer",Content:""},{Name:"Decoy Drone",Content:""},{Name:"Demented",Content:""},{Name:"Dragon",Content:""},{Name:"Drone",Content:""},{Name:"E-15 Imp",Content:""},{Name:"EX-BIN",Content:`[[Heading]]Parse[[/Heading]]
@@ -1632,16 +1632,16 @@ Destroying a [[Hauler]]/[[Watcher]]|7||
 Destroying a Reinforced Barrier|10||
 Being forgotten by a combat hostile|10||
 Setting a trap that is triggered by an 0b10 bot|10||
-Successful hack at a level 1 terminal|Up to 12 [[Sub]]1[[/Sub]]||
+Successful hack at a level 1 terminal|Up to 12 [[Sup]]1[[/Sup]]||
 Being spotted and forgotten by a combat hostile|15||
 Being partial spotted by any "Guarding" combat hostile or Watcher.
 Most common guards are [[Behemoth|Behemoths]], [[Heavy|Heavies]], and [[Sentry|Sentries]].|15||
 Destroying Sealed Heavy Doors|15||
 Destroying most machines|15||
-Successful hack at a level 2 terminal|Up to 18 [[Sub]]1[[/Sub]]||
+Successful hack at a level 2 terminal|Up to 18 [[Sup]]1[[/Sup]]||
 Destroying most combat hostiles|20||
 Using a [[Spoiler]]Force(Download)[[/Spoiler]] hack on a [[Fabricator]]|20||
-Successful hack at a level 3 terminal|Up to 24 [[Sub]]1[[/Sub]]||
+Successful hack at a level 3 terminal|Up to 24 [[Sup]]1[[/Sup]]||
 Destroying a squad leader, guard, or intercept|30||
 Using a [[Spoiler]]Force(Extract)[[/Spoiler]] hack on a [[Scanalyzer]]|30||
 Using a [[Spoiler]]Force(Tunnel)[[/Spoiler]] on a [[Recycling Unit]]|30||
@@ -1711,7 +1711,7 @@ Non-combat ally destroyed by combat hostile|10||
 Combat ally destroyed by combat hostile|20||
 [[Search Patrol]] dispatched|100||
 Alert(Purge) [[Terminal]] hack|150||
-purge_threat [[Operator]] RIF hack|150 [[Sub]]1[[/Sub]]
+purge_threat [[Operator]] RIF hack|150 [[Sup]]1[[/Sup]]
 [[/Table]]
 [[List:Ordered]]Each purge_threat hack reduces the amount of influence reduced by 25 until the minimum value of 50 is reached. So purging will reduce by 150, 125, 100, 75, and remain at 50. This number resets back to 150 with each new map.[[/List]]`},{Name:"Alien Artifact",Content:"",Spoiler:"Spoiler"},{Name:"Alignment",Content:`Alignments are a major part of Cogmind's journey each run. They can provide unique capabilities or trigger certain events, but often lock other pieces of content out as inaccessible. Some factions change large aspects of Cogmind's normal interaction with the game world, while others only trigger a specific event in the game. Some can provide unique [[Wintypes]]. Selecting factions wisely is an important part of a run.
 
@@ -4466,11 +4466,11 @@ The available intel hacks are as follows:
 Hack Name|Repeatable|Effect||
 Active Garrisons|No|Reveals all [[Garrison Access|Garrisons]] on the current map||
 Active Terminals|No|Reveals all Terminals on the current map||
-Branch Access|No|Reveals all Derelict-known [[Branch]] exits on the current map[[Sub]]1[[/Sub]]||
+Branch Access|No|Reveals all Derelict-known [[Branch]] exits on the current map[[Sup]]1[[/Sup]]||
 Component Schematics|Yes|Gives 12-16 random non-Prototype [[Fabricator]] schematics||
 Component Stockpiles|No|Reveals locations of all non-Prototype part stockpiles on the current map||
-Depthwide Sectors/0|No|Reveals all Derelict-known maps on the current depth[[Sub]]1[[/Sub]]||
-Depthwide Sectors/-1|No|Reveals all Derelict-known maps on the next depth[[Sub]]1[[/Sub]]||
+Depthwide Sectors/0|No|Reveals all Derelict-known maps on the current depth[[Sup]]1[[/Sup]]||
+Depthwide Sectors/-1|No|Reveals all Derelict-known maps on the next depth[[Sup]]1[[/Sup]]||
 Emergency Access|No|Reveals all emergency access doors on the current map||
 Guard Positions|No|Reveals current locations (but not types) of all [[Behemoth]], [[Heavy]], and all [[Sentry]] bots on the map||
 Main Access|No|Reveals all main exits on the current map||
@@ -5651,24 +5651,24 @@ Some weapon types excel at some situations and not in others. Entropic, Kinetic,
 Weapon name|A bots|Architect shoo|Architect final fight|Enhanced Grunts|Enhanced Hunters|Enhanced Programmers|Enhanced Sentries||
 [[Blast Cannon]], 2 preferred with siege mode|(+)|(~)|(+)|(+)|(+)|(-)|(~)||
 [[Cld. Nova Cannon|Cld.]] or [[Enh. Nova Cannon]], [[Hvy. Quantum Rifle]], or [[Neutron Cannon]] stack (4+ somewhat interchangeable, cannons preferred)|(+)|(~)|(~)|(~)|(~)|(~)|(~)||
-[[Core Cannon]]|(+)|(~) [[Sub]]1[[/Sub]]|(++)|(~) [[Sub]]1[[/Sub]]|(~) [[Sub]]1[[/Sub]]|(~) [[Sub]]1[[/Sub]]|(~) [[Sub]]1[[/Sub]]||
+[[Core Cannon]]|(+)|(~) [[Sup]]1[[/Sup]]|(++)|(~) [[Sup]]1[[/Sup]]|(~) [[Sup]]1[[/Sup]]|(~) [[Sup]]1[[/Sup]]|(~) [[Sup]]1[[/Sup]]||
 [[Core Stripper]]/[[Disintegrator]]|(++)|(-)|(-)|(~)|(+)|(+)|(++)||
-[[Hyp. Multirail]]/[[Cep. Miniperforator]]/[[Perforator]]|(~) [[Sub]]2[[/Sub]]|(-)|(-)|(++)|(++)|(++)|(~) [[Sub]]2[[/Sub]]||
-EM weapons, namely [[Com. HERF Cannon]]|(+/-) [[Sub]]3[[/Sub]]|(-)|(-)|(+)|(+)|(-)|(+)||
+[[Hyp. Multirail]]/[[Cep. Miniperforator]]/[[Perforator]]|(~) [[Sup]]2[[/Sup]]|(-)|(-)|(++)|(++)|(++)|(~) [[Sup]]2[[/Sup]]||
+EM weapons, namely [[Com. HERF Cannon]]|(+/-) [[Sup]]3[[/Sup]]|(-)|(-)|(+)|(+)|(-)|(+)||
 [[Firepult]], especially with an [[Integrated Thermoelectric Network]] or [[Cep. Thermoelectric Network]]|(++)|(-)|(-)|(++)|(++)|(++)|(++)||
-Melee weapon stack (2+ [[Cep. Deflector Sword]]/[[Exp. Jetlance]]/[[Nanosword]]/[[Plasma Lance]]/[[1C-UTU's Sword "Choppy"]]/[[1C-UTU's Sword "Lootmaker"]]/[[Vortex Lance]] [[Sub]]4[[/Sub]] with optional [[Sigix Broadsword]])|(+)|(~)|(+)|(+)|(+)|(+)|(+)||
-[[Multirail]] stack (4+ with optional [[Adv. Target Analyzer|Adv.]] or [[Exp. Target Analyzer]])|(+)|(~) [[Sub]]5[[/Sub]]|(+)|(+)|(+)|(+)|(+)||
+Melee weapon stack (2+ [[Cep. Deflector Sword]]/[[Exp. Jetlance]]/[[Nanosword]]/[[Plasma Lance]]/[[1C-UTU's Sword "Choppy"]]/[[1C-UTU's Sword "Lootmaker"]]/[[Vortex Lance]] [[Sup]]4[[/Sup]] with optional [[Sigix Broadsword]])|(+)|(~)|(+)|(+)|(+)|(+)|(+)||
+[[Multirail]] stack (4+ with optional [[Adv. Target Analyzer|Adv.]] or [[Exp. Target Analyzer]])|(+)|(~) [[Sup]]5[[/Sup]]|(+)|(+)|(+)|(+)|(+)||
 [[Omega Cannon]] (with [[Adv. Kinecellerator|Adv.]] or [[Exp. Kinecellerator]])|(+)|(++)|(~)|(++)|(~)|(~)|(~)||
-[[Null Cannon]]/[[Cep. Plasma Driver]]|(+)|(+) [[Sub]]6[[/Sub]]|(+)|(~)|(~)|(+)|(~)||
+[[Null Cannon]]/[[Cep. Plasma Driver]]|(+)|(+) [[Sup]]6[[/Sup]]|(+)|(~)|(~)|(+)|(~)||
 [[Potential Cannon|Regular]], [[Imp. Potential Cannon|Improved]], or [[Cld. Directed Potential Cannon]]|(+)|(++)|(++)|(~)|(+)|(~)|(+)||
 [[Sigix Sheargun]] stack (3+), can mix with thermal cannons|(+)|(~)|(~)|(+)|(+)|(~)|(+)||
-[[Sigix Shearcannon]] [[Sub]]7[[/Sub]]|(++)|(++)|(++)|(++)|(++)|(+)|(++)||
-Vortex weaponry, namely [[Vortex Cannon]], [[Vortex Driver]], and [[Vortex Shotgun]]|(+)|(~) [[Sub]]8[[/Sub]]|(+)|(~) [[Sub]]8[[/Sub]]|(~) [[Sub]]8[[/Sub]]|(~) [[Sub]]8[[/Sub]]|(~) [[Sub]]8[[/Sub]]||
+[[Sigix Shearcannon]] [[Sup]]7[[/Sup]]|(++)|(++)|(++)|(++)|(++)|(+)|(++)||
+Vortex weaponry, namely [[Vortex Cannon]], [[Vortex Driver]], and [[Vortex Shotgun]]|(+)|(~) [[Sup]]8[[/Sup]]|(+)|(~) [[Sup]]8[[/Sup]]|(~) [[Sup]]8[[/Sup]]|(~) [[Sup]]8[[/Sup]]|(~) [[Sup]]8[[/Sup]]||
 [[Warp Cannon]]/[[Cep. Disintegration Ray]] (only for meltdown)|(+)|(-)|(-)|(~)|(+)|(+)|(+)||
 [[XL Autogun Array]]|(+)|(+)|(+)|(+)|(+)|(~)|(+)||
-[[Z-bomb Delivery System]]/[[Point Singularity Launcher]]|(~) [[Sub]]9[[/Sub]]|(~) [[Sub]]9[[/Sub]]|(+)|(~) [[Sub]]9[[/Sub]]|(~) [[Sub]]9[[/Sub]]|(-)|(-)||
+[[Z-bomb Delivery System]]/[[Point Singularity Launcher]]|(~) [[Sup]]9[[/Sup]]|(~) [[Sup]]9[[/Sup]]|(+)|(~) [[Sup]]9[[/Sup]]|(~) [[Sup]]9[[/Sup]]|(-)|(-)||
 [[Zio. Alpha Cannon]] (with [[Adv. Particle Charger]] or better)|(+)|(~)|(+)|(+)|(+)|(+)|(+)||
-[[Zio. Alpha Cannon Mk. II]]|(+/++) [[Sub]]10[[/Sub]]|(~/++) [[Sub]]10[[/Sub]]|(+)|(+)|(+)|(+)|(+) [[Sub]]10[[/Sub]]||
+[[Zio. Alpha Cannon Mk. II]]|(+/++) [[Sup]]10[[/Sup]]|(~/++) [[Sup]]10[[/Sup]]|(+)|(+)|(+)|(+)|(+) [[Sup]]10[[/Sup]]||
 [[Zio. Phaser-H]] stack (4+ with Adv. or Exp. Target Analyzer)|(+)|(+)|(+)|(+)|(+)|(+)|(+)
 [[/Table]]
 [[List:Ordered]]The Core Cannon is very strong vs most bots in Access_0 but costs too much core to use consistently, it will often result in early death by core.|Critical hits can disarm or destroy propulsion/weapons of some coring immune bots but not kill directly. Mostly niche use for flight/hover.|A6 is neutral to EM and annoying to kill otherwise, but all other A bots are 75% resistant.|Vortex Lances are the strongest melee weapon here but they have limited uses and should be used sparingly. A bots and the Architect final fight are the best uses for the Vortex Lance as a primary weapon.|Multirails are reasonable Architect shooers, but they have a very high matter upkeep. A [[Desublimator]] or other matter regenerating utilities are recommended to allow Multirails to shoo over a long period of time.|The Cep. Plasma Driver is a slightly worse Architect shoo due to its 1/3 chance of dealing less than the 80 damage required.|The Sigix Shearcannon has incredible firepower but it comes with a caveat. Cogmind must typically be within 2-4 tiles of the target in order to gain maximum damage potential. Otherwise the weapon's arc will cause some projectiles to miss, with higher percentages of projectiles missing at further distances. This weapon is best suited for faster propulsion types, although even treads can make good use if it in some situations.|Vortex weaponry is quite powerful and good at killing all in Access_0. However, it is not good to use for fighting everything as they have limited usages. A bots and the final Architect kill tend to be the most important uses.|These launchers have very strong killing power and Architect shooing potential. However, the incredibly high matter cost makes them not a good choice for regular usage. One or two [[Prc. Matter Filter|Prc. Matter Filters]] along with a Desublimator may make this a more reliable option, but it may be a bad idea to rely too heavily on launchers without other good options due to the risk of running out of matter entirely.|The Alpha Cannon Mk. II does not need any particle charging in some situations but does in others. It naturally kills 120 integrity Enhanced Grunts/Hunters in 2 hits with its base 65 damage. A bots and Enhanced Sentries have 150 core integrity which takes 3 hits. However, an Adv. Particle Charger ups the damage to 81. This turns those 3 hits into a 2 hit kill. This also matters for the Architect, where 81 damage will guarantee the shoo on a single core hit instead of requiring 2 hits.[[/List]]
@@ -8199,12 +8199,12 @@ Alignment|Difficulty|Surface win help|Extended win help||
 [[Spoiler]]Data Conduit[[/Spoiler]]|[[CellStyle:Bad]]Hard|[[CellStyle:Bad]]Low|[[CellStyle:Good]]High||
 FarCom|[[CellStyle:Good]]Easy|[[CellStyle:Good]]High|[[CellStyle:Neutral]]Low-Moderate||
 [[Spoiler]]Imprint[[/Spoiler]]|[[CellStyle:Neutral]]Moderate-Hard|[[CellStyle:Neutral]]Low-Moderate|[[CellStyle:Good]]High||
-[[Spoiler]]RIF (heavy)[[Sub]]1[[/Sub]][[/Spoiler]]|[[CellStyle:Bad]]Hard|[[CellStyle:Neutral]]Moderate|[[CellStyle:Neutral]]Moderate-High||
-[[Spoiler]]RIF (light)[[Sub]]2[[/Sub]][[/Spoiler]]|[[CellStyle:Good]]Easy|[[CellStyle:Neutral]]Moderate|[[CellStyle:Bad]]Low||
-[[Spoiler]]UFD (base)[[Sub]]3[[/Sub]][[/Spoiler]]|[[CellStyle:Neutral]]Easy-Moderate|[[CellStyle:Neutral]]Moderate|[[CellStyle:Bad]]Low||
-[[Spoiler]]UFD (Optimus)[[Sub]]4[[/Sub]][[/Spoiler]]|[[CellStyle:Neutral]]Moderate|[[CellStyle:Neutral]]Moderate|[[CellStyle:Good]]High||
-[[Spoiler]]Warlord (base)[[Sub]]5[[/Sub]][[/Spoiler]]|[[CellStyle:Neutral]]Easy-Moderate|[[CellStyle:Neutral]]Moderate|[[CellStyle:Good]]High||
-[[Spoiler]]Warlord (ECA)[[Sub]]6[[/Sub]][[/Spoiler]]|[[CellStyle:Bad]]Hard|[[CellStyle:Neutral]]Moderate|[[CellStyle:Good]]High
+[[Spoiler]]RIF (heavy)[[Sup]]1[[/Sup]][[/Spoiler]]|[[CellStyle:Bad]]Hard|[[CellStyle:Neutral]]Moderate|[[CellStyle:Neutral]]Moderate-High||
+[[Spoiler]]RIF (light)[[Sup]]2[[/Sup]][[/Spoiler]]|[[CellStyle:Good]]Easy|[[CellStyle:Neutral]]Moderate|[[CellStyle:Bad]]Low||
+[[Spoiler]]UFD (base)[[Sup]]3[[/Sup]][[/Spoiler]]|[[CellStyle:Neutral]]Easy-Moderate|[[CellStyle:Neutral]]Moderate|[[CellStyle:Bad]]Low||
+[[Spoiler]]UFD (Optimus)[[Sup]]4[[/Sup]][[/Spoiler]]|[[CellStyle:Neutral]]Moderate|[[CellStyle:Neutral]]Moderate|[[CellStyle:Good]]High||
+[[Spoiler]]Warlord (base)[[Sup]]5[[/Sup]][[/Spoiler]]|[[CellStyle:Neutral]]Easy-Moderate|[[CellStyle:Neutral]]Moderate|[[CellStyle:Good]]High||
+[[Spoiler]]Warlord (ECA)[[Sup]]6[[/Sup]][[/Spoiler]]|[[CellStyle:Bad]]Hard|[[CellStyle:Neutral]]Moderate|[[CellStyle:Good]]High
 [[/Table]]
 [[Spoiler]][[List:Ordered]]
 Heavy RIF refers to going into Garrisons and continuing to try to get RIF installers on flight|
@@ -9512,7 +9512,7 @@ Hack|Usefulness|Personal hack frequency||
 Insert|[[Range]]5|5[[/Range]]|[[CellStyle:Good]]Frequent, multiple times per map||
 Scanalyze|[[Range]]5|5[[/Range]]|[[CellStyle:Good]]Frequent, multiple times per map||
 Study|[[Range]]5|5[[/Range]]|[[CellStyle:Good]]Frequent, multiple times per map||
-[[Spoiler]]Trojan(Researchers)[[/Spoiler]]|[[Range]]3|5[[/Range]]|[[CellStyle:Good]]Frequent, once per map[[Sub]]1[[/Sub]]
+[[Spoiler]]Trojan(Researchers)[[/Spoiler]]|[[Range]]3|5[[/Range]]|[[CellStyle:Good]]Frequent, once per map[[Sup]]1[[/Sup]]
 [[/Table]]
 1. Only useful in [[Research]] [[Branch|Branches]] since they are the only maps where [[Researcher|Researchers]] spawn.`},{Name:"aoemica's Flight Guide/Machine Hacking/Schematics Reference",Content:`The following is a reference for various schematics I find useful to pull off of [[Terminal|Terminals]] to [[Fabricator|fabricate]]. Most of these are a subset of parts I rate highly in the [[aoemica's Flight Guide/Good Parts|good parts page]].
 
@@ -10740,7 +10740,12 @@ Overview/Integrity|
 Overview/Coverage|
 Upkeep/Energy|
 Effect/Effect
-[[/PartGroupTable]]`},{Name:"Hackware",Parts:["EX Chip 1","Hacking Suite","Mak. Hacking Suite","Imp. Hacking Suite","Adv. Hacking Suite","Exp. Hacking Suite","System Mapper","Deep Network Scanner","Architect God Chip A","EX Chip 2","System Shield","Mak. System Shield","Imp. System Shield","Adv. System Shield","Exp. System Shield","Ghost Barrier","Quantum Router","Architect God Chip D"],Content:"Hackware is a group of Utility parts that improve hacking capabilities, mainly success chance for terminal hacks, trap rewiring and robot rewiring. Hackware also helps you hack hostiles through the defense of a [[Programmer]]. Additionally, later Hackware makes it harder for your allies to be hacked."},{Name:"Hardlight Generators",Parts:["Hardlight Generator","Imp. Hardlight Generator","Adv. Hardlight Generator","Exp. Hardlight Generator"],Content:`[[Heading]]List of Hardlight Generators[[/Heading]]
+[[/PartGroupTable]]`},{Name:"Hackware",Parts:["EX Chip 1","Hacking Suite","Mak. Hacking Suite","Imp. Hacking Suite","Adv. Hacking Suite","Exp. Hacking Suite","System Mapper","Deep Network Scanner","Architect God Chip A","EX Chip 2","System Shield","Mak. System Shield","Imp. System Shield","Adv. System Shield","Exp. System Shield","Ghost Barrier","Quantum Router","Architect God Chip D"],Content:"Hackware is a group of Utility parts that improve hacking capabilities, mainly success chance for terminal hacks, trap rewiring and robot rewiring. Hackware also helps you hack hostiles through the defense of a [[Programmer]]. Additionally, later Hackware makes it harder for your allies to be hacked."},{Name:"Hardlight Generators",Parts:["Hardlight Generator","Imp. Hardlight Generator","Adv. Hardlight Generator","Exp. Hardlight Generator"],Content:`Hardlight Generators are [[Defensive Utilities]] that reduce the damage of kinetic or thermal damage by a fixed amount. They usually reduce damage less than [[Shield Generators]] and [[Force Fields]] but only require a fixed upkeep of [[Energy]] to use rather than cost energy for each point of damage blocked. This makes them very efficient when being shot at by multiple hostiles at once, which are generally situations where Force Field users quickly run out of energy. Their fixed damage reduction applies after resistance calculations so they combine extremely well with [[Resistance Devices]].
+
+[[Heading]]Example with Resistance Devices[[/Heading]]
+If a 50% thermal damage reducing [[Thermal Barrier]] is paired with a 8 damage reducing [[Adv. Hardlight Generator]], a [[G-73 Enforcer|G-73 Enforcer's]] [[Phase Gun]] goes from dealing on average 26 damage to only dealing [( 26 / 2 ) - 8] = 5 damage. An [[Adv. Force Field]] that cuts 50% of damage would instead reduce that damage to [floor( (26 / 2 ) / 2 )] = 6 damage and also cost 25 energy on top of the 5 energy upkeep. That Hardlight Generator would be a much more stable 15 energy upkeep.
+
+[[Heading]]List of Hardlight Generators[[/Heading]]
 [[PartGroupTable]]
 Hardlight Generators|
 Overview/Size|
@@ -10837,7 +10842,10 @@ Propulsion/Heat|
 Propulsion/Support|
 Propulsion/Penalty|
 Propulsion/Special
-[[/PartGroupTable]]`},{Name:"Mass Support Devices",Parts:["Weight Redist. System","Adv. Weight Redist. System","Gravity Neutralizer","Adv. Gravity Neutralizer","Quantum Shading Machine","Adv. Quantum Shading Machine"],Content:`[[Heading]]List of Mass Support Devices[[/Heading]]
+[[/PartGroupTable]]`},{Name:"Mass Support Devices",Parts:["Weight Redist. System","Adv. Weight Redist. System","Gravity Neutralizer","Adv. Gravity Neutralizer","Quantum Shading Machine","Adv. Quantum Shading Machine"],Content:`Mass Support [[Devices]] increase the total mass support of the bot they are attached to at a high energy cost. The only other way to increase mass support is in [[Propulsion]] slots, so these devices are unique in their ability to do this through [[Utilities|Utility]] slots. They are most effective when used on [[Flight Units|flight]] or [[Wheels|wheel]] builds due to the typical low support per slot. A high rating device like a [[Quantum Shading Machine]] is over twice the support per slot than a lategame flight unit like the [[Impulse Thruster Array]]. Mass support devices are much more slot efficient at increasing support, though their energy usage is usually much more intensive than additional propulsion would be.
+For flight builds, some good ways to support these energy hungry parts are [[Study|Studies]] on [[Power]], [[Power Amplifiers]] and very high energy power like [[Fusion Compressors]]. [[Utility Shieldings]] are also a good idea to prevent getting shot, since losing a mass support device is highly likely to leave Cogmind overweight.
+
+[[Heading]]List of Mass Support Devices[[/Heading]]
 [[PartGroupTable]]
 Mass Support Devices|
 Overview/Size|
@@ -11004,6 +11012,9 @@ EM Shields (Electromagnetic): [[Programmer|Programmers]]|
 Shock Absorption Systems (Explosive): [[Demolisher|Demolishers]]|
 Thermal Shields/Thermal Defense Suites: [[Grunt|Grunts]], Sentries
 [[/List]]
+
+[[Heading]]Use with [[Hardlight Generators]][[/Heading]]
+Resistance devices pair very well with Hardlight Generators because resistance damage reduction is applied before the hardlight damage reduction. For example, if a 50% thermal damage reducing [[Thermal Barrier]] is paired with a 8 damage reducing [[Adv. Hardlight Generator]], a [[G-73 Enforcer|G-73 Enforcer's]] [[Phase Gun]] goes from dealing on average 26 damage to only dealing [( 26 / 2 ) - 8] = 5 damage. A [[Force Fields|Force Field]] that cuts 50% of damage would instead reduce that damage to [floor( (26 / 2 ) / 2 )] = 6 damage.
 
 [[Heading]]List of Resistance Devices[[/Heading]]
 [[PartGroupTable]]
