@@ -6220,7 +6220,7 @@
     "Lgt. Angular Momentum Engine",
     "F-cell Engine"
    ],
-   "Content": "[[Heading]]List of Engines[[/Heading]][[PartGroupTable]]\nEngines|\nOverview/Size|\nOverview/Rating|\nOverview/Integrity|\nOverview/Coverage|\nOverview/Heat|\nOverview/Matter|\nPower/Rate|\nPower/Storage|\nPower/Stability\n[[/PartGroupTable]]"
+   "Content": "Engines are the lowest rating type of [[Power]], with parts ranging from ratings 1-5. Engines are replaced by [[Power Cores]] at higher ratings.\n\n[[Heading]]List of Engines[[/Heading]][[PartGroupTable]]\nEngines|\nOverview/Size|\nOverview/Rating|\nOverview/Integrity|\nOverview/Coverage|\nOverview/Heat|\nPower/Rate|\nPower/Storage|\nPower/Stability\n[[/PartGroupTable]]"
   },
   {
    "Name": "Field Recycling Units",
@@ -6622,7 +6622,7 @@
     "Mic. Neutrino Core",
     "Meta Core"
    ],
-   "Content": "[[Heading]]List of Power Cores[[/Heading]][[PartGroupTable]]\nPower Cores|\nOverview/Size|\nOverview/Rating|\nOverview/Integrity|\nOverview/Coverage|\nOverview/Heat|\nOverview/Matter|\nPower/Rate|\nPower/Storage|\nPower/Stability\n[[/PartGroupTable]]"
+   "Content": "Power Cores are the middle rating type of [[Power]], with typical parts ranging from ratings 3-7. Power cores generally obsolete [[Engines]] and are replaced by [[Reactors]] at higher ratings.\n\n[[Heading]]List of Power Cores[[/Heading]][[PartGroupTable]]\nPower Cores|\nOverview/Size|\nOverview/Rating|\nOverview/Integrity|\nOverview/Coverage|\nOverview/Heat|\nOverview/Matter|\nPower/Rate|\nPower/Storage|\nPower/Stability\n[[/PartGroupTable]]"
   },
   {
    "Name": "Power Shieldings",
@@ -6745,7 +6745,7 @@
     "Zero-point Reactor",
     "Matter Drive"
    ],
-   "Content": "[[Heading]]List of Reactors[[/Heading]][[PartGroupTable]]\nReactors|\nOverview/Size|\nOverview/Rating|\nOverview/Integrity|\nOverview/Coverage|\nOverview/Heat|\nOverview/Matter|\nPower/Rate|\nPower/Storage|\nPower/Stability\n[[/PartGroupTable]]"
+   "Content": "Reactors are the highest rating type of [[Power]], with typical parts ranging from ratings 5-9. Reactors generally obsolete [[Power Cores]].\n\n[[Heading]]List of Reactors[[/Heading]][[PartGroupTable]]\nReactors|\nOverview/Size|\nOverview/Rating|\nOverview/Integrity|\nOverview/Coverage|\nOverview/Heat|\nPower/Rate|\nPower/Storage|\nPower/Stability\n[[/PartGroupTable]]"
   },
   {
    "Name": "Recalibrators",
@@ -8220,7 +8220,7 @@
   },
   {
    "Name": "Overload",
-   "Content": "Overloading is a [[Game Mechanics|Game Mechanic]] available on [[Overloadable Parts]], primarily cooled (Cld.) parts, that allows for a temporary increase in effectiveness with additional heat costs and potential downsides based on the stability of the part. It is possible to perform for Power, Propulsion, and Weapon type items.\n\n[[Heading]][[Overloadable Power|Power]][[/Heading]]\nSome power parts (e.g. [[Cld. Ion Engine]]) support overloading. Overloading power causes the following changes:\n[[List]]Doubled energy generation|Doubled heat generation|Chance to shut down for ~5-10 turns and be damaged ~30-40% of the maximum integrity, based on the Stability % stat[[/List]]\n\n[[Heading]][[Overloadable Propulsion|Propulsion]][[/Heading]]\nSome propulsion types (mainly [[Flight Units]] and [[Hover Units]]), e.g. [[Cld. VTOL Module]], support overloading. Overloading propulsion causes the following changes:\n[[List]]Doubled energy cost|Tripled heat generation|50% additional support|Speed is calculated as if there are twice the number of active Flight/Hover units (e.g. an overloaded Cld. VTOL Module will gain an additional -3 speed modifier)|Overload propulsion has a chance to suffer 1 point of damage each move that the part is active or each melee attack, based on the Burnout % stat[[/List]]\nOne special case, the [[Potential Leg]], does not have any of the above effects except for the burnout damage. Overloaded Potential Legs instead have their base speed halved.\n\n[[Heading]][[Overloadable Weapons|Weapons]][[/Heading]]\nSome energy weapons (e.g. [[Cld. Pulse Rifle]]) support overloading. Overloading weapons causes the following changes:\n[[List]]Double damage|Doubled energy cost|Tripled heat generation|Additional level of heat transfer (e.g. Medium (+37) is turned into High (+50)|Chance of negative effect based on Shot Stability %.[[/List]]\nIf an overload side effect occurs, one of the following effects will occur:\n[[List]]Energy Bleed (~40% chance): Cogmind loses anywhere from 10-50% of total energy capacity|Heat Surge (~40% chance): Cogmind gains between 100 and 200 heat|Short Circuit (~20% chance): A random part breaks[[/List]]"
+   "Content": "Overloading is a [[Game Mechanics|Game Mechanic]] available on [[Overloadable Parts]], primarily cooled (Cld.) parts, that allows for a temporary increase in effectiveness with additional heat costs and potential downsides based on the stability of the part. It is possible to perform for Power, Propulsion, and Weapon type items.\n\n[[Heading]][[Overloadable Power|Power]][[/Heading]]\n[[Overloadable Power|Some power parts]] (e.g. [[Cld. Ion Engine]]) support overloading.\n[[Partial]]Overload Power Details[[/Partial]]\n\n[[Heading]][[Overloadable Propulsion|Propulsion]][[/Heading]]\nSome propulsion types (mainly [[Flight]] and [[Hover]]), e.g. [[Cld. VTOL Module]], support overloading.\n[[Partial]]Overload Propulsion Details[[/Partial]]\n\n[[Heading]][[Overloadable Weapons|Weapons]][[/Heading]]\n[[Overloadable Weapons|Some weapons]] (e.g. [[Cld. Pulse Rifle]]) support overloading.\n[[Partial]]Overload Weapon Details[[/Partial]]"
   },
   {
    "Name": "Partial Spot",
