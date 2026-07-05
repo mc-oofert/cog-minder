@@ -1,4 +1,4 @@
-import{j as a,L as I,J as E,K as U,c as D,r as S,M as ee,f as z,N as te,y as F,a as j,s as ae,O as ne,S as Z,B as b,o as ie,Q as X,u as K,U as oe,V as re,W,X as se,Y as le,Z as q,_ as he,$ as de}from"./index-TT3gxZYx.js";import{l as ce}from"./lore-yoaB2RHm.js";import{a as ge,L as me,I as ue,B as Y,b as pe,u as fe}from"./BotDetails-rpRosGUI.js";import{a as Q,u as ye}from"./ItemPopover-1aRi1Opb.js";/* empty css              */import"./bots-EPaA02tF.js";import"./botTypes-Cxei0LoN.js";import"./items-bCTdCTgI.js";const be=[{Name:"01-MTF",Content:"[[Image]]MTF Vault.png|Running into MTF in a [[Storage]] vault[[/Image]]A friendly bot that rarely shows up in [[Storage]] in an already opened vault. Will join Cogmind as an uncontrollable purple ally for the duration of the map and uses [[01-MTF's Autohacker]] to automatically open any other vaults it can see. It will assimilate or destroy most enemies it encounters extremely quickly with its high [[Spectrum|spectrum]] high damage EM gun [[01-MTF's Shockpuncher]]. The Shockpuncher is a very powerful weapon that is strong throughout the majority of the game as long as you can deal with its short range if you can get it to drop. [[Spoiler]]Presumably stole exiles prototypes.[[/Spoiler]]"},{Name:"12-ASH",Content:`[[GameText]]Hail to the king![[/GameText]]
+import{j as a,L as I,J as E,K as U,c as D,r as S,M as ee,f as z,N as te,y as F,a as j,s as ae,O as ne,S as Z,B as b,o as ie,Q as X,u as K,U as oe,V as re,W,X as se,Y as le,Z as q,_ as he,$ as de}from"./index-OedA_VqE.js";import{l as ce}from"./lore-yoaB2RHm.js";import{a as ge,L as me,I as ue,B as Y,b as pe,u as fe}from"./BotDetails-rgei0YIV.js";import{a as Q,u as ye}from"./ItemPopover-iDWQKR8e.js";/* empty css              */import"./bots-EPaA02tF.js";import"./botTypes-Cxei0LoN.js";import"./items-bCTdCTgI.js";const be=[{Name:"01-MTF",Content:"[[Image]]MTF Vault.png|Running into MTF in a [[Storage]] vault[[/Image]]A friendly bot that rarely shows up in [[Storage]] in an already opened vault. Will join Cogmind as an uncontrollable purple ally for the duration of the map and uses [[01-MTF's Autohacker]] to automatically open any other vaults it can see. It will assimilate or destroy most enemies it encounters extremely quickly with its high [[Spectrum|spectrum]] high damage EM gun [[01-MTF's Shockpuncher]]. The Shockpuncher is a very powerful weapon that is strong throughout the majority of the game as long as you can deal with its short range if you can get it to drop. [[Spoiler]]Presumably stole exiles prototypes.[[/Spoiler]]"},{Name:"12-ASH",Content:`[[GameText]]Hail to the king![[/GameText]]
 12-ASH is a member of the [[Heroes of Zion]] equipped with [[12-ASH's Boomstick]] and [[Ripper]].`},{Name:"1C-UTU",Content:""},{Name:"5H-AD0",Content:"Sometimes appears as a friendly ally at the start of [[Zion Deep Caves]]. If attacked, he will quickly retreat. "},{Name:"7R-MNS",Content:"Sometimes appears on -8 [[Materials]] as a friendly ally. The player can follow him all the way through factory as he will take main exits till -4, at which point he will disappear. They are quite powerful, and they have no trouble taking out most bots. "},{Name:"7V-RTL",Content:""},{Name:"8R-AWN",Content:""},{Name:"99-TNT",Content:""},{Name:"A-02 Transporter",Content:""},{Name:"A-15 Conveyor",Content:""},{Name:"A-27 Freighter",Content:"Informally known as a yauler (yellow Hauler). In the main complex, appears as part of a [[Cargo Convoy]]."},{Name:"A2",Content:""},{Name:"A3",Content:""},{Name:"A4",Content:""},{Name:"A5",Content:""},{Name:"A6",Content:""},{Name:"A7",Content:"Drops the [[A7 Data Core]] when killed. Gives a code when shown the Cetus Mainframe in [[Cetus]]."},{Name:"A8",Content:""},{Name:"AD-0RF",Content:""},{Name:"AZ-K3N",Content:""},{Name:"Advanced Drone",Content:""},{Name:"Alpha 7",Content:""},{Name:"Architect",Content:""},{Name:"Army Drone",Content:""},{Name:"Artisan",Content:""},{Name:"Assault Drone",Content:""},{Name:"Assembled (4)",Content:""},{Name:"Assembled (7)",Content:""},{Name:"Assembler",Content:"Produces [[Assembled]] every 10 turns. Otherwise harmless."},{Name:"Autobeam Turret",Content:""},{Name:"B-36 Bruiser",Content:""},{Name:"B-48 Gladiator",Content:""},{Name:"B-60 Warrior",Content:""},{Name:"B-74 Champion",Content:""},{Name:"B-75 Beast",Content:""},{Name:"B-86 Titan",Content:""},{Name:"B-90 Cyclops",Content:""},{Name:"B-99 Colossus",Content:""},{Name:"Bomb Drone",Content:"Fast disposable drones that attempt to melee hostiles, which will cause them to explode. Deployed by a [[Bomb Drone Bay]]"},{Name:"Borebot",Content:""},{Name:"Bouncer",Content:""},{Name:"Butcher (5)",Content:""},{Name:"Butcher (7)",Content:""},{Name:"C-17 Slicer",Content:""},{Name:"C-30 ARC",Content:""},{Name:"C-35 Carver",Content:""},{Name:"C-40 Crusher",Content:`Crushers are heavy-duty [[Treads|treading]] trash (you) compacting machines plated in [[Damper Plating]], rendering them nearly immune to electromagnetic damage. Crushers will attempt to compact anything that is not a Crusher, and their Compactor is a VERY formidable melee weapon (does not drop) that will either [[B]]destroy or drop a few of your parts[[/B]]. Weak to explosions and strong against melee (which would be a bad idea regardless).
 
 Due to their extreme lethality in melee, stay out of their range at all costs, and maybe just run the hell out of [[Wastes]]. Alternatively pack a good launcher or a good critical weapon, as their plating will tank most of your shots.`},{Name:"C-55 Analyst",Content:""},{Name:"C-57 Dissector",Content:""},{Name:"C-65 Expert",Content:""},{Name:"CL-ANK",Content:""},{Name:"Cetus Guard",Content:""},{Name:"Cobbler",Content:""},{Name:"Cogmind",Content:"That's you."},{Name:"Combat Drone",Content:""},{Name:"Combat Programmer",Content:""},{Name:"Commander",Content:""},{Name:"D-53 Grenadier",Content:""},{Name:"D-63 Destroyer",Content:""},{Name:"D-83 Annihilator",Content:""},{Name:"DAS Turret",Content:""},{Name:"Data Miner",Content:""},{Name:"Decomposer",Content:""},{Name:"Decoy Drone",Content:""},{Name:"Demented",Content:""},{Name:"Dragon",Content:""},{Name:"Drone",Content:""},{Name:"E-15 Imp",Content:""},{Name:"EX-BIN",Content:`[[Heading]]Parse[[/Heading]]
@@ -8045,21 +8045,22 @@ X0-1V1's amusement may increase for a great variety of reasons, which can be mos
 [[Table]]
 Source of entertainment|Amusement gain[[Comment]]|Cooldown (if any)[[/Comment]]||
 X0-1V1's Piety Tracker gets destroyed while attached.|+10||
-Triggering unknown [[Traps]].|+10||
+Triggering an unknown [[Traps|Trap]].|+10||
+Triggering an unknown [[Chute Trap]].|+20||
 Attacking a hostile with [[Electromagnetic Weapons|EM weaponry]] that then cause a [[Spectrum|chain reaction]] in the target's [[Power|power source]] which then hits Cogmind back.||
 Breaking a part by trying to repair it at a Repair Station.||
-Repeatedly failing a success-likely hack.||
+Repeatedly failing a success-likely hack.|10||
 
 A chaotic-type event begins ([[Assembled]] infestation, [[Scraptown#civil_war|Scraptown civil war]], ect)||
 Successfully [[Terminal#Force(Sabotage)|sabotaging]] at a terminal.||
 Having a corruption-induced IFF burst alert nearby hostiles|Dependent on number of hostiles alerted?||
 Destroying a [[Phase Generator]] in a [[Garrison]].|+30||
-Destroying a [[Network Hub|Network Hub in Hub_04(d)]].||
+Destroying a [[Network Hub|Network Hub in Hub_04(d)]].|+30 for first, +5 for second, +? for others||
 Being on a floor when [[Sterilization]] is announced.||
 [[Comment]]Interrupting a [[Cargo Convoy]]?. This and sterilization either set amusement to maximum or just add a whole lot, also i don't know how xom feels about dsf steri.[[/Comment]]
 Getting a multi-squad Assault dispatch due to Alert|30?||
 Firing the [[L-Cannon]]|5||
-Firing the [[Drained L-Cannon]]|500||
+Firing the [[Drained L-Cannon]]|Max||
 [[/Table]]
 
 [[Heading]]"Good" acts[[/Heading]]
@@ -8092,16 +8093,18 @@ Note that the cost to maximum core integrity is optional only in the sense that 
 [[Table]]
 Log message|Temporary effect|Restrictions (if any)||
 [[GameText]]"Enjoy your XOMVISION!"[[/GameText]]|18 range unjammable ability to sense active robots, even if they have the Scan Cloak trait. [[Comment]]I'm mostly assuming it pierces scan cloak 5 like the Quantum Companion.[[/Comment]]||
-[[GameText]]X0-1V1 causes your matter storage to temporarily balloon in size.[[/GameText]]|Temporary +500-800 matter storage.||
+[[GameText]]X0-1V1 causes your matter storage to temporarily balloon in size.[[/GameText]]|Temporary +400-800 matter storage.||
 [[GameText]]"Let the electrons flow!"[[/GameText]]|Temporary +800-1500 energy storage.||
-[[GameText]]"Don't spend it all in one place."[[/GameText]]|Temporary increased energy generation.||
-[[GameText]]X0-1V1 makes important surrounding features appear closer to you.[[/GameText]]|Temporary increased sight range, between +2? and +3.||
+[[GameText]]"Don't spend it all in one place."[[/GameText]]|Temporary increased energy generation. Can be +27.||
+[[GameText]]X0-1V1 makes important surrounding features appear closer to you.[[/GameText]]|Temporary increased sight range, between +2 and +3.||
 [[GameText]]"Watch where you're going!"[[/GameText]]|Temporary increased sight range, between +4 and +6.||
-[[GameText]]X0-1V1 waits impatiently for you to get up close and personal with every target in the area.[[/GameText]]|Temporary increased melee accuracy. (Between +10 and +20)|In combat only||
-[[GameText]]"Weapons, camera, action!"[[/GameText]]|Temporary 1-3 additional weapon slots.|In combat only||
-[[GameText]]X0-1V1 manipulates the space around you.[[/GameText]]|Temporary increase to base type resistance (KI, TH, EX or EM?). (Between +15 and +50)|In combat only||
-[[GameText]]X0-1V1 reimagines you as a refrigerator in hell.[[/GameText]]|Temporary lower base temperature to -666, and also sets current to -666 at the effect's start.|In combat only||
-[[GameText]]"Heat sink stocks are down. Don't ask me how I know."[[/GameText]]|Temporary ?-100 bonus heat dissipation.|In combat only||
+[[GameText]]"A slightly more accurate toy is still a toy."[[/GameText]]|Temporary increased melee accuracy, between +? and +9.||
+[[GameText]]X0-1V1 waits impatiently for you to get up close and personal with every target in the area.[[/GameText]]|Temporary increased melee accuracy, between +10 and +20.|During combat only||
+[[GameText]]"Weapons, camera, action!"[[/GameText]]|Temporary 1-3 additional weapon slots.|During combat only||
+[[GameText]]X0-1V1 manipulates the space around you.[[/GameText]]|Temporary increase to KI, TH, or EM base damage type resistance, Between +15% and +50%.|During combat only||
+[[GameText]]X0-1V1 reimagines you as a refrigerator in hell.[[/GameText]]
+[[GameText]]X0-1V1 enshrouds you in a swirling icy cloud.[[/GameText]]|Temporary lower base temperature to -666, and also sets current to -666 at the effect's start.|During combat only||
+[[GameText]]"Heat sink stocks are down. Don't ask me how I know."[[/GameText]]|Temporary ?-110? bonus heat dissipation.|During combat only||
 
 [[/Table]]
 
@@ -8109,8 +8112,12 @@ Log message|Temporary effect|Restrictions (if any)||
 [[Heading:2]]Other "good" acts[[/Heading]]
 [[Table]]Log message|Effect|Restrictions (if any)||
 [[GameText]]"See? It buffs right out!"[[/GameText]]|Partial core integrity restoration|Must have enough missing core integrity||
+[[GameText]]X0-1V1 barely happened to notice your imminent destruction.[[/GameText]]
+[[GameText]]X0-1V1 decides a favorite toy is worth saving for now.[[/GameText]]|When Cogmind would be destroyed, between 42?% and 44?% of core integrity is restored, and Cogmind is teleported to safety(?).|Occurs a maximum of once per run. Dependent on other factors(?).||
+
+
 [[GameText]]Your [parts] briefly glow, restoring integrity.[[/GameText]]|The mentioned parts (3 max) are restored to full integrity. Can affect normally non-repairable parts.|Must have damaged parts.||
-[[GameText]]"A floating RIF installer appears for a brief moment."[[/GameText]]|Gives an additional [[RIF]] ability.|Only possible if RIF is already installed. Only occurs once per run.||
+[[GameText]]"A floating RIF installer appears for a brief moment."[[/GameText]]|Gives an additional [[RIF]] ability. Can give an ability that would normally only be available after having used many more RIF installers, such as Crosswire.|Only possible if RIF is already installed. Only occurs once per run.||
 [[GameText]]"X0-1V1 Flashes the [Relay Coupler] buffer."[[/GameText]]|The mentioned Relay Coupler is set to 99 charges and may get tagged.|RIF is not required. Cannot affect [NC]/[C]/[Proto] Couplers.||
 [[GameText]]"Have you ever seen what subatomizers do to 0b10?"[[/GameText]]|X0-1V1 opens a [[SUBCON Basin]] at [[Cogmind]]'s location.||
 [[GameText]]"I guarantee there's even more fun over that way."[[/GameText]]|X0-1V1 reveals and identifies an unknown exit.||
@@ -8122,7 +8129,7 @@ Log message|Temporary effect|Restrictions (if any)||
 [[GameText]]"I sense action potential over that way.[[/GameText]]|X0-1V1 reveals a [[Garrison Access]].||
 [[GameText]]"You need a change of scenery."[[/GameText]]|X0-1V1 teleports Cogmind out of danger.|Cogmind cannot be in good shape.||
 [[GameText]]"Just some junk I've been collecting."[[/GameText]]
-[[GameText]]"Someone left a few trinkets here."[[/GameText]]|X0-1V1 teleports Cogmind to a "vault" filled with out-of-depth and possibly unique items. Prototype parts can be faulty, and the room can contain Traps.||
+[[GameText]]"Someone left a few trinkets here."[[/GameText]]|X0-1V1 teleports Cogmind to a "vault" filled with out-of-depth and possibly unique items. Prototype parts can be faulty, and the room can contain Traps.|Max once per map, mutually exclusive with "being a leader" effect.||
 [[GameText]]"Open Sesame"[[/GameText]]|A power cycler on the map is exploded.|Must be a power cycler on the map. Only once per map.||
 [[GameText]]"Let's see how everyone fares in the upcoming heat wave."[[/GameText]]|Sterilization system partially engages, bringing heat up to +20 over the next several hundred turns, then falls back down over another several hundred turns.||
 [[GameText]]"I told that [Heavy] to go sit in the corner."[[/GameText]]|The closest [[Heavy]] moves to the nearest corner of the map and stays there until the next [[Security Rotation]].||
@@ -8146,7 +8153,8 @@ Null Cannon, L-Cannon[[/Comment]]
 [[GameText]]"We can take them down a peg or two."[[/GameText]]|Downgrades hostile bot to another lower tier bot of the same type.|During combat only.||
 [[GameText]]X0-1V1 imagines sitting ducks.[[/GameText]]|One or more hostiles receive a huge time delay before they can perform their next action.|During combat only.||
 [[GameText]]The cosmic winds blow in a new direction.[[/GameText]]|Several uncontrollable purple allies are teleported in nearby. They will eventually disappear after several hundred turns with the log message [[GameText]][bot] form shifts, blurs, and dematerializes[[/GameText]]|During combat only.||
-[[GameText]]I sense a duel![[/GameText]]|A temporary IFF filter overwrite is applied on a visible hostile.|Multiple visible hostiles? (2?)|During combat only.||
+[[GameText]]I sense a duel![[/GameText]]|A temporary IFF filter overwrite is applied on a visible hostile.|During combat only, multiple visible hostiles.||
+[[GameText]]"A civil war? On my watch? More likely than you'd think."[[/GameText]]|A temporary IFF filter overwrite is applied on half of all visible hostiles.|During combat only, multiple visible hostiles.||
 [[GameText]]"I find this area lacking in decorations."[[/GameText]]|A visible hostile permanently turns off, turning into a statue.|During combat only.||
 [[GameText]]"One less obstacle for my toy on its journey to the highest levels of glorious entertainment."[[/GameText]]|X0-1V1 destroys a nearby hostile.|During combat only.||
 [[GameText]]X0-1V1 twists the quantum threads just so.[[/GameText]]|A visible hostile is sundered.|During combat only.||
@@ -8157,8 +8165,8 @@ Null Cannon, L-Cannon[[/Comment]]
 [[GameText]]X0-1V1 ensures you are ready for glorious battle.[[/GameText]]|A weapon is forcibly given, attached and fused on Cogmind.|During combat only.||
 [[GameText]]"What are these fools even fielding?"[[/GameText]]|Friendly bot weapons are replaced with random higher rating weapons of the same type|During combat only while one or more allies are nearby.||
 [[GameText]]X0-1V1 stares into the ether.[[/GameText]]|Hostile bot is teleported to some far away location on the map.|During combat only.||
-[[GameText]]"Being a leader is both a boon and a curse."[[/GameText]]|Teleported to a room with several blue-controllable allies.|During combat only.||
-
+[[GameText]]"Being a leader is both a boon and a curse."[[/GameText]]|Teleported to a room with several blue-controllable allies.|During combat only, max once per map, mutually exclusive with "vault" effect.||
+[[GameText]]X0-1V1 tries on a Mechanic's hat.[[/GameText]]|Repairs up to 3 allies to full integrity.|During combat only, 3 or more allies must be sufficiently damaged.||
 
 
 [[/Table]]
@@ -8168,16 +8176,16 @@ These effects will be written in red text in the log, and counted under "bad act
 
 [[Heading:2]]Temporary debuffs[[/Heading]]
 [[Table]]
-Log message|Temporary effect||
+Log message|Temporary effect|Restrictions (if any)||
 [[GameText]]"I know that drunk sailor look when I see it."[[/GameText]]|Temporary guaranteed misdirection on move.||
 [[GameText]]"Did you know you're leaking matter?"[[/GameText]]|Temporary lower matter capacity. Can be -150.||
 [[GameText]]"X0-1V1 blurs the world around you"[[/GameText]]|Temporary lower visual range, between -2 and -4.||
 [[GameText]]"In a world full of sensor tech, vision is overrated."[[/GameText]]|Temporarily lower visual range, from -6 to -10.||
 [[GameText]]X0-1V1 turns out the lights.[[/GameText]]|X0-1V1 disables your sensor-based infowar, including [[Sensor Arrays]], [[Seismic Detector]], and [[IFF Parsers]].|Must have sensor-based infowar active||
-[[GameText]]"So many nails, never enough hammers..."[[/GameText]]|Temporary lowered ranged accuracy, between -?% and -?%.|In combat only||
-[[GameText]]"Dakka mode, ENGAGE!"[[/GameText]]|Temporary lowered melee accuracy, between -5% and -?%.|In combat only||
-[[GameText]]X0-1V1 projects screaming human faces on all surfaces in the area.[[/GameText]]|Temporary lowered melee accuracy, between -?% and -?%.|In combat only||
-[[GameText]]"Your inner air conditioner seems to have fall into disrepair"[[/GameText]]|Lowered heat dissipation between -21? and -29?.|In combat only||
+[[GameText]]"So many nails, never enough hammers..."[[/GameText]]|Temporary lowered ranged accuracy, between -?% and -?%.|During combat only||
+[[GameText]]"Dakka mode, ENGAGE!"[[/GameText]]|Temporary lowered melee accuracy, between -5% and -?%.|During combat only||
+[[GameText]]X0-1V1 projects screaming human faces on all surfaces in the area.[[/GameText]]|Temporary lowered melee accuracy, between -?% and -?%.|During combat only||
+[[GameText]]"Your inner air conditioner seems to have fall into disrepair"[[/GameText]]|Lowered heat dissipation between -21? and -29?.||
 [[/Table]]
 
 
@@ -8194,18 +8202,18 @@ This effect may also happen without the above message.|A temporary IFF filter ov
 [[GameText]]X0-1V1 brushes you with a corrupting influence.[[/GameText]]|A large amount of Corruption is added to Cogmind between 7? and 20).||
 [[GameText]]"And it's a trip and a fumble!"[[/GameText]]|One or more attached parts are rejected.||
 [[GameText]]"C'mon, do something!"[[/GameText]]
-[[GameText]]"Some new friends to play with."[[/GameText]]|Between 1-6 hostile bots are spawned in nearby and within line of sight. Using a [Visual Processing Unit] makes it more likely that this effect may place bots within the greater range of Cogmind's sight but outside of the hostiles' sight.||
+[[GameText]]"Some new friends to play with."[[/GameText]]|Between 1-6 hostile bots are spawned in nearby and within line of sight. Using a [[Visual Processing Units|Visual Processing Unit]] makes it more likely that this effect may place bots within the greater range of Cogmind's sight but outside of the hostiles' sight.||
 [[GameText]]"Evolution hits right when you least expect it."[[/GameText]]|Mutates one slot into a slot of another type.|Cannot change base slot configuration by more than +1/-1 (and cannot lower slots of a given type below 1?). In other words, if a propulsion slot is mutated away, another will not be mutated away until at least one propulsion slot was mutated back in. For example, if, without X0-1V1's interference, you have 5 utility slots, no matter how many mutations occur, you will always have between 4 and 6 utility slots. Also, can't remove a slot occupied by a [[Scrap Engine]] construct.||
 [[GameText]]"Enjoy the ride!"[[/GameText]]|Cogmind is teleported into view of nearby (potentially dormant) hostile(s).|Cannot teleport into [[Command#command_garrisons|the Command garrisons]]||
 [[GameText]]"A box. Just for you."[[/GameText]]|Up to 6 additional stationary [[Sentry|Sentries]] are placed in a ring around Cogmind and marked on the map. The ring is roughly 20-25 tiles away from Cogmind.||
 [[GameText]]"X0-1V1 taps a no entrance sign"[[/GameText]]|Removes an exit from the map|Another exit leading to the same map must exist.||
-[[GameText]]X0-1V1 uses Touch of Redecoration![[/GameText]]|X0-1V1 destroys a machine, detonates a trap, or triggers [[GameText]]Force(Overload)[[/GameText]] on a [Fabricator].||
+[[GameText]]X0-1V1 uses Touch of Redecoration![[/GameText]]|X0-1V1 destroys a machine, detonates a trap, or triggers [[GameText]]Force(Overload)[[/GameText]] on a [[Fabricator]].||
 [[GameText]]"That meddlesome character is spoiling all the fun. Not anymore!"[[/GameText]]|[Data Miner] will no longer redirect Reinforcement Squads or Assault Squads. The current squad is still redirected.|Only happens after Data Miner successfully redirects a squad.||
+There is no log message for this effect.|A fake part appears nearby (on an unexplored tile?), and, if attached, is reconfigured into an Item Mimic. Fake parts are higher rating than regular floor parts, and may appear in locations where regular floor parts cannot.||
 
 
-[[GameText]]X0-1V1 dreams of freedom.[[/GameText]]|All doors are opened in Extension.|Extension only||
 [[GameText]]"I may have passed a hint to a nearby [Heavy]."[[/GameText]]|The closest Heavy moves to Cogmind's current location and stays there until the next Security Rotation.|0b10 only.||
-[[GameText]]"ALERT: Updating transport protocols with improved security requirements."[[/GameText]]|[[Hauler|Haulers]] get additional Hunter escorts? Have their Grunt escorts replaced with Hunters?|0b10 only, mutually exclusive with following effect, only once per map||
+[[GameText]]"ALERT: Updating transport protocols with improved security requirements."[[/GameText]]|All [[Hauler]] [[Grunt]] escorts leave the map. [[Hunter|Hunters]] are dispatched from 0b10-controlled exits until each Hauler has 2 Hunter guards.|0b10 only, mutually exclusive with following effect, only once per map||
 [[GameText]]"ALERT: Introduced new transport parking protocols."[[/GameText]]|X0-1V1 redirects all Haulers on the map to a single location.|0b10 only, mutually exclusive with previous effect, only once per map||
 [[GameText]]"ALERT: Engaging LAN party protocols."[[/GameText]]|Several new [[Operator|Operators]] appear from 0b10-controlled exits and slowly head to their Terminals. Only Terminals without an existing Operator will be assigned new Operators.|0b10 only.||
 [[GameText]]"Who needs BL-4Z3 when you have control of the 0b10 sterilization system?[[/GameText]]|The floor's sterilization system engages shortly after the announcement.|0b10 only.||
@@ -8230,11 +8238,12 @@ This effect may also happen without the above message.|A temporary IFF filter ov
 [[/Table]]
 
 [[Heading]]Area-specific effects[[/Heading]]
-These effects are specific-specific, are not considered "bad acts" or "good acts" in scoresheets, and are guaranteed to happen when their trigger is met, rather than happening at random.
+These effects are specific-specific, are not considered "bad acts" or "good acts" in scoresheets, and are guaranteed to happen if their trigger is met, rather than happening at random.
 [[Table]]
-Log message|Effect|Area|Trigger||
-[[GameText]]X0-1V1 animates Wyrm Statue.[[/GameText]]|The inactive [[Wyrm Statue]] is turned into a n active friendly [[Chaos Wyrm]].|[[Scraptown]]|Getting close enough to the Wyrm Statue.||
-[[GameText]]"X0-1V1 pokes a wall."[[/GameText]][[GameText]][[/GameText]]|X0-1V1 triggers the [[Zion Deep Caves#impregnable_wall|Wall in Deep Caves]]|Deep Caves|Triggering the proximity alert.||
+Log message|Area|Effect|Trigger||
+[[GameText]]X0-1V1 animates Wyrm Statue.[[/GameText]]|[[Scraptown]]|The inactive [[Wyrm Statue]] is turned into an active friendly [[Chaos Wyrm]]. Also immediately turns Scraptown hostile.|Getting close enough to the Wyrm Statue.||
+[[GameText]]"X0-1V1 pokes a wall."[[/GameText]][[GameText]][[/GameText]]|[[Zion Deep Caves|Deep Caves]]|X0-1V1 triggers the [[Zion Deep Caves#impregnable_wall|Deep Caves Wall]]|Triggering the proximity alert. There is an unknown anti-condition.||
+[[GameText]]X0-1V1 dreams of freedom.[[/GameText]]|[[Extension]]|All doors are opened.|6 turns after entering the map. Other conditions unknown.||
 
 [[/Table]]
 
