@@ -1,4 +1,4 @@
-import{j as a,L as I,J as E,K as U,c as D,r as S,M as ee,f as z,N as te,y as F,a as j,s as ae,O as ne,S as Z,B as b,o as ie,Q as X,u as K,U as oe,V as re,W,X as se,Y as le,Z as q,_ as he,$ as de}from"./index-OedA_VqE.js";import{l as ce}from"./lore-yoaB2RHm.js";import{a as ge,L as me,I as ue,B as Y,b as pe,u as fe}from"./BotDetails-rgei0YIV.js";import{a as Q,u as ye}from"./ItemPopover-iDWQKR8e.js";/* empty css              */import"./bots-EPaA02tF.js";import"./botTypes-Cxei0LoN.js";import"./items-bCTdCTgI.js";const be=[{Name:"01-MTF",Content:"[[Image]]MTF Vault.png|Running into MTF in a [[Storage]] vault[[/Image]]A friendly bot that rarely shows up in [[Storage]] in an already opened vault. Will join Cogmind as an uncontrollable purple ally for the duration of the map and uses [[01-MTF's Autohacker]] to automatically open any other vaults it can see. It will assimilate or destroy most enemies it encounters extremely quickly with its high [[Spectrum|spectrum]] high damage EM gun [[01-MTF's Shockpuncher]]. The Shockpuncher is a very powerful weapon that is strong throughout the majority of the game as long as you can deal with its short range if you can get it to drop. [[Spoiler]]Presumably stole exiles prototypes.[[/Spoiler]]"},{Name:"12-ASH",Content:`[[GameText]]Hail to the king![[/GameText]]
+import{j as a,L as I,J as E,K as U,c as D,r as S,M as ee,f as z,N as te,y as F,a as j,s as ae,O as ne,S as Z,B as b,o as ie,Q as X,u as K,U as oe,V as re,W,X as se,Y as le,Z as q,_ as he,$ as de}from"./index-b-vzP-R_.js";import{l as ce}from"./lore-yoaB2RHm.js";import{a as ge,L as me,I as ue,B as Y,b as pe,u as fe}from"./BotDetails-GCWw-GsI.js";import{a as Q,u as ye}from"./ItemPopover-KCpDqXWp.js";/* empty css              */import"./bots-EPaA02tF.js";import"./botTypes-Cxei0LoN.js";import"./items-bCTdCTgI.js";const be=[{Name:"01-MTF",Content:"[[Image]]MTF Vault.png|Running into MTF in a [[Storage]] vault[[/Image]]A friendly bot that rarely shows up in [[Storage]] in an already opened vault. Will join Cogmind as an uncontrollable purple ally for the duration of the map and uses [[01-MTF's Autohacker]] to automatically open any other vaults it can see. It will assimilate or destroy most enemies it encounters extremely quickly with its high [[Spectrum|spectrum]] high damage EM gun [[01-MTF's Shockpuncher]]. The Shockpuncher is a very powerful weapon that is strong throughout the majority of the game as long as you can deal with its short range if you can get it to drop. [[Spoiler]]Presumably stole exiles prototypes.[[/Spoiler]]"},{Name:"12-ASH",Content:`[[GameText]]Hail to the king![[/GameText]]
 12-ASH is a member of the [[Heroes of Zion]] equipped with [[12-ASH's Boomstick]] and [[Ripper]].`},{Name:"1C-UTU",Content:""},{Name:"5H-AD0",Content:"Sometimes appears as a friendly ally at the start of [[Zion Deep Caves]]. If attacked, he will quickly retreat. "},{Name:"7R-MNS",Content:"Sometimes appears on -8 [[Materials]] as a friendly ally. The player can follow him all the way through factory as he will take main exits till -4, at which point he will disappear. They are quite powerful, and they have no trouble taking out most bots. "},{Name:"7V-RTL",Content:""},{Name:"8R-AWN",Content:""},{Name:"99-TNT",Content:""},{Name:"A-02 Transporter",Content:""},{Name:"A-15 Conveyor",Content:""},{Name:"A-27 Freighter",Content:"Informally known as a yauler (yellow Hauler). In the main complex, appears as part of a [[Cargo Convoy]]."},{Name:"A2",Content:""},{Name:"A3",Content:""},{Name:"A4",Content:""},{Name:"A5",Content:""},{Name:"A6",Content:""},{Name:"A7",Content:"Drops the [[A7 Data Core]] when killed. Gives a code when shown the Cetus Mainframe in [[Cetus]]."},{Name:"A8",Content:""},{Name:"AD-0RF",Content:""},{Name:"AZ-K3N",Content:""},{Name:"Advanced Drone",Content:""},{Name:"Alpha 7",Content:""},{Name:"Architect",Content:""},{Name:"Army Drone",Content:""},{Name:"Artisan",Content:""},{Name:"Assault Drone",Content:""},{Name:"Assembled (4)",Content:""},{Name:"Assembled (7)",Content:""},{Name:"Assembler",Content:"Produces [[Assembled]] every 10 turns. Otherwise harmless."},{Name:"Autobeam Turret",Content:""},{Name:"B-36 Bruiser",Content:""},{Name:"B-48 Gladiator",Content:""},{Name:"B-60 Warrior",Content:""},{Name:"B-74 Champion",Content:""},{Name:"B-75 Beast",Content:""},{Name:"B-86 Titan",Content:""},{Name:"B-90 Cyclops",Content:""},{Name:"B-99 Colossus",Content:""},{Name:"Bomb Drone",Content:"Fast disposable drones that attempt to melee hostiles, which will cause them to explode. Deployed by a [[Bomb Drone Bay]]"},{Name:"Borebot",Content:""},{Name:"Bouncer",Content:""},{Name:"Butcher (5)",Content:""},{Name:"Butcher (7)",Content:""},{Name:"C-17 Slicer",Content:""},{Name:"C-30 ARC",Content:""},{Name:"C-35 Carver",Content:""},{Name:"C-40 Crusher",Content:`Crushers are heavy-duty [[Treads|treading]] trash (you) compacting machines plated in [[Damper Plating]], rendering them nearly immune to electromagnetic damage. Crushers will attempt to compact anything that is not a Crusher, and their Compactor is a VERY formidable melee weapon (does not drop) that will either [[B]]destroy or drop a few of your parts[[/B]]. Weak to explosions and strong against melee (which would be a bad idea regardless).
 
 Due to their extreme lethality in melee, stay out of their range at all costs, and maybe just run the hell out of [[Wastes]]. Alternatively pack a good launcher or a good critical weapon, as their plating will tank most of your shots.`},{Name:"C-55 Analyst",Content:""},{Name:"C-57 Dissector",Content:""},{Name:"C-65 Expert",Content:""},{Name:"CL-ANK",Content:""},{Name:"Cetus Guard",Content:""},{Name:"Cobbler",Content:""},{Name:"Cogmind",Content:"That's you."},{Name:"Combat Drone",Content:""},{Name:"Combat Programmer",Content:""},{Name:"Commander",Content:""},{Name:"D-53 Grenadier",Content:""},{Name:"D-63 Destroyer",Content:""},{Name:"D-83 Annihilator",Content:""},{Name:"DAS Turret",Content:""},{Name:"Data Miner",Content:""},{Name:"Decomposer",Content:""},{Name:"Decoy Drone",Content:""},{Name:"Demented",Content:""},{Name:"Dragon",Content:""},{Name:"Drone",Content:""},{Name:"E-15 Imp",Content:""},{Name:"EX-BIN",Content:`[[Heading]]Parse[[/Heading]]
@@ -7981,14 +7981,14 @@ W9 [[Redacted]]"Defending 0bPrime": Align with [[UFD]] and [[Optimus]] in [[Scra
 [[Heading]]Ending animations[[/Heading]]
 See the following video: [[https://www.youtube.com/watch?v=XR2RoB6gKWA]]`},{Name:"X0-1V1",Content:`Note: This page is a work in progress! As such, some information is incomplete and maybe even inaccurate!
 
-X0-1V1, or Xom, is an incredibly powerful and chaotic [[Derelict]] [[Unchained]] that is unlike all other Unchained. Rather than only hunting [[Cogmind]] down once they have caused enough trouble, Cogmind must explicitly interact with a special "D.C.S.S Altar Unit" [[Terminal]] on -10 [[Materials]] next to the exit to [[Subcaves]] to "align". Xom will begin taking interest in Cogmind after aligning. From that point on, random and chaotic effects will occur periodically depending on Xom's mood. Effects are classified as "good" or "bad" and combat or non-combat. Due to their random nature, even "good" effects may be bad depending on the circumstances. Random effects will occur on all maps except for "friendly" areas like [[Exiles (Location)]].
+X0-1V1, or Xom, is an incredibly powerful and chaotic [[Derelict]] [[Unchained]] that is unlike all other Unchained. Rather than only hunting [[Cogmind]] down once they have caused enough trouble, Cogmind must explicitly interact with a special "D.C.S.S Altar Unit" [[Terminal]] on -10 [[Materials]] next to the exit to [[Subcaves]] to "align". Xom will begin taking interest in Cogmind after aligning. From that point on, random and chaotic effects will occur periodically depending on Xom's mood. Effects are classified as "good" or "bad" and combat or non-combat. Due to their random nature, even "good" effects may be bad depending on the circumstances. Random effects will occur on all maps except for "friendly" areas like [[Exiles (Location)]] (at least while the area remains peaceful) and a select few other areas.
 
 Xom's random effects are determined by 2 factors: mood and entertainment. Mood is an uncontrollable value that changes at random, and is the primary factor that determines whether effects are positive or negative. The other state, entertainment, is a stat that decreases over time but can be increased by doing any number of "entertaining" or chaotic things. If Xom becomes bored, the frequency of random effects will increase dramatically until something amuses him again.
 
 [[Heading]]Lore[[/Heading]]
 [[Lore]]Cyclists Records|UC/X0-1V1[[/Lore]]
 [[Comment]]TODO: Add the Clippyterm hint once it's been added to the wiki lore.[[/Comment]]
-[[Comment]]They're probably using Latent Energy technology, if i had to guess.[[/Comment]]
+[[Comment]]X0-1V1 is probably using Latent Energy technology, if i had to guess.[[/Comment]]
 
 [[Heading]]"Aligning" with Xom[[/Heading]]
 
@@ -8041,7 +8041,7 @@ Typical entertainment decreases are due to time or exploration. Roughly every 40
 [[Comment]]Reply: Well, it seems to drop by an average of 50%, but i would guess it's also somewhat dependent on mood? Maybe it's also dependent on whether the exit used was revealed by X0-1V1?[[/Comment]]
 
 [[Heading:2]]Entertainment Increases[[/Heading]]
-X0-1V1's amusement may increase for a great variety of reasons, which can be mostly categorized as either "Cogmind is unlucky" or "chaos breaks out", and are often outside the player's control. Some sources of entertainment have a cooldown before they be "amusing" again. Some of the ways to amuse X0-1V1 include: (Note: this table is very much a work-in-progress and is missing most values)[[Comment]]Would like to add values to this at some point[[/Comment]]
+X0-1V1's amusement may increase for a great variety of reasons, which can be mostly categorized as either "Cogmind is unlucky" or "chaos breaks out", and are often outside the player's control. Some sources of entertainment have a cooldown before they can be "amusing" again. Some of the ways to amuse X0-1V1 include: (Note: this table is very much a work-in-progress and is missing most values)[[Comment]]Would like to add values to this at some point[[/Comment]]
 [[Table]]
 Source of entertainment|Amusement gain[[Comment]]|Cooldown (if any)[[/Comment]]||
 X0-1V1's Piety Tracker gets destroyed while attached.|+10||
@@ -8049,19 +8049,23 @@ Triggering an unknown [[Traps|Trap]].|+10||
 Triggering an unknown [[Chute Trap]].|+20||
 Attacking a hostile with [[Electromagnetic Weapons|EM weaponry]] that then cause a [[Spectrum|chain reaction]] in the target's [[Power|power source]] which then hits Cogmind back.||
 Breaking a part by trying to repair it at a Repair Station.||
-Repeatedly failing a success-likely hack.|10||
+Repeatedly failing a success-likely hack.|+10||
 
 A chaotic-type event begins ([[Assembled]] infestation, [[Scraptown#civil_war|Scraptown civil war]], ect)||
 Successfully [[Terminal#Force(Sabotage)|sabotaging]] at a terminal.||
-Having a corruption-induced IFF burst alert nearby hostiles|Dependent on number of hostiles alerted?||
+Having a [[Corruption]]-induced IFF burst alert nearby hostiles|Dependent on number of hostiles alerted?||
+A part recently attached gets fused by Corruption.|+10||
 Destroying a [[Phase Generator]] in a [[Garrison]].|+30||
 Destroying a [[Network Hub|Network Hub in Hub_04(d)]].|+30 for first, +5 for second, +? for others||
+Triggering High Security|+40||
 Being on a floor when [[Sterilization]] is announced.||
 [[Comment]]Interrupting a [[Cargo Convoy]]?. This and sterilization either set amusement to maximum or just add a whole lot, also i don't know how xom feels about dsf steri.[[/Comment]]
 Getting a multi-squad Assault dispatch due to Alert|30?||
-Firing the [[L-Cannon]]|5||
-Firing the [[Drained L-Cannon]]|Max||
+A part is trandformed by an [[Sfc. Transmogrifier]].|+~1, without any "X0-1V1 is amused"-type log message||
+Firing the [[L-Cannon]]|+5||
+Firing the [[Drained L-Cannon]]|+Max||
 [[/Table]]
+Note that, while X0-1V1 is capable of directly causing some of these events, doing so will not entertain them. These events must occur "naturally" or at least slightly indirectly.
 
 [[Heading]]"Good" acts[[/Heading]]
 These effects will be written in green text in the log, and counted under "good acts" in scoresheets, although for some, whether they can be considered "good" may depend heavily on context.
@@ -8116,7 +8120,7 @@ Log message|Temporary effect|Restrictions (if any)||
 [[GameText]]X0-1V1 decides a favorite toy is worth saving for now.[[/GameText]]|When Cogmind would be destroyed, between 42?% and 44?% of core integrity is restored, and Cogmind is teleported to safety(?).|Occurs a maximum of once per run. Dependent on other factors(?).||
 
 
-[[GameText]]Your [parts] briefly glow, restoring integrity.[[/GameText]]|The mentioned parts (3 max) are restored to full integrity. Can affect normally non-repairable parts.|Must have damaged parts.||
+[[GameText]]Your [parts] briefly glow, restoring integrity.[[/GameText]]|The mentioned parts (3 max) are restored to full/near full integrity. Can affect normally non-repairable parts.|Must have damaged parts.||
 [[GameText]]"A floating RIF installer appears for a brief moment."[[/GameText]]|Gives an additional [[RIF]] ability. Can give an ability that would normally only be available after having used many more RIF installers, such as Crosswire.|Only possible if RIF is already installed. Only occurs once per run.||
 [[GameText]]"X0-1V1 Flashes the [Relay Coupler] buffer."[[/GameText]]|The mentioned Relay Coupler is set to 99 charges and may get tagged.|RIF is not required. Cannot affect [NC]/[C]/[Proto] Couplers.||
 [[GameText]]"Have you ever seen what subatomizers do to 0b10?"[[/GameText]]|X0-1V1 opens a [[SUBCON Basin]] at [[Cogmind]]'s location.||
@@ -8134,7 +8138,7 @@ Log message|Temporary effect|Restrictions (if any)||
 [[GameText]]"Let's see how everyone fares in the upcoming heat wave."[[/GameText]]|Sterilization system partially engages, bringing heat up to +20 over the next several hundred turns, then falls back down over another several hundred turns.||
 [[GameText]]"I told that [Heavy] to go sit in the corner."[[/GameText]]|The closest [[Heavy]] moves to the nearest corner of the map and stays there until the next [[Security Rotation]].||
 [[GameText]]"'Every door you open is another chance for more unexpected chaos.' --some infamous god."[[/GameText]]|Opens a Sealed Barrier-type machine.|Must be nearby Sealed Barrier.||
-[[GameText]]"Let's take things to the next level."[[/GameText]]|Attaches a [[Sfc. Transmogrifier]].||
+[[GameText]]"Let's take things to the next level."[[/GameText]]|Attaches a Sfc. Transmogrifier.||
 
 [[GameText]]"I've sent the detectives back to the station. For now."[[/GameText]]|X0-1V1 recalls an [[Reinforcement Squad]].||
 [[GameText]]X0-1V1 sends the all clear message.[[/GameText]]|X0-1V1 recalls a [[Reinforcement Squad]].||
@@ -8187,6 +8191,7 @@ Log message|Temporary effect|Restrictions (if any)||
 [[GameText]]X0-1V1 projects screaming human faces on all surfaces in the area.[[/GameText]]|Temporary lowered melee accuracy, between -?% and -?%.|During combat only||
 [[GameText]]"Your inner air conditioner seems to have fall into disrepair"[[/GameText]]|Lowered heat dissipation between -21? and -29?.||
 [[/Table]]
+Note: During the drunk sailor effect, moving in the opposite direction of where you want to go makes you more likely to actually go in the general direction of your goal. 
 
 
 [[Heading:2]]Other "bad" acts[[/Heading]]
@@ -8209,7 +8214,7 @@ This effect may also happen without the above message.|A temporary IFF filter ov
 [[GameText]]"X0-1V1 taps a no entrance sign"[[/GameText]]|Removes an exit from the map|Another exit leading to the same map must exist.||
 [[GameText]]X0-1V1 uses Touch of Redecoration![[/GameText]]|X0-1V1 destroys a machine, detonates a trap, or triggers [[GameText]]Force(Overload)[[/GameText]] on a [[Fabricator]].||
 [[GameText]]"That meddlesome character is spoiling all the fun. Not anymore!"[[/GameText]]|[Data Miner] will no longer redirect Reinforcement Squads or Assault Squads. The current squad is still redirected.|Only happens after Data Miner successfully redirects a squad.||
-There is no log message for this effect.|A fake part appears nearby (on an unexplored tile?), and, if attached, is reconfigured into an Item Mimic. Fake parts are higher rating than regular floor parts, and may appear in locations where regular floor parts cannot.||
+There is no log message for this effect.|A fake part appears nearby, and, if attached, is reconfigured into an [[Item Mimic]]. Fake parts can be higher rating than regular floor parts, and can appear in locations where regular floor parts cannot. The fake part can appear unidentified. Destroying one via explosives does not reconfigure it.||
 
 
 [[GameText]]"I may have passed a hint to a nearby [Heavy]."[[/GameText]]|The closest Heavy moves to Cogmind's current location and stays there until the next Security Rotation.|0b10 only.||
@@ -8238,7 +8243,7 @@ There is no log message for this effect.|A fake part appears nearby (on an unexp
 [[/Table]]
 
 [[Heading]]Area-specific effects[[/Heading]]
-These effects are specific-specific, are not considered "bad acts" or "good acts" in scoresheets, and are guaranteed to happen if their trigger is met, rather than happening at random.
+These effects are specific-specific, are not considered "bad acts" or "good acts" in scoresheets, and may only happen if and when their trigger is met, rather than happening like other random effects. These special effects can range from disruptive to run-ending.
 [[Table]]
 Log message|Area|Effect|Trigger||
 [[GameText]]X0-1V1 animates Wyrm Statue.[[/GameText]]|[[Scraptown]]|The inactive [[Wyrm Statue]] is turned into an active friendly [[Chaos Wyrm]]. Also immediately turns Scraptown hostile.|Getting close enough to the Wyrm Statue.||
@@ -8251,6 +8256,14 @@ Log message|Area|Effect|Trigger||
 
 [[Heading]]Other interactions[[/Heading]]
 The [[Quantum Companion]]/[[Superquantum Companion]] has additional side effects when Cogmind has aligned with X0-1V1.
+
+[[Heading]]Strategy[[/Heading]]
+Strategizing with X0-1V1 is difficult, as their chaotic effects can cause any plan can go sideways really quickly. However, the core restoration and Corruption-reducing effects, among others, lower the long-term downside of taking risks or attaching [[Corrupted Parts]], and getting unlucky is also slightly offset by the amusement it provides X0-1V1, all of which makes Cogmind more resilient than usual. Being capable of adapting to the chaos is the primary tool to survive praying to X0-1V1.
+
+The permanent buffs are the most important thing to adapt to (when they're useful enough), as making good use of them can drastically benefit your odds of survival. For example, additional ranged accuracy makes long-range combat more favorable, additional mass support would suggest [[Flight]] or [[Hover]]-based propulsion, while additional energy capacity would benefit both [[Shield Generators]]/[[Force Fields]] and EM weapons.
+
+As X0-1V1's entertainment remains the same when entering Garrisons and [[DSF|DSFs]] (as opposed to Branches), visiting those can be more useful than usual. RIF is especially powerful with X0-1V1's ability to add charges to Relay Couplers and the potential free random RIF ability.
+
 
 
 [[Heading]]Trivia[[/Heading]]
