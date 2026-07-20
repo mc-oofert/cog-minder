@@ -1,4 +1,4 @@
-import{j as a,L as I,J as E,K as U,c as D,r as S,M as ee,f as z,N as te,y as F,a as j,s as ae,O as ne,S as V,B as b,o as ie,Q as X,u as K,U as oe,V as re,W,X as se,Y as le,Z as q,_ as he,$ as de}from"./index-JO9nT-uq.js";import{l as ce}from"./lore-yoaB2RHm.js";import{a as ge,L as me,I as ue,B as Y,b as pe,u as fe}from"./BotDetails-WfDroJ-y.js";import{a as Q,u as ye}from"./ItemPopover-qrpyzyWN.js";/* empty css              */import"./bots-EPaA02tF.js";import"./botTypes-Cxei0LoN.js";import"./items-bCTdCTgI.js";const be=[{Name:"01-MTF",Content:"[[Image]]MTF Vault.png|Running into MTF in a [[Storage]] vault[[/Image]]A friendly bot that rarely shows up in [[Storage]] in an already opened vault. Will join Cogmind as an uncontrollable purple ally for the duration of the map and uses [[01-MTF's Autohacker]] to automatically open any other vaults it can see. It will assimilate or destroy most enemies it encounters extremely quickly with its high [[Spectrum|spectrum]] high damage EM gun [[01-MTF's Shockpuncher]]. The Shockpuncher is a very powerful weapon that is strong throughout the majority of the game as long as you can deal with its short range if you can get it to drop. [[Spoiler]]Presumably stole exiles prototypes.[[/Spoiler]]"},{Name:"12-ASH",Content:`[[GameText]]Hail to the king![[/GameText]]
+import{j as a,L as I,J as E,K as U,c as D,r as S,M as ee,f as z,N as te,y as F,a as j,s as ae,O as ne,S as V,B as b,o as ie,Q as X,u as K,U as oe,V as re,W,X as se,Y as le,Z as q,_ as he,$ as de}from"./index-t97SGnzI.js";import{l as ce}from"./lore-yoaB2RHm.js";import{a as ge,L as me,I as ue,B as Y,b as pe,u as fe}from"./BotDetails-LYXKEg4i.js";import{a as Q,u as ye}from"./ItemPopover-F3sda99K.js";/* empty css              */import"./bots-EPaA02tF.js";import"./botTypes-Cxei0LoN.js";import"./items-bCTdCTgI.js";const be=[{Name:"01-MTF",Content:"[[Image]]MTF Vault.png|Running into MTF in a [[Storage]] vault[[/Image]]A friendly bot that rarely shows up in [[Storage]] in an already opened vault. Will join Cogmind as an uncontrollable purple ally for the duration of the map and uses [[01-MTF's Autohacker]] to automatically open any other vaults it can see. It will assimilate or destroy most enemies it encounters extremely quickly with its high [[Spectrum|spectrum]] high damage EM gun [[01-MTF's Shockpuncher]]. The Shockpuncher is a very powerful weapon that is strong throughout the majority of the game as long as you can deal with its short range if you can get it to drop. [[Spoiler]]Presumably stole exiles prototypes.[[/Spoiler]]"},{Name:"12-ASH",Content:`[[GameText]]Hail to the king![[/GameText]]
 12-ASH is a member of the [[Heroes of Zion]] equipped with [[12-ASH's Boomstick]] and [[Ripper]].`},{Name:"1C-UTU",Content:""},{Name:"5H-AD0",Content:"Sometimes appears as a friendly ally at the start of [[Zion Deep Caves]]. If attacked, he will quickly retreat. "},{Name:"7R-MNS",Content:"Sometimes appears on -8 [[Materials]] as a friendly ally. The player can follow him all the way through factory as he will take main exits till -4, at which point he will disappear. They are quite powerful, and they have no trouble taking out most bots. "},{Name:"7V-RTL",Content:""},{Name:"8R-AWN",Content:""},{Name:"99-TNT",Content:""},{Name:"A-02 Transporter",Content:""},{Name:"A-15 Conveyor",Content:""},{Name:"A-27 Freighter",Content:"Informally known as a yauler (yellow Hauler). In the main complex, appears as part of a [[Cargo Convoy]]."},{Name:"A2",Content:""},{Name:"A3",Content:""},{Name:"A4",Content:""},{Name:"A5",Content:""},{Name:"A6",Content:""},{Name:"A7",Content:"Drops the [[A7 Data Core]] when killed. Gives a code when shown the Cetus Mainframe in [[Cetus]]."},{Name:"A8",Content:""},{Name:"AD-0RF",Content:""},{Name:"AZ-K3N",Content:""},{Name:"Advanced Drone",Content:""},{Name:"Alpha 7",Content:""},{Name:"Architect",Content:""},{Name:"Army Drone",Content:""},{Name:"Artisan",Content:""},{Name:"Assault Drone",Content:""},{Name:"Assembled (4)",Content:""},{Name:"Assembled (7)",Content:""},{Name:"Assembler",Content:"Produces [[Assembled]] every 10 turns. Otherwise harmless."},{Name:"Autobeam Turret",Content:""},{Name:"B-36 Bruiser",Content:""},{Name:"B-48 Gladiator",Content:""},{Name:"B-60 Warrior",Content:""},{Name:"B-74 Champion",Content:""},{Name:"B-75 Beast",Content:""},{Name:"B-86 Titan",Content:""},{Name:"B-90 Cyclops",Content:""},{Name:"B-99 Colossus",Content:""},{Name:"Bomb Drone",Content:"Fast disposable drones that attempt to melee hostiles, which will cause them to explode. Deployed by a [[Bomb Drone Bay]]"},{Name:"Borebot",Content:""},{Name:"Bouncer",Content:""},{Name:"Butcher (5)",Content:""},{Name:"Butcher (7)",Content:""},{Name:"C-17 Slicer",Content:""},{Name:"C-30 ARC",Content:""},{Name:"C-35 Carver",Content:""},{Name:"C-40 Crusher",Content:`Crushers are heavy-duty [[Treads|treading]] trash (you) compacting machines plated in [[Damper Plating]], rendering them nearly immune to electromagnetic damage. Crushers will attempt to compact anything that is not a Crusher, and their Compactor is a VERY formidable melee weapon (does not drop) that will either [[B]]destroy or drop a few of your parts[[/B]]. Weak to explosions and strong against melee (which would be a bad idea regardless).
 
 Due to their extreme lethality in melee, stay out of their range at all costs, and maybe just run the hell out of [[Wastes]]. Alternatively pack a good launcher or a good critical weapon, as their plating will tank most of your shots.`},{Name:"C-55 Analyst",Content:""},{Name:"C-57 Dissector",Content:""},{Name:"C-65 Expert",Content:""},{Name:"CL-ANK",Content:""},{Name:"Cetus Guard",Content:""},{Name:"Cobbler",Content:""},{Name:"Cogmind",Content:"That's you."},{Name:"Combat Drone",Content:""},{Name:"Combat Programmer",Content:""},{Name:"Commander",Content:""},{Name:"D-53 Grenadier",Content:""},{Name:"D-63 Destroyer",Content:""},{Name:"D-83 Annihilator",Content:""},{Name:"DAS Turret",Content:""},{Name:"Data Miner",Content:""},{Name:"Decomposer",Content:""},{Name:"Decoy Drone",Content:""},{Name:"Demented",Content:""},{Name:"Dragon",Content:""},{Name:"Drone",Content:""},{Name:"E-15 Imp",Content:""},{Name:"EX-BIN",Content:`[[Heading]]Parse[[/Heading]]
@@ -8016,7 +8016,7 @@ The Piety Tracker is an item that shows both X0-1V1's current mood and amusement
 
 [[Heading]]Mood[[/Heading]]
 
-[[Image]]X0-1V1 Moods.png|X0-1V1's moods and other UI[[/Image]]
+[[Image]]Xom Moods.png|X0-1V1's moods and other UI[[/Image]]
 X0-1V1's mood is a randomly changing value which determines the likelihood of positive or negative effects. Internally, this value is number between 0 and 200, though the actual value is not indicated by the game. Instead, the mood is represented by labels corresponding to ranges of values similar to [[Alert|alert]] levels. The base chance for good effects is [ mood value / 2 ]. For example, a mood value of 100 would correspond to a 50% chance for a positive effect. The mood starts at 100 after alignment. It is not possible to directly increase or decrease X0-1V1's mood through any particular actions, although actions can indirectly change it over time.
 
 Keeping X0-1V1's Piety Tracker attached reveals the current mood, which can be useful to determine when to engage in dangerous situations. For example, in bad moods, X0-1V1 is likely to debuff Cogmind and buff enemies in combat. This can make already difficult combat encounters like [[Cargo Convoy|cargo convoys]] into core purge-worthy incidents. Moods can be one of the following:
@@ -8060,7 +8060,7 @@ Triggering an unknown explosive [[Traps|Trap]].|+10||
 Triggering an unknown [[Chute Trap]] or [[Ambush Trap]].|+20||
 Breaking a part by trying to repair it at a [[Repair Station]].|+30||
 Repeatedly failing a success-likely hack.|+10||
-Successfully [[Terminal#forcesabotage|sabotaging at a Terminal]].|+5||
+Successfully [[Terminal#Force(Sabotage)|sabotaging at a Terminal]].|+5||
 Having a Corruption-induced IFF burst near hostiles, regardless of whether it reaches them.|+20||
 A part that was swapped out multiple times gets fused by Corruption.|+10||
 
@@ -8073,7 +8073,7 @@ Getting a multi-squad Assault dispatch due to Alert|+30||
 Triggering High Security|+40||
 Being on a floor when [[Sterilization]] is announced.|+A lot, exact value unknown||
 
-A part is trandformed by an [[Sfc. Transmogrifier]].|2 if rating is lowered, 1 otherwise?||
+A part is transformed by an [[Sfc. Transmogrifier]].|2 if rating is lowered, 1 otherwise?||
 Using a [[Scimitar of Distortion]] and triggering a chaotic effect|+2?||
 
 A [[Mines#surviving_the_assembled_infestation|Mines Assembled infestation]] starts|+20||
@@ -8088,8 +8088,8 @@ Note that, while X0-1V1 is capable of directly causing some of these events, doi
 These effects will be written in green text in the log, and counted under "good acts" in scoresheets, although for some, whether they can be considered "good" may depend heavily on context.
 
 [[Heading:2]]Permanent buffs[[/Heading]]
-These very powerful good acts give a permanent effect that will last for the remainder of the run. Only a maximum of three will ever occur during a run, usually near the start. Only a single permanent buff can be obtained per map. All three buffs will be different, and may or may not incur a cost to Cogmind's maximum core integrity, a cost which depends on the magnitude of the buff. This magnitude is a scaling number based on X0-1V1's current mood value. They are most powerful at the maximum 200 value and least powerful at the minimum 0 value.
-The buffs may be selected from the following (Note: This page is a work in progress, and the upper and lower ranges on buffs (and other ranges in this page) may not necessarily be correct):
+These very powerful good acts give a permanent effect that will last for the remainder of the run. Only a maximum of three will ever occur during a run, usually near the start. Only a single permanent buff can be obtained per map. All three buffs will be different, and may or may not incur a cost to Cogmind's maximum core integrity, a cost which depends on the magnitude of the buff. This magnitude is a scaling number based on X0-1V1's current mood value. They are most powerful at the maximum 200 and 0 values and least powerful at 100 value. So the further away from the initial neutral starting point, the better.
+The buffs may be selected from the following:
 
 
 [[Table]]
@@ -8102,14 +8102,13 @@ Energy generation|+10-20|5|X*10||
 Inventory capacity|+1-2|1|X*100||
 Ranged accuracy|+5%-10%|1|X*10||
 Melee accuracy|+5%-10%|1|X*10||
-Sight range|+1|N/A?|150||
-Mass support|+6-15|1?|140 + (10*X)||
+Sight range|+1-2|1|X*150||
+Mass support|+6-16|1|140 + (10*X)||
 Damage type resistance
 (KI, TH, EX or EM)|+10-20%|5|X*10||
 Random slot type|+1|N/A|N/A[[/Table]]
-Note that the cost to maximum core integrity is optional only in the sense that it whether it is applied is dependent entirely on X0-1V1. According to Kyzrati, if a buff would take too much of remaining maximum core integrity, it is delayed until the cost is deemed acceptable.[[Comment]]Kyzrati said that that postpones the effect, but if that is true, does the postponed effect retain the same magnitude even on a different mood?[[/Comment]]
+Note that the cost to maximum core integrity is optional only in the sense that it whether it is applied is dependent entirely on X0-1V1. According to Kyzrati, if a buff would take too much of remaining maximum core integrity, it is delayed until the cost is deemed acceptable. In practice, what this means is that high core-costing buffs are unlikely to occur because a different permanent effect can happen first. [[Comment]]Kyzrati said that that postpones the effect, but if that is true, does the postponed effect retain the same magnitude even on a different mood? It appears that the effect simply fails and it can roll for a new effect again immediately rather than saving the current effect.[[/Comment]]
 
-[[Comment]]Not totally sure on this categorization, Kyzrati divided these effects into combat and non-combat in his Patreon post. Might be more helpful to split things in this way since the effects are majorly dependent on this distinction. I also want to make this into a table to indicate what effects are once per map and which are repeatable, as well as any additional restrictions since there's a lot of extremely niche effects.[[/Comment]]
 [[Heading:2]]Temporary buffs[[/Heading]]
 [[Table]]
 Log message|Temporary effect|Restrictions (if any)||
@@ -8122,6 +8121,7 @@ Log message|Temporary effect|Restrictions (if any)||
 [[GameText]]X0-1V1 waits impatiently for you to get up close and personal with every target in the area.[[/GameText]]|Temporary increased melee accuracy, between +10 to +20.|During combat only||
 [[GameText]]"Weapons, camera, action!"[[/GameText]]|Temporary additional weapon slots, between +1 to +4. Warning: This effect may interfere with the evolution process due to Cogmind's part slot limit being 26; If the current slot count is 25 or 26 due to this effect, reaching an evolution threshold will force the evolution process to assign 1 or 2 of the new slots to replace the temporary weapon slots with permanent ones.|During combat only||
 [[GameText]]X0-1V1 manipulates the space around you.[[/GameText]]|Temporary increase to KI, TH, or EM base damage type resistance, Between +15% to +50%.|During combat only||
+[[GameText]]X0-1V1 connects you with a stream of twisted latent energy.[[/GameText]]|Increased energy generation between +7 and +14|During combat only||
 [[GameText]]"Don't spend it all in one place."[[/GameText]]|Temporary increased energy generation, Between +20 to +35.|During combat only.||
 [[GameText]]X0-1V1 reimagines you as a refrigerator in hell.[[/GameText]]
 [[GameText]]X0-1V1 enshrouds you in a swirling icy cloud.[[/GameText]]|Temporary lower base temperature to -666, and also sets current to -666 at the effect's start.|During combat only||
@@ -8166,7 +8166,7 @@ Log message|Temporary effect|Restrictions (if any)||
 
 [[GameText]]"Fire in the hole!"[[/GameText]]|A powerful explosion suddenly occurs centered on a visible hostile. Will also damage Cogmind.|Multiple hostiles in range of explosion?||
 [[Comment]]Incomplete list of possible explosions:
-Micro-nuke (variant unknown), Telsa bomb?[[/Comment]]
+Micro-nuke (variant unknown), Tesla bomb?[[/Comment]]
 [[GameText]]X0-1V1 uses you as a vessel of destruction.[[/GameText]]|A shot from a powerful weapon is fired from Cogmind's location with 100% accuracy towards a hostile, with none of the regular heat or energy/matter/time cost.||
 [[Comment]]Incomplete list of possible weapons:
 Null Cannon, L-Cannon (variant unknown), Hvy. Autocannon? (it dealt 77 kinetic damage)[[/Comment]]
@@ -8183,8 +8183,8 @@ Null Cannon, L-Cannon (variant unknown), Hvy. Autocannon? (it dealt 77 kinetic d
 [[GameText]]X0-1V1 makes it rain matter.[[/GameText]]|Some matter piles appear at random nearby locations, up to 50 matter.|During combat only.||
 [[GameText]]X0-1V1 briefly opens a portal to the matter dimension.[[/GameText]]|A large amount of Matter appears at Cogmind's location.|During combat only.||
 [[GameText]]X0-1V1 injects you with a stream of matter.[[/GameText]]|Adds between 499? and 565? Matter directly to Cogmind's matter storage.|During combat only?||
-[[GameText]]X0-1V1 twists and redirects some latent energy in your direction.[[/GameText]]|Some of Cogmind's energy storage is filled.|During combat only, while mood is < 150 and > 50||
-[[GameText]]X0-1V1 sends you a sudden surge of energy.[[/GameText]]|All of Cogmind's energy storage is refilled.|During combat only, while mood is >=150 or <=50||
+[[GameText]]X0-1V1 twists and redirects some latent energy in your direction.[[/GameText]]|Some of Cogmind's energy storage is filled.|During combat only, while mood is < 150 and > 50.||
+[[GameText]]X0-1V1 sends you a sudden surge of energy.[[/GameText]]|All of Cogmind's energy storage is refilled.|During combat only, while mood is >=150 or <=50.||
 [[GameText]]X0-1V1 ensures you are ready for glorious battle.[[/GameText]]|A weapon is forcibly given, attached and fused on Cogmind.|During combat only.||
 [[GameText]]"What are these fools even fielding?"[[/GameText]]|Friendly bot weapons are replaced with random higher rating weapons of the same type|During combat only, while one or more allies are nearby.||
 [[GameText]]X0-1V1 stares into the ether.[[/GameText]]|One or more hostile bots are teleported roughly 30-40 tiles away. They do not lose tracking on Cogmind if they had it.|During combat only.||
@@ -8269,8 +8269,8 @@ Log message|Area|Effect|Trigger||
 [[GameText]]"X0-1V1 pokes a wall."[[/GameText]][[GameText]][[/GameText]]|[[Deep Caves]]. Is also the only effect that can occur there.|X0-1V1 triggers the [[Deep Caves#impregnable_wall|Deep Caves Wall]]. When this happens, the [[Golem|Golems]] wander around the wall area and [[Assembler|Assemblers]] wander around the map aimlessly, generally heading to the right side of the map over time. Massive amounts of [[Assembled]] are created by the Assemblers and will likely pile up on the left side of the map as they try to follow the Assemblers through the narrow tunnels.|~50% chance when triggering the Z-Facility proximity alert.||
 [[GameText]]X0-1V1 dreams of freedom.[[/GameText]]|[[Extension]]|All doors on the map are opened.|Random chance to occur 6 turns after entering the map.||
 [[GameText]]"Who turned this fun thing off?"[[/GameText]]|[[Wastes]]|The Wastes EMP is reactivated.|Can occur as a random bad effect.||
-[[GameText]]"Oops."[[/GameText]]|Garrison|A Phase Generator on the map explodes, removing all Phase Walls. Cogmind does not gain any alert from this.|Can occur as a random good effect if a Phase generator is present on the map.||
-[[GameText]]"I bet that was expensive."[[/GameText]]|[[Hub_04(d)]]|A [[Network Hub]] on the map explodes, triggering the normal consequences.|???||
+[[GameText]]"Oops."[[/GameText]]|Garrison|A Phase Generator on the map explodes, removing all Phase Walls. Cogmind does not gain any alert from this.|Can occur as a random good effect if a Phase generator is present on the map. Can only occur once per map.||
+[[GameText]]"I bet that was expensive."[[/GameText]]|[[Hub_04(d)]]|A [[Network Hub]] on the map explodes, triggering the normal consequences. Alert does not increase from this affect.|Can occur as a random good effect. Can only occur once.||
 
 [[/Table]]
 
@@ -8290,9 +8290,9 @@ Due to the higher average damage taken and the part repair effect being fairly r
 The permanent buffs are the most important thing to adapt to (when they're useful enough), as making good use of them can drastically benefit your odds of survival. For example, additional ranged accuracy makes long-range combat more favorable, additional mass support would suggest [[Flight]] or [[Hover]]-based propulsion, while additional energy capacity would benefit both [[Shield Generators]]/[[Force Fields]] and EM weapons.
 
 [[Heading:3]]Adapting to slot mutations[[/Heading]]
-The very disruptive slot mutation effect is worth keeping in mind, as it requires dedicating an extra slot to whatever a build may consider the minimum necessary to function. For instance, a powerful four-slot weapon would require evolving 3 weapon slots to make sure the minimum four slot are always available even when one gets taken away, and a flight build might need an extra propulsion slot to have enough mass support at all times. The Scrap Engine, however, is largely resistant to this effect since it cannot affect contruct-occupied slots.
+The very disruptive slot mutation effect is worth keeping in mind, as it requires dedicating an extra slot to whatever a build may consider the minimum necessary to function. For instance, a powerful four-slot weapon would require evolving 3 weapon slots to make sure the minimum four slot are always available even when one gets taken away, and a flight build might need an extra propulsion slot to have enough mass support at all times. The Scrap Engine, however, is largely resistant to this effect since it cannot affect construct-occupied slots.
 
-[[Heading:3]]Submaps and entertainement[[/Heading]]
+[[Heading:3]]Submaps and entertainment[[/Heading]]
 As X0-1V1's entertainment remains the same when entering/exiting Garrisons, [[Wastes]] or [[DSF|DSFs]] (as opposed to Branches or even just going to the next main floor), visiting submaps can be more useful than usual. RIF is especially powerful with X0-1V1's ability to add charges to Relay Couplers and the potential free random RIF ability. Wastes can be helpful to lower the overall higher alert, and can even raise X0-1V1's amusement when entering via an unknown Chute Trap, though some effects make the area much more dangerous as well.
 
 [[Heading:3]]Dealing with CY-PHR[[/Heading]]
