@@ -1,4 +1,4 @@
-import{j as a,L as I,J as E,K as U,c as D,r as S,M as ee,f as z,N as te,y as F,a as j,s as ae,O as ne,S as V,B as b,o as ie,Q as X,u as K,U as oe,V as re,W,X as se,Y as le,Z as q,_ as he,$ as de}from"./index-eZFU_CM2.js";import{l as ce}from"./lore-yoaB2RHm.js";import{a as ge,L as me,I as ue,B as Y,b as pe,u as fe}from"./BotDetails-hQ6Wk_TN.js";import{a as Q,u as ye}from"./ItemPopover-WJWuqZQP.js";/* empty css              */import"./bots-EPaA02tF.js";import"./botTypes-Cxei0LoN.js";import"./items-bCTdCTgI.js";const be=[{Name:"01-MTF",Content:"[[Image]]MTF Vault.png|Running into MTF in a [[Storage]] vault[[/Image]]A friendly bot that rarely shows up in [[Storage]] in an already opened vault. Will join Cogmind as an uncontrollable purple ally for the duration of the map and uses [[01-MTF's Autohacker]] to automatically open any other vaults it can see. It will assimilate or destroy most enemies it encounters extremely quickly with its high [[Spectrum|spectrum]] high damage EM gun [[01-MTF's Shockpuncher]]. The Shockpuncher is a very powerful weapon that is strong throughout the majority of the game as long as you can deal with its short range if you can get it to drop. [[Spoiler]]Presumably stole exiles prototypes.[[/Spoiler]]"},{Name:"12-ASH",Content:`[[GameText]]Hail to the king![[/GameText]]
+import{j as a,L as I,J as E,K as U,c as D,r as S,M as ee,f as z,N as te,y as F,a as j,s as ae,O as ne,S as V,B as b,o as ie,Q as X,u as K,U as oe,V as re,W,X as se,Y as le,Z as q,_ as he,$ as de}from"./index-bqOL4YKd.js";import{l as ce}from"./lore-yoaB2RHm.js";import{a as ge,L as me,I as ue,B as Y,b as pe,u as fe}from"./BotDetails-ZyeV31dc.js";import{a as Q,u as ye}from"./ItemPopover-4xdZ_uoR.js";/* empty css              */import"./bots-EPaA02tF.js";import"./botTypes-Cxei0LoN.js";import"./items-bCTdCTgI.js";const be=[{Name:"01-MTF",Content:"[[Image]]MTF Vault.png|Running into MTF in a [[Storage]] vault[[/Image]]A friendly bot that rarely shows up in [[Storage]] in an already opened vault. Will join Cogmind as an uncontrollable purple ally for the duration of the map and uses [[01-MTF's Autohacker]] to automatically open any other vaults it can see. It will assimilate or destroy most enemies it encounters extremely quickly with its high [[Spectrum|spectrum]] high damage EM gun [[01-MTF's Shockpuncher]]. The Shockpuncher is a very powerful weapon that is strong throughout the majority of the game as long as you can deal with its short range if you can get it to drop. [[Spoiler]]Presumably stole exiles prototypes.[[/Spoiler]]"},{Name:"12-ASH",Content:`[[GameText]]Hail to the king![[/GameText]]
 12-ASH is a member of the [[Heroes of Zion]] equipped with [[12-ASH's Boomstick]] and [[Ripper]].`},{Name:"1C-UTU",Content:""},{Name:"5H-AD0",Content:"Sometimes appears as a friendly ally at the start of [[Zion Deep Caves]]. If attacked, he will quickly retreat. "},{Name:"7R-MNS",Content:"Sometimes appears on -8 [[Materials]] as a friendly ally. The player can follow him all the way through factory as he will take main exits till -4, at which point he will disappear. They are quite powerful, and they have no trouble taking out most bots. "},{Name:"7V-RTL",Content:""},{Name:"8R-AWN",Content:""},{Name:"99-TNT",Content:""},{Name:"A-02 Transporter",Content:""},{Name:"A-15 Conveyor",Content:""},{Name:"A-27 Freighter",Content:"Informally known as a yauler (yellow Hauler). In the main complex, appears as part of a [[Cargo Convoy]]."},{Name:"A2",Content:""},{Name:"A3",Content:""},{Name:"A4",Content:""},{Name:"A5",Content:""},{Name:"A6",Content:""},{Name:"A7",Content:"Drops the [[A7 Data Core]] when killed. Gives a code when shown the Cetus Mainframe in [[Cetus]]."},{Name:"A8",Content:""},{Name:"AD-0RF",Content:""},{Name:"AZ-K3N",Content:""},{Name:"Advanced Drone",Content:""},{Name:"Alpha 7",Content:""},{Name:"Architect",Content:""},{Name:"Army Drone",Content:""},{Name:"Artisan",Content:""},{Name:"Assault Drone",Content:""},{Name:"Assembled (4)",Content:""},{Name:"Assembled (7)",Content:""},{Name:"Assembler",Content:"Produces [[Assembled]] every 10 turns. Otherwise harmless."},{Name:"Autobeam Turret",Content:""},{Name:"B-36 Bruiser",Content:""},{Name:"B-48 Gladiator",Content:""},{Name:"B-60 Warrior",Content:""},{Name:"B-74 Champion",Content:""},{Name:"B-75 Beast",Content:""},{Name:"B-86 Titan",Content:""},{Name:"B-90 Cyclops",Content:""},{Name:"B-99 Colossus",Content:""},{Name:"Bomb Drone",Content:"Fast disposable drones that attempt to melee hostiles, which will cause them to explode. Deployed by a [[Bomb Drone Bay]]"},{Name:"Borebot",Content:""},{Name:"Bouncer",Content:""},{Name:"Butcher (5)",Content:""},{Name:"Butcher (7)",Content:""},{Name:"C-17 Slicer",Content:""},{Name:"C-30 ARC",Content:""},{Name:"C-35 Carver",Content:""},{Name:"C-40 Crusher",Content:`Crushers are heavy-duty [[Treads|treading]] trash (you) compacting machines plated in [[Damper Plating]], rendering them nearly immune to electromagnetic damage. Crushers will attempt to compact anything that is not a Crusher, and their Compactor is a VERY formidable melee weapon (does not drop) that will either [[B]]destroy or drop a few of your parts[[/B]]. Weak to explosions and strong against melee (which would be a bad idea regardless).
 
 Due to their extreme lethality in melee, stay out of their range at all costs, and maybe just run the hell out of [[Wastes]]. Alternatively pack a good launcher or a good critical weapon, as their plating will tank most of your shots.`},{Name:"C-55 Analyst",Content:""},{Name:"C-57 Dissector",Content:""},{Name:"C-65 Expert",Content:""},{Name:"CL-ANK",Content:""},{Name:"Cetus Guard",Content:""},{Name:"Cobbler",Content:""},{Name:"Cogmind",Content:"That's you."},{Name:"Combat Drone",Content:""},{Name:"Combat Programmer",Content:""},{Name:"Commander",Content:""},{Name:"D-53 Grenadier",Content:""},{Name:"D-63 Destroyer",Content:""},{Name:"D-83 Annihilator",Content:""},{Name:"DAS Turret",Content:""},{Name:"Data Miner",Content:""},{Name:"Decomposer",Content:""},{Name:"Decoy Drone",Content:""},{Name:"Demented",Content:""},{Name:"Dragon",Content:""},{Name:"Drone",Content:""},{Name:"E-15 Imp",Content:""},{Name:"EX-BIN",Content:`[[Heading]]Parse[[/Heading]]
@@ -8066,30 +8066,46 @@ Typical entertainment decreases are due to time or exploration. Roughly every 40
 X0-1V1's amusement may increase for a great variety of reasons, which can be mostly categorized as either "Cogmind is unlucky" or "chaos breaks out", and are often outside the player's control. Some sources of entertainment have a cooldown before they can be "amusing" again. Some of the ways to amuse X0-1V1 include: (Note: this table is very much a work-in-progress and is missing most values)[[Comment]]Would like to add values to this at some point[[/Comment]]
 [[Table]]
 Source of entertainment|Amusement gain[[Comment]]|Cooldown (if any)[[/Comment]]||
-Using a [[Scimitar of Distortion|regular]] or [[Hvy. Scimitar of Distortion]] and triggering a chaotic effect|+1 if non-combat bot, +2 if combat bot||
 A part is transformed by an [[Sfc. Transmogrifier]]|+1 if new part is equal or higher rating, +2 otherwise||
+Using a [[Scimitar of Distortion|regular]] or [[Hvy. Scimitar of Distortion]] and triggering a chaotic effect|+2||
+Triggering an unknown [[Shock Trap|Shock]] or [[EM Surge Trap]]|+5||
 Successfully [[Terminal#Force(Sabotage)|sabotaging at a Terminal]]|+5||
 Overloading a [[Fabricator]]|+5||
 Firing the [[L-Cannon]]|+5||
-X0-1V1's Piety Tracker gets destroyed while attached.|+10||
-Repeatedly failing a success-likely hack.|+10||
-A part that was swapped out multiple times gets fused by Corruption.|+10||
-Triggering an unknown AOE [[Traps|Trap]]. Both explosive and EM traps count for this effect.|+10||
-Triggering an unknown [[Chute Trap]] or [[Ambush Trap]].|+20||
+X0-1V1's Piety Tracker gets destroyed while attached|+10||
+Repeatedly failing a success-likely hack|+10||
+A part that was swapped out multiple times gets fused by Corruption|+10||
+Triggering an unknown AOE [[Traps|Trap]]. Both explosive and EM traps count for this effect|+10||
+Triggering an unknown [[Ambush Trap]]|+20||
 Destroying a large number of hostiles in a short time, AKA killstreak|+20||
 A [[Mines#surviving_the_assembled_infestation|Mines Assembled infestation]] starts|+20||
-Having a Corruption-induced IFF burst near hostiles, regardless of whether it reaches them.|+20||Breaking a part by trying to repair it at a [[Repair Station]].|+30||
+Having a Corruption-induced IFF burst near hostiles, regardless of whether it reaches them.|+20||Breaking a part by trying to repair it at a [[Repair Station]]|+30||
 Destroying a [[Phase Generator]] in a [[Garrison]]. Note: the one in [[Command]] does not count.|+30||
-Destroying a [[Network Hub|Network Hub in Hub_04(d)]].|+30 for first only||
+Destroying a [[Network Hub|Network Hub in Hub_04(d)]]|+30 for first only||
 Getting a multi-squad Assault dispatch due to Alert|+30||
-Triggering [[High Security]]|+40||
+Triggering [[High Security]]|+40||Triggering an unknown [[Chute Trap]]|+40 while on [[Treads]], [[Legs]], or [[Wheels]], +20 otherwise||
 The [[Scraptown#civil_war|Scraptown civil war]] breaks out|+50||
 Being spotted by a large number of hostiles at once?|?||
-Being on a floor when [[Sterilization]] is announced.|+100||
+Being on a floor when [[Sterilization]] is announced|+100||
 Releasing subatomizers from a [[SUBCON Basin]]|+100||
 Firing the [[Drained L-Cannon]]|+100
 [[/Table]]
 Note that, while X0-1V1 is capable of directly causing some of these events, doing so will (usually) not entertain them. These events must occur "naturally" or at least slightly indirectly. Also, amusement gains lower than 5 will not be reported in the log.
+
+
+[[Heading:3]]Amusement Reactions[[/Heading]]X0-1V1 responds to amusement gains with a log message depending on how much the value increased by:
+
+[[Table]]
+Log message|Amusement Gain||
+None|1-4||
+X0-1V1 is interested.|5-9||
+X0-1V1 is mildly amused.|10-19||
+X0-1V1 is amused|20-29||
+X0-1V1 is highly amused!|30-39||
+X0-1V1 thinks this is hilarious!|40-99||
+X0-1V1 roars with laughter!|100
+[[/Table]]
+
 
 [[Heading]]"Good" acts[[/Heading]]
 These effects will be written in green text in the log, and counted under "good acts" in scoresheets, although for some, whether they can be considered "good" may depend heavily on context.
@@ -10963,7 +10979,7 @@ Overview/Rating|
 Overview/Integrity|
 Overview/Coverage|
 Effect/Effect
-[[/PartGroupTable]]`},{Name:"Authchips",Parts:["Authchip [Armor]","Authchip [Device]","Authchip [Power]","Authchip [Processor]","Authchip [Propulsion]","Authchip [R/NC]","Authchip [R/Combat]","Authchip [Storage]","Authchip [Weapon]"],Content:"Authchips are single-use [[Processors|processors]] that allow printing the relevant type of item at a [[Fabricator]]. They can be acquired in [[DSF|DSFs]], [[Garrison|Garrisons]], corrupted in [[Storage]], carried by [[Hauler|Haulers]], or by using [[Spoiler]][[GameText]]Force(Recompile)[[/GameText]][[/Spoiler]] on a Fabricator."},{Name:"Ballistic Cannons",Parts:["Lgt. Cannon","Battle Cannon","Imp. Light Cannon","Assault Cannon","Hvy. Assault Cannon","Flak Cannon","Adv. Assault Cannon","Gauss Cannon","Slug Cannon","Mni. Assault Cannon","Bore Cannon","Hvy. Flak Cannon","Magnetic Acceleration Cannon","Antimatter Cannon","Enh. Gauss Cannon","Hyp. Gauss Cannon","Mass Driver","Hvy. Mass Driver","Tri-rail Accelerator","Hvy. Gauss Cannon","Hardcell Cannon","Hyp. Mass Driver","Lgt. Antimatter Cannon","Hvy. Autocannon","Linear Accelerator","Hvy. Linear Accelerator","Hvy. Hardcell Cannon","Com. Mass Driver","AWS/Autocannon","Blast Cannon","Graviton Cannon","Com. Linear Accelerator","Hyp. Linear Accelerator","Hcl. Linear Accelerator","P1-3CE's Gatling Flakker","Omega Cannon","Perforator"],Content:`[[Heading]]List of Ballistic Weapons[[/Heading]]
+[[/PartGroupTable]]`},{Name:"Authchips",Parts:["Authchip [Armor]","Authchip [Device]","Authchip [Power]","Authchip [Processor]","Authchip [Propulsion]","Authchip [R/NC]","Authchip [R/Combat]","Authchip [Storage]","Authchip [Weapon]"],Content:"Authchips are single-use [[Processors|processors]] that guarantee successful loading and building of the relevant type of [[Schematic]] at a [[Fabricator]] without any chance of hacking detection or any trace increase. They can be acquired in [[DSF|DSFs]] and [[Armory]], [[Corrupted Parts|corrupted]] in [[Recycling]] and [[Recycling Unit|Recycling Units]], carried by [[Hauler|Haulers]], or by using [[Spoiler]][[GameText]]Force(Recompile)[[/GameText]][[/Spoiler]] on a Fabricator. [[Garrison|Garrisons]] may also contain [[Authchip [R/Combat]|combat bot Authchips]]."},{Name:"Ballistic Cannons",Parts:["Lgt. Cannon","Battle Cannon","Imp. Light Cannon","Assault Cannon","Hvy. Assault Cannon","Flak Cannon","Adv. Assault Cannon","Gauss Cannon","Slug Cannon","Mni. Assault Cannon","Bore Cannon","Hvy. Flak Cannon","Magnetic Acceleration Cannon","Antimatter Cannon","Enh. Gauss Cannon","Hyp. Gauss Cannon","Mass Driver","Hvy. Mass Driver","Tri-rail Accelerator","Hvy. Gauss Cannon","Hardcell Cannon","Hyp. Mass Driver","Lgt. Antimatter Cannon","Hvy. Autocannon","Linear Accelerator","Hvy. Linear Accelerator","Hvy. Hardcell Cannon","Com. Mass Driver","AWS/Autocannon","Blast Cannon","Graviton Cannon","Com. Linear Accelerator","Hyp. Linear Accelerator","Hcl. Linear Accelerator","P1-3CE's Gatling Flakker","Omega Cannon","Perforator"],Content:`[[Heading]]List of Ballistic Weapons[[/Heading]]
 [[PartGroupTable]]
 Ballistic Weapons|
 Overview/Size|
