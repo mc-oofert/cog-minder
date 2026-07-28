@@ -5773,7 +5773,7 @@
     "Authchip [Storage]",
     "Authchip [Weapon]"
    ],
-   "Content": "Authchips are single-use [[Processors|processors]] that guarantee successful loading and building of the relevant type of [[Schematic]] at a [[Fabricator]] without any chance of hacking detection or any trace increase. They can be acquired in [[DSF|DSFs]] and [[Armory]], sometimes in [[Zion]], carried by [[Hauler|Haulers]], or by using [[Spoiler]][[GameText]]Force(Recompile)[[/GameText]][[/Spoiler]] on a Fabricator. [[Garrison|Garrisons]] may also contain [[Authchip [R/Combat]|combat bot Authchips]].\nThey can also be found [[Corrupted Parts|corrupted]] in [[Recycling]] and [[Recycling Unit|Recycling Units]], though as they are unrepairable parts, they cannot be cleansed of corruption at [[Repair Station|Repair Stations]]."
+   "Content": "Authchips are single-use [[Processors|processors]] that guarantee successful loading and building of the relevant type of [[Schematic]] at a [[Fabricator]] without any chance of hacking detection or any trace increase. They can be acquired in [[DSF|DSFs]] and [[Armory]], sometimes in [[Zion]] or carried by [[Hauler|Haulers]], or by using [[Spoiler]][[GameText]]Force(Recompile)[[/GameText]][[/Spoiler]] on a Fabricator. [[Garrison|Garrisons]] may also contain [[Authchip [R/Combat]|combat bot Authchips]].\nThey can also be found [[Corrupted Parts|corrupted]] in [[Recycling]] and [[Recycling Unit|Recycling Units]], though as they are unrepairable parts, they cannot be cleansed of corruption at [[Repair Station|Repair Stations]]."
   },
   {
    "Name": "Ballistic Cannons",
