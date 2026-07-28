@@ -2863,7 +2863,39 @@ Overview/Integrity|
 Overview/Coverage|
 Effect/Effect
 [[/PartGroupTable]]","","","","EX Chip 2,System Shield,Mak. System Shield,Imp. System Shield,Adv. System Shield,Exp. System Shield,Ghost Barrier,Quantum Router,Architect God Chip D","","","",""
-"Defensive Utilities","Part Supergroup","Defensive [[Utilities]] are a collection of [[Devices]] that help protect the user and sometimes allies through a variety of methods. For example, some parts reduce damage directly while others increase avoidance or shoot down projectiles to prevent taking damage at all. Many of these parts have high coverage, high energy costs, and low integrity, and so they are best protected with [[Armor]], especially [[Utility Shieldings]].\n\n[[Heading]]Comparison of Common Parts[[/Heading]]\n[[Table]]Category|[[Hardlight Generators]]|[[Shield Generators]]|[[Force Fields]]|[[Resistance Devices]]|[[Phase Shifters]]|[[Reaction Control Systems]]|[[Point Defense Systems]]|[[EM Disruption Fields]]||\nEffect|Fixed kinetic/thermal damage reduction|25% damage and [[Heat|Heat transfer]] reduction|50% damage and [[Heat|Heat transfer]] reduction|Variable % damage reduction for part-specific damage type|Evasion increase, ranged only|Evasion increase, all types, may also evade [[Traps]]|[[Launchers|Launcher]], [[Remote Datajacks|Remote Datajack]] and [[CPS Tube]] projectile interception|Reduction of [[Corruption]] from EM traps/damage for allies||\nGood combos|[[CellStyle:Good]]Work well with resistance devices|[[CellStyle:Good]]Point Defense Systems and EM Disruption Fields cover the weaknesses of Remote Shields when defending allies |[[CellStyle:Good]]Point Defense Systems and EM Disruption Fields cover some weaknesses of Remote Force Fields when defending allies |[[CellStyle:Good]]Work well with Hardlight Generators|[[CellStyle:Good]]Work well with Reaction Control Systems|[[CellStyle:Good]]Work well with Phase Shifters|[[CellStyle:Good]]Lower risk of explosions massively draining energy reserves when defending allies using Remote Shield/Force Field|[[CellStyle:Good]]Cover the inability of Remote Shield/Force Field from defending allies against Corruption||\nApplicability|[[CellStyle:Neutral]]Many common bots, not all types|[[CellStyle:Good]]All damage|[[CellStyle:Good]]All damage|[[CellStyle:Bad]]Only 1 damage type per part|[[CellStyle:Neutral]]All ranged attacks|[[CellStyle:Good]]All attacks and [[Traps]]|[[CellStyle:Bad]]Only Launchers and remote bothacking attempts (mostly [[Programmer|Programmers]])|[[CellStyle:Bad]]Mostly just Programmers, some [[Specialist]] variants and some rarer bots||\nEnergy Cost|[[CellStyle:Neutral]]Moderate-high, fixed upkeep|[[CellStyle:Neutral]]Moderate, low upkeep + moderate variable rate based on damage taken|[[CellStyle:Bad]]High, moderate upkeep, high variable rate based on damage taken|[[CellStyle:Good]]Low-moderate, fixed upkeep|[[CellStyle:Neutral]]Moderate-high, fixed upkeep|[[CellStyle:Good]]Low, fixed upkeep|[[CellStyle:Good]]Low-moderate, fixed upkeep|[[CellStyle:Good]]Low, fixed upkeep||\nFragility (Integrity:Coverage)|[[CellStyle:Neutral]]Somewhat fragile at low ratings (1:1-2:1)|[[CellStyle:Neutral]]Somewhat fragile at low ratings (1:1-1.5:1)|[[CellStyle:Neutral]]Somewhat fragile at low ratings (1:1-1.5:1)|[[CellStyle:Good]]Generally sturdy (2:1)[[Sup]]1[[/Sup]]|[[CellStyle:Bad]]Very fragile, very bad at low ratings (.5:1-.75:1)|[[CellStyle:Bad]]Fragile, very bad at low ratings (.5:1-1:1)|[[CellStyle:Good]]Sturdy, (2:1-3:1)|[[CellStyle:Good]]Sturdy, (2:1)||\nMass|[[CellStyle:Neutral]]5-10|[[CellStyle:Neutral]]2-5 normal, 5-10 remote|[[CellStyle:Bad]]7-15, 8-18 remote|[[CellStyle:Neutral]]1-8, most 1-3 except Thermal Defense Suites and Shock Absorption Systems|[[CellStyle:Good]]1-4|[[CellStyle:Good]]1-3|[[CellStyle:Good]]2-4|[[CellStyle:Good]]1-2||\nOther notes|Moderate inconsistent damage reduction, usually between Shield Generators and Force Fields for applicable damage types, combos well with resistance devices to lower damage even further, fixed upkeep is good vs groups|Moderate consistent damage reduction, variable upkeep is bad vs groups, powerful enemies and explosions|Highest cost and highest single damage reduction, variable upkeep is bad vs groups, powerful enemies and explosions|Moderate inconsistent damage reduction, usually between 20-50%, takes lots of inventory to support multiple damage types, fixed upkeep is good vs groups|Moderate-high avoid bonus, combos best with Reaction Control Systems for full evasion stack, fixed upkeep is good vs groups|Moderate avoid bonus combos best with Phase Shifters for full evasion stack, fixed upkeep is good vs groups|High damage reduction at higher ratings, very niche part since only a few hostiles use launchers, fixed upkeep is good vs groups|Extremely high corruption reduction at high ratings mostly guaranteeing allies will not die from corruption, fixed upkeep is good vs groups\n[[/Table]]\n\n[[List:Ordered]]\nShock Absorption Systems are an outlier and are extremely fragile, as bad as 1:3 integrity:coverage ratio.\n[[/List]]\n\n[[Comment]]\nCommented out until i finish the list. And add spoiler/redacted tags.\n\n[[Heading]]Other Defensive Utilities[[/Heading]]\n[[List]]\n[[Graphene Brace]] - 100% immunity to [[Critical Hits]], no energy cost, extremely sturdy and light. For Cogmind, this is mostly useful against [[Heavy|Heavies]] and [[Cutter|Cutters]], as well as against some rare or even unique bots, though can also be rarely helpful against various other bots.|\n[[Vmp. Brace Plating]] - 50% stackable immunity to [[Critical Hits]], no energy cost, extremely sturdy thanks to its vampiric regeneration,\n[[Siege Articulator]] - \n[[Field Manipulator]] - \n[[Energy Deflector]] - \n[[V4-D3R's Cape]] - 40% chance to deflect most incoming projectiles, no energy cost or mass, extremely fragile with a ~1:3 integrity:coverage ratio and cannot be protected with Utility Shielding.\n[[Phase Redirector]] - \n[[Cep. Projectile Intercept Suite]] - \n[[/List]]\n\n[[/Comment]]","","","","Cep. Projectile Intercept Suite,Energy Deflector,Field Manipulator,Graphene Brace,Phase Redirector,Siege Articulator,V4-D3R's Cape,Vmp. Brace Plating","EM Disruption Fields,Force Fields,Hardlight Generators,Phase Shifters,Point Defense Systems,Reaction Control Systems,Resistance Devices,Shield Generators","","",""
+"Defensive Utilities","Part Supergroup","Defensive [[Utilities]] are a collection of [[Devices]] that help protect the user and sometimes allies through a variety of methods. For example, some parts reduce damage directly while others increase avoidance or shoot down projectiles to prevent taking damage at all. Many of these parts have high coverage, high energy costs, and low integrity, and so they are best protected with [[Armor]], especially [[Utility Shieldings]].
+
+[[Heading]]Comparison of Common Parts[[/Heading]]
+[[Table]]Category|[[Hardlight Generators]]|[[Shield Generators]]|[[Force Fields]]|[[Resistance Devices]]|[[Phase Shifters]]|[[Reaction Control Systems]]|[[Point Defense Systems]]|[[EM Disruption Fields]]||
+Effect|Fixed kinetic/thermal damage reduction|25% damage and [[Heat|Heat transfer]] reduction|50% damage and [[Heat|Heat transfer]] reduction|Variable % damage reduction for part-specific damage type|Evasion increase, ranged only|Evasion increase, all types, may also evade [[Traps]]|[[Launchers|Launcher]], [[Remote Datajacks|Remote Datajack]] and [[CPS Tube]] projectile interception|Reduction of [[Corruption]] from EM traps/damage for allies||
+Good combos|[[CellStyle:Good]]Work well with resistance devices|[[CellStyle:Good]]Point Defense Systems and EM Disruption Fields cover the weaknesses of Remote Shields when defending allies |[[CellStyle:Good]]Point Defense Systems and EM Disruption Fields cover some weaknesses of Remote Force Fields when defending allies |[[CellStyle:Good]]Work well with Hardlight Generators|[[CellStyle:Good]]Work well with Reaction Control Systems|[[CellStyle:Good]]Work well with Phase Shifters|[[CellStyle:Good]]Lower risk of explosions massively draining energy reserves when defending allies using Remote Shield/Force Field|[[CellStyle:Good]]Cover the inability of Remote Shield/Force Field from defending allies against Corruption||
+Applicability|[[CellStyle:Neutral]]Many common bots, not all types|[[CellStyle:Good]]All damage|[[CellStyle:Good]]All damage|[[CellStyle:Bad]]Only 1 damage type per part|[[CellStyle:Neutral]]All ranged attacks|[[CellStyle:Good]]All attacks and [[Traps]]|[[CellStyle:Bad]]Only Launchers and remote bothacking attempts (mostly [[Programmer|Programmers]])|[[CellStyle:Bad]]Mostly just Programmers, some [[Specialist]] variants and some rarer bots||
+Energy Cost|[[CellStyle:Neutral]]Moderate-high, fixed upkeep|[[CellStyle:Neutral]]Moderate, low upkeep + moderate variable rate based on damage taken|[[CellStyle:Bad]]High, moderate upkeep, high variable rate based on damage taken|[[CellStyle:Good]]Low-moderate, fixed upkeep|[[CellStyle:Neutral]]Moderate-high, fixed upkeep|[[CellStyle:Good]]Low, fixed upkeep|[[CellStyle:Good]]Low-moderate, fixed upkeep|[[CellStyle:Good]]Low, fixed upkeep||
+Fragility (Integrity:Coverage)|[[CellStyle:Neutral]]Somewhat fragile at low ratings (1:1-2:1)|[[CellStyle:Neutral]]Somewhat fragile at low ratings (1:1-1.5:1)|[[CellStyle:Neutral]]Somewhat fragile at low ratings (1:1-1.5:1)|[[CellStyle:Good]]Generally sturdy (2:1)[[Sup]]1[[/Sup]]|[[CellStyle:Bad]]Very fragile, very bad at low ratings (.5:1-.75:1)|[[CellStyle:Bad]]Fragile, very bad at low ratings (.5:1-1:1)|[[CellStyle:Good]]Sturdy, (2:1-3:1)|[[CellStyle:Good]]Sturdy, (2:1)||
+Mass|[[CellStyle:Neutral]]5-10|[[CellStyle:Neutral]]2-5 normal, 5-10 remote|[[CellStyle:Bad]]7-15, 8-18 remote|[[CellStyle:Neutral]]1-8, most 1-3 except Thermal Defense Suites and Shock Absorption Systems|[[CellStyle:Good]]1-4|[[CellStyle:Good]]1-3|[[CellStyle:Good]]2-4|[[CellStyle:Good]]1-2||
+Other notes|Moderate inconsistent damage reduction, usually between Shield Generators and Force Fields for applicable damage types, combos well with resistance devices to lower damage even further, fixed upkeep is good vs groups|Moderate consistent damage reduction, variable upkeep is bad vs groups, powerful enemies and explosions|Highest cost and highest single damage reduction, variable upkeep is bad vs groups, powerful enemies and explosions|Moderate inconsistent damage reduction, usually between 20-50%, takes lots of inventory to support multiple damage types, fixed upkeep is good vs groups|Moderate-high avoid bonus, combos best with Reaction Control Systems for full evasion stack, fixed upkeep is good vs groups|Moderate avoid bonus combos best with Phase Shifters for full evasion stack, fixed upkeep is good vs groups|High damage reduction at higher ratings, very niche part since only a few hostiles use launchers, fixed upkeep is good vs groups|Extremely high corruption reduction at high ratings mostly guaranteeing allies will not die from corruption, fixed upkeep is good vs groups
+[[/Table]]
+
+[[List:Ordered]]
+Shock Absorption Systems are an outlier and are extremely fragile, as bad as 1:3 integrity:coverage ratio.
+[[/List]]
+
+[[Comment]]
+Commented out until i finish the list. And add spoiler/redacted tags.
+
+[[Heading]]Other Defensive Utilities[[/Heading]]
+[[List]]
+[[Graphene Brace]] - 100% immunity to [[Critical Hits]], no energy cost, extremely sturdy and light. For Cogmind, this is mostly useful against [[Heavy|Heavies]] and [[Cutter|Cutters]], as well as against some rare or even unique bots, though can also be rarely helpful against various other bots.|
+[[Vmp. Brace Plating]] - 50% stackable immunity to [[Critical Hits]], no energy cost, extremely sturdy thanks to its vampiric regeneration,
+[[Siege Articulator]] - 
+[[Field Manipulator]] - 
+[[Energy Deflector]] - 
+[[V4-D3R's Cape]] - 40% chance to deflect most incoming projectiles, no energy cost or mass, extremely fragile with a ~1:3 integrity:coverage ratio and cannot be protected with Utility Shielding.
+[[Phase Redirector]] - 
+[[Cep. Projectile Intercept Suite]] - 
+[[/List]]
+
+[[/Comment]]","","","","Cep. Projectile Intercept Suite,Energy Deflector,Field Manipulator,Graphene Brace,Phase Redirector,Siege Articulator,V4-D3R's Cape,Vmp. Brace Plating","EM Disruption Fields,Force Fields,Hardlight Generators,Phase Shifters,Point Defense Systems,Reaction Control Systems,Resistance Devices,Shield Generators","","",""
 "Demented","Bot","","","","","","","","",""
 "Demolisher","Bot Group","Demolishers are a [[Bot Groups|Bot Group]] [[Hover Units|hovering]] [[0b10]] combat robots armed with an [[Launchers|Launcher]] and some form of [[Launcher Guidance Computers|Launcher Guidance Computer]]. They are seen most often in [[Demolisher Squad|Demolisher Squads]] to deal with infestations and as part of an [[Assault Squad]] if Cogmind has allies. They have heavy resistance to explosive damage, so they don't take much damage from their own explosions. Demolishers are extremely dangerous as they can deal out damage very quickly to Cogmind and any allies. Their tendency to destroy terrain can make repositioning difficult and can often reveal Cogmind's location to other hostiles.
 Demolishers are one of the scariest standard 0b10 bots to fight head on. Their massive damage and high resistance (or immunity) to their own attacks means that they won't be harmed much by blowing themselves up. Their Shock Absorption Systems are fairly frail, and if those are destroyed they will take much more damage from self explosions. [[Point Defense Systems]] are very useful at cutting down Demolisher damage by intercepting their missiles. Demolishers don't have any particular weakness, so use any non-Explosive damage type available to take them out as quickly as possible.
@@ -5720,21 +5752,7 @@ Upkeep/Energy|
 Effect/Effect
 [[/PartGroupTable]]","","","","Force Booster,Imp. Force Booster,Adv. Force Booster,Exp. Force Booster","","","",""
 "Force Field","Part","","","","","","","","",""
-"Force Fields","Part Group","[[Defensive Utilities]] that turn [[Energy]] into damage reduction for the user, starting at 50% damage blocked. Some variants like the [[Remote Force Field]] also extend this protection to friendly bots within a 10 tile radius. Force Fields are heavy and difficult to power for prolonged combat, however, they are one of the single most efficient parts in terms of preserving the user's build. [[Shield Generators]] are a similar part that are generally more efficient in terms of damage to energy cost ratio but they only block 25% of damage.
-The damage:energy cost ratio starts out quite poorly with a 1:7 ratio with the basic [[Force Field]] and 1:8 ratio with the basic Remote Force Field. However, higher rating parts, especially [[Prototype Part|Prototype]] Force Fields, get much better ratios. Many of the best Force Fields can only be located in lategame [[Branch|Branches]], often in [[Research]] branches.
-Force Fields require lots of energy storage and generation for maximum effectiveness. Even if using only [[Kinetic Weapons]] with little energy requirements, 3 or 4 power slots are recommended to generate enough energy for extended encounters. [[Energy Wells]] should also be kept charged in inventory and used to restock on energy mid-combat to keep up the damage reduction.
-
-[[Heading]]List of Force Fields[[/Heading]]
-[[PartGroupTable]]
-Force Fields|
-Overview/Size|
-Overview/Rating|
-Overview/Integrity|
-Overview/Coverage|
-Upkeep/Energy|
-Upkeep/Heat|
-Effect/Effect
-[[/PartGroupTable]]","","","","Force Field,Imp. Force Field,Adv. Force Field,Exp. Force Field,Remote Force Field,Imp. Remote Force Field,Adv. Remote Force Field,Cep. Energy Mantle,AEGIS Remote Shield,7V-RTL's Ultimate Field,QV-33N's Drone Shield,Vortex Field Projector","","","",""
+"Force Fields","Part Group","Force Fields are [[Defensive Utilities]] that turn [[Energy]] into damage and [[Heat|Heat transfer]] reduction for the user, starting at 50% damage/eat transfer blocked. [[Corruption]] from EM damage is based on damage before this reduction and is thus unaffected. Some variants like the [[Remote Force Field]] also extend this protection to friendly bots within a 10 tile radius. Force Fields are heavy and difficult to power for prolonged combat, however, they are one of the single most efficient parts in terms of preserving the user's build. [[Shield Generators]] are a similar part that are generally more efficient in terms of damage to energy cost ratio but they only block 25% of damage.\nThe damage:energy cost ratio starts out quite poorly with a 1:7 ratio with the basic [[Force Field]] and 1:8 ratio with the basic Remote Force Field. However, higher rating parts, especially [[Prototype Part|Prototype]] Force Fields, get much better ratios. Many of the best Force Fields can only be located in lategame [[Branch|Branches]], often in [[Research]] branches.\nForce Fields require lots of energy storage and generation for maximum effectiveness. Even if using only [[Kinetic Weapons]] with little energy requirements, 3 or 4 power slots are recommended to generate enough energy for extended encounters. [[Energy Wells]] should also be kept charged in inventory and used to restock on energy mid-combat to keep up the damage reduction.\n\n[[Heading]]List of Force Fields[[/Heading]]\n[[PartGroupTable]]\nForce Fields|\nOverview/Size|\nOverview/Rating|\nOverview/Integrity|\nOverview/Coverage|\nUpkeep/Energy|\nUpkeep/Heat|\nEffect/Effect\n[[/PartGroupTable]]","","","","Force Field,Imp. Force Field,Adv. Force Field,Exp. Force Field,Remote Force Field,Imp. Remote Force Field,Adv. Remote Force Field,Cep. Energy Mantle,AEGIS Remote Shield,7V-RTL's Ultimate Field,QV-33N's Drone Shield,Vortex Field Projector","","","",""
 "Force Lance","Part","","","","","","","","",""
 "Force Rifle","Part","","","","","","","","",""
 "Fortress","Bot","","","","","","","","",""
@@ -9926,20 +9944,7 @@ Projectile/Penetration|
 Projectile/Salvage
 [[/PartGroupTable]]","Redacted","","","Sigix Sheargun,Modified Sigix Sheargun","","","",""
 "Shield Generator","Part","","","","","","","","",""
-"Shield Generators","Part Group","[[Defensive Utilities]] that turn [[Energy]] into 25% damage reduction for all damage dealt to user or their parts. Some remote variants like the [[Remote Shield]] also extend this protection to friendly bots within a 10 tile radius. Shield Generators are moderately heavy and can be expensive to power for prolonged combat, although they are significantly easier to power than the similar [[Force Fields]]. For their lower damage blocked, Shield Generators are more resource efficient in terms of damage:energy cost than similar rating Force Fields. [[Energy Wells]] can be kept charged in inventory and used to restock on energy mid-combat to keep up the damage reduction when running low on storage.
-
-The damage:energy cost ratio starts out quite poorly with a 1:6 ratio with the basic [[Shield Generator]]. However, higher rating parts, especially [[Prototype Part|Prototype]] Shield Generators, get much better ratios. The [[Exp. Shield Generator]] caps out as the most efficient at a 1:2 ratio.
-
-[[Heading]]List of Shield Generators[[/Heading]]
-[[PartGroupTable]]
-Shield Generators|
-Overview/Size|
-Overview/Rating|
-Overview/Integrity|
-Overview/Coverage|
-Upkeep/Energy|
-Effect/Effect
-[[/PartGroupTable]]","","","","Shield Generator,Imp. Shield Generator,Adv. Shield Generator,Exp. Shield Generator,Remote Shield,Imp. Remote Shield,Adv. Remote Shield,Exp. Remote Shield","","","",""
+"Shield Generators","Part Group","Shield Generators are [[Defensive Utilities]] that turn [[Energy]] into 25% damage and [[Heat|Heat transfer]] reduction for all damage/heat transfer dealt to user. [[Corruption]] from EM damage is based on damage before this reduction and is thus unaffected. Some remote variants like the [[Remote Shield]] also extend this protection to friendly bots within a 10 tile radius. Shield Generators are moderately heavy and can be expensive to power for prolonged combat, although they are significantly easier to power than the similar [[Force Fields]]. For their lower damage blocked, Shield Generators are more resource efficient in terms of damage:energy cost than similar rating Force Fields. [[Energy Wells]] can be kept charged in inventory and used to restock on energy mid-combat to keep up the damage reduction when running low on storage.\n\nThe damage:energy cost ratio starts out quite poorly with a 1:6 ratio with the basic [[Shield Generator]]. However, higher rating parts, especially [[Prototype Part|Prototype]] Shield Generators, get much better ratios. The [[Exp. Shield Generator]] caps out as the most efficient at a 1:2 ratio.\n\n[[Heading]]List of Shield Generators[[/Heading]]\n[[PartGroupTable]]\nShield Generators|\nOverview/Size|\nOverview/Rating|\nOverview/Integrity|\nOverview/Coverage|\nUpkeep/Energy|\nEffect/Effect\n[[/PartGroupTable]]","","","","Shield Generator,Imp. Shield Generator,Adv. Shield Generator,Exp. Shield Generator,Remote Shield,Imp. Remote Shield,Adv. Remote Shield,Exp. Remote Shield","","","",""
 "Shield Leg","Part","","","","","","","","",""
 "Shield Legs","Part Group","A subclass of [[Legs]] with a [[Special Propulsion Modes#Shielding|special propulsion mode]] called ""Shielding Mode"". Shielding mode provides increased coverage and a deflection bonus and takes 4 turns to activate.They also have both high coverage and integrity compared to most other standard legs.
 
@@ -12915,37 +12920,11 @@ Typical entertainment decreases are due to time or exploration. Roughly every 40
 [[Comment]]Reply: Well, it seems to drop by an average of 50%, but i would guess it's also somewhat dependent on mood? Maybe it's also dependent on whether the exit used was revealed by X0-1V1?[[/Comment]]
 
 [[Heading:2]]Entertainment Increases[[/Heading]]
-X0-1V1's amusement may increase for a great variety of reasons, which can be mostly categorized as either ""Cogmind is unlucky"" or ""chaos breaks out"", and are often outside the player's control. Some sources of entertainment have a cooldown before they can be ""amusing"" again. Some of the ways to amuse X0-1V1 include: (Note: this table is very much a work-in-progress and is missing most values)[[Comment]]Would like to add values to this at some point[[/Comment]]
-[[Table]]
-Source of entertainment|Amusement gain[[Comment]]|Cooldown (if any)[[/Comment]]||
-A part is transformed by an [[Sfc. Transmogrifier]]|+1 if new part is equal or higher rating, +2 otherwise||
-Using a [[Scimitar of Distortion|regular]] or [[Hvy. Scimitar of Distortion]] and triggering a chaotic effect|+2||
-Triggering an unknown [[Shock Trap|Shock]] or [[EM Surge Trap]]|+5||
-A blast [[Critical Hits|critical hit]] removes a part from Cogmind|5||
-Successfully [[Terminal#Force(Sabotage)|sabotaging at a Terminal]]|+5||
-Overloading a [[Fabricator]]|+5||
-Firing the [[L-Cannon]]|+5||
-[[X0-1V1's Piety Tracker]] gets destroyed while attached|+10||
-Repeatedly failing a success-likely hack|+10||
-A part that was swapped out multiple times gets fused by Corruption|+10||
-Triggering an unknown AOE [[Traps|Trap]]. Both explosive and EM traps count for this effect|+10||
-Triggering an unknown [[Ambush Trap]]|+20||
-Destroying a large number of hostiles in a short time, AKA killstreak|+20||
-A [[Mines#surviving_the_assembled_infestation|Mines Assembled infestation]] starts|+20||
-Having a Corruption-induced IFF burst near hostiles, regardless of whether it reaches them.|+20||Breaking a part by trying to repair it at a [[Repair Station]]|+30||
-Destroying a [[Phase Generator]] in a [[Garrison]]. Note: the one in [[Command]] does not count.|+30||
-Destroying a [[Network Hub|Network Hub in Hub_04(d)]]|+30 for first only||
-Getting a multi-squad Assault dispatch due to Alert|+30||
-Triggering [[High Security]]|+40||
-Interrupting a [[Cargo Convoy]] and having the [[C-45 Heavy ARC|Heavy ARCs]] deploy while on grounded propulsion[[Sup]]1[[/Sup]]|+40||Triggering an unknown [[Chute Trap]]|+40 while on grounded propulsion[[Sup]]1[[/Sup]], +20 otherwise||
-The [[Scraptown#civil_war|Scraptown civil war]] breaks out|+50||
-Being spotted by a large number of hostiles at once?|?||
-Destroying an unused RIF Installer (only while RIF)|+100||
-Being on a floor when [[Sterilization]] is announced|+100||
-Releasing subatomizers from a [[SUBCON Basin]]|+100||
-Firing the [[Drained L-Cannon]]|+100
-[[/Table]]
-[[List:Ordered]]Grounded propulsion types includes [[Wheels]], [[Legs]], and [[Treads]].[[/List]]
+X0-1V1's amusement may increase for a great variety of reasons, which can be mostly categorized as either ""Cogmind is unlucky"" or ""chaos breaks out"", and are often outside the player's control. Some sources of entertainment have a cooldown before they can be ""amusing"" again. Some of the ways to amuse X0-1V1 include: (Note: this table is very much a work-in-progress and is missing most values)
+[[Expandable]]Show/hide entertainment increases|
+[[Partial]]X0-1V1 Entertainment Increases[[/Partial]]
+[[/Expandable]]
+
 Note that, while X0-1V1 is capable of directly causing some of these events, doing so will (usually) not entertain them. These events must occur ""naturally"" or at least slightly indirectly. Most effects cannot be duplicated intentionally in a small amount of time.
 
 
@@ -12958,8 +12937,8 @@ X0-1V1 is interested.|5-9||
 X0-1V1 is mildly amused.|10-19||
 X0-1V1 is amused|20-29||
 X0-1V1 is highly amused!|30-39||
-X0-1V1 thinks this is hilarious!|40-99||
-X0-1V1 roars with laughter!|100
+X0-1V1 thinks this is hilarious!|40-79?||
+X0-1V1 roars with laughter!|80?-100
 [[/Table]]
 
 
@@ -12989,21 +12968,31 @@ Random slot type|+1|N/A|N/A[[/Table]]
 Note that the cost to maximum core integrity is optional only in the sense that it whether it is applied is dependent entirely on X0-1V1. According to Kyzrati, if a buff would take too much of remaining maximum core integrity, it is delayed until the cost is deemed acceptable. In practice, what this means is that high core-costing buffs are unlikely to occur because a different permanent effect can happen first. [[Comment]]Kyzrati said that that postpones the effect, but if that is true, does the postponed effect retain the same magnitude even on a different mood? It appears that the effect simply fails and it can roll for a new effect again immediately rather than saving the current effect.[[/Comment]]
 
 [[Heading:2]]Temporary buffs[[/Heading]]
+[[Expandable]]Show/hide temporary buffs|
 [[Partial]]X0-1V1 Temporary Buffs[[/Partial]]
+[[/Expandable]]
 
 
 [[Heading:2]]Other ""good"" acts[[/Heading]]
+[[Expandable]]Show/hide other ""good"" acts|
 [[Partial]]X0-1V1 Good Acts[[/Partial]]
+[[/Expandable]]
+
 
 [[Heading]]""Bad"" acts[[/Heading]]
 These effects will be written in red text in the log, and counted under ""bad acts"" in scoresheets, although some of them may actually be beneficial in some contexts. Some bad effects are similar to the effects of [[Corruption]].
 
 [[Heading:2]]Temporary debuffs[[/Heading]]
+[[Expandable]]Show/hide temporary debuffs|
 [[Partial]]X0-1V1 Temporary Debuffs[[/Partial]]
+[[/Expandable]]
 
 
 [[Heading:2]]Other ""bad"" acts[[/Heading]]
+[[Expandable]]Show/hide other ""bad"" acts|
 [[Partial]]X0-1V1 Bad Acts[[/Partial]]
+[[/Expandable]]
+
 
 [[Heading]]Unique area-specific effects[[/Heading]]
 These effects are area-specific. Some of them are not considered ""bad acts"" or ""good acts"" in scoresheets, and can only happen if and when their trigger is met, rather than happening like other random effects. These special effects can range from disruptive to run-ending.
@@ -13077,10 +13066,9 @@ X0-1V1 is a very direct reference to the [[https://crawl.develz.org/|Dungeon Cra
 "X0-1V1 Bad Acts","Partial","[[Table]]Log message|Effect|Restrictions (if any)||
 [[GameText]]""I had everything to do with that.""[[/GameText]]|Weapon misfire.||
 [[GameText]]""Use it or lose it, i always say.""[[/GameText]]|1 or 2 parts are fused to Cogmind.||
-[[GameText]]""How much energy does one bot need, really?""[[/GameText]]|Energy drain.||
 [[GameText]]""Learned that one from the Sigix.""[[/GameText]]|Nearby terrain is vaporized in a random radius (15-24) centered on Cogmind.|Cannot occur in Subcaves||
 [[GameText]]""There is a traitor in your midst!""[[/GameText]]
-This effect may also happen without the above message.|A temporary IFF filter overwrite is applied on a visible ally.|Must be close to an ally.||
+This effect may also happen without the above message.|A temporary IFF filter overwrite is applied on a visible ally.|Must be close to an ally||
 [[GameText]]""Don't be shy now.""[[/GameText]]|[[Cogmind]] emits an [[Corruption|IFF burst signal]].||
 [[GameText]]""It's not much, but it's the thought that counts.""[[/GameText]]
 [[GameText]]X0-1V1 brushes you with a corrupting influence.[[/GameText]]|Corruption is added to Cogmind, between 2% and 20% depending on mood magnitude. The first message is shown from 2-5% and the second from 6-20% added. Ignores EM resistance and ALL other forms of corruption prevention, with the exception of [[System Guards]].|Cannot raise Cogmind's corruption above 80%||
@@ -13093,7 +13081,7 @@ This effect may also happen without the above message.|A temporary IFF filter ov
 [[GameText]]""X0-1V1 taps a no entrance sign""[[/GameText]]|Removes an exit from the map|Another exit leading to the same map must exist||
 [[GameText]]X0-1V1 uses Touch of Redecoration![[/GameText]]|X0-1V1 destroys a machine, detonates a trap, triggers [[GameText]]Force(Overload)[[/GameText]] on a [[Fabricator]], or turns [[Scrap]] into a hostile [[Mutant]].||
 [[GameText]]""That meddlesome character is spoiling all the fun. Not anymore!""[[/GameText]]|[[Data Miner]] will no longer redirect Reinforcement Squads or Assault Squads. The current squad is still redirected.|Has a chance of happening whenever Data Miner successfully redirects a squad||
-There is no log message for this effect.|One or more fake parts appear nearby but out of line of sight, and, if one is attached, it is reconfigured into an [[Item Mimic]]. Fake parts can be higher rating than regular floor parts, and can appear in locations where regular floor parts cannot. Fake parts can be unidentified. They are treated as a usual part in all ways except when attaching them. For example, destroying them via explosives or placing them in a [[Scanalyzer]] works like regular part. Prefers to spawn parts of the same/similar type to those Cogmind has recently used or has in inventory.|Cannot happen below depth -8.||
+There is no log message for this effect.|One or more fake parts appear nearby but out of line of sight, and, if one is attached, it is reconfigured into an [[Item Mimic]]. Fake parts can be higher rating than regular floor parts, and can appear in locations where regular floor parts cannot. Fake parts can be unidentified. They are treated as a usual part in all ways except when attaching them. For example, destroying them via explosives or placing them in a [[Scanalyzer]] works like regular part. Prefers to spawn parts of the same/similar type to those Cogmind has recently used or has in inventory.|Cannot happen below depth -8||
 
 
 [[GameText]]X0-1V1 thinks 0b10 needs to up its game.[[/GameText]]|0b10 dispatches a ""surplus targeted"" [[Investigation Squad|Investigation]], [[Assault Squad|Assault]], or [[Extermination Squad|Extermination]] squad. [[Comment]]this can maybe dispatch more squad types[[/Comment]]|0b10 only||
@@ -13102,22 +13090,68 @@ There is no log message for this effect.|One or more fake parts appear nearby bu
 [[GameText]]""ALERT: Introduced new transport parking protocols.""[[/GameText]]|X0-1V1 redirects all Haulers on the map to a single location near a [[Garrison Access]].|0b10 only, only once per map||
 [[GameText]]""ALERT: Engaging LAN party protocols.""[[/GameText]]|Several new [[Operator|Operators]] appear from 0b10-controlled exits and slowly head to their Terminals. Only Terminals without an existing Operator will be assigned new Operators.|0b10 only||
 [[GameText]]""Who needs BL-4Z3 when you have control of the 0b10 sterilization system?[[/GameText]]|The floor's sterilization system engages shortly after the announcement.|0b10 only||
-[[GameText]]""Threat records for the threat god!""[[/GameText]]|~122-~154 extra influence (minor increase)|0b10 only||
-[[GameText]]""More threat records for the threat god!""[[/GameText]]|~176-~226 extra influence (considerable increase)|0b10 only||
-[[GameText]]""So many more threat records for the threat god!""[[/GameText]]|~256-~300 extra influence (major increase)|0b10 only||
+[[GameText]]""Threat records for the threat god!""[[/GameText]]|100-164 extra influence. This and other alert effects are based on mood magnitude, where alert gained is 100 * [Mood Magnitude * 2].|0b10 only||
+[[GameText]]""More threat records for the threat god!""[[/GameText]]|166-230 extra influence|0b10 only||
+[[GameText]]""So many more threat records for the threat god!""[[/GameText]]|232-300 extra influence|0b10 only||
 [[GameText]]""I'm sending someone to clean up after you.""[[/GameText]]|Dispatches a [[Recycler]] from a nearby 0b10-controlled exit that heads to Cogmind's current position.|0b10 only||
 [[GameText]]""I'm sending someone to fix up the mess you leave.""[[/GameText]]|Dispatches an [[U-05 Engineer]] from nearby 0b10-controlled exit that heads to Cogmind's current position.|0b10 only||
 [[GameText]]""I'm sending someone to keep an eye on you.""[[/GameText]]|Dispatches a [[Watcher]] at a nearby 0b10-controlled exit or Garrison Access that heads to Cogmind's current position.|0b10 only||
 
 
 [[GameText]]Vines of energy appear to reach out from the ground.[[/GameText]]|One or more hostiles are suddenly caught in a [[Stasis Trap]], giving them the usual 25% damage resistance.|During combat only||
-[[GameText]]X0-1V1 wants to heat up the action around here.[[/GameText]]|200-300 + ( 10 * (11 - [depth] ) * 10 ) extra heat is instantly added to Cogmind. For example, 210-310 at -10, 300-400 at -1.|During combat only||
+[[GameText]]X0-1V1 wants to heat up the action around here (+X heat).[[/GameText]]|200-300 + ( 10 * (11 - [depth] ) * 10 ) extra heat is instantly added to Cogmind. For example, 210-310 at -10, 300-400 at -1.|During combat only||
 [[GameText]]X0-1V1 feels inspired![[/GameText]]|Hostile bot weapons are replaced with random higher rating weapons of the same type|During combat only||
 [[GameText]]X0-1V1 tips the scales in a new dimension.[[/GameText]]|A hostile is upgraded into a higher tier version of itself.|During combat only||
 [[GameText]]""The ol' switcheroo""[[/GameText]]|Cogmind and all nearby bots swap places at random.|During combat only||
 [[GameText]]""One team is clearly getting beat up here. Hardly fair.""[[/GameText]]|Repairs any number of damaged hostiles to full integrity. Accompanied by the game log [[GameText]][Bot name] sparkles and shines.[[/GameText]]|During combat only||
+[[GameText]]""How much energy does one bot need, really?""[[/GameText]]|Energy drain.|During combat only||
 [[GameText]]""School them in the art of offensive power!""[[/GameText]]|One of Cogmind's attached power sources explodes.|During combat only, Cogmind must be adjacent to hostile and have an attached power source
 [[/Table]]","Spoiler","","","","","","",""
+"X0-1V1 Entertainment Increases","Partial","[[Table]]
+Source of entertainment|Amusement gain[[Comment]]|Cooldown (if any)[[/Comment]]||
+Using a [[Dirty Datajack]] and successfully performing a hack|+1||
+A part is transformed by an [[Sfc. Transmogrifier]] in a non-friendly map|+1 if new part is equal or higher rating, +2 otherwise||
+Using a [[Scimitar of Distortion|regular]] or [[Hvy. Scimitar of Distortion]] and triggering a chaotic effect|+2||
+Using a [[Chaos Jack]] and successfully performing a hack|+2||
+Triggering an unknown [[Shock Trap|Shock]] or [[EM Surge Trap]] while at 0% corruption|+5||
+Getting corruption from faulty part integration while at 0% corruption|+5||
+A blast [[Critical Hits|critical hit]] removes a part from Cogmind to the ground.
+Note: This means that fused/fragile parts do not count, nor do parts that are destroyed via damage.|+5||
+Successfully [[Terminal#Force(Sabotage)|sabotaging at a Terminal]]|+5||
+Overloading a [[Fabricator]]|+5||
+Firing the [[L-Cannon]]|+5||
+[[X0-1V1's Piety Tracker]] gets destroyed while attached|+10||
+Repeatedly failing a success-likely hack|+10||
+A part that was swapped out multiple times gets fused by Corruption|+10||
+Triggering an unknown AOE [[Traps|Trap]]. Note: Cogmind's own traps do not count for this effect.|+10||
+Triggering an unknown [[Ambush Trap]]|+20||
+Destroying a large number of hostiles in a short time, AKA killstreak|+20||
+An ally hits Cogmind unintentionally and destroys a part|+20||
+A [[Mines#surviving_the_assembled_infestation|Mines Assembled infestation]] starts|+20||
+Having a Corruption-induced IFF burst near hostiles, regardless of whether it reaches them.|+20||
+Using an [[Electromagnetic Launchers|EM launcher]] that hits Cogmind's own power source and detonates it|+20||
+Attacking [[Zhirov]] in his [[Zhirov (Location)|Lab]]|+25||Breaking a part by trying to repair it at a [[Repair Station]]|+30||
+Destroying a [[Phase Generator]] in a [[Garrison]]. Note: the one in [[Command]] does not count.|+30||
+Destroying a [[Network Hub|Network Hub in Hub_04(d)]] (first only)|+30||
+Getting a multi-squad Assault dispatch due to Alert|+30||
+An amplify resonance hack detonating Cogmind's engine|+40||
+Attacking the [[Exiles (Group)]]|+40||
+Triggering [[High Security]]|+40||
+Interrupting a [[Cargo Convoy]] and having the [[C-45 Heavy ARC|Heavy ARCs]] deploy while on grounded propulsion[[Sup]]1[[/Sup]]|+40||Triggering an unknown [[Chute Trap]]|+40 while on grounded propulsion[[Sup]]1[[/Sup]], +20 otherwise||
+The [[Scraptown#civil_war|Scraptown civil war]] breaks out|+50||
+Attacking [[Warlord]] in his [[Warlord (Location)|base]]|+50||
+Being scanned by a [[Researcher]] in any map other than [[Section 7]]|+80||
+Being scanned by a Researcher in [[Redacted]]Section 7[[/Redacted]]|+100||
+Being detected by the scanners in [[Lab]]|+100||
+Attacking [[Scraptown]], [[Zion]], or [[Data Miner]], or attacking Warlord in the [[Warlord (Alignment)#-2 Research Assault|-2 Research assault]]|+100||
+Destroying an unused [[RIF]] Installer (only while RIF)|+100||
+Being on a floor when [[Sterilization]] is announced|+100||
+Releasing subatomizers from a [[SUBCON Basin]]|+100||
+Firing the [[Drained L-Cannon]]|+100||
+Evolving weapon slots to a total (counting mutation effect) higher than 2|+[weapon slot total - 2] * 5||
+Being spotted by a large number of hostiles at once?|?[[/Table]]
+
+[[List:Ordered]]Grounded propulsion types includes [[Wheels]], [[Legs]], and [[Treads]].[[/List]]","Spoiler","","","","","","",""
 "X0-1V1 Good Acts","Partial","[[Table]]Log message|Effect|Restrictions (if any)||
 [[GameText]]""See? It buffs right out!""[[/GameText]]|15-30% core integrity restoration based on mood magnitude.|Must have enough missing core integrity||
 [[GameText]]X0-1V1 barely happened to notice your imminent destruction.[[/GameText]]
@@ -13180,7 +13214,7 @@ Null Cannon, L-Cannon (variant unknown), Hvy. Autocannon? (it dealt 77 kinetic d
 [[GameText]]X0-1V1 stares into the ether.[[/GameText]]|One or more hostile bots are teleported roughly 30-40 tiles away. They do not lose tracking on Cogmind if they had it.|During combat only||
 [[GameText]]Your [parts] briefly glow, restoring integrity.[[/GameText]]|The mentioned attached parts (3 max) have some integrity restored. Can affect normally non-repairable parts. Repairs between 15% to 100% depending on mood magnitude.|During combat only, must have damaged parts||
 [[GameText]]X0-1V1 tries on a Mechanic's hat.[[/GameText]]|Repairs a random number of damaged allies to full integrity. Accompanied by the game log [[GameText]][Bot name] sparkles and shines.[[/GameText]]|During combat only, 3 or more allies must be sufficiently damaged||
-[[GameText]]X0-1V1 sucks the heat right out of you (-[heat] heat)|Cogmind's heat is reduced to 0.|Combat only, heat > 300
+[[GameText]]X0-1V1 sucks the heat right out of you (-[heat] heat).|Cogmind's heat is reduced to 0.|Combat only, heat > 300
 [[/Table]]","Spoiler","","","","","","",""
 "X0-1V1 Temporary Buffs","Partial","[[Table]]
 Log message|Temporary effect|Restrictions (if any)|Duration[[Sup]]1[[/Sup]]||
