@@ -1,4 +1,4 @@
-import{j as a,L as I,J as E,K as U,c as M,r as S,M as ee,f as z,N as te,y as F,a as j,s as ae,O as ne,S as Z,B as b,o as ie,Q as X,u as K,U as oe,V as re,W,X as se,Y as le,Z as q,_ as he,$ as de}from"./index--15Pw_Lu.js";import{l as ce}from"./lore-yoaB2RHm.js";import{a as ge,L as me,I as ue,B as Y,b as pe,u as fe}from"./BotDetails-PeiQRchl.js";import{a as Q,u as ye}from"./ItemPopover-DaqqXJjn.js";/* empty css              */import"./bots-EPaA02tF.js";import"./botTypes-Cxei0LoN.js";import"./items-bCTdCTgI.js";const be=[{Name:"01-MTF",Content:"[[Image]]MTF Vault.png|Running into MTF in a [[Storage]] vault[[/Image]]A friendly bot that rarely shows up in [[Storage]] in an already opened vault. Will join Cogmind as an uncontrollable purple ally for the duration of the map and uses [[01-MTF's Autohacker]] to automatically open any other vaults it can see. It will assimilate or destroy most enemies it encounters extremely quickly with its high [[Spectrum|spectrum]] high damage EM gun [[01-MTF's Shockpuncher]]. The Shockpuncher is a very powerful weapon that is strong throughout the majority of the game as long as you can deal with its short range if you can get it to drop. [[Spoiler]]Presumably stole exiles prototypes.[[/Spoiler]]"},{Name:"12-ASH",Content:`[[GameText]]Hail to the king![[/GameText]]
+import{j as a,L as I,J as E,K as U,c as M,r as S,M as ee,f as z,N as te,y as F,a as j,s as ae,O as ne,S as Z,B as b,o as ie,Q as X,u as K,U as oe,V as re,W,X as se,Y as le,Z as q,_ as he,$ as de}from"./index-VD9PySJU.js";import{l as ce}from"./lore-yoaB2RHm.js";import{a as ge,L as me,I as ue,B as Y,b as pe,u as fe}from"./BotDetails-Q_74Ed2d.js";import{a as Q,u as ye}from"./ItemPopover-Pfl4mOYy.js";/* empty css              */import"./bots-EPaA02tF.js";import"./botTypes-Cxei0LoN.js";import"./items-bCTdCTgI.js";const be=[{Name:"01-MTF",Content:"[[Image]]MTF Vault.png|Running into MTF in a [[Storage]] vault[[/Image]]A friendly bot that rarely shows up in [[Storage]] in an already opened vault. Will join Cogmind as an uncontrollable purple ally for the duration of the map and uses [[01-MTF's Autohacker]] to automatically open any other vaults it can see. It will assimilate or destroy most enemies it encounters extremely quickly with its high [[Spectrum|spectrum]] high damage EM gun [[01-MTF's Shockpuncher]]. The Shockpuncher is a very powerful weapon that is strong throughout the majority of the game as long as you can deal with its short range if you can get it to drop. [[Spoiler]]Presumably stole exiles prototypes.[[/Spoiler]]"},{Name:"12-ASH",Content:`[[GameText]]Hail to the king![[/GameText]]
 12-ASH is a member of the [[Heroes of Zion]] equipped with [[12-ASH's Boomstick]] and [[Ripper]].`},{Name:"1C-UTU",Content:""},{Name:"5H-AD0",Content:"Sometimes appears as a friendly ally at the start of [[Zion Deep Caves]]. If attacked, he will quickly retreat. "},{Name:"7R-MNS",Content:"Sometimes appears on -8 [[Materials]] as a friendly ally. The player can follow him all the way through factory as he will take main exits till -4, at which point he will disappear. They are quite powerful, and they have no trouble taking out most bots. "},{Name:"7V-RTL",Content:""},{Name:"8R-AWN",Content:""},{Name:"99-TNT",Content:""},{Name:"A-02 Transporter",Content:""},{Name:"A-15 Conveyor",Content:""},{Name:"A-27 Freighter",Content:"Informally known as a yauler (yellow Hauler). In the main complex, appears as part of a [[Cargo Convoy]]."},{Name:"A2",Content:""},{Name:"A3",Content:""},{Name:"A4",Content:""},{Name:"A5",Content:""},{Name:"A6",Content:""},{Name:"A7",Content:"Drops the [[A7 Data Core]] when killed. Gives a code when shown the Cetus Mainframe in [[Cetus]]."},{Name:"A8",Content:""},{Name:"AD-0RF",Content:""},{Name:"AZ-K3N",Content:""},{Name:"Advanced Drone",Content:""},{Name:"Alpha 7",Content:""},{Name:"Architect",Content:""},{Name:"Army Drone",Content:""},{Name:"Artisan",Content:""},{Name:"Assault Drone",Content:""},{Name:"Assembled (4)",Content:""},{Name:"Assembled (7)",Content:""},{Name:"Assembler",Content:"Produces [[Assembled]] every 10 turns. Otherwise harmless."},{Name:"Autobeam Turret",Content:""},{Name:"B-36 Bruiser",Content:""},{Name:"B-48 Gladiator",Content:""},{Name:"B-60 Warrior",Content:""},{Name:"B-74 Champion",Content:""},{Name:"B-75 Beast",Content:""},{Name:"B-86 Titan",Content:""},{Name:"B-90 Cyclops",Content:""},{Name:"B-99 Colossus",Content:""},{Name:"Bomb Drone",Content:"Fast disposable drones that attempt to melee hostiles, which will cause them to explode. Deployed by a [[Bomb Drone Bay]]"},{Name:"Borebot",Content:""},{Name:"Bouncer",Content:""},{Name:"Butcher (5)",Content:""},{Name:"Butcher (7)",Content:""},{Name:"C-17 Slicer",Content:""},{Name:"C-30 ARC",Content:""},{Name:"C-35 Carver",Content:""},{Name:"C-40 Crusher",Content:`Crushers are heavy-duty [[Treads|treading]] trash (you) compacting machines plated in [[Damper Plating]], rendering them nearly immune to electromagnetic damage. Crushers will attempt to compact anything that is not a Crusher, and their Compactor is a VERY formidable melee weapon (does not drop) that will either [[B]]destroy or drop a few of your parts[[/B]]. Weak to explosions and strong against melee (which would be a bad idea regardless).
 
 Due to their extreme lethality in melee, stay out of their range at all costs, and maybe just run the hell out of [[Wastes]]. Alternatively pack a good launcher or a good critical weapon, as their plating will tank most of your shots.`},{Name:"C-55 Analyst",Content:""},{Name:"C-57 Dissector",Content:""},{Name:"C-65 Expert",Content:""},{Name:"CL-ANK",Content:""},{Name:"Cetus Guard",Content:""},{Name:"Cobbler",Content:""},{Name:"Cogmind",Content:"That's you."},{Name:"Combat Drone",Content:""},{Name:"Combat Programmer",Content:""},{Name:"Commander",Content:""},{Name:"D-53 Grenadier",Content:""},{Name:"D-63 Destroyer",Content:""},{Name:"D-83 Annihilator",Content:""},{Name:"DAS Turret",Content:""},{Name:"Data Miner",Content:""},{Name:"Decomposer",Content:""},{Name:"Decoy Drone",Content:""},{Name:"Demented",Content:""},{Name:"Dragon",Content:""},{Name:"Drone",Content:""},{Name:"E-15 Imp",Content:""},{Name:"EX-BIN",Content:`[[Heading]]Parse[[/Heading]]
@@ -159,7 +159,7 @@ Attaching unknown [[Alien Artifacts]] or [[Prototype Part|Prototype Parts]] with
 [[Sub. Machine Gun]]|
 [[Sub. Monowheel]]|
 [[Sub. Laser]]|
-[[Sub. Power Source]]|
+[[Sub. Power Source]]
 [[/List]]
 
 [[Heading]]Uncommon: ~3.33% (1/30) chance of each[[/Heading]]
@@ -551,7 +551,7 @@ Spacefolds can allow for longer-range safe [[Digging|digs]]. While a [[Microwarp
 [[/List]]`},{Name:"Spear",Content:""},{Name:"Spectral Analyzer",Content:""},{Name:"Spk. Heavy Treads",Content:""},{Name:"Spk. Medium Treads",Content:""},{Name:"Spk. Treads",Content:""},{Name:"Splice Drone Bay",Content:"Deploys [[Splice Drone|Splice Drones]]."},{Name:"Splice Injector",Content:""},{Name:"Spread Laser",Content:""},{Name:"Stasis Beam",Content:""},{Name:"Stasis Canceller",Content:""},{Name:"Stasis Projector",Content:""},{Name:"Stasis Trap",Content:`Stasis Traps are [[Traps]] found in 0b10-controlled areas, and are especially common in [[Garrison|Garrisons]]. They are uniquely the only trap type to temporarily remain after being triggered, the only extractable trap type that cannot be stored inside [[Trap Extractors]], as well as the only trap type to be extractable [[I]]after[[/I]] being triggered (but before being depleted).
 
 [[Heading]]Triggering[[/Heading]]
-While the probability of triggering traps is based on current [[Propulsion]] type, the probability of triggering Stasis Trap is the opposite of regular Traps :
+While the probability of triggering traps is based on current [[Propulsion]] type, the probability of triggering Stasis Trap is the opposite of regular Traps:
 [[Table]]
 Mode|Probability| Min. depletion on move
 || Overweight | 100% | N/A
@@ -572,7 +572,7 @@ Attempting to move away from the stasis field will cause it to deplete by an amo
 This means that detaching heavy parts can significantly speed up field depletion.
 Note that attempting to move away always takes 1 turn, regardless of current movement speed, with the exception of the movement that finishes depleting the field.
 Because of this, a spare Threads part can work as a makeshift [[Stasis Canceller]].
-|Taking damage while in a stasis field will reduce that damage by 25% and deplete the stasis field by 1% per 3 damage reduced.
+|Taking damage while in a stasis field will reduce that damage by 25% and deplete the stasis field by 1% per 1 damage reduced. So for example, 4 damage will be reduced to 3 damage and 1 damage will be redirected to 1% stasis depletion.
 |Using a Stasis Canceller and moving away from the trap will deplete it instantly.
 |If the Stasis Trap is friendly, using a Trap Extractor will extract it and its stasis field, conserving whatever was left of the field strength.
 |If an explosion occurs and destroys the Stasis Trap itself, the stasis field will also disappear, and the corresponding [[Mechanics Achievements|Mechanics Achievement]] "Short-term Sacrifices" will be unlocked if it wasn't already.
@@ -5588,7 +5588,51 @@ Note: Unlike most other maps, in [[Access]] bots are not evacuated. The evacuati
 DSFs have a unique rapid sterilization system that works much quicker than normal sterilization. Ambient heat increases begin only 20 turns after the initial announcement and occur every 15 turns after that.
 
 [[Heading]]Part Melting[[/Heading]]
-After Sterilization is triggered, parts will begin to melt every 30-40 turns and be destroyed instantly. Parts that are 200 integrity or greater are safe from melting. Parts with a lower integrity are more likely to melt than those with higher integrity. For example, [[Treads]] and [[Armor]] tend to last longer or be immune to melting altogether, while fragile processors will melt almost instantly. Parts only melt when within a 20-tile radius around Cogmind, so with a good enough speed, timing, and luck, it is possible to grab parts that would otherwise melt quickly in the heat.`},{Name:"Strategy",Content:"Strategy guides to complete various content. Also see [[aoemica's Flight Guide]]."},{Name:"Strategy/Attacking Scraptown",Content:`[[Scraptown]] is an extremely challenging mid-game area to fight and full-clear. The majority of the armed bots are individually weak, but they appear in the dozens and can easily overwhelm Cogmind and any allies. Many unique items are only obtainable by destroying terrain or killing certain bots, which can make attacking Scraptown seem like a promising endeavor. However, there is a serious drawback of going for a full clear or even smashing a container for one item and running: The [[Zion]] and [[Warlord (Location)]] maps will become hostile when Cogmind tries to enter them. The [[Scraptown#civil_war|Civil War]] is a highly recommended alternative to gaining loot from this map. It is much easier and less risky than a full Scraptown murder is. As such, a Scraptown kill is a challenge that exists more for bragging rights than being a truly beneficial move.
+After Sterilization is triggered, parts will begin to melt every 30-40 turns and be destroyed instantly. Parts that are 200 integrity or greater are safe from melting. Parts with a lower integrity are more likely to melt than those with higher integrity. For example, [[Treads]] and [[Armor]] tend to last longer or be immune to melting altogether, while fragile processors will melt almost instantly. Parts only melt when within a 20-tile radius around Cogmind, so with a good enough speed, timing, and luck, it is possible to grab parts that would otherwise melt quickly in the heat.`},{Name:"Strategy",Content:"Strategy guides to complete various content. Also see [[aoemica's Flight Guide]]."},{Name:"Strategy/Alignments",Content:"Strategy guides for particular alignments."},{Name:"Strategy/Alignments/X0-1V1",Content:`Although being capable of adapting to the chaos is the primary tool to survive praying to [[X0-1V1]], strategizing with them is very difficult, as their chaotic effects can cause any plan to go sideways really quickly. And while Cogmind is generally more resilient than usual thanks to both the lower long-term downside of taking risks or attaching [[Corrupted Parts]], which is reduced by the relatively common core restoration and Corruption-reducing effects (among others) and the fact that getting unlucky is slightly offset by the amusement it provides X0-1V1, [[Alert]] also rises more easily and quickly than usual.
+
+[[Heading]]General[[/Heading]]
+[[Heading:2]]Maintaining your build[[/Heading]]
+Due to the higher average damage taken and the part repair effect being fairly rare (especially compared to the core integrity restoration and the corruption-reducing effects), being capable of maintaining your own build without relying on X0-1V1 is crucial. For several builds, the [[Sfc. Transmogrifier]] is particularly helpful as it also amuses X0-1V1, though it prevents reliable use of other parts like [[Signal Interpreters]]. The [[Scrap Engine]] can likewise be really helpful, especially with complementary permanent buffs. This is also true of [[GOLEM Unit|GOLEM Units]], though X0-1V1 makes getting those more difficult than usual. Various alignments can also help with restocking parts.
+
+[[Heading:2]]Using the permanent buffs[[/Heading]]
+The permanent buffs are the most important thing to adapt to (when they're useful enough), as making good use of them can drastically benefit your odds of survival. For example, additional ranged accuracy makes long-range combat more favorable, additional mass support would suggest [[Flight]] or [[Hover]]-based propulsion, while additional energy capacity would benefit both [[Shield Generators]]/[[Force Fields]] and [[Electromagnetic Weapons]].
+
+[[Heading:2]]Adapting to slot mutations[[/Heading]]
+The very disruptive slot mutation effect is worth keeping in mind, as it requires dedicating an extra slot to whatever a build may consider the minimum necessary to function. For instance, a powerful four-slot weapon would require evolving 3 weapon slots to make sure the minimum four slot are always available even when one gets taken away, and a flight build might need an extra propulsion slot to have enough mass support at all times. The Scrap Engine, however, is largely resistant to this effect since it cannot affect construct-occupied slots.
+
+[[Heading:2]]Submaps and entertainment[[/Heading]]
+As X0-1V1's entertainment remains the same when entering/exiting Garrisons, [[Wastes]] or [[DSF|DSFs]] (as opposed to [[Branch|branches]] or even just going to the next main floor), visiting submaps can be more useful than usual. [[RIF]] is especially powerful with X0-1V1's ability to add charges to [[Relay Couplers]] and the potential free random RIF ability. Wastes can be helpful to lower the overall higher alert, and can even raise X0-1V1's amusement when entering via an unknown [[Chute Trap]], though some effects make the area much more dangerous as well.
+
+[[Heading:2]]Dealing with [[CY-PHR]][[/Heading]]
+X0-1V1's effects do not directly affect hacking, while CY-PHR only affects hacking, and both of them independently cause the overall danger and alert to be higher than usual. As a result, having both active at once is absolutely terrible, especially given that none of CY-PHR's effects amuse X0-1V1. Either try to avoid getting targeted by CY-PHR, or try to trigger them early while hoping they appear on an early floor and be prepared to deal with them then.
+
+
+[[Heading]]Branches[[/Heading]]
+While the long-term benefit many branches offer are often worth more after praying to X0-1V1, their chaotic effects make most of those branches even more dangerous than usual to travel through or reach.
+
+[[Heading:2]][[Caves|Lower/Upper/Proximity Caves]][[/Heading]]
+X0-1V1's ability to teleport Cogmind into nearby dangers, vaporize nearby terrain or cause an IFF burst all make Caves maps much more dangerous. 0b10 outposts specifically are most dangerous, especially near the start of the second Lower/Upper Caves map of the depth. A [[Transmission Jammers|Transmission Jammer]] or [[Cloaking Devices|Cloaking Device]] can help mitigate this danger. Detecting 0b10 outposts and [[Behemoth|Behemoths]] from far away and taking long paths around is the best way to prevent X0-1V1's effects from alerting those, though the map generation does not always provide such paths.
+
+As several X0-1V1 effects can cause Cogmind to drop parts, including inventory parts, take precaution near [[Decomposer|Decomposers]] or shoot them on sight to avoid getting your parts decomposed.
+
+
+[[Heading:2]][[Scraptown]][[/Heading]]
+While X0-1V1 will not cause random effects while Scraptown is peaceful, they will still transform the Shadow of the Wyrm association's Wyrm Statue into a [[Chaos Wyrm]] if Cogmind gets close enough to it, which will immediately turn the [[UFD]] hostile. While this is terrible when Cogmind is in bad condition or unprepared, the Chaos Wyrm is an extremely powerful ally that is more than capable of taking on large groups of robots and even [[Triborg]] (whether by raw damage, corruption, or meltdown critical), making it the easiest method of attacking Scraptown. Caution is still advised, as X0-1V1 will start acting again after hostilities begin, and their "Enjoy the ride!" effect can easily put Cogmind in Triborg's line of fire.
+
+On a less chaotic note, if a fake part ([[Item Mimic]]) was found and recognized in a previous map, it can be intentionally attached to try to safely make it trigger an AOE Trap, making it possible to destroy walls/machines without turning Scraptown hostile, allowing access to parts normally only obtainable while fighting the UFD or during the civil war.
+
+[[Heading:2]][[Zion]][[/Heading]]
+If a fake part (Item Mimic) was found and recognized in a previous map, it can be intentionally attached near D4-RBY while there are few or no [[Zionite|Zionites]] in view that could arm themselves and kill the Item Mimic, making it possible to get [[D4-RBY's Behemoth Befriender]] without turning the map hostile.
+
+[[Heading:2]][[Deep Caves]][[/Heading]]
+With the ~50% chance that X0-1V1 will trigger the Wall when activating the Z-Facility proximity alert, going into this map without a good way to deal with the consequences is a terrible idea. X0-1V1 will not cause random effects on this map, meaning strategies do not need to account for their other effects.
+
+For a stealth build, a [[Visual Processing Units|Visual Processing Unit]] and/or [[Cloaking Devices|Cloaking Device]] can help spot [[Assembled]] groups from a safe distance to avoid them, a [[Terrain Scanners|Terrain Scanner]] with a good [[Terrain Scan Processors|Terrain Scan Processor]] can help find the exit and safe dig spots, while an [[IFF Parser]] or [[Sensor Arrays|Sensor Array]] can also help with digging by indicating whether the other end of a tunnel is safe. If the main goal of visiting the map was to get [[Z-Imprinter]]'s loot, a fast movement speed can allow avoiding the Assembled entirely by quickly reaching the exit after defeating her. A fast flight build may even be able to locate and reach the exit before Z-Imprinter can catch up, further lowering the chances of encountering Assembled groups. Having a [[Launchers|Launcher]] is still highly recommended, and [[Propulsion Shieldings|Propulsion Shielding]] may help to reach the exit without losing too many propulsion parts in really bad scenarios.
+
+For a combat build, several Launchers (especially a [[Rocket Array]] or [[Scatter Rocket Array]]), good [[Matter Compressors|Matter storage]] and/or [[Matter Filters|Matter Filtering]], and also a good [[Tractor Beams|Tractor Beam]] can help fight the groups of Assembled, a Visual Processing Unit can help spot them from a distance, and a Cloaking Device can make it easier to get close enough to use launchers more effectively. [[Armor]] can lower the chances of losing Launchers, and Allies can both distract Assembled and destroy lone ones. Allied [[Martyr|Martyrs]] or [[Demolisher|Demolishers]] are particularly helpful, but may be difficult to bring to this map. A fast combat build may be able to reach and destroy the [[Assembler|Assemblers]] before they can create too many new Assembled, especially if the [[Imprinter]] was destroyed in Zion or the Z-Imprinter was immobilized with [[Blade Trap|Blade Traps]] or [[Segregator Trap|Segregator Traps]]. However, the two [[Golem|Golems]] may make it difficult to deal with the Assemblers while they are still close to the Wall. 
+
+[[Heading:2]][[Research]] Branches[[/Heading]]
+Research Branches can be quite dangerous when the [[Prototype Robot|Prototype bots]] and [[Researcher|Researchers]] they contain are combined with X0-1V1's chaos. The danger teleport, terrain vaporization and IFF Burst effects can alert Prototype bots, and/or put Cogmind into combat situations in view of Researchers. The switcheroo effect can also turn a "safe" combat scenario into a mess by suddenly causing Cogmind to be near a Researcher. X0-1V1 may also send cosmic wind allies or new hostiles, both of which are bad when near Researchers. Both RIF and the Scraptown Research Penetration Think Tank code can be extremely valuable in dealing with Researchers in various scenarios.`},{Name:"Strategy/Attacking Scraptown",Content:`[[Scraptown]] is an extremely challenging mid-game area to fight and full-clear. The majority of the armed bots are individually weak, but they appear in the dozens and can easily overwhelm Cogmind and any allies. Many unique items are only obtainable by destroying terrain or killing certain bots, which can make attacking Scraptown seem like a promising endeavor. However, there is a serious drawback of going for a full clear or even smashing a container for one item and running: The [[Zion]] and [[Warlord (Location)]] maps will become hostile when Cogmind tries to enter them. The [[Scraptown#civil_war|Civil War]] is a highly recommended alternative to gaining loot from this map. It is much easier and less risky than a full Scraptown murder is. As such, a Scraptown kill is a challenge that exists more for bragging rights than being a truly beneficial move.
 
 [[Heading]]Items Obtainable by Murder[[/Heading]]
 The following items can be obtained by attacking Scraptown's inhabitants and are the main benefits of attacking:
@@ -5672,7 +5716,7 @@ Dig through the back of the Scrapoid Pod storage to get many more pods|
 Dig out the center earth tile in LU-1G1's Boring Crew room|
 Check rooms closed for remodelling for the rare Exp. Plasma Cutter|
 Smash open the wall hiding additional Botcubes in the Botcube Research room
-[[/List]]`},{Name:"Strategy/Bosses",Content:"Strategy guides to kill the 3 bosses in the game achieve +s on the scoresheet."},{Name:"Strategy/Bosses/Defeating Architect",Content:`[[Image]]Access_0 Entrance.png|Hostile Entrance to Access_0[[/Image]]
+[[/List]]`},{Name:"Strategy/Bosses",Content:"Strategy guides to kill the 3 bosses in the game which achieve +s on the scoresheet."},{Name:"Strategy/Bosses/Defeating Architect",Content:`[[Image]]Access_0 Entrance.png|Hostile Entrance to Access_0[[/Image]]
 [[Access_0]] is one of the hardest maps in the game that requires Cogmind to deal with numerous powerful threats on the map that gives very little breathing room for fixing a build that is starting to fall apart. Assuming [[MAIN.C]] is defeated in [[Command]], there is a large amount of preparation that can be done after all of the bots have become disabled. [[Command#command_cache_contents|MAIN.C's cache]] can provide some incredibly powerful parts, and the rest of the map can have plenty of goodies to grab. Since Access_0 is a very combat-oriented map, make sure to bring backups of essentials like power, propulsion, weapons, and armor. While there are some part caches in Access_0 itself, their contents are not particularly reliable and shouldn't be counted on to provide crucial backups. A more consistent source of parts are the drops from the [[Enhanced Bot|Enhanced Bots]] and the [[A Bots]], assuming weapons with neutral salvage can be used at least some of the time. There tend to be abundant legs and mediocre-quality power above all else from the [[Enhanced Grunt|Enhanced Grunts]] and [[Enhanced Hunter|Enhanced Hunters]]. The Grunt's [[Neutron Cannon|Neutron Cannons]] can serve in a pinch, but aren't impressive due to their middling damage and short range.
 
 [[Heading]]Propulsion Selection[[/Heading]]
@@ -8198,13 +8242,13 @@ Random slot type|+1|N/A|N/A[[/Table]]
 Note that the cost to maximum core integrity is optional only in the sense that it whether it is applied is dependent entirely on X0-1V1. According to Kyzrati, if a buff would take too much of remaining maximum core integrity, it is delayed until the cost is deemed acceptable. In practice, what this means is that high core-costing buffs are unlikely to occur because a different permanent effect can happen first. [[Comment]]Kyzrati said that that postpones the effect, but if that is true, does the postponed effect retain the same magnitude even on a different mood? It appears that the effect simply fails and it can roll for a new effect again immediately rather than saving the current effect.[[/Comment]]
 
 [[Heading:2]]Temporary buffs[[/Heading]]
-[[Expandable]]Show/hide temporary buffs|
+[[Expandable:Expanded]]Show/hide temporary buffs|
 [[Partial]]X0-1V1 Temporary Buffs[[/Partial]]
 [[/Expandable]]
 
 
 [[Heading:2]]Other "good" acts[[/Heading]]
-[[Expandable]]Show/hide other "good" acts|
+[[Expandable:Expanded]]Show/hide other "good" acts|
 [[Partial]]X0-1V1 Good Acts[[/Partial]]
 [[/Expandable]]
 
@@ -8213,13 +8257,13 @@ Note that the cost to maximum core integrity is optional only in the sense that 
 These effects will be written in red text in the log, and counted under "bad acts" in scoresheets, although some of them may actually be beneficial in some contexts. Some bad effects are similar to the effects of [[Corruption]].
 
 [[Heading:2]]Temporary debuffs[[/Heading]]
-[[Expandable]]Show/hide temporary debuffs|
+[[Expandable:Expanded]]Show/hide temporary debuffs|
 [[Partial]]X0-1V1 Temporary Debuffs[[/Partial]]
 [[/Expandable]]
 
 
 [[Heading:2]]Other "bad" acts[[/Heading]]
-[[Expandable]]Show/hide other "bad" acts|
+[[Expandable:Expanded]]Show/hide other "bad" acts|
 [[Partial]]X0-1V1 Bad Acts[[/Partial]]
 [[/Expandable]]
 
@@ -8241,52 +8285,9 @@ Log message|Area|Effect|Trigger||
 [[Heading]]Other interactions[[/Heading]]
 The [[Quantum Companion]]/[[Superquantum Companion]] has additional side effects when Cogmind has aligned with X0-1V1.
 
+
 [[Heading]]Strategy[[/Heading]]
-Although being capable of adapting to the chaos is the primary tool to survive praying to X0-1V1, strategizing with them is very difficult, as their chaotic effects can cause any plan to go sideways really quickly. And while Cogmind is generally more resilient than usual thanks to both the lower long-term downside of taking risks or attaching [[Corrupted Parts]], which is reduced by the relatively common core restoration and Corruption-reducing effects (among others) and the fact that getting unlucky is slightly offset by the amusement it provides X0-1V1, [[Alert]] also rises more easily and quickly than usual.
-
-[[Heading:2]]General[[/Heading]]
-[[Heading:3]]Maintaining your build[[/Heading]]
-Due to the higher average damage taken and the part repair effect being fairly rare (especially compared to the core integrity restoration and the corruption-reducing effects), being capable of maintaining your own build without relying on X0-1V1 is crucial. For several builds, the Sfc. Transmogrifier is particularly helpful as it also amuses X0-1V1, though it prevents reliable use of other parts like Signal Interpreters. The Scrap Engine can likewise be really helpful, especially with complementary permanent buffs. This is also true of [[GOLEM Unit|GOLEM Units]], though X0-1V1 makes getting those more difficult than usual. Various alignments can also help with restocking parts. 
-
-[[Heading:3]]Using the permanent buffs[[/Heading]]
-The permanent buffs are the most important thing to adapt to (when they're useful enough), as making good use of them can drastically benefit your odds of survival. For example, additional ranged accuracy makes long-range combat more favorable, additional mass support would suggest [[Flight]] or [[Hover]]-based propulsion, while additional energy capacity would benefit both [[Shield Generators]]/[[Force Fields]] and EM weapons.
-
-[[Heading:3]]Adapting to slot mutations[[/Heading]]
-The very disruptive slot mutation effect is worth keeping in mind, as it requires dedicating an extra slot to whatever a build may consider the minimum necessary to function. For instance, a powerful four-slot weapon would require evolving 3 weapon slots to make sure the minimum four slot are always available even when one gets taken away, and a flight build might need an extra propulsion slot to have enough mass support at all times. The Scrap Engine, however, is largely resistant to this effect since it cannot affect construct-occupied slots.
-
-[[Heading:3]]Submaps and entertainment[[/Heading]]
-As X0-1V1's entertainment remains the same when entering/exiting Garrisons, [[Wastes]] or [[DSF|DSFs]] (as opposed to Branches or even just going to the next main floor), visiting submaps can be more useful than usual. RIF is especially powerful with X0-1V1's ability to add charges to Relay Couplers and the potential free random RIF ability. Wastes can be helpful to lower the overall higher alert, and can even raise X0-1V1's amusement when entering via an unknown Chute Trap, though some effects make the area much more dangerous as well.
-
-[[Heading:3]]Dealing with CY-PHR[[/Heading]]
-X0-1V1's effects do not directly affect hacking, while CY-PHR only affects hacking, and both of them independently cause the overall danger and alert to be higher than usual. As a result, having both active at once is absolutely terrible, especially given that none of CY-PHR's effects amuse X0-1V1 and that CY-PHR's only positive effect (preventing other unchained from being dispatched) is shared by X0-1V1 and is thus redundant. Either try to avoid getting targeted by CY-PHR, or try to trigger them early while hoping they appear on an early floor and be prepared to deal with them then.
-
-
-[[Heading:2]]Branches[[/Heading]]
-While the long-term benefit many branches offer are often worth more after praying to X0-1V1, their chaotic effects make most of those branches even more dangerous than usual to travel through or reach.
-
-[[Heading:3]][[Caves|Lower/Upper/Proximity Caves]][[/Heading]]
-X0-1V1's ability to teleport Cogmind into nearby dangers, vaporize nearby terrain or cause an IFF burst all make Caves maps much more dangerous. 0b10 outposts specifically are most dangerous, especially near the start of the second Lower/Upper Caves map of the depth. A [[Transmission Jammers|Transmission Jammer]] or [[Cloaking Devices|Cloaking Device]] can help mitigate this danger. Detecting 0b10 outposts and Behemoths from far away and taking long paths around is the best way to prevent X0-1V1's effects from alerting those, though the map generation does not always provide such paths.
-
-As several X0-1V1 effects can cause Cogmind to drop parts, including inventory parts, take precaution near [[Decomposer|Decomposers]] or shoot them on sight to avoid getting your parts decomposed.
-
-
-[[Heading:3]][[Scraptown]][[/Heading]]
-While X0-1V1 will not cause random effects while Scraptown is peaceful, they will still transform the Shadow of the Wyrm association's Wyrm Statue into a Chaos Wyrm if Cogmind gets close enough to it, which will immediately turn the UFD hostile. While this is terrible when Cogmind is in bad condition or unprepared, the Chaos Wyrm is an extremely powerful ally that is more than capable of taking on large groups of robots and even Triborg (whether by raw damage, corruption, or meltdown critical), making it the easiest method of attacking Scraptown. Caution is still advised, as X0-1V1 will start acting again after hostilities begin, and their "Enjoy the ride!" effect can easily put Cogmind in Triborg's line of fire.
-
-On a less chaotic note, if a fake part (Item Mimic) was found and recognized in a previous map, it can be intentionally attached to try to safely make it trigger an AOE Trap, making it possible to destroy walls/machines without turning Scraptown hostile, allowing access to parts normally only obtainable while fighting the UFD or during the civil war.
-
-[[Heading:3]][[Zion]][[/Heading]]
-If a fake part (Item Mimic) was found and recognized in a previous map, it can be intentionally attached near D4-RBY while there are few or no [[Zionite|Zionites]] in view that could arm themselves and kill the Item Mimic, making it possible to get [[D4-RBY's Behemoth Befriender]] without turning the map hostile.
-
-[[Heading:3]][[Deep Caves]][[/Heading]]
-With the ~50% chance that X0-1V1 will trigger the Wall when activating the Z-Facility proximity alert, going into this map without a good way to deal with the consequences is a terrible idea. X0-1V1 will not cause random effects on this map, meaning strategies do not need to account for their other effects.
-
-For a stealth build, a Visual Processing Unit and/or Cloaking Device can help spot Assembled groups from a safe distance to avoid them, a [[Terrain Scanners|Terrain Scanner]] with a good [[Terrain Scan Processors|Terrain Scan Processor]] can help find the exit and safe dig spots, while an IFF Parser or Sensor Array can also help with digging by indicating whether the other end of a tunnel is safe. If the main goal of visiting the map was to get [[Z-Imprinter]]'s loot, a fast movement speed can allow avoiding the Assembled entirely by quickly reaching the exit after defeating her. A fast flight build may even be able to locate and reach the exit before Z-Imprinter can catch up, further lowering the chances of encountering Assembled groups. Having a [[Launchers|Launcher]] is still highly recommended, and [[Propulsion Shieldings|Propulsion Shielding]] may help to reach the exit without losing too many propulsion parts in really bad scenarios.
-
-For a combat build, several Launchers (especially a [[Rocket Array]] or [[Scatter Rocket Array]]), good [[Matter Compressors|Matter storage]] and/or [[Matter Filters|Matter Filtering]], and also a good [[Tractor Beams|Tractor Beam]] can help fight the groups of Assembled, a Visual Processing Unit can help spot them from a distance, and a Cloaking Device can make it easier to get close enough to use launchers more effectively. [[Armor]] can lower the chances of losing Launchers, and Allies can both distract Assembled and destroy lone ones. Allied [[Martyr|Martyrs]] or [[Demolisher|Demolishers]] are particularly helpful, but may be difficult to bring to this map. A fast combat build may be able to reach and destroy the Assemblers before they can create too many new Assembled, especially if the [[Imprinter]] was destroyed in Zion or the Z-Imprinter was immobilized with [[Blade Trap|Blade Traps]] or [[Segregator Trap|Segregator Traps]]. However, the two Golems may make it difficult to deal with the Assemblers while they are still close to the Wall. 
-
-[[Heading:3]][[Research]] Branches[[/Heading]]
-Research Branches can be quite dangerous when the [[Prototype Robot|Prototype bots]] and [[Researcher|Researchers]] they contain are combined with X0-1V1's chaos. The danger teleport, terrain vaporization and IFF Burst effects can alert Prototype bots, and/or put Cogmind into combat situations in view of Researchers. The switcheroo effect can also turn a "safe" combat scenario into a mess by suddenly causing Cogmind to be near a Researcher. X0-1V1 may also send cosmic wind allies or new hostiles, both of which are bad when near Researchers. Both RIF and the Scraptown Research Penetration Think Tank code can be extremely valuable in dealing with Researchers in various scenarios.
+See [[Strategy/Alignments/X0-1V1]].
 
 
 [[Heading]]Trivia[[/Heading]]
