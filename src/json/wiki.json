@@ -8240,7 +8240,7 @@
   },
   {
    "Name": "Perfect Tracking",
-   "Content": "Bots with perfect tracking will know where [[Cogmind]] is at all times. Most bots with this will lose it upon sighting Cogmind."
+   "Content": "Bots with perfect tracking now where [[Cogmind]] is at all times. There are two kinds of perfect tracking. The first kind is true perfect tracking where the tracker can't lose track of Cogmind's position no matter what. This is used by some types of \"boss\" bots like [[Unchained]] and [[Architect]]. The second kind is limited perfect tracking where the tracker only has perfect tracking until spotting Cogmind. Standard memory applies after the initial visual contact, which means that these bots can be ditched with high speed and [[ECM Suites]] or forms of teleportation. This second type is used by [[Intercept Squad|Intercept Squads]]."
   },
   {
    "Name": "Phase Generator",
