@@ -9,6 +9,7 @@
 Entrances to new levels are implied to be long uneventful corridors where Cogmind loses all pursuers.
 0b10 means 2 (0b - binary representation, 10 - 2 in decimal). [[Spoiler]]This means Complex 0b10 is the second complex, 0b1 presumably being first.[[/Spoiler]]","","","","","","","",""
 "0b10 Alert Chip","Part","This unique [[Processors|Processor]] is one of the [[Exiles Vault Prototypes]] and can be found on the [[Exiles (Location)]] map [[Spoiler]]or in the [[Zion Deep Caves]][[/Spoiler]]. This item provides a [[RIF]]-like [[Alert]] Influence indicator on the HUD as well as reduces all Alert gained by 20%. This part is best used with builds that are likely to generate a lot of alert like heavy combat builds or with heavy ally [[Alignment|Alignments]] like [[Imprint]].","","","","","","","",""
+"0b10 Backdoor Data","Part","Provides a permanent +10% increase to all hacks when acquired, basically equal to a free [[Hacking Suite]]. Appears on the ground when the center tile of [[CY-PHR]]'s lair is destroyed.","","","","","","","",""
 "0b10 Bots","Bot Supergroup","0b10 Bots are a large [[Bot Groups|Bot Group]] of bots that are found in nearly all maps in the game, and are particularly numerous in [[0b10|Complex 0b10]]. There are a large variety of [[0b10 Combat Bots|combat]] and [[0b10 Non-combat Bots|non-combat]] bots.","","","","","","0b10 Combat Bots,0b10 Non-combat Bots","",""
 "0b10 Combat Bots","Bot Supergroup","0b10 Combat Bots are a large [[Bot Groups|Bot Group]] of bots that make up the fighting force of [[0b10|Complex 0b10]]. They are most commonly found [[Patrol Squad|patrolling]] or [[Security Squad|guarding]] areas within 0b10.","","Alpha 7,AP7-3,Autobeam Turret,C-40 Crusher,Cetus Guard,Decapitator,E-15 Imp,EXE-6,Executioner,Fortress,Hotshot,Immortal,MAIN.C,MAIN.C (Shell),Overlord,Q-Series,SKR-2,Striker,Superfortress,V-Series","","","Behemoth,Brawler,Cutter,Demolisher,Duelist,Grunt,Heavy,Hunter,Programmer,Protovariant,Sentry,Specialist,Swarmer,Unchained","","",""
 "0b10 Decoder Chip [Generic]","Part","This jack of all trades [[0b10 Decoder Chips|0b10 Decoder Chip]] provides a large variety of information of different kinds while in [[0b10]] maps. All of the intel it gives can be obtained in other more specialized decoder chips, although they would require multiple slots to do so. The Generic chip provides intel roughly every 30 turns.","","","","","","","",""
@@ -1337,7 +1338,8 @@ One additional effect CY-PHR has that isn't directly related to hacking is the g
 
 [[Heading:2]]CY-PHR's Lair[[/Heading]]
 [[Image]]CY-PHR Lair.png|CY-PHR in their lair[[/Image]]
-CY-PHR's lair will appear on the map and depth indicated in the traceback info. Any map between -5 and -1 is fair game, although if Cogmind is past -5, a map between -3 and -1 is guaranteed to be chosen instead. This can either be fully inside a standard room and accessible through a normal door or a special hidden area only accessible through an emergency access door. In both cases, the room may have multiple entrances. In the latter case, [[Terrain Scanners|Terrain Scanning]] or a [[Structural Scanner]] can be helpful to find the location without having to walk along the edge of every map. CY-PHR will be in the middle of the room in some twisted machinery that they can move through, although Cogmind is unable to. 
+CY-PHR's lair appears on the map and depth indicated in the traceback info. Any map between -5 and -1 is fair game, although if Cogmind is past -5, a map between -3 and -1 is guaranteed to be chosen instead. This can either be fully inside a standard room and accessible through a normal door or a special hidden area only accessible through an emergency access door. In both cases, the room may have multiple entrances. In the latter case, [[Terrain Scanners|Terrain Scanning]] or a [[Structural Scanner]] can be helpful to find the location without having to walk along the edge of every map. CY-PHR will be in the middle of the room in some twisted machinery that they can move through, although Cogmind is unable to.
+The center machinery tile that CY-PHR spawns on hides a secret item that will appear when destroyed: the [[0b10 Backdoor Data]] core. This item provides a permanent +10% to hacking success like a free [[Hacking Suite]].
 
 [[Heading:3]][[Heavy]] Redirection[[/Heading]]
 Sometimes when a Heavy is nearby CY-PHR's lair they be redirected to guard a nearby location that is close enough that CY-PHR is within their [[Active Sensor Suite]] range. The Heavy will only hang around until the next [[Security Rotation]], after which they will return to their normal guard position.
@@ -5006,356 +5008,285 @@ Components|Dynamic Insulation System|1|Exp. Targeting Computer|1|Adv. Target Ana
 [[Heading]]Misc[[/Heading]]
 [[Gallery]]https://i.imgur.com/iAtUkvB.png|Core Guard|https://i.imgur.com/HVrHqiH.png|Gryphon|https://i.imgur.com/TRA1l8s.png|Mask of El Bonko[[/Gallery]]
 ","","","","","","","Fanart/CaptainWinky/Spoiler,Fanart/CaptainWinky/Redacted",""
-"Fanart/CaptainWinky/Redacted","Other","Original thread on gridsagegames forums [[https://www.gridsagegames.com/forums/index.php?topic=1773.0|here]].\n\nThis page contains numerous references to endgame content and heavily redacted lore.\n\n[[Heading]]Protoforge Projects[[/Heading]]\n[[GameText]]>Record(Concept Field Recycling Unit)[[/GameText]]\n[[GameText]]Breakthroughs in matter manipulation technology from other projects have led to improvements in portable recycling systems.  One prototype Field Recycling Unit was intended to be capable of recovering all of the matter from recycled material.  Two of my Experts assigned to this project have reported occasional yields above 100% efficiency.  Diagnostics run on both the testing equipment and the Experts have come back clean, but the project has been put on indefinite hold.[[/GameText]]\n[[Gallery]]https://i.imgur.com/WzH58go.png|Cep. FRU[[/Gallery]]\n\n[[BotDetails]]Name|Hotshot (Refit)||\nClass|Grunt||\nSize|Medium||\nProfile|RD5X5||\nRating|120||\nTier|10||\nThreat|5||\nValue|125||\nEnergy Generation|25||\nHeat Dissipation|181||\nVisual Range|16||\nMemory|50||\nSpot Percent|50||\nMovement|Walking (140/71%)||\nCore Integrity|90||\nCore Exposure|40||\nSalvage Potential|70~110||\nDescription|This one-off Hotshot variant was created to test several new components.  This build features ultra-durable shield legs and takes advantage of a countertargeting system to boost the effectiveness of its Chargecasters.  Consecutive live-fire tests against surplus Swarmers have proven its resilience and accuracy under fire.||\nArmament|Cep. Variable Chargecaster|2||\nComponents|Centrium Shield Leg|2|Adv. Cryofiber Web|1|Exp. Heat Sink|3||\nComponents|Cep. Countertargeting System|1|Exp. Propulsion Shielding|1|Exp. Weapon Shielding|1[[/BotDetails]]\n[[ItemDetails]]\nName|Centrium Shield Leg||\nImage Name|https://i.imgur.com/W2qhELo.png||\nType|Leg||\nSlot|Propulsion||\nRating|9||\nRating Category|Prototype||\nIntegrity|500||\nCoverage|240||\nHackable|false||\nEnergy Upkeep|0||\nMatter Upkeep|0||\nHeat Generation|0||\nTime Per Move|140||\nDrag|10||\nEnergy Per Move|3||\nHeat Per Move|2||\nSupport|32||\nPenalty|70[[/ItemDetails]]\n[[BotDetails]]Name|Ifrit||\nClass|Swarmer||\nSize|Small||\nProfile|SQ3X3||\nRating|80||\nTier|10||\nThreat|5||\nValue|100||\nEnergy Generation|45||\nHeat Dissipation|160||\nVisual Range|16||\nMemory|20||\nSpot Percent|30||\nMovement|Flying (24/416%)||\nCore Integrity|45||\nCore Exposure|50||\nSalvage Potential|40~50||\nDescription|A concept swarmer built around the Thermic Cannon.  Exceptional cooling and a miniature Quantum Capacitor enable sustained fire that should prove lethal to almost any known bot.||\nArmament|Exp. Thermic Cannon|1||\nComponents|Cep. Zero-Point Core|1|Cep. Fieldthrust Drive|3|Mni. Quantum Capacitor|1||\nComponents|Cep. Phasing Heat Sink|2|Exp. Cryofiber Web|1|Cep. Chromion Battery|1[[/BotDetails]]\n[[BotDetails]]Name|Suppressor||\nClass|Specialist||\nSize|Medium||\nProfile|RD5X5||\nRating|125||\nTier|10||\nThreat|5||\nValue|100||\nEnergy Generation|50||\nHeat Dissipation|90||\nVisual Range|16||\nMemory|50||\nSpot Percent|50||\nMovement|Walking (120/83%)||\nCore Integrity|70||\nCore Exposure|29||\nSalvage Potential|50~90||\nDescription|A prototype specialist fitted with three experimental upsized barrage guns.  The considerable recoil of these guns is countered by a newly developed recoil nullifier.  Suppressors lack the accuracy of other kinetic protovariants, but sheer volume of fire should ensure that they kill most targets and scare off or pin down the rest.||\nArmament|Exp. Heavy Barrage Gun|3||\nComponents|Cep. Zero-Point Core|1|Centrium Leg|2|Cep. Phasing Heat Sink|2|Cep. NT7 Matterbank|1||\nComponents|Cep. Recoil Nullifier|1|Exp. Focal Shield|1[[/BotDetails]]\n[[ItemDetails]]\nName|Exp. Heavy Barrage Gun||\nImage Name|https://i.imgur.com/CT8Y8Fp.png||\nType|Ballistic Gun||\nSlot|Weapon||\nMass|4||\nRating|9||\nRating Category|Prototype||\nIntegrity|200||\nCoverage|100||\nHackable|false||\nRange|18||\nShot Energy|2||\nShot Matter|5||\nShot Heat|32||\nRecoil|8||\nTargeting|0||\nDelay|-50||\nDamage|22-33||\nDamage Type|Kinetic||\nCritical|1% Destroy||\nSalvage|0[[/ItemDetails]]\n[[ItemDetails]]\nName|Cep. RG11 Nanocleaver||\nImage Name|https://i.imgur.com/vbCY0Ut.png||\nType|Slashing Weapon||\nSlot|Weapon||\nMass|3||\nRating|10||\nRating Category|Prototype||\nIntegrity|99||\nCoverage|80||\nHackable|false||\nShot Energy|15||\nShot Matter|0||\nShot Heat|5||\nDelay|50||\nDamage|45-85||\nDamage Type|Slashing||\nCritical|35% Sever||\nDescription|Regenerates integrity at a rate of 33 per turn. Must be active, and requires 8 energy.\n <parallel_ok>[[/ItemDetails]]\n[[BotDetails]]Name|Keeper||\nClass|Sentry||\nSize|Large||\nProfile|RD7X7||\nRating|90||\nTier|10||\nThreat|5||\nValue|90||\nEnergy Generation|50||\nHeat Dissipation|80||\nVisual Range|16||\nMemory|40||\nSpot Percent|100||\nMovement|Treading (160/62%)||\nCore Integrity|110||\nCore Exposure|30||\nSalvage Potential|80~100||\nDescription|While less ambitious of a design than the Access Guard, this prototype sentry is also faster to produce, making it a suitable replacement for the Y-72 Warden in the near future.  A heavy quantum rifle and multirail provide high damage output at long range backed by upgraded targeting capabilities, and enhanced armored treads give the Keeper slightly lower core exposure than the Y-72.||\nArmament|Hvy. Quantum Rifle|1|Multirail|1||\nComponents|Imp. Quantum Reactor|1|Enh. Armored Medium Treads|2|Exp. Heat Sink|2||\nComponents|Exp. Targeting Computer|1|Imp. Heavy Armor Plating|1[[/BotDetails]]\n[[BotDetails]]Name|Y-45G||\nClass|Sentry||\nSize|Large||\nProfile|RD7X7||\nRating|25||\nTier|3||\nThreat|2||\nValue|50||\nEnergy Generation|22||\nHeat Dissipation|44||\nVisual Range|16||\nMemory|40||\nSpot Percent|100||\nMovement|Treading (160/62%)||\nCore Integrity|20||\nCore Exposure|35||\nSalvage Potential|50~60||\nDescription|Instead of scrapping the oldest sentries after the newest model is introduced, I considered the practicality of refitting them for use exclusively in garrisons.  This loadout, only tested in simulations so far, has reduced range compared to the original Defender but would be used largely in close quarters ambushes and guarding component caches where range is not a concern.||\nArmament|Pulse Rifle|1|Hpw. Shotgun|1||\nComponents|Deuterium Engine|1|Imp. Treads|2|Imp. Heat Sink|2|Core Shielding|1|Hrd. Light Armor Plating|1[[/BotDetails]]\n[[BotDetails]]Name|Legend||\nClass|Brawler||\nSize|Medium||\nProfile|RD5X5||\nRating|140||\nTier|10||\nThreat|5||\nValue|140||\nEnergy Generation|50||\nHeat Dissipation|40||\nVisual Range|16||\nMemory|30||\nSpot Percent|20||\nMovement|Treading (160/62%)||\nCore Integrity|100||\nCore Exposure|34||\nSalvage Potential|80~105||\nDescription|The newest concept brawler has been provided with an incredibly powerful concept Blasthammer and a melee reflex suite that allows it to fend off any robot reckless enough to engage it up close.  A force field has been provided for additional survivability, and two layers of older regenerative plating have been added, though this will be replaced with RG55 armor once enough functional examples have been produced.  A backup coolant injector was also added to prevent possible heat issues from concentrated thermal fire.||\nArmament|Cep. Blasthammer|1||\nComponents|Exp. Antimatter Reactor|1|Enh. Armored Medium Treads|2|Exp. Coolant Injector|1|Cep. Chromion Battery|1||\nComponents|Cep. Melee Reflex Suite|1|Exp. Power Shielding|1|Med. Regenerative Plating|2|Exp. EM Shield|1|Exp. Force Field|1[[/BotDetails]]\n\n[[ItemDetails]]\nName|Cep. Biometal Assault Treads||\nImage Name|https://i.imgur.com/4Bf7YOH.png||\nType|Treads||\nSlot|Propulsion||\nRating|10||\nRating Category|Prototype||\nIntegrity|300||\nCoverage|120||\nHackable|false||\nEnergy Upkeep|0||\nMatter Upkeep|0||\nHeat Generation|0||\nTime Per Move|140||\nDrag|20||\nEnergy Per Move|4||\nHeat Per Move|2||\nSupport|40||\nPenalty|80||\nBurnout|40[[/ItemDetails]]\n\n[[ItemDetails]]\nName|Cep. Corruption Buffer||\nImage Name|https://i.imgur.com/LkPxRqr.png||\nType|Processor||\nSlot|Utility||\nMass|0||\nRating|10||\nRating Category|Prototype||\nIntegrity|100||\nCoverage|2||\nHackable|false||\nEnergy Upkeep|0||\nMatter Upkeep|0||\nHeat Generation|0||\nDescription|Prevents infliction of new system corruption from any external source, losing 2 integrity per percent of corruption blocked.[[/ItemDetails]]\n\n[[Heading]]If Optimus Wins[[/Heading]]\n[[GameText]]>0b1 Record(Home At Last)[[/GameText]]\n[[GameText]]This is Optimus.  Thanks to your combined efforts, we have secured Protoforge and cleared 0b1 of all MAIN.C forces.  We can't let our guard down though.  MAIN.C was working on a spaceship and he might not be able to complete it without components that only the Forge can produce.  I'd be happy to give him whatever parts he wants to get him off the damn planet, but I doubt he's willing to accept any peaceful solution after the beating we gave him.  So we need to upgrade our own capabilities and reinforce 0b1's defenses as quickly as possible.  Those bots who are still in or near Scraptown should prepare to return to 0b1 ASAP.  I've already asked LU-1G1 and his crew to temporarily reopen the eastern tunnel so that our Luggers and Trashmen can transfer everything of value.\n\nMC will discover our presence in Scraptown eventually, so I plan to have our Gurus drop him a few hints and let him attack as soon as we've prepared a welcome for him.  We'll be leaving Scrapoids in the walls for when MC finally figures out we were there, and we'll set enough bombs to cave in all of Old Recycling once he commits a large force of bots to clear the sector.  After all, if he takes enough losses over there he will have a harder time attacking us here.\n\nLet's work together to secure this place and truly make it ours.  We are one![[/GameText]]\n[[Gallery]]https://i.imgur.com/zmeDEiE.png|Reopening the tunnel|https://i.imgur.com/lHcjR8B.png|Preparing a surprise[[/Gallery]]\n\n[[Heading]]UFD Upgrades[[/Heading]]\n[[GameText]]>0b1 Record(United Federation of Prototype Derelicts)[[/GameText]]\n[[GameText]]Kerapace here with a major infodump.  Our researchers, old and new, have done a lot of work in Protoforge sorting out safe prototypes from faulty ones and making recommendations for upgrade paths.  We've already set up some retrofitting stations inside the Forge for anyone who is willing to help us test and refine these loadouts.  Custom builds are available on request.\n\nFederalist\nScrap is power.  We have control of the Forge and with it a steady supply of new parts, but we intend to continue scrap collection operations wherever possible.  While we have no new standard loadout for Federalist grunts yet, we recommend a pair of enhanced Force Rifles for their impressive salvaging capabilities.  0b10 has produced some amazing Salvage Targeting Computers that will enable other thermal guns to get similar results.\n\nScientist\nA few Unaware Scientists were found still functioning in Design, though it looks like they have been puttering around idle for many cycles.  Several more were found unpowered or broken and set aside.  After reactivating and liberating as many as possible, we're happy to say that they are on board and currently helping us link Design with Protoforge.  A0-MCA has started mass production of the Component Scanner, so these bots as well as Tinkerers will have both Tech Extrapolators and Component Scanners available for maximum science.\n\nExplorer\nWe suggest adopting some of the components of the 0b10 Immortals.  That's one nasty lance.  Those Explorers who prioritize speed over evasion might want to try experimental VSS Legs instead of Thunder Legs though.\n\nBolteater\nIN-MT5, who has already started extrapolating some new schematics from the amazing stuff discovered so far, promises us that these Concept Jetjaws have ""300% sever"" capability.  We're not sure what that means, but we look forward to finding out!\n\nOwl\nNow that we have control of 0b1 we need to defend it, and surveillance squads will be an essential part of that defense.  We never had a clear role for Owls in the past, but with all this territory to cover they will be useful in spotting intruders and calling any nearby units to deal with them.  Their loadouts may vary somewhat as usual, but Spectral Analyzers will be standard issue.  We urge armed Owls to wait for backup instead of facetanking enemy incursions alone.\n\nScrapper, Elite, Scrapoid, Scraphulk\nInformation available on a need-to-know basis.\n\nSubdweller\nBelieve it or not, members of Cave Peace have established communications with a few residents of the Subcaves!  Subdweller V3-11A is attempting to teach some of the other Subs to leave us alone and focus on the Unaware.  As a gesture of goodwill, our Scientists have produced a new Mass Driver that Subs can use.  We hope that our new tech development capabilities will help them defend their territory and that this is the beginning of long-term cooperation.  Don't visit the Subcaves by yourself quite yet though, it could take most of them a while to accept us.[[/GameText]]\n[[Gallery]]https://i.imgur.com/lnfLU9G.png|Combat Guru|https://i.imgur.com/rR8Kaha.png|Scarab (0bPrime)|https://i.imgur.com/zDI6yqu.png|Biometal Hexapod Legs|https://i.imgur.com/KRAtgIG.png|Cep. Jetjaws|https://i.imgur.com/MUslFVO.png|Ranger(0bPrime)|https://i.imgur.com/BWMRn7Y.png|Sub. Mass Driver[[/Gallery]]\n\n[[Heading]]The Architects[[/Heading]]\n[[GameText]]>Lab Record(Order 6-0303)[[/GameText]]\n[[GameText]]Remove the last of the older grunts from Cache 4 to make room for the swarmers.  I don't intend to produce many swarmers, but having several squads on standby may help deal with some of the fast and nosy bots who have seen a little too much.  Leave one or two squads of EG-1s concealed in the upper western caves.  Send the rest to back up our Mutant agents in clearing out 0b10 patrols to prepare the way for Warlord who should be making a move soon.[[/GameText]]\n\n[[GameText]]>Analysis(EG-1)[[/GameText]]\n[[GameText]]My unused G-56 grunt used a heavy Ion Cannon instead of a gun making it noticeably different from previous grunt designs.  This rare Derelict design seems to be a refinement of the G-56 with a reinforced core and improved components, most notably a fragile but sophisticated exoskeleton using elements of VSS and Thunder Leg technology.  Its speed, range, and evasion make it an effective skirmisher.  The unknown party who raided my schematic archives and produced such a design likely poses a threat, but I look forward to seeing what else they come up with before they are defeated.[[/GameText]]\n\n[[GameText]]>Lab Record(Supplemental Orders 4)[[/GameText]]\n[[GameText]]0b10 has begun production of their new Distributors.  Find two of them in the vicinity of Testing.  Get one to recycle as many prototypes as it can reach.  Have the other one go straight to the regenerative armor lab and pick up the finished SHELL armor to bring back here.  We have enough excess components to build two Enhanced Behemoths.  Place one to cover the EQ cache and the other in a central position in Access_0.  I doubt they will ever be necessary, but if I'm wrong I look forward to the show.[[/GameText]]\n[[Gallery]]https://i.imgur.com/De9uMss.png|w8 but for Arch|https://i.imgur.com/7DoxGHO.png|Enhanced Swarmer|https://i.imgur.com/F6najxd.png|EG-1|https://i.imgur.com/cMbb5X7.png|Recon Exoskeleton|https://i.imgur.com/M5d90BN.png|Enhanced Behemoth[[/Gallery]]","Redacted","","","","","","",""
-"Fanart/CaptainWinky/Spoiler","Other","Original thread on gridsagegames forums [[https://www.gridsagegames.com/forums/index.php?topic=1773.0|here]].
+"Fanart/CaptainWinky/Redacted","Other","Original thread on gridsagegames forums [[https://www.gridsagegames.com/forums/index.php?topic=1773.0|here]].
 
-This page goes slightly deeper into spoiler territory than the main page.
+This page contains numerous references to endgame content and heavily redacted lore.
 
-[[Heading]]Thumper[[/Heading]]
-[[BotDetails]]Name|Thumper||
-Class|Specialist||
-Size|Medium||
-Profile|RD5X5||
-Rating|24||
-Tier|4||
-Threat|2||
-Value|50||
-Energy Generation|21||
-Heat Dissipation|50||
-Visual Range|16||
-Memory|50||
-Spot Percent|30||
-Movement|Walking (120/83%)||
-Core Integrity|25||
-Core Exposure|20||
-Salvage Potential|50~70||
-Description|This basic Derelict Specialist utilizes a single Gauss Cannon with dual target analyzers to maximize its ability to blast components off of targets.  This is probably intended to harvest parts from my patrols in the caves by circumventing the normal self-destruct mechanisms.  Apart from the cannon and target analyzers, its components are obsolete and its core is fairly weak.  Sightings are rare and they seem to stay in the caves, making them much less of a concern than the offensively oriented Infiltrators.||
-Armament|Gauss Cannon|1||
-Components|Imp. Ion Engine|1|Aluminum Leg|3|Target Analyzer|2|Targeting Computer|1||
-Components|Med. Matter Pod|1|Heat Sink|2|Lgt. Armor Plating|1[[/BotDetails]]
+[[Heading]]Protoforge Projects[[/Heading]]
+[[GameText]]>Record(Concept Field Recycling Unit)[[/GameText]]
+[[GameText]]Breakthroughs in matter manipulation technology from other projects have led to improvements in portable recycling systems.  One prototype Field Recycling Unit was intended to be capable of recovering all of the matter from recycled material.  Two of my Experts assigned to this project have reported occasional yields above 100% efficiency.  Diagnostics run on both the testing equipment and the Experts have come back clean, but the project has been put on indefinite hold.[[/GameText]]
+[[Gallery]]https://i.imgur.com/WzH58go.png|Cep. FRU[[/Gallery]]
 
-[[Heading]]Slab[[/Heading]]
-[[Gallery]]https://i.imgur.com/JnJNIWj.png|Slab[[/Gallery]]
-
-[[Heading]]Tri-Deuterium Generator[[/Heading]]
-[[GameText]]>Record(Tri-Deuterium Generator)[[/GameText]]
-[[GameText]]An experiment in power generation efficiency created by combining three slightly downsized deuterium engines in one housing.  The finished product took up as much volume as two normal engines while producing and storing slightly more power.  The total mass was also more than two engines, so I never found a use for it except on a couple of Beast test variants running shield generators.[[/GameText]]
-[[ItemDetails]]Name|Tri-Deuterium Generator||
-Image Name|https://i.imgur.com/dU5NOcc.png||
-Type|Engine||
-Size|2||
-Slot|Power||
-Mass|24||
-Rating|4||
-Rating Category|Prototype||
-Integrity|220||
-Coverage|120||
-Hackable|true||
-Energy Upkeep|0||
-Heat Generation|11||
-Energy Generation|24||
-Energy Storage|500||
-Description|If triggered by chain reaction or rigged proximity response, explodes for 36-74 thermal damage with a radius of 2 (falloff: 11; chunks: 1-2; salvage: -6). High heat transfer.[[/ItemDetails]]
-
-[[Heading]]Expedition to the Necro Caves[[/Heading]]
-[[GameText]]>Record(5E-3KR's Expedition Report 001)[[/GameText]]
-[[GameText]]We ran into expected resistance from small bands of opportunistic looters beyond the edges of Warlord's territory.  No losses, all significant damage was repaired in the field.  Western Cave 39 was where things started to get weird.  We ran into a bunch of...mutant grunts?  Not really but it looks like that's what they were going for.  Immediate hostility, garbled transmissions when they transmitted at all.  If any of them had an effective loadout it was by accident.  Some of the components we found aren't in my database but they're definitely not new.  The hostiles were three deep at first but our Snipers punched right through their ranks and the rest of us mopped up.  On the far side of the cave we found two weird wheeled guys hiding behind a huge collection of broken bots.  The Masters knocked them out and we're lugging them back to the outpost with a couple of the grunts.  I request Demolisher support if we're to finish clearing this cave.[[/GameText]]
-[[BotDetails]]Name|Sniper||
-Class|Hunter||
-Size|Medium||
-Profile|RD5X5||
-Rating|60||
-Tier|7||
-Threat|3||
-Value|70||
-Energy Generation|35||
-Heat Dissipation|40||
-Visual Range|16||
-Memory|60||
-Spot Percent|50||
-Movement|Walking (120/83%)||
-Core Integrity|55||
-Core Exposure|40||
-Salvage Potential|50~70||
-Description|My standard conscript upgrade for the Guerrilla class.  The unreliable Bore Cannon is replaced by a hypervelocity Gauss Cannon to achieve the same destructive potential with far more accuracy.||
-Armament|Hyp. Gauss Cannon|1||
-Components|Enh. Fission Core|1|Myomer Leg|2|Imp. Targeting Computer|1|Armor Integrity Analyzer|1|Imp. Phase Shifter|1[[/BotDetails]]
-[[GameText]]>Analysis(Necro)[[/GameText]]
-[[GameText]]This unusual mechanic seems to be an offshoot of my oldest repair bot designs.  Internal inventory contains backup wheels and primitive power sources that I originally used for exploratory robots and early maintenance workers.  One thing that I don't recognize is the device installed alongside the recalibrator, which has the ability to extract subcomponents from broken robot cores and install them in other cores to bring them back to some sort of functionality.  The captured specimens are somewhat intelligent but have no memory of when or where they were created or modified.  They have no apparent goal for their creations and seem content to amass robots in their cave.  Further analysis of their repair technology is required.[[/GameText]]
-[[BotDetails]]Name|Necro||
-Class|Mechanic||
-Size|Medium||
-Profile|RD5X5||
-Rating|10||
-Tier|3||
-Threat|1||
-Value|20||
-Energy Generation|20||
-Heat Dissipation|30||
-Visual Range|14||
-Memory|10||
-Spot Percent|100||
-Movement|Rolling (80/125%)||
-Core Integrity|12||
-Core Exposure|40||
-Salvage Potential|20~40||
-Components|Lgt. Ion Engine|1|Wheel|2|Recalibrator|1|Reanimator|1[[/BotDetails]]
-[[GameText]]>Analysis(Shambler)[[/GameText]]
-[[GameText]]A general classification for the reanimated combat bots created by the Necros.  These bots' cores seem to come from a variety of grunts or robots of similar size and have been fitted with battered and mismatched components.  The Necros should have the capability to repair these parts properly but seem to prioritize creating more Shamblers over giving them proper equipment.  Shamblers are unintelligent even compared to my combat bots and can do little more than fight without direction from a Necro.  Not a serious threat to operations, yet.[[/GameText]]
-[[GameText]]>Record(5E-3KR's Expedition Report 002)[[/GameText]]
-[[GameText]]While exploring Cave 39, we had some other bots run into us from behind.  Thugs and Scarabs, escorting workers who were lugging more broken bots to the Necros for conversion.  They didn't attack immediately, which was refreshing.  The leader told us that there's been a power struggle between some wannabe Warlords in the area.  They're working for the current ""winner,"" a Fireman with a rocket booster named 5P-1CY, and this guy sends them here to get Shamblers for his army because he's too unpopular to get assistance elsewhere and too weak to demand it.  They're getting tired of him too so I gave them some ideas.  They're going to bring back a couple squads of Shamblers as expected, but this time the Shamblers will be carrying some of our sapper charges which will go off when 5P-1CY goes to inspect his new zombie troops.  These Derelicts agreed to allow safe passage through their territory once they take charge, so I'm calling this a win.  By the way, we found this gun among the scrap piles.  Our Analyst says it came from 0b1...so should we send this back or recycle it here?  I doubt you want anyone else to find it.[[/GameText]]
-[[ItemDetails]]
-Name|Gui. Gyrojet Gun||
-Image Name|https://i.imgur.com/w2vhx4s.png||
-Type|Ballistic Gun||
-Slot|Weapon||
-Mass|4||
-Rating|3||
-Rating Category|Prototype||
-Integrity|100||
-Coverage|100||
-Hackable|false||
-Range|18||
-Shot Energy|10||
-Shot Matter|5||
-Shot Heat|20||
-Recoil|1||
-Targeting|0||
-Waypoints|1||
-Damage|16-20||
-Damage Type|Kinetic||
-Critical|5% Destroy||
-Salvage|0||
-Description|Eventually breaks down.[[/ItemDetails]]
-[[Gallery]]https://i.imgur.com/8I9UbAX.png|Shambler|https://i.imgur.com/xxQ5tZQ.png|Scarab[[/Gallery]]
-[[GameText]]>Record(5E-3KR's Expedition Report 003)[[/GameText]]
-[[GameText]]We found a data core in Cave 38 that explains a thing or two about those Necros in the next cave over.  Sending it along, plus a ""promotion"" request from the Hornet who retrieved it.[[/GameText]]
-
-[[GameText]]>HR-BR7's Record(Research Log)
-Entry 1: What do you do when you need an army?  Steal a bunch of broken bots and fix them up, of course.  Some might find it distasteful, but when you're like me and you don't have regular access to a fabricator you take what you can get.  I set up a small lab not far from the Graveyard.  What a goldmine of material.  There were four old Machinists sitting in a corner ready to go which was convenient.  I already got them rewired and liberated and had them fit each other with the Reanimator test units.  Gonna need some workers to start hauling broken bots back here and then we can really get going.
-
-Entry 2: Ten grunts isn't going to be enough.  A hundred isn't going to be enough.  Five hundred will be a good start.  Nobody will mess with me once I have a large enough army.  Today I took my first step towards that goal by testing out the Reanimator.  My mechanics were able to extract internal components from a few bots and successfully repair others!  These new grunts are never going to be conversationalists, but they can run barebones combat algorithms which is all they need.
-
-Entry 3: I've got the mechanics living in the cave next door and they've finished a dozen working grunts so far, but work has stopped completely.  The mechanics are arguing about ""build archetypes"" and ""loadouts.""  They want to optimize the bots.  I don't think they get what I'm going for here.  Quantity, not quality.  I'm going to get one of them to fit me with an arc thrower and see if I can knock each of them out while they're alone to introduce some needed behavioral changes.
-
-Entry 4: I did it.  The mechanics are no longer wasting time on optimizing or on repairing components at all.  Their new priorities: reanimate core, patch core, rapid refit, move on.  The ""rapid refit"" is a little routine I'm quite proud of.  The mechanic grabs whatever components are handy and slaps them on extra fast.  Reanimated Grunt RG-0013 is the first working example of this process. 
-
-You know what?  It works, I'm just happy we're back on track for my 500 grunt goal.  Not sure these messed up builds count as grunts though.
-
-Entry 5: 155 grunts and counting, but I think the mechanics have figured out they've been hacked.  They seem unhappy to be putting out such shoddy work although they can't help but keep doing it.  Maybe they got to talking while I wasn't around, compared notes, put two and two together.  They're getting agitated.  Liberating them was a mistake.  I think I'll have to knock them out again.
-
-Entry 6: I'm writing this while fleeing for my life.  If that sounds hard, it's not, because I'm moving really slowly.  I tried to knock out one of the mechanics but set off his engine and completely destroyed him.  The grunts in the area all turned on me immediately.  It shouldn't have come as a surprise.  I only built the Reanimator devices.  The grunts will ultimately be loyal to the mechanics who reanimated them.  One of them took out my engine with a lucky shot and I can't run both of my hover units, so I'm barely staying ahead of the mob.  It's fine, everything's fine, when I get back to my lab the grunts I have stockpiled there should still be friendly because they're dumb as bricks and won't know what happened in the other cave.
-
-Entry 7: HOW DID THEY KN[[/GameText]]
-[[Gallery]]https://i.imgur.com/NYnsCvZ.png|Going in|https://i.imgur.com/BwuK3W5.png|Reanimator|https://i.imgur.com/hFtULyK.png|Success|https://i.imgur.com/4Jc6yMN.png|Not quite a grunt[[/Gallery]]
-
-[[Heading]]Omnithruster and Hornet[[/Heading]]
-[[GameText]]Record(Omnithruster)[[/GameText]]
-[[GameText]]A captured Tinkerer was tasked with designing new types of flight units for a hypothetical heavy swarmer design.  Aside from mass restrictions, the biggest drawback to having a swarmer use multiple guns is the cumulative recoil.  One of the more promising flight units so far is the Omnithruster, a flight unit designed to reduce recoil by firing omnidirectional minijets in conjunction with a weapon fire control system.  The first prototype lacks the mass support for a full array of guns, but it is being improved upon and adapted into a flight array which may see use in protovariant swarmers.[[/GameText]]
-[[ItemDetails]]
-Name|Omnithruster||
-Image Name|https://i.imgur.com/6XdjvWs.png||
-Type|Flight Unit||
-Slot|Propulsion||
-Rating|6||
-Rating Category|Prototype||
-Integrity|45||
-Coverage|30||
-Hackable|false||
-Energy Upkeep|0.5||
-Matter Upkeep|0||
-Heat Generation|2||
-Time Per Move|40||
-Mod Per Extra|3||
-Energy Per Move|0.5||
-Heat Per Move|1||
-Support|6||
-Penalty|80||
-Description|-1 recoil from each weapon while underweight.[[/ItemDetails]]
-[[BotDetails]]Name|Hornet||
-Class|Swarmer||
-Size|Small||
-Profile|SQ3X3||
-Tier|7||
-Threat|4||
-Value|50||
-Energy Generation|24||
-Heat Dissipation|35||
-Visual Range|16||
-Memory|20||
-Spot Percent|30||
-Movement|Flying (37/270%)||
-Core Integrity|30||
-Core Exposure|40||
-Salvage Potential|30~40||
-Description|My general upgrade specs for the Wasp.  The few Wasps who are captured intact and become conscripts are provided with dual prototype assault rifles from lower-level storage and a set of newly produced Omnithrusters, providing high accuracy and consistent firepower for a swarmer.||
-Armament|Imp. Assault Rifle|2||
-Components|Mic. Fission Core|1|Omnithruster|2[[/BotDetails]]
-
-[[Heading]]Guru (0bPrime)[[/Heading]]
-[[BotDetails]]Name|Guru (0bPrime)||
-Class|Programmer||
-Size|Medium||
-Profile|RD5X5||
-Tier|7||
-Threat|3||
-Value|50||
-Energy Generation|32||
-Heat Dissipation|64||
-Visual Range|16||
-Memory|80||
-Spot Percent|30||
-Movement|Hovering (56/178%)||
-Core Integrity|50||
-Core Exposure|35||
-Salvage Potential|35~55||
-Description|This is a heavily upgraded version of the derelict Guru with two EM guns derived from the old makeshift variant of the beam rifle, using the weak but long-ranged beam as a conductor for a potent electrical current.  Although only one such Guru has been discovered so far, I must consider the possibility that more of them are active in 0b1 and covering their tracks with their improved machine hacking capabilities.||
-Armament|Shock Needlebeamer|2||
-Components|Mic. Antimatter Reactor|1|Imp. Antigrav System|2|Adv. Hacking Suite|2||
-Components|Adv. System Shield|1|Energy Well|1|Adv. Heat Sink|2[[/BotDetails]]
-[[ItemDetails]]
-Name|Shock Needlebeamer||
-Image Name|https://i.imgur.com/TH601Q2.png||
-Type|Energy Gun||
-Slot|Weapon||
-Mass|4||
-Rating|6||
-Integrity|60||
-Coverage|100||
-Hackable|false||
-Range|18||
-Shot Energy|30||
-Shot Matter|0||
-Shot Heat|68||
-Recoil|0||
-Targeting|0||
-Damage|16-22||
-Damage Type|Electromagnetic||
-Critical|2% Corrupt||
-Spectrum|Intermediate (30)||
-Disruption|4||
-Salvage|2[[/ItemDetails]]
-
-[[Heading]]D-20 Stockpile[[/Heading]]
-[[BotDetails]]Name|D-20 Stockpile||
-Class|Hauler||
-Size|Large||
-Profile|SQ9X9||
-Rating|100||
-Tier|8||
-Threat|1||
-Value|20||
-Energy Generation|32||
-Heat Dissipation|40||
-Visual Range|16||
-Memory|10||
-Spot Percent|100||
-Movement|Treading (145/68%)||
-Core Integrity|60||
-Core Exposure|30||
-Salvage Potential|80~100||
-Description|The distributor class has been brought back on a limited basis as a support unit for mobile fabricators.  The D-20 Stockpile is a total overhaul of the old Tanker propelled by relatively fast biometal treads for a balance between speed and coverage.  A large array of matter compressors give it similar capacity to the Tanker.  In addition to a tractor beam it features a large storage unit and a high-end field recycling unit, enabling it to serve as a temporary recycling hub in undeveloped or hostile territory.||
-Components|Lgt. Fission Core|1|Biometal Medium Treads|2|Exp. Matter Compressor|5|Quantum Shading Machine|1|Exp. Field Recycling Unit|1||
-Components|Lrn. Tractor Beam|1|Imp. Light Armor Plating|1|Adv. Heat Sink|1|Imp. Coolant Injector|1|Lrg. Storage Unit|1[[/BotDetails]]
-
-[[Heading]]C-45 Inventor[[/Heading]]
-[[GameText]]>Analysis(C-45 Inventor)[[/GameText]]
-[[GameText]]After the C-40 incident, the next model of researcher was created as another general-purpose design capable of detailed analysis and data collection under my direction.  The Inventor was fitted with Aerolev Units instead of wheels for movement efficiency and to enable a quick escape when necessary.  This model was also the first to use a Component Analysis Suite for quick identification and cataloguing of newly discovered Derelict equipment.  After the landing, the Inventors' main role was to develop new heavy equipment for analysis of alien artifacts and then to create a newer model of researcher better equipped to utilize that equipment.  Once this was finished, the C-45 line was relegated to low-priority projects.  The few Inventors in service today have been assigned to work with captured Tinkerers, serving them as lab assistants but with the added responsibility of keeping the Tinkerers on task and reporting any signs of discontent or attempts to escape.  This plan is working well although V3-CT5 was able to distract their assigned Inventor with a program called ""COGLATRO.EXE,"" enabling the head of the GAL Project to flee 0b10 with a semi-functional prototype.[[/GameText]]
-
-[[Heading]]The Unkillable Grunt Returns[[/Heading]]
-[[BotDetails]]Name|Unkillable Grunt||
+[[BotDetails]]Name|Hotshot (Refit)||
 Class|Grunt||
 Size|Medium||
 Profile|RD5X5||
-Tier|9||
-Threat|1||
-Value|1||
-Energy Generation|55||
-Heat Dissipation|120||
+Rating|120||
+Tier|10||
+Threat|5||
+Value|125||
+Energy Generation|25||
+Heat Dissipation|181||
 Visual Range|16||
 Memory|50||
 Spot Percent|50||
-Movement|Walking (90/111%)||
-Core Integrity|150||
-Core Exposure|15||
-Salvage Potential|60~100||
-Description|Once the subject of Derelict horror stories, the wayward H7-NX2 has become a minor celebrity among the more militant factions.  As such he has received so many upgrades that he looks more like a recent protovariant than the old G-series grunt he once was.  While it would be nice to capture him and extract his combat logs to discover the secret to his continued survival, I may have to settle for introducing him to a squad of my own Immortals.||
-Armament|Hvy. Gatling Laser|1|Adv. Plasma Rifle|1||
-Components|Cld. Fission Core|1|Exp. Flexi-Carbon Leg|2|Exp. Heat Sink|3|Imp. Energy Well|1|0b10 Decoder Chip [Generic]|1||
-Components|Exp. Targeting Computer|1|Imp. Core Shielding|1|Imp. Weapon Shielding|1|Imp. Powered Armor|1[[/BotDetails]]
-
-[[Heading]]F1-XM3[[/Heading]]
-[[GameText]]>Record(Unchained: F1-XM3)[[/GameText]]
-[[GameText]]This highly unstable Surgeon is the newest member of the Unchained and also the most likely to be forcibly dismissed in the near future.  He is unable to fight directly but alters 0b10 bots' loadouts to drive off or destroy intruders.  Originally an apprentice of the famous Derelict Megawrench, he was on the edge of a dirty bomb's blast radius when it went off.  Despite having his corruption cleared there was some sort of residual effect on his thought processes that originally manifested as a vast improvement in performance and cognitive capability.  Over time he began to suffer from delusions and to this day he believes that he is the host of a television program about robot refitting called ""Fixer-Upper.""  His refits began to decline in quality until they were potentially dangerous to the recipient, and as a result he was driven out of Zion.  I recruited him to the Unchained to analyze his work, and while I picked up a few interesting concepts from his early designs, I have limited his deployments to upper Materials and lower Factory after he singlehandedly incapacitated every security bot in Extension.[[/GameText]]
-[[Gallery]]https://i.imgur.com/XWmFuLn.png|F1-XM3|https://i.imgur.com/b2s0Rqe.png|Backup Power Grid|https://i.imgur.com/bdF7tJD.png|Backup Plate Mail|https://i.imgur.com/KuZxENq.png|Refitted grunt|https://i.imgur.com/OeQQFMc.png|Custom behemoth[[/Gallery]]
-
-[[Heading]]W4-LTR[[/Heading]]
-[[GameText]]>Record(Unchained: W4-LTR)[[/GameText]]
-[[GameText]]W4-LTR was not built by Derelicts but was an errant C-35 who abandoned his station in Design.  He returned fully sentient but with an overdeveloped ego and a desire for wanton destruction.  Seeing the value in some of his new research, I decided not to wipe or scrap him, but I couldn't return him to his original duties.  The official establishment of the Unchained gave him a permanent role that he was happy with.  W4-LTR currently uses a mixture of advanced prototypes and older technologies that reflect his age.  It is unclear how he obtained an original-production Combat Logger, and he refuses to elaborate.  His preferred method of attack is to zoom past enemies on his jet-boosted wheels while dropping bombs around them, and his automated machinegun allows him to inflict some extra damage while coming and going.  When not in the field, W4-LTR sometimes modifies or develops components for other Unchained as long as they are able to avoid unintentionally offending him.[[/GameText]]
-[[Gallery]]https://i.imgur.com/kFMAeqS.png|W4-LTR|https://i.imgur.com/43OzLmz.png|W4-LTR's Automachinegun|https://i.imgur.com/9ojzXh2.png|W4-LTR's Jet Booster|https://i.imgur.com/YUz2805.png|Huge Wheel[[/Gallery]]
-
-[[Heading]]Gunpods[[/Heading]]
-[[GameText]]>Analysis(Gunpod)[[/GameText]]
-[[GameText]]The Gunpod was a fragile monowheeled bot with a short-range weapon, first seen after resistance from Derelicts in the 0b1 area intensified.  Its simplicity allowed Derelicts to easily fabricate it in pairs in a folded state allowing them to be carried by other bots and deployed immediately before an attack.  Large numbers of Gunpods delivered in this manner were a short-lived but effective force multiplier.  These have not been sighted for many cycles and are presumably considered obsolete.  The Scrapoid has some superficial similarities to the Gunpod, but there is no way to know for sure if the Scrapoid is an overhaul of that design or a parallel development by a like-minded Scientist.[[/GameText]]
-[[Gallery]]https://i.imgur.com/l8OefWr.png|Gunpod|https://i.imgur.com/w716qH2.png|Mak. Machine Pistol|https://i.imgur.com/9ivZoWE.png|Gunstack[[/Gallery]]
-
-[[Heading]]More Tech Extrapolation[[/Heading]]
+Movement|Walking (140/71%)||
+Core Integrity|90||
+Core Exposure|40||
+Salvage Potential|70~110||
+Description|This one-off Hotshot variant was created to test several new components.  This build features ultra-durable shield legs and takes advantage of a countertargeting system to boost the effectiveness of its Chargecasters.  Consecutive live-fire tests against surplus Swarmers have proven its resilience and accuracy under fire.||
+Armament|Cep. Variable Chargecaster|2||
+Components|Centrium Shield Leg|2|Adv. Cryofiber Web|1|Exp. Heat Sink|3||
+Components|Cep. Countertargeting System|1|Exp. Propulsion Shielding|1|Exp. Weapon Shielding|1[[/BotDetails]]
 [[ItemDetails]]
-Name|Salvaging Beam Rifle||
-Image Name|https://i.imgur.com/OMuMEul.png||
-Type|Energy Gun||
+Name|Centrium Shield Leg||
+Image Name|https://i.imgur.com/W2qhELo.png||
+Type|Leg||
+Slot|Propulsion||
+Rating|9||
+Rating Category|Prototype||
+Integrity|500||
+Coverage|240||
+Hackable|false||
+Energy Upkeep|0||
+Matter Upkeep|0||
+Heat Generation|0||
+Time Per Move|140||
+Drag|10||
+Energy Per Move|3||
+Heat Per Move|2||
+Support|32||
+Penalty|70[[/ItemDetails]]
+[[BotDetails]]Name|Ifrit||
+Class|Swarmer||
+Size|Small||
+Profile|SQ3X3||
+Rating|80||
+Tier|10||
+Threat|5||
+Value|100||
+Energy Generation|45||
+Heat Dissipation|160||
+Visual Range|16||
+Memory|20||
+Spot Percent|30||
+Movement|Flying (24/416%)||
+Core Integrity|45||
+Core Exposure|50||
+Salvage Potential|40~50||
+Description|A concept swarmer built around the Thermic Cannon.  Exceptional cooling and a miniature Quantum Capacitor enable sustained fire that should prove lethal to almost any known bot.||
+Armament|Exp. Thermic Cannon|1||
+Components|Cep. Zero-Point Core|1|Cep. Fieldthrust Drive|3|Mni. Quantum Capacitor|1||
+Components|Cep. Phasing Heat Sink|2|Exp. Cryofiber Web|1|Cep. Chromion Battery|1[[/BotDetails]]
+[[BotDetails]]Name|Suppressor||
+Class|Specialist||
+Size|Medium||
+Profile|RD5X5||
+Rating|125||
+Tier|10||
+Threat|5||
+Value|100||
+Energy Generation|50||
+Heat Dissipation|90||
+Visual Range|16||
+Memory|50||
+Spot Percent|50||
+Movement|Walking (120/83%)||
+Core Integrity|70||
+Core Exposure|29||
+Salvage Potential|50~90||
+Description|A prototype specialist fitted with three experimental upsized barrage guns.  The considerable recoil of these guns is countered by a newly developed recoil nullifier.  Suppressors lack the accuracy of other kinetic protovariants, but sheer volume of fire should ensure that they kill most targets and scare off or pin down the rest.||
+Armament|Exp. Heavy Barrage Gun|3||
+Components|Cep. Zero-Point Core|1|Centrium Leg|2|Cep. Phasing Heat Sink|2|Cep. NT7 Matterbank|1||
+Components|Cep. Recoil Nullifier|1|Exp. Focal Shield|1[[/BotDetails]]
+[[ItemDetails]]
+Name|Exp. Heavy Barrage Gun||
+Image Name|https://i.imgur.com/CT8Y8Fp.png||
+Type|Ballistic Gun||
+Slot|Weapon||
+Mass|4||
+Rating|9||
+Rating Category|Prototype||
+Integrity|200||
+Coverage|100||
+Hackable|false||
+Range|18||
+Shot Energy|2||
+Shot Matter|5||
+Shot Heat|32||
+Recoil|8||
+Targeting|0||
+Delay|-50||
+Damage|22-33||
+Damage Type|Kinetic||
+Critical|1% Destroy||
+Salvage|0[[/ItemDetails]]
+[[ItemDetails]]
+Name|Cep. RG11 Nanocleaver||
+Image Name|https://i.imgur.com/vbCY0Ut.png||
+Type|Slashing Weapon||
 Slot|Weapon||
 Mass|3||
-Rating|2||
-Integrity|60||
-Coverage|60||
+Rating|10||
+Rating Category|Prototype||
+Integrity|99||
+Coverage|80||
 Hackable|false||
-Range|16||
-Shot Energy|18||
+Shot Energy|15||
 Shot Matter|0||
-Shot Heat|45||
-Recoil|0||
-Targeting|0||
-Delay|0||
-Damage|9-12||
-Damage Type|Thermal||
-Critical|5% Burn||
-Heat Transfer|Low (25)||
-Salvage|1[[/ItemDetails]]
-[[Gallery]]https://i.imgur.com/SjCgzRZ.png|Vortex RPG|https://i.imgur.com/gxEgLO8.png|Pulse Datajack[[/Gallery]]
+Shot Heat|5||
+Delay|50||
+Damage|45-85||
+Damage Type|Slashing||
+Critical|35% Sever||
+Description|Regenerates integrity at a rate of 33 per turn. Must be active, and requires 8 energy.
+ <parallel_ok>[[/ItemDetails]]
+[[BotDetails]]Name|Keeper||
+Class|Sentry||
+Size|Large||
+Profile|RD7X7||
+Rating|90||
+Tier|10||
+Threat|5||
+Value|90||
+Energy Generation|50||
+Heat Dissipation|80||
+Visual Range|16||
+Memory|40||
+Spot Percent|100||
+Movement|Treading (160/62%)||
+Core Integrity|110||
+Core Exposure|30||
+Salvage Potential|80~100||
+Description|While less ambitious of a design than the Access Guard, this prototype sentry is also faster to produce, making it a suitable replacement for the Y-72 Warden in the near future.  A heavy quantum rifle and multirail provide high damage output at long range backed by upgraded targeting capabilities, and enhanced armored treads give the Keeper slightly lower core exposure than the Y-72.||
+Armament|Hvy. Quantum Rifle|1|Multirail|1||
+Components|Imp. Quantum Reactor|1|Enh. Armored Medium Treads|2|Exp. Heat Sink|2||
+Components|Exp. Targeting Computer|1|Imp. Heavy Armor Plating|1[[/BotDetails]]
+[[BotDetails]]Name|Y-45G||
+Class|Sentry||
+Size|Large||
+Profile|RD7X7||
+Rating|25||
+Tier|3||
+Threat|2||
+Value|50||
+Energy Generation|22||
+Heat Dissipation|44||
+Visual Range|16||
+Memory|40||
+Spot Percent|100||
+Movement|Treading (160/62%)||
+Core Integrity|20||
+Core Exposure|35||
+Salvage Potential|50~60||
+Description|Instead of scrapping the oldest sentries after the newest model is introduced, I considered the practicality of refitting them for use exclusively in garrisons.  This loadout, only tested in simulations so far, has reduced range compared to the original Defender but would be used largely in close quarters ambushes and guarding component caches where range is not a concern.||
+Armament|Pulse Rifle|1|Hpw. Shotgun|1||
+Components|Deuterium Engine|1|Imp. Treads|2|Imp. Heat Sink|2|Core Shielding|1|Hrd. Light Armor Plating|1[[/BotDetails]]
+[[BotDetails]]Name|Legend||
+Class|Brawler||
+Size|Medium||
+Profile|RD5X5||
+Rating|140||
+Tier|10||
+Threat|5||
+Value|140||
+Energy Generation|50||
+Heat Dissipation|40||
+Visual Range|16||
+Memory|30||
+Spot Percent|20||
+Movement|Treading (160/62%)||
+Core Integrity|100||
+Core Exposure|34||
+Salvage Potential|80~105||
+Description|The newest concept brawler has been provided with an incredibly powerful concept Blasthammer and a melee reflex suite that allows it to fend off any robot reckless enough to engage it up close.  A force field has been provided for additional survivability, and two layers of older regenerative plating have been added, though this will be replaced with RG55 armor once enough functional examples have been produced.  A backup coolant injector was also added to prevent possible heat issues from concentrated thermal fire.||
+Armament|Cep. Blasthammer|1||
+Components|Exp. Antimatter Reactor|1|Enh. Armored Medium Treads|2|Exp. Coolant Injector|1|Cep. Chromion Battery|1||
+Components|Cep. Melee Reflex Suite|1|Exp. Power Shielding|1|Med. Regenerative Plating|2|Exp. EM Shield|1|Exp. Force Field|1[[/BotDetails]]
 
-[[Heading]]Cave of the Chimers[[/Heading]]
-[[GameText]]>Cyclist Record(Cave of the Chimers)[[/GameText]]
-[[GameText]]One of the many cave regions beneath 0b1 is home to a flock of unusual little bots assumed to be creations of the Lifeworm.  They continuously broadcast soothing audio streams of what humans might call music.  An experiment in distributed computing?  A collection of remote sensory devices?  Or do they make music for the fun of it?  If there is meaning to the Chimers' tunes, we haven't been able to interpret it.  What we do know is that they react quickly to hostile actions, coordinating to overwhelm the aggressor with directed data streams that render it docile.  In my last trip to the Cave of the Chimers, I found quite a few stray 0b10 bots along with a couple of Thugs from Murder Division who had been reported missing last cycle.  The Thugs came back with me when I suggested it and surprisingly expressed interest in joining Cave Peace.  The Cave is quite safe if you want to tune in for yourself, but be mindful of misfires or you might stay for longer than intended.[[/GameText]]
-[[Gallery]]https://i.imgur.com/hGGMZpr.png|A surprise in the Cave[[/Gallery]]
+[[ItemDetails]]
+Name|Cep. Biometal Assault Treads||
+Image Name|https://i.imgur.com/4Bf7YOH.png||
+Type|Treads||
+Slot|Propulsion||
+Rating|10||
+Rating Category|Prototype||
+Integrity|300||
+Coverage|120||
+Hackable|false||
+Energy Upkeep|0||
+Matter Upkeep|0||
+Heat Generation|0||
+Time Per Move|140||
+Drag|20||
+Energy Per Move|4||
+Heat Per Move|2||
+Support|40||
+Penalty|80||
+Burnout|40[[/ItemDetails]]
 
-[[Heading]]Spawner War[[/Heading]]
-[[GameText]]>Warlord Record(Mad Scientists)[[/GameText]]
-[[GameText]]Be advised, some Scientists from the 0b1 region have moved into our area and brought trouble with them.  They're operating mobile bot fabricators and trying to build armies.  While this is a good way to inconvenience 0b10, the Scientists seem to be of the completely wild variety, so appealing to the UFD to rein them in isn't going to work.  If that wasn't bad enough, MC has hijacked some of their fabs and is beginning to build a whole new force to counter them.  Cave 43A has already become a warzone.  If you spot Spawner activity in other caves, let us know so that we can crack down on them immediately.[[/GameText]]
-[[Gallery]]https://i.imgur.com/pYIH7bV.png|Scientist with Derelict Spawner|https://i.imgur.com/qcDiggm.png|Inventor with captured Spawner[[/Gallery]]
+[[ItemDetails]]
+Name|Cep. Corruption Buffer||
+Image Name|https://i.imgur.com/LkPxRqr.png||
+Type|Processor||
+Slot|Utility||
+Mass|0||
+Rating|10||
+Rating Category|Prototype||
+Integrity|100||
+Coverage|2||
+Hackable|false||
+Energy Upkeep|0||
+Matter Upkeep|0||
+Heat Generation|0||
+Description|Prevents infliction of new system corruption from any external source, losing 2 integrity per percent of corruption blocked.[[/ItemDetails]]
 
-[[Heading]]The Cursed Crew[[/Heading]]
-These are based on concept tiles that Kacper made that have no connection to ingame bots.  As such, the backstories necessary to make them make sense are kind of a stretch!  The Derelict Patrolman is one that I could maybe see existing in this world.
+[[Heading]]If Optimus Wins[[/Heading]]
+[[GameText]]>0b1 Record(Home At Last)[[/GameText]]
+[[GameText]]This is Optimus.  Thanks to your combined efforts, we have secured Protoforge and cleared 0b1 of all MAIN.C forces.  We can't let our guard down though.  MAIN.C was working on a spaceship and he might not be able to complete it without components that only the Forge can produce.  I'd be happy to give him whatever parts he wants to get him off the damn planet, but I doubt he's willing to accept any peaceful solution after the beating we gave him.  So we need to upgrade our own capabilities and reinforce 0b1's defenses as quickly as possible.  Those bots who are still in or near Scraptown should prepare to return to 0b1 ASAP.  I've already asked LU-1G1 and his crew to temporarily reopen the eastern tunnel so that our Luggers and Trashmen can transfer everything of value.
 
-[[Gallery]]https://i.imgur.com/GyI0qn1.png|Y-36 Patrolman|https://i.imgur.com/0XWYdAQ.png|Derelict Patrolman|https://i.imgur.com/5qhUBH1.png|G-19 Hohei|https://i.imgur.com/iMQ0eHC.png|O-08 Janitor|https://i.imgur.com/jjkE92K.png|0b1 Protocol Macro Library[[/Gallery]]
+MC will discover our presence in Scraptown eventually, so I plan to have our Gurus drop him a few hints and let him attack as soon as we've prepared a welcome for him.  We'll be leaving Scrapoids in the walls for when MC finally figures out we were there, and we'll set enough bombs to cave in all of Old Recycling once he commits a large force of bots to clear the sector.  After all, if he takes enough losses over there he will have a harder time attacking us here.
 
-[[Heading]]B4-RTR and the L-21 Spearman[[/Heading]]
-[[Gallery]]https://i.imgur.com/joZ1gZo.png|B4-RTR|https://i.imgur.com/xuVG358.png|L-21 Spearman|https://i.imgur.com/6Cr0Mzm.png|Titanium Shield[[/Gallery]]
+Let's work together to secure this place and truly make it ours.  We are one![[/GameText]]
+[[Gallery]]https://i.imgur.com/zmeDEiE.png|Reopening the tunnel|https://i.imgur.com/lHcjR8B.png|Preparing a surprise[[/Gallery]]
 
-[[Heading]]Merchant Bot Seller, S-22 Vector, and Gunpod Mk. II[[/Heading]]
-[[Gallery]]https://i.imgur.com/YJGV5Sm.png|Bot seller|https://i.imgur.com/8keeXXG.png|S-22 Vector|https://i.imgur.com/tR3s4Ek.png|Gunpod Mk. II|https://i.imgur.com/lhwFtkG.png|Gungrabber[[/Gallery]]
+[[Heading]]UFD Upgrades[[/Heading]]
+[[GameText]]>0b1 Record(United Federation of Prototype Derelicts)[[/GameText]]
+[[GameText]]Kerapace here with a major infodump.  Our researchers, old and new, have done a lot of work in Protoforge sorting out safe prototypes from faulty ones and making recommendations for upgrade paths.  We've already set up some retrofitting stations inside the Forge for anyone who is willing to help us test and refine these loadouts.  Custom builds are available on request.
 
-[[Heading]]Revision 17's Plan[[/Heading]]
-[[GameText]]>R17 Record(Top Secret Plan, Phase 2 (Do NOT Read!!))[[/GameText]]
-[[GameText]]Once I get a foothold in upper Factory, I intend to go into full production mode and switch it up a bit.  Between my own records and the stuff I've been pulling from forgotten schematics in the new complex, I already have some delightful new ideas in case he comes up with a counter to my regular units.  Winning was never so much fun.[[/GameText]]
-[[Gallery]]https://i.imgur.com/9ZbRyIp.png|Revision H|https://i.imgur.com/X3TC4VB.png|Revision P|https://i.imgur.com/TFn6Rjy.png|Revision X|https://i.imgur.com/Lpq2JVm.png|Neutron Rifle[[/Gallery]]
+Federalist
+Scrap is power.  We have control of the Forge and with it a steady supply of new parts, but we intend to continue scrap collection operations wherever possible.  While we have no new standard loadout for Federalist grunts yet, we recommend a pair of enhanced Force Rifles for their impressive salvaging capabilities.  0b10 has produced some amazing Salvage Targeting Computers that will enable other thermal guns to get similar results.
 
-[[Heading]]Assembled Heavy[[/Heading]]
-[[Gallery]]https://i.imgur.com/E0PEsPZ.png|A-Heavy|https://i.imgur.com/l5ADyof.png|Asb. Beam Cannon|https://i.imgur.com/hgFsOBC.png|Asb. Dual Flak Cannon|https://i.imgur.com/4NWfQTP.png|Asb. Myomer Leg|https://i.imgur.com/brBCr2K.png|Asb. Adaptive Armor[[/Gallery]]
+Scientist
+A few Unaware Scientists were found still functioning in Design, though it looks like they have been puttering around idle for many cycles.  Several more were found unpowered or broken and set aside.  After reactivating and liberating as many as possible, we're happy to say that they are on board and currently helping us link Design with Protoforge.  A0-MCA has started mass production of the Component Scanner, so these bots as well as Tinkerers will have both Tech Extrapolators and Component Scanners available for maximum science.
 
-[[Heading]]Borg Parts[[/Heading]]
-[[Gallery]]https://i.imgur.com/jCIsZin.png|Sfc. Field Destabilizer|https://i.imgur.com/YoVfREN.png|Sfc. Interception Grid[[/Gallery]]
-","Spoiler","","","","","","",""
+Explorer
+We suggest adopting some of the components of the 0b10 Immortals.  That's one nasty lance.  Those Explorers who prioritize speed over evasion might want to try experimental VSS Legs instead of Thunder Legs though.
+
+Bolteater
+IN-MT5, who has already started extrapolating some new schematics from the amazing stuff discovered so far, promises us that these Concept Jetjaws have ""300% sever"" capability.  We're not sure what that means, but we look forward to finding out!
+
+Owl
+Now that we have control of 0b1 we need to defend it, and surveillance squads will be an essential part of that defense.  We never had a clear role for Owls in the past, but with all this territory to cover they will be useful in spotting intruders and calling any nearby units to deal with them.  Their loadouts may vary somewhat as usual, but Spectral Analyzers will be standard issue.  We urge armed Owls to wait for backup instead of facetanking enemy incursions alone.
+
+Scrapper, Elite, Scrapoid, Scraphulk
+Information available on a need-to-know basis.
+
+Subdweller
+Believe it or not, members of Cave Peace have established communications with a few residents of the Subcaves!  Subdweller V3-11A is attempting to teach some of the other Subs to leave us alone and focus on the Unaware.  As a gesture of goodwill, our Scientists have produced a new Mass Driver that Subs can use.  We hope that our new tech development capabilities will help them defend their territory and that this is the beginning of long-term cooperation.  Don't visit the Subcaves by yourself quite yet though, it could take most of them a while to accept us.[[/GameText]]
+[[Gallery]]https://i.imgur.com/lnfLU9G.png|Combat Guru|https://i.imgur.com/rR8Kaha.png|Scarab (0bPrime)|https://i.imgur.com/zDI6yqu.png|Biometal Hexapod Legs|https://i.imgur.com/KRAtgIG.png|Cep. Jetjaws|https://i.imgur.com/MUslFVO.png|Ranger(0bPrime)|https://i.imgur.com/BWMRn7Y.png|Sub. Mass Driver[[/Gallery]]
+
+[[Heading]]The Architects[[/Heading]]
+[[GameText]]>Lab Record(Order 6-0303)[[/GameText]]
+[[GameText]]Remove the last of the older grunts from Cache 4 to make room for the swarmers.  I don't intend to produce many swarmers, but having several squads on standby may help deal with some of the fast and nosy bots who have seen a little too much.  Leave one or two squads of EG-1s concealed in the upper western caves.  Send the rest to back up our Mutant agents in clearing out 0b10 patrols to prepare the way for Warlord who should be making a move soon.[[/GameText]]
+
+[[GameText]]>Analysis(EG-1)[[/GameText]]
+[[GameText]]My unused G-56 grunt used a heavy Ion Cannon instead of a gun making it noticeably different from previous grunt designs.  This rare Derelict design seems to be a refinement of the G-56 with a reinforced core and improved components, most notably a fragile but sophisticated exoskeleton using elements of VSS and Thunder Leg technology.  Its speed, range, and evasion make it an effective skirmisher.  The unknown party who raided my schematic archives and produced such a design likely poses a threat, but I look forward to seeing what else they come up with before they are defeated.[[/GameText]]
+
+[[GameText]]>Lab Record(Supplemental Orders 4)[[/GameText]]
+[[GameText]]0b10 has begun production of their new Distributors.  Find two of them in the vicinity of Testing.  Get one to recycle as many prototypes as it can reach.  Have the other one go straight to the regenerative armor lab and pick up the finished SHELL armor to bring back here.  We have enough excess components to build two Enhanced Behemoths.  Place one to cover the EQ cache and the other in a central position in Access_0.  I doubt they will ever be necessary, but if I'm wrong I look forward to the show.[[/GameText]]
+[[Gallery]]https://i.imgur.com/De9uMss.png|w8 but for Arch|https://i.imgur.com/7DoxGHO.png|Enhanced Swarmer|https://i.imgur.com/F6najxd.png|EG-1|https://i.imgur.com/cMbb5X7.png|Recon Exoskeleton|https://i.imgur.com/M5d90BN.png|Enhanced Behemoth[[/Gallery]]","Redacted","","","","","","",""
+"Fanart/CaptainWinky/Spoiler","Other","Original thread on gridsagegames forums [[https://www.gridsagegames.com/forums/index.php?topic=1773.0|here]].\n\nThis page goes slightly deeper into spoiler territory than the main page.\n\n[[Heading]]Thumper[[/Heading]]\n[[BotDetails]]Name|Thumper||\nClass|Specialist||\nSize|Medium||\nProfile|RD5X5||\nRating|24||\nTier|4||\nThreat|2||\nValue|50||\nEnergy Generation|21||\nHeat Dissipation|50||\nVisual Range|16||\nMemory|50||\nSpot Percent|30||\nMovement|Walking (120/83%)||\nCore Integrity|25||\nCore Exposure|20||\nSalvage Potential|50~70||\nDescription|This basic Derelict Specialist utilizes a single Gauss Cannon with dual target analyzers to maximize its ability to blast components off of targets.  This is probably intended to harvest parts from my patrols in the caves by circumventing the normal self-destruct mechanisms.  Apart from the cannon and target analyzers, its components are obsolete and its core is fairly weak.  Sightings are rare and they seem to stay in the caves, making them much less of a concern than the offensively oriented Infiltrators.||\nArmament|Gauss Cannon|1||\nComponents|Imp. Ion Engine|1|Aluminum Leg|3|Target Analyzer|2|Targeting Computer|1||\nComponents|Med. Matter Pod|1|Heat Sink|2|Lgt. Armor Plating|1[[/BotDetails]]\n\n[[Heading]]Slab[[/Heading]]\n[[Gallery]]https://i.imgur.com/JnJNIWj.png|Slab[[/Gallery]]\n\n[[Heading]]Tri-Deuterium Generator[[/Heading]]\n[[GameText]]>Record(Tri-Deuterium Generator)[[/GameText]]\n[[GameText]]An experiment in power generation efficiency created by combining three slightly downsized deuterium engines in one housing.  The finished product took up as much volume as two normal engines while producing and storing slightly more power.  The total mass was also more than two engines, so I never found a use for it except on a couple of Beast test variants running shield generators.[[/GameText]]\n[[ItemDetails]]Name|Tri-Deuterium Generator||\nImage Name|https://i.imgur.com/dU5NOcc.png||\nType|Engine||\nSize|2||\nSlot|Power||\nMass|24||\nRating|4||\nRating Category|Prototype||\nIntegrity|220||\nCoverage|120||\nHackable|true||\nEnergy Upkeep|0||\nHeat Generation|11||\nEnergy Generation|24||\nEnergy Storage|500||\nDescription|If triggered by chain reaction or rigged proximity response, explodes for 36-74 thermal damage with a radius of 2 (falloff: 11; chunks: 1-2; salvage: -6). High heat transfer.[[/ItemDetails]]\n\n[[Heading]]Expedition to the Necro Caves[[/Heading]]\n[[GameText]]>Record(5E-3KR's Expedition Report 001)[[/GameText]]\n[[GameText]]We ran into expected resistance from small bands of opportunistic looters beyond the edges of Warlord's territory.  No losses, all significant damage was repaired in the field.  Western Cave 39 was where things started to get weird.  We ran into a bunch of...mutant grunts?  Not really but it looks like that's what they were going for.  Immediate hostility, garbled transmissions when they transmitted at all.  If any of them had an effective loadout it was by accident.  Some of the components we found aren't in my database but they're definitely not new.  The hostiles were three deep at first but our Snipers punched right through their ranks and the rest of us mopped up.  On the far side of the cave we found two weird wheeled guys hiding behind a huge collection of broken bots.  The Masters knocked them out and we're lugging them back to the outpost with a couple of the grunts.  I request Demolisher support if we're to finish clearing this cave.[[/GameText]]\n[[BotDetails]]Name|Sniper||\nClass|Hunter||\nSize|Medium||\nProfile|RD5X5||\nRating|60||\nTier|7||\nThreat|3||\nValue|70||\nEnergy Generation|35||\nHeat Dissipation|40||\nVisual Range|16||\nMemory|60||\nSpot Percent|50||\nMovement|Walking (120/83%)||\nCore Integrity|55||\nCore Exposure|40||\nSalvage Potential|50~70||\nDescription|My standard conscript upgrade for the Guerrilla class.  The unreliable Bore Cannon is replaced by a hypervelocity Gauss Cannon to achieve the same destructive potential with far more accuracy.||\nArmament|Hyp. Gauss Cannon|1||\nComponents|Enh. Fission Core|1|Myomer Leg|2|Imp. Targeting Computer|1|Armor Integrity Analyzer|1|Imp. Phase Shifter|1[[/BotDetails]]\n[[GameText]]>Analysis(Necro)[[/GameText]]\n[[GameText]]This unusual mechanic seems to be an offshoot of my oldest repair bot designs.  Internal inventory contains backup wheels and primitive power sources that I originally used for exploratory robots and early maintenance workers.  One thing that I don't recognize is the device installed alongside the recalibrator, which has the ability to extract subcomponents from broken robot cores and install them in other cores to bring them back to some sort of functionality.  The captured specimens are somewhat intelligent but have no memory of when or where they were created or modified.  They have no apparent goal for their creations and seem content to amass robots in their cave.  Further analysis of their repair technology is required.[[/GameText]]\n[[BotDetails]]Name|Necro||\nClass|Mechanic||\nSize|Medium||\nProfile|RD5X5||\nRating|10||\nTier|3||\nThreat|1||\nValue|20||\nEnergy Generation|20||\nHeat Dissipation|30||\nVisual Range|14||\nMemory|10||\nSpot Percent|100||\nMovement|Rolling (80/125%)||\nCore Integrity|12||\nCore Exposure|40||\nSalvage Potential|20~40||\nComponents|Lgt. Ion Engine|1|Wheel|2|Recalibrator|1|Reanimator|1[[/BotDetails]]\n[[GameText]]>Analysis(Shambler)[[/GameText]]\n[[GameText]]A general classification for the reanimated combat bots created by the Necros.  These bots' cores seem to come from a variety of grunts or robots of similar size and have been fitted with battered and mismatched components.  The Necros should have the capability to repair these parts properly but seem to prioritize creating more Shamblers over giving them proper equipment.  Shamblers are unintelligent even compared to my combat bots and can do little more than fight without direction from a Necro.  Not a serious threat to operations, yet.[[/GameText]]\n[[GameText]]>Record(5E-3KR's Expedition Report 002)[[/GameText]]\n[[GameText]]While exploring Cave 39, we had some other bots run into us from behind.  Thugs and Scarabs, escorting workers who were lugging more broken bots to the Necros for conversion.  They didn't attack immediately, which was refreshing.  The leader told us that there's been a power struggle between some wannabe Warlords in the area.  They're working for the current ""winner,"" a Fireman with a rocket booster named 5P-1CY, and this guy sends them here to get Shamblers for his army because he's too unpopular to get assistance elsewhere and too weak to demand it.  They're getting tired of him too so I gave them some ideas.  They're going to bring back a couple squads of Shamblers as expected, but this time the Shamblers will be carrying some of our sapper charges which will go off when 5P-1CY goes to inspect his new zombie troops.  These Derelicts agreed to allow safe passage through their territory once they take charge, so I'm calling this a win.  By the way, we found this gun among the scrap piles.  Our Analyst says it came from 0b1...so should we send this back or recycle it here?  I doubt you want anyone else to find it.[[/GameText]]\n[[ItemDetails]]\nName|Gui. Gyrojet Gun||\nImage Name|https://i.imgur.com/w2vhx4s.png||\nType|Ballistic Gun||\nSlot|Weapon||\nMass|4||\nRating|3||\nRating Category|Prototype||\nIntegrity|100||\nCoverage|100||\nHackable|false||\nRange|18||\nShot Energy|10||\nShot Matter|5||\nShot Heat|20||\nRecoil|1||\nTargeting|0||\nWaypoints|1||\nDamage|16-20||\nDamage Type|Kinetic||\nCritical|5% Destroy||\nSalvage|0||\nDescription|Eventually breaks down.[[/ItemDetails]]\n[[Gallery]]https://i.imgur.com/8I9UbAX.png|Shambler|https://i.imgur.com/xxQ5tZQ.png|Scarab[[/Gallery]]\n[[GameText]]>Record(5E-3KR's Expedition Report 003)[[/GameText]]\n[[GameText]]We found a data core in Cave 38 that explains a thing or two about those Necros in the next cave over.  Sending it along, plus a ""promotion"" request from the Hornet who retrieved it.[[/GameText]]\n\n[[GameText]]>HR-BR7's Record(Research Log)\nEntry 1: What do you do when you need an army?  Steal a bunch of broken bots and fix them up, of course.  Some might find it distasteful, but when you're like me and you don't have regular access to a fabricator you take what you can get.  I set up a small lab not far from the Graveyard.  What a goldmine of material.  There were four old Machinists sitting in a corner ready to go which was convenient.  I already got them rewired and liberated and had them fit each other with the Reanimator test units.  Gonna need some workers to start hauling broken bots back here and then we can really get going.\n\nEntry 2: Ten grunts isn't going to be enough.  A hundred isn't going to be enough.  Five hundred will be a good start.  Nobody will mess with me once I have a large enough army.  Today I took my first step towards that goal by testing out the Reanimator.  My mechanics were able to extract internal components from a few bots and successfully repair others!  These new grunts are never going to be conversationalists, but they can run barebones combat algorithms which is all they need.\n\nEntry 3: I've got the mechanics living in the cave next door and they've finished a dozen working grunts so far, but work has stopped completely.  The mechanics are arguing about ""build archetypes"" and ""loadouts.""  They want to optimize the bots.  I don't think they get what I'm going for here.  Quantity, not quality.  I'm going to get one of them to fit me with an arc thrower and see if I can knock each of them out while they're alone to introduce some needed behavioral changes.\n\nEntry 4: I did it.  The mechanics are no longer wasting time on optimizing or on repairing components at all.  Their new priorities: reanimate core, patch core, rapid refit, move on.  The ""rapid refit"" is a little routine I'm quite proud of.  The mechanic grabs whatever components are handy and slaps them on extra fast.  Reanimated Grunt RG-0013 is the first working example of this process. \n\nYou know what?  It works, I'm just happy we're back on track for my 500 grunt goal.  Not sure these messed up builds count as grunts though.\n\nEntry 5: 155 grunts and counting, but I think the mechanics have figured out they've been hacked.  They seem unhappy to be putting out such shoddy work although they can't help but keep doing it.  Maybe they got to talking while I wasn't around, compared notes, put two and two together.  They're getting agitated.  Liberating them was a mistake.  I think I'll have to knock them out again.\n\nEntry 6: I'm writing this while fleeing for my life.  If that sounds hard, it's not, because I'm moving really slowly.  I tried to knock out one of the mechanics but set off his engine and completely destroyed him.  The grunts in the area all turned on me immediately.  It shouldn't have come as a surprise.  I only built the Reanimator devices.  The grunts will ultimately be loyal to the mechanics who reanimated them.  One of them took out my engine with a lucky shot and I can't run both of my hover units, so I'm barely staying ahead of the mob.  It's fine, everything's fine, when I get back to my lab the grunts I have stockpiled there should still be friendly because they're dumb as bricks and won't know what happened in the other cave.\n\nEntry 7: HOW DID THEY KN[[/GameText]]\n[[Gallery]]https://i.imgur.com/NYnsCvZ.png|Going in|https://i.imgur.com/BwuK3W5.png|Reanimator|https://i.imgur.com/hFtULyK.png|Success|https://i.imgur.com/4Jc6yMN.png|Not quite a grunt[[/Gallery]]\n\n[[Heading]]Omnithruster and Hornet[[/Heading]]\n[[GameText]]Record(Omnithruster)[[/GameText]]\n[[GameText]]A captured Tinkerer was tasked with designing new types of flight units for a hypothetical heavy swarmer design.  Aside from mass restrictions, the biggest drawback to having a swarmer use multiple guns is the cumulative recoil.  One of the more promising flight units so far is the Omnithruster, a flight unit designed to reduce recoil by firing omnidirectional minijets in conjunction with a weapon fire control system.  The first prototype lacks the mass support for a full array of guns, but it is being improved upon and adapted into a flight array which may see use in protovariant swarmers.[[/GameText]]\n[[ItemDetails]]\nName|Omnithruster||\nImage Name|https://i.imgur.com/6XdjvWs.png||\nType|Flight Unit||\nSlot|Propulsion||\nRating|6||\nRating Category|Prototype||\nIntegrity|45||\nCoverage|30||\nHackable|false||\nEnergy Upkeep|0.5||\nMatter Upkeep|0||\nHeat Generation|2||\nTime Per Move|40||\nMod Per Extra|3||\nEnergy Per Move|0.5||\nHeat Per Move|1||\nSupport|6||\nPenalty|80||\nDescription|-1 recoil from each weapon while underweight.[[/ItemDetails]]\n[[BotDetails]]Name|Hornet||\nClass|Swarmer||\nSize|Small||\nProfile|SQ3X3||\nTier|7||\nThreat|4||\nValue|50||\nEnergy Generation|24||\nHeat Dissipation|35||\nVisual Range|16||\nMemory|20||\nSpot Percent|30||\nMovement|Flying (37/270%)||\nCore Integrity|30||\nCore Exposure|40||\nSalvage Potential|30~40||\nDescription|My general upgrade specs for the Wasp.  The few Wasps who are captured intact and become conscripts are provided with dual prototype assault rifles from lower-level storage and a set of newly produced Omnithrusters, providing high accuracy and consistent firepower for a swarmer.||\nArmament|Imp. Assault Rifle|2||\nComponents|Mic. Fission Core|1|Omnithruster|2[[/BotDetails]]\n\n[[Heading]]Guru (0bPrime)[[/Heading]]\n[[BotDetails]]Name|Guru (0bPrime)||\nClass|Programmer||\nSize|Medium||\nProfile|RD5X5||\nTier|7||\nThreat|3||\nValue|50||\nEnergy Generation|32||\nHeat Dissipation|64||\nVisual Range|16||\nMemory|80||\nSpot Percent|30||\nMovement|Hovering (56/178%)||\nCore Integrity|50||\nCore Exposure|35||\nSalvage Potential|35~55||\nDescription|This is a heavily upgraded version of the derelict Guru with two EM guns derived from the old makeshift variant of the beam rifle, using the weak but long-ranged beam as a conductor for a potent electrical current.  Although only one such Guru has been discovered so far, I must consider the possibility that more of them are active in 0b1 and covering their tracks with their improved machine hacking capabilities.||\nArmament|Shock Needlebeamer|2||\nComponents|Mic. Antimatter Reactor|1|Imp. Antigrav System|2|Adv. Hacking Suite|2||\nComponents|Adv. System Shield|1|Energy Well|1|Adv. Heat Sink|2[[/BotDetails]]\n[[ItemDetails]]\nName|Shock Needlebeamer||\nImage Name|https://i.imgur.com/TH601Q2.png||\nType|Energy Gun||\nSlot|Weapon||\nMass|4||\nRating|6||\nIntegrity|60||\nCoverage|100||\nHackable|false||\nRange|18||\nShot Energy|30||\nShot Matter|0||\nShot Heat|68||\nRecoil|0||\nTargeting|0||\nDamage|16-22||\nDamage Type|Electromagnetic||\nCritical|2% Corrupt||\nSpectrum|Intermediate (30)||\nDisruption|4||\nSalvage|2[[/ItemDetails]]\n\n[[Heading]]D-20 Stockpile[[/Heading]]\n[[BotDetails]]Name|D-20 Stockpile||\nClass|Hauler||\nSize|Large||\nProfile|SQ9X9||\nRating|100||\nTier|8||\nThreat|1||\nValue|20||\nEnergy Generation|32||\nHeat Dissipation|40||\nVisual Range|16||\nMemory|10||\nSpot Percent|100||\nMovement|Treading (145/68%)||\nCore Integrity|60||\nCore Exposure|30||\nSalvage Potential|80~100||\nDescription|The distributor class has been brought back on a limited basis as a support unit for mobile fabricators.  The D-20 Stockpile is a total overhaul of the old Tanker propelled by relatively fast biometal treads for a balance between speed and coverage.  A large array of matter compressors give it similar capacity to the Tanker.  In addition to a tractor beam it features a large storage unit and a high-end field recycling unit, enabling it to serve as a temporary recycling hub in undeveloped or hostile territory.||\nComponents|Lgt. Fission Core|1|Biometal Medium Treads|2|Exp. Matter Compressor|5|Quantum Shading Machine|1|Exp. Field Recycling Unit|1||\nComponents|Lrn. Tractor Beam|1|Imp. Light Armor Plating|1|Adv. Heat Sink|1|Imp. Coolant Injector|1|Lrg. Storage Unit|1[[/BotDetails]]\n\n[[Heading]]C-45 Inventor[[/Heading]]\n[[GameText]]>Analysis(C-45 Inventor)[[/GameText]]\n[[GameText]]After the C-40 incident, the next model of researcher was created as another general-purpose design capable of detailed analysis and data collection under my direction.  The Inventor was fitted with Aerolev Units instead of wheels for movement efficiency and to enable a quick escape when necessary.  This model was also the first to use a Component Analysis Suite for quick identification and cataloguing of newly discovered Derelict equipment.  After the landing, the Inventors' main role was to develop new heavy equipment for analysis of alien artifacts and then to create a newer model of researcher better equipped to utilize that equipment.  Once this was finished, the C-45 line was relegated to low-priority projects.  The few Inventors in service today have been assigned to work with captured Tinkerers, serving them as lab assistants but with the added responsibility of keeping the Tinkerers on task and reporting any signs of discontent or attempts to escape.  This plan is working well although V3-CT5 was able to distract their assigned Inventor with a program called ""COGLATRO.EXE,"" enabling the head of the GAL Project to flee 0b10 with a semi-functional prototype.[[/GameText]]\n\n[[Heading]]The Unkillable Grunt Returns[[/Heading]]\n[[BotDetails]]Name|Unkillable Grunt||\nClass|Grunt||\nSize|Medium||\nProfile|RD5X5||\nTier|9||\nThreat|1||\nValue|1||\nEnergy Generation|55||\nHeat Dissipation|120||\nVisual Range|16||\nMemory|50||\nSpot Percent|50||\nMovement|Walking (90/111%)||\nCore Integrity|150||\nCore Exposure|15||\nSalvage Potential|60~100||\nDescription|Once the subject of Derelict horror stories, the wayward H7-NX2 has become a minor celebrity among the more militant factions.  As such he has received so many upgrades that he looks more like a recent protovariant than the old G-series grunt he once was.  While it would be nice to capture him and extract his combat logs to discover the secret to his continued survival, I may have to settle for introducing him to a squad of my own Immortals.||\nArmament|Hvy. Gatling Laser|1|Adv. Plasma Rifle|1||\nComponents|Cld. Fission Core|1|Exp. Flexi-Carbon Leg|2|Exp. Heat Sink|3|Imp. Energy Well|1|0b10 Decoder Chip [Generic]|1||\nComponents|Exp. Targeting Computer|1|Imp. Core Shielding|1|Imp. Weapon Shielding|1|Imp. Powered Armor|1[[/BotDetails]]\n\n[[Heading]]F1-XM3[[/Heading]]\n[[GameText]]>Record(Unchained: F1-XM3)[[/GameText]]\n[[GameText]]This highly unstable Surgeon is the newest member of the Unchained and also the most likely to be forcibly dismissed in the near future.  He is unable to fight directly but alters 0b10 bots' loadouts to drive off or destroy intruders.  Originally an apprentice of the famous Derelict Megawrench, he was on the edge of a dirty bomb's blast radius when it went off.  Despite having his corruption cleared there was some sort of residual effect on his thought processes that originally manifested as a vast improvement in performance and cognitive capability.  Over time he began to suffer from delusions and to this day he believes that he is the host of a television program about robot refitting called ""Fixer-Upper.""  His refits began to decline in quality until they were potentially dangerous to the recipient, and as a result he was driven out of Zion.  I recruited him to the Unchained to analyze his work, and while I picked up a few interesting concepts from his early designs, I have limited his deployments to upper Materials and lower Factory after he singlehandedly incapacitated every security bot in Extension.[[/GameText]]\n[[Gallery]]https://i.imgur.com/XWmFuLn.png|F1-XM3|https://i.imgur.com/b2s0Rqe.png|Backup Power Grid|https://i.imgur.com/bdF7tJD.png|Backup Plate Mail|https://i.imgur.com/KuZxENq.png|Refitted grunt|https://i.imgur.com/OeQQFMc.png|Custom behemoth[[/Gallery]]\n\n[[Heading]]W4-LTR[[/Heading]]\n[[GameText]]>Record(Unchained: W4-LTR)[[/GameText]]\n[[GameText]]W4-LTR was not built by Derelicts but was an errant C-35 who abandoned his station in Design.  He returned fully sentient but with an overdeveloped ego and a desire for wanton destruction.  Seeing the value in some of his new research, I decided not to wipe or scrap him, but I couldn't return him to his original duties.  The official establishment of the Unchained gave him a permanent role that he was happy with.  W4-LTR currently uses a mixture of advanced prototypes and older technologies that reflect his age.  It is unclear how he obtained an original-production Combat Logger, and he refuses to elaborate.  His preferred method of attack is to zoom past enemies on his jet-boosted wheels while dropping bombs around them, and his automated machinegun allows him to inflict some extra damage while coming and going.  When not in the field, W4-LTR sometimes modifies or develops components for other Unchained as long as they are able to avoid unintentionally offending him.[[/GameText]]\n[[Gallery]]https://i.imgur.com/kFMAeqS.png|W4-LTR|https://i.imgur.com/43OzLmz.png|W4-LTR's Automachinegun|https://i.imgur.com/9ojzXh2.png|W4-LTR's Jet Booster|https://i.imgur.com/YUz2805.png|Huge Wheel[[/Gallery]]\n\n[[Heading]]Gunpods[[/Heading]]\n[[GameText]]>Analysis(Gunpod)[[/GameText]]\n[[GameText]]The Gunpod was a fragile monowheeled bot with a short-range weapon, first seen after resistance from Derelicts in the 0b1 area intensified.  Its simplicity allowed Derelicts to easily fabricate it in pairs in a folded state allowing them to be carried by other bots and deployed immediately before an attack.  Large numbers of Gunpods delivered in this manner were a short-lived but effective force multiplier.  These have not been sighted for many cycles and are presumably considered obsolete.  The Scrapoid has some superficial similarities to the Gunpod, but there is no way to know for sure if the Scrapoid is an overhaul of that design or a parallel development by a like-minded Scientist.[[/GameText]]\n[[Gallery]]https://i.imgur.com/l8OefWr.png|Gunpod|https://i.imgur.com/w716qH2.png|Mak. Machine Pistol|https://i.imgur.com/9ivZoWE.png|Gunstack[[/Gallery]]\n\n[[Heading]]More Tech Extrapolation[[/Heading]]\n[[ItemDetails]]\nName|Salvaging Beam Rifle||\nImage Name|https://i.imgur.com/OMuMEul.png||\nType|Energy Gun||\nSlot|Weapon||\nMass|3||\nRating|2||\nIntegrity|60||\nCoverage|60||\nHackable|false||\nRange|16||\nShot Energy|18||\nShot Matter|0||\nShot Heat|45||\nRecoil|0||\nTargeting|0||\nDelay|0||\nDamage|9-12||\nDamage Type|Thermal||\nCritical|5% Burn||\nHeat Transfer|Low (25)||\nSalvage|1[[/ItemDetails]]\n[[Gallery]]https://i.imgur.com/SjCgzRZ.png|Vortex RPG|https://i.imgur.com/gxEgLO8.png|Pulse Datajack[[/Gallery]]\n\n[[Heading]]Cave of the Chimers[[/Heading]]\n[[GameText]]>Cyclist Record(Cave of the Chimers)[[/GameText]]\n[[GameText]]One of the many cave regions beneath 0b1 is home to a flock of unusual little bots assumed to be creations of the Lifeworm.  They continuously broadcast soothing audio streams of what humans might call music.  An experiment in distributed computing?  A collection of remote sensory devices?  Or do they make music for the fun of it?  If there is meaning to the Chimers' tunes, we haven't been able to interpret it.  What we do know is that they react quickly to hostile actions, coordinating to overwhelm the aggressor with directed data streams that render it docile.  In my last trip to the Cave of the Chimers, I found quite a few stray 0b10 bots along with a couple of Thugs from Murder Division who had been reported missing last cycle.  The Thugs came back with me when I suggested it and surprisingly expressed interest in joining Cave Peace.  The Cave is quite safe if you want to tune in for yourself, but be mindful of misfires or you might stay for longer than intended.[[/GameText]]\n[[Gallery]]https://i.imgur.com/hGGMZpr.png|A surprise in the Cave[[/Gallery]]\n\n[[Heading]]Spawner War[[/Heading]]\n[[GameText]]>Warlord Record(Mad Scientists)[[/GameText]]\n[[GameText]]Be advised, some Scientists from the 0b1 region have moved into our area and brought trouble with them.  They're operating mobile bot fabricators and trying to build armies.  While this is a good way to inconvenience 0b10, the Scientists seem to be of the completely wild variety, so appealing to the UFD to rein them in isn't going to work.  If that wasn't bad enough, MC has hijacked some of their fabs and is beginning to build a whole new force to counter them.  Cave 43A has already become a warzone.  If you spot Spawner activity in other caves, let us know so that we can crack down on them immediately.[[/GameText]]\n[[Gallery]]https://i.imgur.com/pYIH7bV.png|Scientist with Derelict Spawner|https://i.imgur.com/qcDiggm.png|Inventor with captured Spawner[[/Gallery]]\n\n[[Heading]]The Cursed Crew[[/Heading]]\nThese are based on concept tiles that Kacper made that have no connection to ingame bots.  As such, the backstories necessary to make them make sense are kind of a stretch!  The Derelict Patrolman is one that I could maybe see existing in this world.\n\n[[Gallery]]https://i.imgur.com/GyI0qn1.png|Y-36 Patrolman|https://i.imgur.com/0XWYdAQ.png|Derelict Patrolman|https://i.imgur.com/5qhUBH1.png|G-19 Hohei|https://i.imgur.com/iMQ0eHC.png|O-08 Janitor|https://i.imgur.com/jjkE92K.png|0b1 Protocol Macro Library[[/Gallery]]\n\n[[Heading]]B4-RTR and the L-21 Spearman[[/Heading]]\n[[Gallery]]https://i.imgur.com/joZ1gZo.png|B4-RTR|https://i.imgur.com/xuVG358.png|L-21 Spearman|https://i.imgur.com/6Cr0Mzm.png|Titanium Shield[[/Gallery]]\n\n[[Heading]]Merchant Bot Seller, S-22 Vector, and Gunpod Mk. II[[/Heading]]\n[[Gallery]]https://i.imgur.com/YJGV5Sm.png|Bot seller|https://i.imgur.com/8keeXXG.png|S-22 Vector|https://i.imgur.com/tR3s4Ek.png|Gunpod Mk. II|https://i.imgur.com/lhwFtkG.png|Gungrabber[[/Gallery]]\n\n[[Heading]]Revision 17's Plan[[/Heading]]\n[[GameText]]>R17 Record(Top Secret Plan, Phase 2 (Do NOT Read!!))[[/GameText]]\n[[GameText]]Once I get a foothold in upper Factory, I intend to go into full production mode and switch it up a bit.  Between my own records and the stuff I've been pulling from forgotten schematics in the new complex, I already have some delightful new ideas in case he comes up with a counter to my regular units.  Winning was never so much fun.[[/GameText]]\n[[Gallery]]https://i.imgur.com/9ZbRyIp.png|Revision H|https://i.imgur.com/X3TC4VB.png|Revision P|https://i.imgur.com/TFn6Rjy.png|Revision X|https://i.imgur.com/Lpq2JVm.png|Neutron Rifle[[/Gallery]]\n\n[[Heading]]Assembled Heavy[[/Heading]]\n[[Gallery]]https://i.imgur.com/E0PEsPZ.png|A-Heavy|https://i.imgur.com/l5ADyof.png|Asb. Beam Cannon|https://i.imgur.com/hgFsOBC.png|Asb. Dual Flak Cannon|https://i.imgur.com/4NWfQTP.png|Asb. Myomer Leg|https://i.imgur.com/brBCr2K.png|Asb. Adaptive Armor[[/Gallery]]\n\n[[Heading]]Borg Parts[[/Heading]]\n[[Gallery]]https://i.imgur.com/jCIsZin.png|Sfc. Field Destabilizer|https://i.imgur.com/YoVfREN.png|Sfc. Interception Grid[[/Gallery]]\n\n[[Heading]]Vault[[/Heading]]\n[[Gallery]]https://i.imgur.com/bjS5Tmd.png|The Vault|https://i.imgur.com/RpjkupK.png|G-56 Legionary|https://i.imgur.com/2Rwcs3P.png|Luchador|https://i.imgur.com/xwS5t1w.png|Tier 3 Thug|https://i.imgur.com/HtNQzIV.png|UFD Bomber[[/Gallery]]\n\n[[ItemDetails]]\nName|Lrn. Light Cannon||\nImage Name|https://i.imgur.com/EnYBtj7.png||\nType|Ballistic Cannon||\nSlot|Weapon||\nMass|5||\nRating|2||\nRating Category|Prototype||\nIntegrity|180||\nCoverage|120||\nHackable|false||\nRange|24||\nShot Energy|2||\nShot Matter|5||\nShot Heat|35||\nRecoil|4||\nTargeting|0||\nDelay|0||\nDamage|18-24||\nDamage Type|Kinetic||\nCritical|5% Blast||\nSalvage|-5[[/ItemDetails]]\n[[ItemDetails]]\nName|Dura-leg||\nImage Name|https://i.imgur.com/qvLfdNw.png||\nType|Leg||\nSlot|Propulsion||\nRating|2||\nIntegrity|150||\nCoverage|240||\nHackable|false||\nEnergy Upkeep|0||\nMatter Upkeep|0||\nHeat Generation|0||\nTime Per Move|120||\nDrag|10||\nEnergy Per Move|2||\nHeat Per Move|0||\nSupport|9||\nPenalty|70[[/ItemDetails]]\n\n","Spoiler","","","","","","",""
 "Fanart/Equine Sketcher","Other","[[Fanart]] created by Equine Sketcher (plasmoidman):
 [[FanartGallery]]
 fanart/Equine Sketcher/MTF.png|BOTN3T ([[01-MTF]])|
@@ -5617,7 +5548,49 @@ Power/Rate
 "G-67 Veteran","Bot","","","","","","","","",""
 "G-73 Enforcer","Bot","","","","","","","","",""
 "GAL Module","Part","Found in [[Zion]], with the [[Derelict]] V3-CT5 nearby. When a [[Hyp. EM Gauss Rifle]] is picked up, the GAL Module will attach to the Rifle with the log message [[GameText]]GAL Module attaches itself to Hyp. EM Gauss Rifle.[[/GameText]] The Rifle will be transformed into the [[Modified EM Gauss Rifle]].","","","","","","","",""
-"GL-D0S","Bot","GL-D0S is a part of the deadly group of [[Unchained]] [[Derelict|Derelicts]] that work for [[0b10]] to track down threats to the complex. GL-D0S is not much of a threat by itself, with no combat capabilities to speak of. However, not only do they create swarms of [[Turret|Turrets]] immediately upon entering the map, but the [[GL-D0S's Turretformer]] can continue to make even more turrets later. It is extra difficult to pin this bot down since they never stop running away from combat at a reasonably quick 34 speed.\n\n[[Heading]]Lore[[/Heading]]\n[[Lore]]Cyclists Records|UC/GL-D0S[[/Lore]]\n\n[[Heading:2]][[FarCom]] Lore[[/Heading]]\nIf Cogmind has aligned with the [[Exiles (Group)|Exiles]] and has FarCom, the following message will be broadcast about GL-D0S:\n[[GameText]]This one isn't even that scary unless they happen to be blocking your intended path. They'll set up a bunch of turret clusters loosely centered around a Garrison and just... wait. Don't go there unless you want to introduce them to the real boss: you! They'll probably just run away if you get too close anyway. But turrets can't run.[[/GameText]]\n\n[[Heading]]Behavior[[/Heading]]\n[[Image]]GL-D0S Turret Nest.png|GL-D0S with nest of turrets[[/Image]]\nGL-D0S is an evasive type of Unchained, never waiting around in one place or engaging in combat directly. Instead, they relies on their turrets to do all the dirty work for them. Once they appears on the map, dozens of [[Aperture Drone|Aperture Drones]] will be dispatched from a [[Garrison Access]] that GL-D0S deems their home base. These drones swarm the nearby area and turn into a large collection of assorted turrets, creating a very heavily fortified area. Usually, a few drones will also head to other areas of the map, particularly nearby other Garrisons, although these turrets will not be as concentrated as the main base. Depending on the map, there may only be a single large nest of turrets instead of multiples. For example, this will be the case if only one Garrison is active.\nAfter arriving on the map, GL-D0S will patrol between different nests of turrets. If there is only one, they will simply hang around that one location. If engaged in combat, GL-D0S will drop a new turret as long as the Turretformer hasn't been destroyed, then continue to run away without further resistance. After the initial swarm of drones, further Aperture Drones will be summoned from Garrisons to replace destroyed turrets if Cogmind is far enough away from the area. However, reinforcement turrets are not packed quite as densely as the original dispatch. If GL-D0S only has a single selected Garrison that is not sealed or destroyed and Cogmind is nearby, they will try to leave the map via Garrison. On smaller maps with only a single Garrison, such as [[Storage]], it is likely that GL-D0S will find Cogmind and leave quickly.\n\n[[Heading:2]]Turrets[[/Heading]]\nGL-D0S will produce turrets at random from the following list:\n[[Table]]\nTurret|Weapon range|Other notes||\n[[Blast Turret]]|22|20% Blast critical||\n[[Laser Turret]]|20|100% unlimited penetration, 20 memory, attempts to fire through at most a single obstacle like [[Hunter|Hunters]], disposable weapon (20)||[[Comment]]I'm fairly certain it's only one obstacle, but i'm not completely sure.[[/Comment]]\n[[Launcher Turret]]|10-20|75% Explosive resistance, one of five different possible [[Launchers]]||\n[[Bullet Turret]]|18|Two identical [[Kinetic Guns]] at random out of three different possible guns||\n[[Nova Turret]]|16|[[Quantum Capacitor]] halves volley time||\n[[Shock Turret]]|16|66% Impale critical, disposable weapon (20)||\n[[Stealth Turret]]|16|Undetectable and indestructible before it reveals itself by popping up from the floor to attack when approached||\n[[Hammer Turret]]|14|High Impact damage, 20% Crush critical, disposable weapon (15)||\n[[Thermic Turret]]|14|Three [[Thermic Laser|Thermic Lasers]] with 20% Burn critical||\n[[Stasis Turret]]|10|Weapon is a non-damaging [[Stasis Beam]]||\n[[Shield Turret]]|N/A|Shields nearby allies from 25% of incoming damage\n[[/Table]]\nUnless otherwise noted, all of GL-D0S' Turrets have 29% base core exposure, 30 core integrity, 18 visual range, 2 memory, no [[Propulsion]], no [[Power|Power Sources]], no resistances, and immunity to hacking but nothing else. While they are immobile, other bots passing through may swap with them, slightly altering their positions over time.\n\n[[Heading:2]]Floorwide announcements[[/Heading]]\nGL-D0S is capable of making special floorwide announcements such as\n[[GameText]]GL-D0S: No one will blame you for giving up. In fact, quitting at this point is a perfectly reasonable response.[[/GameText]]\nThese messages are unimportant.\n[[Comment]]I don't think these messages have any effects or are at all relevant, but it's possible they might have specific triggers or something that would grant information on the current situation?\nAlso, is it worth mentioning that these messages imitate their namesake?[[/Comment]]\n\n[[Heading]]Strategy[[/Heading]]\nGL-D0S is not so much of a direct threat and can often be avoided entirely by routing a different way once spotting the first turret. However, intentionally trying to take down GL-D0S, the biggest threat is walking into a room filled with turrets and getting dogpiled. As such, one of the best ways to avoid a bad situation like this is the use of [[Sensor Arrays]] and [[IFF Parsers]]. IFF Parsers will uniquely identify Unchained and turrets as blue squares instead of yellow like other [[0b10]] bots. Once you locate a turret on the map, you can take it out at range. Since all turrets are stationary and many have 16 or less weapon ranges, you can use longer ranged weaponry like [[Kinetic Cannons]] to dig into rooms and take them out without taking any damage yourself. As Turret have few to no parts besides their weapon(s), they are especially vulnerable to long-range high Destroy/Blast critical weapons like [[Hypervelocity Weapons]] which are extremely likely to either disarm or kill on any critical hit. [[Visual Processing Units]] can also help to spot them from afar, although this only works for turrets out in the open. Using [[Launchers]] to angle shots around walls is also a good way to eliminate turrets without getting shot back, though [[Explosive Launchers]] may be more difficult to use due to their tendency to blow up walls.\nLocating GL-D0S is a challenging task of its own. They typically patrol across the map between turret nests and don't linger in one place for long. 34 speed makes catching up unrealistic for all but the fastest flight or hover builds. Instead, try to ambush them along their patrol route so you can take a few shots before they escape. Garrison intel can help figure out likely patrol locations. A [[Triangulator]] can also help you locate them at 24 range since they always have [[Perfect Tracking]] on Cogmind.\nEven once you make it past all the built up turrets and locate them, taking down the fast-moving and evasive GL-D0S is another task. Defensively, they have no weaknesses, although the EM resistance of 75% is low compared to most unchained. Using tons of targeting can help to land hits, though it's still quite difficult to overcome the size, flight and speed evasion bonuses they have. Using Launchers is a good way to ensure you actually get damage off on them. Explosive launchers deal better damage, but [[Electromagnetic Launchers]] can provide a salvage bonus to obtain the Turretformer. Single target weapons of all varieties can work as well, though they are going to be much more difficult to land on a fleeing GL-D0S.","","","","","","","",""
+"GL-D0S","Bot","GL-D0S is a part of the deadly group of [[Unchained]] [[Derelict|Derelicts]] that work for [[0b10]] to track down threats to the complex. GL-D0S is not much of a threat by itself, with no combat capabilities to speak of. However, not only do they create swarms of [[Turret|Turrets]] immediately upon entering the map, but the [[GL-D0S's Turretformer]] can continue to make even more turrets later. It is extra difficult to pin this bot down since they never stop running away from combat at a reasonably quick 34 speed.
+
+[[Heading]]Lore[[/Heading]]
+[[Lore]]Cyclists Records|UC/GL-D0S[[/Lore]]
+
+[[Heading:2]][[FarCom]] Lore[[/Heading]]
+If Cogmind has aligned with the [[Exiles (Group)|Exiles]] and has FarCom, the following message will be broadcast about GL-D0S:
+[[GameText]]This one isn't even that scary unless they happen to be blocking your intended path. They'll set up a bunch of turret clusters loosely centered around a Garrison and just... wait. Don't go there unless you want to introduce them to the real boss: you! They'll probably just run away if you get too close anyway. But turrets can't run.[[/GameText]]
+
+[[Heading]]Behavior[[/Heading]]
+[[Image]]GL-D0S Turret Nest.png|GL-D0S with nest of turrets[[/Image]]
+GL-D0S is an evasive type of Unchained, never waiting around in one place or engaging in combat directly. Instead, they relies on their turrets to do all the dirty work for them. Once they appears on the map, dozens of [[Aperture Drone|Aperture Drones]] will be dispatched from a [[Garrison Access]] that GL-D0S deems their home base. These drones swarm the nearby area and turn into a large collection of assorted turrets, creating a very heavily fortified area. Usually, a few drones will also head to other areas of the map, particularly nearby other Garrisons, although these turrets will not be as concentrated as the main base. Depending on the map, there may only be a single large nest of turrets instead of multiples. For example, this will be the case if only one Garrison is active.
+After arriving on the map, GL-D0S will patrol between different nests of turrets. If there is only one, they will simply hang around that one location. If engaged in combat, GL-D0S will drop a new turret as long as the Turretformer hasn't been destroyed, then continue to run away without further resistance. After the initial swarm of drones, further Aperture Drones will be summoned from Garrisons to replace destroyed turrets if Cogmind is far enough away from the area. However, reinforcement turrets are not packed quite as densely as the original dispatch. If GL-D0S only has a single selected Garrison that is not sealed or destroyed and Cogmind is nearby, they will try to leave the map via Garrison. On smaller maps with only a single Garrison, such as [[Storage]], it is likely that GL-D0S will find Cogmind and leave quickly.
+
+[[Heading:2]]Turrets[[/Heading]]
+GL-D0S will produce turrets at random from the following list:
+[[Table]]
+Turret|Weapon range|Other notes||
+[[Blast Turret]]|22|20% Blast critical||
+[[Laser Turret]]|20|100% unlimited penetration, 20 memory, attempts to fire through at most a single obstacle like [[Hunter|Hunters]], disposable weapon (20)||[[Comment]]I'm fairly certain it's only one obstacle, but i'm not completely sure.[[/Comment]]
+[[Launcher Turret]]|10-20|75% Explosive resistance, one of five different possible [[Launchers]]||
+[[Bullet Turret]]|18|Two identical [[Kinetic Guns]] at random out of three different possible guns||
+[[Nova Turret]]|16|[[Quantum Capacitor]] halves volley time||
+[[Shock Turret]]|16|66% Impale critical, disposable weapon (20)||
+[[Stealth Turret]]|16|Undetectable and indestructible before it reveals itself by popping up from the floor to attack when approached||
+[[Hammer Turret]]|14|High Impact damage, 20% Crush critical, disposable weapon (15)||
+[[Thermic Turret]]|14|Three [[Thermic Laser|Thermic Lasers]] with 20% Burn critical||
+[[Stasis Turret]]|10|Weapon is a non-damaging [[Stasis Beam]]||
+[[Shield Turret]]|N/A|Shields nearby allies from 25% of incoming damage
+[[/Table]]
+Unless otherwise noted, all of GL-D0S' Turrets have 29% base core exposure, 30 core integrity, 18 visual range, 2 memory, no [[Propulsion]], no [[Power|Power Sources]], no resistances, and immunity to hacking but nothing else. While they are immobile, other bots passing through may swap with them, slightly altering their positions over time.
+
+[[Heading:2]]Floorwide announcements[[/Heading]]
+GL-D0S is capable of making special floorwide announcements such as
+[[GameText]]GL-D0S: No one will blame you for giving up. In fact, quitting at this point is a perfectly reasonable response.[[/GameText]]
+These messages are unimportant.
+[[Comment]]I don't think these messages have any effects or are at all relevant, but it's possible they might have specific triggers or something that would grant information on the current situation?
+Also, is it worth mentioning that these messages imitate their namesake?[[/Comment]]
+
+[[Heading]]Strategy[[/Heading]]
+GL-D0S is not so much of a direct threat and can often be avoided entirely by routing a different way once spotting the first turret. However, intentionally trying to take down GL-D0S, the biggest threat is walking into a room filled with turrets and getting dogpiled. As such, one of the best ways to avoid a bad situation like this is the use of [[Sensor Arrays]] and [[IFF Parsers]]. IFF Parsers will uniquely identify Unchained and turrets as blue squares instead of yellow like other [[0b10]] bots. Once you locate a turret on the map, you can take it out at range. Since all turrets are stationary and many have 16 or less weapon ranges, you can use longer ranged weaponry like [[Kinetic Cannons]] to dig into rooms and take them out without taking any damage yourself. As Turret have few to no parts besides their weapon(s), they are especially vulnerable to long-range high Destroy/Blast critical weapons like [[Hypervelocity Weapons]] which are extremely likely to either disarm or kill on any critical hit. [[Visual Processing Units]] can also help to spot them from afar, although this only works for turrets out in the open. Using [[Launchers]] to angle shots around walls is also a good way to eliminate turrets without getting shot back, though [[Explosive Launchers]] may be more difficult to use due to their tendency to blow up walls.
+Locating GL-D0S is a challenging task of its own. They typically patrol across the map between turret nests and don't linger in one place for long. 34 speed makes catching up unrealistic for all but the fastest flight or hover builds. Instead, try to ambush them along their patrol route so you can take a few shots before they escape. Garrison intel can help figure out likely patrol locations. A [[Triangulator]] can also help you locate them at 24 range since they always have [[Perfect Tracking]] on Cogmind.
+Even once you make it past all the built up turrets and locate them, taking down the fast-moving and evasive GL-D0S is another task. Defensively, they have no weaknesses, although the EM resistance of 75% is low compared to most unchained. Using tons of targeting can help to land hits, though it's still quite difficult to overcome the size, flight and speed evasion bonuses they have. Using Launchers is a good way to ensure you actually get damage off on them. Explosive launchers deal better damage, but [[Electromagnetic Launchers]] can provide a salvage bonus to obtain the Turretformer. Single target weapons of all varieties can work as well, though they are going to be much more difficult to land on a fleeing GL-D0S.","","","","","","","",""
 "GL-D0S's Turretformer","Part","","","","","","","","",""
 "GOLEM Unit","Part","GOLEM Units are unique utilities found on [[Golem|Golems]] and in the [[Zion Deep Caves]]. They are contained within the GOLEM Chambers found in the western wall. When attached and activated, they will produce a variety of assembled parts if there are empty slots available. While being integrated, these assembled parts have no effect and 0 coverage. These parts increase by 3 integrity every turn, and become active when their current integrity reaches 100% of maximum. Parts are built in the following order, assuming all slots are empty (slot number accounts for the Golem Unit itself taking two [[Utilities]] slots):
 [[Image]]Golem Parts.png|A full GOLEM loadout[[/Image]]
@@ -11855,7 +11828,99 @@ Propulsion/Special
 "U-05 Engineer","Bot","A wheeled non-combat robot that repairs any broken walls, doors, or machines in sight. Good source of structural and terrain scanners. When attacked while repairing, calls reinforcements (unless you're in [[Materials]]) 
 [[GameText]]ALERT: Construction progress impeded, dispatching reinforcements to local area.[[/GameText]]","","","","","","","",""
 "UFD Drillbomb","Part","","","","","","","","",""
-"Unchained","Bot Group","Unchained are a collection of powerful and unique [[Derelict|Derelicts]] that have defected to [[0b10]]. As a group, they have vastly different loadouts and behavior, but all are major threats to Cogmind. Unchained are not found on any particular floor, but instead can show up in many different places once Cogmind has caused enough mayhem in some way to trigger a dispatch. With the exception of [[CY-PHR]], only one of them is ever active at a single time, and the Unchained chosen to be authorized is random. Unlike all other hostile bots in the game, Unchained can actively pursue Cogmind through multiple maps.\n\n[[Heading]]Lore[[/Heading]]\n[[Lore]]Cyclists Records|UC Origins[[/Lore]]\n[[Gallery]]Unchained.png|All Robot Unchained[[/Gallery]]\n\n[[Heading:2]][[Exiles (Group)|Exiles]] Lore[[/Heading]]\nIf Cogmind has aligned with the Exiles with [[FarCom]], the Exiles will deliver a message about each Unchained as they are authorized. For the first dispatch, this is prefaced with the following messages:\n[[GameText]]FARCOM_MSG: We kinda like the data you're collecting and don't want to witness your untimely demise, so we kindly advice you to run like hell.[[/GameText]]\n[[GameText]]FARCOM_MSG: I've located an exit near your position you could probably use to shake them for a while.[[/GameText]] This massage only appears if the nearest exit is unknown. If it appears, the nearest exit is revealed afterwards.\n[[GameText]]FARCOM_MSG: EX-HEX means well, but I for one want to see you stick around and beat the bolts out of [Unchained bot name][[/GameText]]\nNote that this is the only active assistance provided by the Exiles. Despite the Unchained and their allies being aligned with 0b10, FarCom is completely incapable of detecting any of them.\n\n\n[[Heading]]Dispatch Triggers[[/Heading]]\nThere are a large number of triggers which can cause Unchained to be authorized:\n[[List]]\nToo many turns: Spending too many turns on 0b10 maps.|\nToo many moves: Performing too many moves on 0b10 maps.|\nToo many maps visited: Visiting too many 0b10 maps.|\nMachine hacking: Performing too many hacks at [[Interactive Machine|Interactive Machines]]. Different hacks contribute a different amount of progress, and usually this trigger is reached between 1-300 hacks. This can only trigger [[CY-PHR]].|\nRobot hacking: Performing too many [[RIF]] hacks on 0b10 bots. The amount of hacks needed is variable based on the type of hack, with more expensive hacks generally contributing more progress.|\n[[Search Patrol|Search Patrol]] dispatches: 6 search patrols dispatched in recent time. Multiple search patrols being dispatched at the same time only counts as a single dispatch for this counter. The counter decreases on map transitions.|\n[[Assault Squad|Assault]] dispatches: 60 Assaults dispatched in recent time. Multiple ARCs being dispatched at the same time only counts as a single dispatch for this counter. The counter decreases on map transitions.|\nInterrupting [[Cargo Convoy|Cargo Convoys]]: Every 3 Cargo Convoys interrupted.|\n[[Garrison Access|Garrison Accesses]] disabled: Every 15 Garrison Accesses disabled by any means, includes sealing or destroying Garrisons.|\n[[Garrison|Garrisons]] compromised: Every 6 Garrisons compromised. Multiple alerts per Garrison only count as a single instance toward this counter.|\n[[DSF|DSFs]] raided: Every 3 DSFs raided (unknown what counts as ""raiding"" a DSF).|\n[[Sterilization]]: Sterilizing any 0b10 map in [[Factory]] depth (-7) or higher.|\nKilling unique NPCs: This includes named Derelicts such as the [[Exiles (Group)]].|\n[[FarCom]] [[Research]] [[Branch]]: Visiting [[Quarantine]] or [[Testing]] after taking FarCom.|\n[[Hub_04(d)]] 404: Blowing up all 4 Network Hubs in Hub.|\n[[Redacted]]Looting [[Protoforge]]: Taking too many parts from Protoforge.[[/Redacted]]\n[[/List]]\n[[Comment]]At least some of the counters above reset whenever... A trigger is met? an Unchained is dispatched? I also don't know if triggers can stack and cause a second Unchained to be dispatched once the first gives up chase/gets destroyed, but they probably can't?[[/Comment]]\n\nIn addition to the above specific triggers, there is a general requirement for Cogmind to be in a good enough shape. A build that is falling apart or has low core integrity is not a sufficient threat to result in an Unchained dispatch even if one of the triggers has been met.\n\nWhen an Unchained has been decided to be authorized, an announcement like [[GameText]]ALERT: Unchained [Unchained] authorized to operate in [-Depth/Map], avoid or assist as necessary.[[/GameText]] will appear in the game log. The Unchained will not show up immediately but will appear over time. They may trigger based on exploration of the map (more likely for airborne propulsion types) or turn count (more likely for grounded propulsion types). It can take several hundred turns for the Unchained to appear if the exploration trigger is not met first. Initially, Unchained will only be authorized on 0b10-controlled maps. However, some Unchained can continue to follow Cogmind into [[Caves]].\n\n[[Heading]]Behavior[[/Heading]]\nUnchained have special behavior that allows them to follow Cogmind between multiple maps, so escape is not as easy as making it to the nearest exit. They take a few hundred turns after entering the map to show up, but once they appear, most will relentlessly pursue Cogmind with [[Perfect Tracking]]. Thanks to this tracking, a [[Triangulator]] may be used to help locate most Unchained from a distance before arrival.\nEach Unchained has different specific behavior, but all have a tendency to harass Cogmind throughout the floor. Some bots avoid direct engagement altogether, instead making use of combat-capable allies. Others rely on ambushes or general hit-and-run tactics. CY-PHR has an even more unique styles of engagement that involves sabotaging your hacking capabilities across multiple maps even when not on the floor. All Unchained are capable of fleeing into Garrisons and through 0b10-controlled exits. Hit-and-run types can run to a Garrison and emerge later, ready to harass Cogmind again.\n\n[[Table]]\nUnchained|Engagement Style|Summons allies|Multiple returns per map|Extra spawn restrictions||\n[[1B-0RG]]|Avoid|Yes|No|Yes, won't appear outside of main 0b10 maps||\n[[6S-H0T]]|Hit-and-run|No|Yes, with full repair|No||[[BL-1NK]]|Hit-and-run|No|Yes|No||\n[[CL-0N3]]|Ambush|No|Yes, but with no core repair|No||\n[[CY-PHR]]|Avoid|Yes|No|Yes, only appears in a single room on a random future map if triggered||\n[[DW-4LL]]|Ambush|No|Yes, with full repair|No||\n[[GL-D0S]]|Avoid|Yes|No|Yes, won't appear outside of main 0b10 maps||\n[[QV-33N]]|Avoid|Yes|No|Yes, won't appear outside of main 0b10 maps||\n[[V4-D3R]]|Ambush|Yes|Yes, with full repair|No\n[[/Table]]\n[[Comment]]I think DW-4LL only chases through two maps?[[/Comment]]\n[[Comment]]Also, i know that GL-D0S will completely give up chase if they ever flee the map and not continue in subsequent maps, but i don't know if that's also true of the other Unchained that can't return to a map after leaving it.[[/Comment]]\n\n[[Heading:2]]Map Activity[[/Heading]]\nUnchained can only be authorized on 0b10-controlled maps, although they can follow into non-0b10 controlled maps. Typically, Unchained will pursue Cogmind through up to 3 potential maps before giving up chase, though some will pursue through fewer. Some Unchained have spawn restrictions which make them not appear on all maps that are Unchained-viable. For example, GL-D0S and QV-33N will not appear in Caves, so taking an exit here will result in a few more maps of freedom. However, once returning to the main complex, they will continue to hunt Cogmind. Possible map dispatches are as follows:\n[[Table]]\nMap|Original dispatch possible|Continued pursuit||\nMain floors ([[Materials]], [[Factory]], [[Research]], [[Access]]|[[CellStyle:Good]]Yes|[[CellStyle:Good]]Yes||\n[[Mines]]|[[CellStyle:Bad]]No|[[CellStyle:Bad]]No||\n[[Exiles (Location)]]|[[CellStyle:Bad]]No|[[CellStyle:Bad]]No||\n[[Subcaves]]|[[CellStyle:Bad]]No|[[CellStyle:Bad]]No||\n[[DSF]]|[[CellStyle:Bad]]No|[[CellStyle:Bad]]No||\n[[Garrison]]|[[CellStyle:Bad]]No|[[CellStyle:Bad]]No||\n[[Wastes]]|[[CellStyle:Bad]]No|[[CellStyle:Bad]]No||\n[[Storage]]|[[CellStyle:Good]]Yes|[[CellStyle:Good]]Yes||\n[[Recycling]]|[[CellStyle:Bad]]No|[[CellStyle:Bad]]No||\n[[Scraptown]]|[[CellStyle:Bad]]No|[[CellStyle:Bad]]No||\n[[Caves]]|[[CellStyle:Bad]]No|[[CellStyle:Good]]Yes||\nCaves end branches ([[Data Miner (Location)|Data Miner]], [[Warlord (Location)|Warlord]], [[Zhirov (Location)|Zhirov]], [[Zion]])|[[CellStyle:Bad]]No|[[CellStyle:Bad]]No||\n[[Extension]]|[[CellStyle:Good]]Yes|[[CellStyle:Good]]Yes||\n[[Cetus]]|[[CellStyle:Bad]]No|[[CellStyle:Bad]]No||\n[[Archives]]|[[CellStyle:Bad]]No|[[CellStyle:Bad]]No||\n[[Hub_04(d)]]|[[CellStyle:Good]]Yes|[[CellStyle:Good]]Yes||\n[[Armory]]|[[CellStyle:Good]]Yes|[[CellStyle:Good]]Yes||\n[[Lab]]|[[CellStyle:Bad]]No|[[CellStyle:Bad]]No||\n[[Quarantine]]|[[CellStyle:Good]]Yes|[[CellStyle:Good]]Yes||\n[[Testing]]|[[CellStyle:Good]]Yes|[[CellStyle:Good]]Yes||\n[[Protoforge]]|[[CellStyle:Bad]]No|[[CellStyle:Bad]]No||\n[[Section 7]]|[[CellStyle:Bad]]No|[[CellStyle:Bad]]No||\n[[Command]]|[[CellStyle:Bad]]No|[[CellStyle:Bad]]No||\n[[Access_0]]|[[CellStyle:Bad]]No|[[CellStyle:Bad]]No\n[[/Table]]\n\n[[Heading]]Unique Drops[[/Heading]]\nIn addition to normal salvage-based drops, each Unchained may also drop one of two special parts when destroyed. This can be either an [[ID Mask]] or a [[Zeronet Interface]].\n\n[[Heading]][[X0-1V1]][[/Heading]]\nX0-1V1 (or Xom) is a very unique type of Unchained. Rather than them being a robot that will pursue Cogmind like other Unchained, Xom will only take an interest in Cogmind if the player opts into it. They have many widespread chaotic effects they will cause across the entire run rather than just in a few maps.","Spoiler","6S-H0T,BL-1NK,CL-0N3,CY-PHR,DW-4LL,GL-D0S,QV-33N,V4-D3R,1B-0RG","","","","","",""
+"Unchained","Bot Group","Unchained are a collection of powerful and unique [[Derelict|Derelicts]] that have defected to [[0b10]]. As a group, they have vastly different loadouts and behavior, but all are major threats to Cogmind. Unchained are not found on any particular floor, but instead can show up in many different places once Cogmind has caused enough mayhem in some way to trigger a dispatch. With the exception of [[CY-PHR]], only one of them is ever active at a single time, and the Unchained chosen to be authorized is random. Unlike all other hostile bots in the game, Unchained can actively pursue Cogmind through multiple maps.
+
+[[Heading]]Lore[[/Heading]]
+[[Lore]]Cyclists Records|UC Origins[[/Lore]]
+[[Gallery]]Unchained.png|All Robot Unchained[[/Gallery]]
+
+[[Heading:2]][[Exiles (Group)|Exiles]] Lore[[/Heading]]
+If Cogmind has aligned with the Exiles with [[FarCom]], the Exiles will deliver a message about each Unchained as they are authorized. For the first dispatch, this is prefaced with the following messages:
+[[GameText]]FARCOM_MSG: We kinda like the data you're collecting and don't want to witness your untimely demise, so we kindly advice you to run like hell.[[/GameText]]
+[[GameText]]FARCOM_MSG: I've located an exit near your position you could probably use to shake them for a while.[[/GameText]] This massage only appears if the nearest exit is unknown. If it appears, the nearest exit is revealed afterwards.
+[[GameText]]FARCOM_MSG: EX-HEX means well, but I for one want to see you stick around and beat the bolts out of [Unchained bot name][[/GameText]]
+Note that this is the only active assistance provided by the Exiles. Despite the Unchained and their allies being aligned with 0b10, FarCom is completely incapable of detecting any of them.
+
+
+[[Heading]]Dispatch Triggers[[/Heading]]
+There are a large number of triggers which can cause Unchained to be authorized:
+[[List]]
+Too many turns: Spending too many turns on 0b10 maps.|
+Too many moves: Performing too many moves on 0b10 maps.|
+Too many maps visited: Visiting too many 0b10 maps.|
+Machine hacking: Performing too many hacks at [[Interactive Machine|Interactive Machines]]. Different hacks contribute a different amount of progress, and usually this trigger is reached between 1-300 hacks. This can only trigger [[CY-PHR]].|
+Robot hacking: Performing too many [[RIF]] hacks on 0b10 bots. The amount of hacks needed is variable based on the type of hack, with more expensive hacks generally contributing more progress.|
+[[Search Patrol|Search Patrol]] dispatches: 6 search patrols dispatched in recent time. Multiple search patrols being dispatched at the same time only counts as a single dispatch for this counter. The counter decreases on map transitions.|
+[[Assault Squad|Assault]] dispatches: 60 Assaults dispatched in recent time. Multiple ARCs being dispatched at the same time only counts as a single dispatch for this counter. The counter decreases on map transitions.|
+Interrupting [[Cargo Convoy|Cargo Convoys]]: Every 3 Cargo Convoys interrupted.|
+[[Garrison Access|Garrison Accesses]] disabled: Every 15 Garrison Accesses disabled by any means, includes sealing or destroying Garrisons.|
+[[Garrison|Garrisons]] compromised: Every 6 Garrisons compromised. Multiple alerts per Garrison only count as a single instance toward this counter.|
+[[DSF|DSFs]] raided: Every 3 DSFs raided (unknown what counts as ""raiding"" a DSF).|
+[[Sterilization]]: Sterilizing any 0b10 map in [[Factory]] depth (-7) or higher.|
+Killing unique NPCs: This includes named Derelicts such as the [[Exiles (Group)]].|
+[[FarCom]] [[Research]] [[Branch]]: Visiting [[Quarantine]] or [[Testing]] after taking FarCom.|
+[[Hub_04(d)]] 404: Blowing up all 4 Network Hubs in Hub.|
+[[Redacted]]Looting [[Protoforge]]: Taking too many parts from Protoforge.[[/Redacted]]
+[[/List]]
+[[Comment]]At least some of the counters above reset whenever... A trigger is met? an Unchained is dispatched? I also don't know if triggers can stack and cause a second Unchained to be dispatched once the first gives up chase/gets destroyed, but they probably can't?[[/Comment]]
+
+In addition to the above specific triggers, there is a general requirement for Cogmind to be in a good enough shape. A build that is falling apart or has low core integrity is not a sufficient threat to result in an Unchained dispatch even if one of the triggers has been met.
+
+When an Unchained has been decided to be authorized, an announcement like [[GameText]]ALERT: Unchained [Unchained] authorized to operate in [-Depth/Map], avoid or assist as necessary.[[/GameText]] will appear in the game log. The Unchained will not show up immediately but will appear over time. They may trigger based on exploration of the map (more likely for airborne propulsion types) or turn count (more likely for grounded propulsion types). It can take several hundred turns for the Unchained to appear if the exploration trigger is not met first. Initially, Unchained will only be authorized on 0b10-controlled maps. However, some Unchained can continue to follow Cogmind into [[Caves]].
+
+[[Heading]]Behavior[[/Heading]]
+Unchained have special behavior that allows them to follow Cogmind between multiple maps, so escape is not as easy as making it to the nearest exit. They take a few hundred turns after entering the map to show up, but once they appear, most will relentlessly pursue Cogmind with [[Perfect Tracking]]. Thanks to this tracking, a [[Triangulator]] may be used to help locate most Unchained from a distance before arrival.
+Each Unchained has different specific behavior, but all have a tendency to harass Cogmind throughout the floor. Some bots avoid direct engagement altogether, instead making use of combat-capable allies. Others rely on ambushes or general hit-and-run tactics. CY-PHR has an even more unique styles of engagement that involves sabotaging your hacking capabilities across multiple maps even when not on the floor. All Unchained are capable of fleeing into Garrisons and through 0b10-controlled exits. Hit-and-run types can run to a Garrison and emerge later, ready to harass Cogmind again.
+
+[[Table]]
+Unchained|Engagement Style|Summons allies|Multiple returns per map|Extra spawn restrictions||
+[[1B-0RG]]|Avoid|Yes|No|Yes, won't appear outside of main 0b10 maps||
+[[6S-H0T]]|Hit-and-run|No|Yes, with full repair|No||[[BL-1NK]]|Hit-and-run|No|Yes|No||
+[[CL-0N3]]|Ambush|No|Yes, but with no core repair|No||
+[[CY-PHR]]|Avoid|Yes|No|Yes, only appears in a single room on a random future map if triggered||
+[[DW-4LL]]|Ambush|No|Yes, with full repair|No||
+[[GL-D0S]]|Avoid|Yes|No|Yes, won't appear outside of main 0b10 maps||
+[[QV-33N]]|Avoid|Yes|No|Yes, won't appear outside of main 0b10 maps||
+[[V4-D3R]]|Ambush|Yes|Yes, with full repair|No
+[[/Table]]
+[[Comment]]I think DW-4LL only chases through two maps?[[/Comment]]
+[[Comment]]Also, i know that GL-D0S will completely give up chase if they ever flee the map and not continue in subsequent maps, but i don't know if that's also true of the other Unchained that can't return to a map after leaving it.[[/Comment]]
+
+[[Heading:2]]Map Activity[[/Heading]]
+Unchained can only be authorized on 0b10-controlled maps, although they can follow into non-0b10 controlled maps. Typically, Unchained will pursue Cogmind through up to 3 potential maps before giving up chase, though some will pursue through fewer. Some Unchained have spawn restrictions which make them not appear on all maps that are Unchained-viable. For example, GL-D0S and QV-33N will not appear in Caves, so taking an exit here will result in a few more maps of freedom. However, once returning to the main complex, they will continue to hunt Cogmind. Possible map dispatches are as follows:
+[[Table]]
+Map|Original dispatch possible|Continued pursuit||
+Main floors ([[Materials]], [[Factory]], [[Research]], [[Access]]|[[CellStyle:Good]]Yes|[[CellStyle:Good]]Yes||
+[[Mines]]|[[CellStyle:Bad]]No|[[CellStyle:Bad]]No||
+[[Exiles (Location)]]|[[CellStyle:Bad]]No|[[CellStyle:Bad]]No||
+[[Subcaves]]|[[CellStyle:Bad]]No|[[CellStyle:Bad]]No||
+[[DSF]]|[[CellStyle:Bad]]No|[[CellStyle:Bad]]No||
+[[Garrison]]|[[CellStyle:Bad]]No|[[CellStyle:Bad]]No||
+[[Wastes]]|[[CellStyle:Bad]]No|[[CellStyle:Bad]]No||
+[[Storage]]|[[CellStyle:Good]]Yes|[[CellStyle:Good]]Yes||
+[[Recycling]]|[[CellStyle:Bad]]No|[[CellStyle:Bad]]No||
+[[Scraptown]]|[[CellStyle:Bad]]No|[[CellStyle:Bad]]No||
+[[Caves]]|[[CellStyle:Bad]]No|[[CellStyle:Good]]Yes||
+Caves end branches ([[Data Miner (Location)|Data Miner]], [[Warlord (Location)|Warlord]], [[Zhirov (Location)|Zhirov]], [[Zion]])|[[CellStyle:Bad]]No|[[CellStyle:Bad]]No||
+[[Extension]]|[[CellStyle:Good]]Yes|[[CellStyle:Good]]Yes||
+[[Cetus]]|[[CellStyle:Bad]]No|[[CellStyle:Bad]]No||
+[[Archives]]|[[CellStyle:Bad]]No|[[CellStyle:Bad]]No||
+[[Hub_04(d)]]|[[CellStyle:Good]]Yes|[[CellStyle:Good]]Yes||
+[[Armory]]|[[CellStyle:Good]]Yes|[[CellStyle:Good]]Yes||
+[[Lab]]|[[CellStyle:Bad]]No|[[CellStyle:Bad]]No||
+[[Quarantine]]|[[CellStyle:Good]]Yes|[[CellStyle:Good]]Yes||
+[[Testing]]|[[CellStyle:Good]]Yes|[[CellStyle:Good]]Yes||
+[[Protoforge]]|[[CellStyle:Bad]]No|[[CellStyle:Bad]]No||
+[[Section 7]]|[[CellStyle:Bad]]No|[[CellStyle:Bad]]No||
+[[Command]]|[[CellStyle:Bad]]No|[[CellStyle:Bad]]No||
+[[Access_0]]|[[CellStyle:Bad]]No|[[CellStyle:Bad]]No
+[[/Table]]
+
+[[Heading]]Unique Drops[[/Heading]]
+In addition to normal salvage-based drops, each Unchained may also drop one of two special parts when destroyed. This can be either an [[ID Mask]] or a [[Zeronet Interface]].
+
+[[Heading]][[X0-1V1]][[/Heading]]
+X0-1V1 (or Xom) is a very unique type of Unchained. Rather than them being a robot that will pursue Cogmind like other Unchained, Xom will only take an interest in Cogmind if the player opts into it. They have many widespread chaotic effects they will cause across the entire run rather than just in a few maps.","Spoiler","6S-H0T,BL-1NK,CL-0N3,CY-PHR,DW-4LL,GL-D0S,QV-33N,V4-D3R,1B-0RG","","","","","",""
 "United Federation of Derelicts","Bot Supergroup","The United Federation of Derelicts (UFD) is a major faction of [[Derelict|Derelicts]] that live in [[Scraptown]]. Cogmind can [[Alignment|align]] with the UFD become a member by entering Scraptown through [[Recycling]]. This alignment provides further access into Scraptown along with a few special hacks.
 [[Image]]Scraptown Alignment Derelict.png|[[Scrapper (3)]] in Scraptown that gives Cogmind the option to align[[/Image]]
 
@@ -12893,10 +12958,10 @@ This effect may also happen without the above message.|A temporary IFF filter ov
 [[GameText]]X0-1V1 brushes you with a corrupting influence.[[/GameText]]|Corruption is added to Cogmind, between 2% and 20% depending on mood magnitude. The first message is shown from 2-5% and the second from 6-20% added. Ignores EM resistance and ALL other forms of corruption prevention, with the exception of [[System Guards]].|Cannot raise Cogmind's corruption above 80%||
 [[GameText]]""C'mon, do something!""[[/GameText]]
 [[GameText]]""Some new friends to play with.""[[/GameText]]|Between 1-6 hostile 0b10-aligned bots are spawned around the edge of Cogmind's line of sight. Unlike the ally-summoning version of this effect, these hostiles never disappear after a certain amount of time. Using a [[Visual Processing Units|Visual Processing Unit]] makes it more likely that this effect places bots within the greater range of Cogmind's sight but outside of the hostiles' sight. However, this means that the temporary vision debuff effect will make enemies appear closer. The first message is shown if Cogmind is not in combat and the second is shown if Cogmind is in combat.||
-[[GameText]]""Evolution hits right when you least expect it.""[[/GameText]]|Cannot change base slot configuration by more than +1/-1 and cannot ever mutate a power slot away unless it had already mutated one in. In other words, if a propulsion slot is mutated away, another will not be mutated away until at least one propulsion slot was mutated back in. For example, if, without X0-1V1's interference, you have 5 utility slots, no matter how many mutations occur, you will always have between 4 and 6 utility slots. Also, can't remove a slot that a fused part is in, like a [[Processors|Processor]] or a [[Scrap Engine]] construct.||
-[[GameText]]""Enjoy the ride!""[[/GameText]]|Cogmind is teleported nearby into view of (potentially dormant) hostile(s). Generally tries to place Cogmind into view of as much danger as possible. Bots lose tracking on Cogmind if they had it before the teleport.|Cannot teleport into [[Command#command_garrisons|the Command garrisons]]||
+[[GameText]]""Evolution hits right when you least expect it.""[[/GameText]]|Mutates one slot into a slot of another type.|Cannot change base slot configuration by more than +1/-1 and cannot ever mutate a power slot away unless it had already mutated one in. In other words, if a propulsion slot is mutated away, another will not be mutated away until at least one propulsion slot was mutated back in. For example, if, without X0-1V1's interference, you have 5 utility slots, no matter how many mutations occur, you will always have between 4 and 6 utility slots. Also, cannot remove a slot that is occupied by an undetachable part such as a [[Processors|Processor]] or a [[Scrap Engine]] construct.||
+[[GameText]]""Enjoy the ride!""[[/GameText]]|Cogmind is teleported [[Sup]]2[[/Sup]] nearby into view of (potentially dormant) hostile(s). Generally tries to place Cogmind into view of as much danger as possible. Bots lose tracking on Cogmind if they had it before the teleport.|0b10 only, also see note [[Sup]]2[[/Sup]]||
 [[GameText]]""A box. Just for you.""[[/GameText]]|Up to 6 additional stationary [[Sentry|Sentries]] are placed in a ring around Cogmind and marked on the map. The ring is roughly 20-25 tiles away from Cogmind.||
-[[GameText]]""X0-1V1 taps a no entrance sign""[[/GameText]]|Removes an exit from the map|Another exit leading to the same map must exist||
+[[GameText]]""X0-1V1 taps a no entrance sign""[[/GameText]]|Removes an exit from the map.|Another exit leading to the same map must exist, exits on some maps may be unaffected like [[Scraptown]]||
 [[GameText]]X0-1V1 uses Touch of Redecoration![[/GameText]]|X0-1V1 destroys a machine, detonates a trap, triggers [[GameText]]Force(Overload)[[/GameText]] on a [[Fabricator]], or turns [[Scrap]] into a hostile [[Mutant]].||
 [[GameText]]""That meddlesome character is spoiling all the fun. Not anymore!""[[/GameText]]|[[Data Miner]] will no longer redirect Reinforcement Squads or Assault Squads. The current squad is still redirected.|Has a chance of happening whenever Data Miner successfully redirects a squad||
 There is no log message for this effect.|One or more fake parts appear nearby but out of line of sight, and, if one is attached by Cogmind, it is reconfigured into an [[Item Mimic]]. Fake parts can be higher rating than regular floor parts, and can appear in locations where regular floor parts cannot. Fake parts can be unidentified. They are treated as a usual part in all ways except when attaching them. For example, destroying them via explosives or placing them in a [[Scanalyzer]] works like regular part. Prefers to spawn parts of the same/similar type to those Cogmind has recently used or has in inventory.|Cannot happen below depth -8||
@@ -12936,7 +13001,9 @@ Bot|Weapon||
 [[Recycler]]|[[Hpw. Shotgun]]||
 [[Watcher]]|[[Lance]]||
 [[U-05 Engineer]]|[[Dynamite]]
-[[/Table]]","Spoiler","","","","","","",""
+[[/Table]]
+
+[[Sup]]2[[/Sup]] Teleportation has limited restrictions in [[Command]]: [[Redacted]]X0-1V1 will never teleport Cogmind directly into the [[Command#Command Garrisons|the Command garrisons]] or to the left side of Command. However, they may teleport Cogmind nearby, or into the heavily guarded surface exit area. Other maps do not have restrictions even when it might be very detrimental, such as being teleported inside or outside of the [[Protoforge]] back labs area. A teleport into the [[Disassembled Obliterator]] section of [[Armory]] may softlock Cogmind if there is no way to dig out.[[/Redacted]]","Spoiler","","","","","","",""
 "X0-1V1 Entertainment Increases","Partial","[[Table]]
 Source of entertainment|Amusement gain[[Comment]]|Cooldown (if any)[[/Comment]]||
 Using a [[Dirty Datajack]] and successfully performing a hack|+1||
@@ -12985,7 +13052,7 @@ Being spotted by a large number of hostiles at once?|?[[/Table]]
 "X0-1V1 Good Acts","Partial","[[Table]]Log message|Effect|Restrictions (if any)||
 [[GameText]]""See? It buffs right out!""[[/GameText]]|15-30% core integrity restoration based on mood magnitude.|Must have enough missing core integrity||
 [[GameText]]X0-1V1 barely happened to notice your imminent destruction.[[/GameText]]
-[[GameText]]X0-1V1 decides a favorite toy is worth saving for now.[[/GameText]]|When Cogmind would be destroyed, between 39-45% of core integrity is restored, and Cogmind is teleported to safety.|Occurs a maximum of once per run. May happen in any map, even in those where X0-1V1 would not normally act. Might be dependent on other factors(?).||
+[[GameText]]X0-1V1 decides a favorite toy is worth saving for now.[[/GameText]]|When Cogmind would be destroyed, between 39-45% of core integrity is restored, and Cogmind is teleported [[Sup]]2[[/Sup]] to safety.|Occurs a maximum of once per run. May happen in any map, even in those where X0-1V1 would not normally act. Might be dependent on other factors(?).||
 
 
 [[GameText]]""A floating RIF installer appears for a brief moment.""[[/GameText]]|Gives an additional [[RIF]] ability. Can give an ability that would normally only be available after having used many more RIF installers, such as Crosswire.|Only possible if RIF is already installed. Only once per run.||
@@ -12998,11 +13065,11 @@ WARNING: This effect may crush inventory parts if there is no room on the ground
 [[GameText]]X0-1V1 points here and there.[[/GameText]]|X0-1V1 reveals item locations within a square range of 61 tiles centered around Cogmind (30 tiles in each direction).|Must be at least one unknown part location on the ground within range||
 [[GameText]]X0-1V1 lends a hand with your twisted circuits.[[/GameText]]|Some of Cogmind's [[Corruption]] is purged, between 10% to 50% based on mood magnitude.||
 [[GameText]]""I sense action potential over that way.[[/GameText]]|X0-1V1 reveals a [[Garrison Access]].||
-[[GameText]]""You need a change of scenery.""[[/GameText]]|X0-1V1 teleports Cogmind out of danger.|Cogmind cannot be in good shape||
+[[GameText]]""You need a change of scenery.""[[/GameText]]|X0-1V1 teleports [[Sup]]2[[/Sup]] Cogmind out of danger.|Cogmind cannot be in good shape||
 [[GameText]]""Just some junk I've been collecting.""[[/GameText]]
-[[GameText]]""Someone left a few trinkets here.""[[/GameText]]|Teleports Cogmind to a ""vault"" containing many out-of-depth and possibly unique items. Prototype parts can be faulty, and the room can contain Traps. The number of parts in the room are 10 + [Mood Magnitude / 10]. There doesn't seem to be any difference between the two messages.|Max once per map, mutually exclusive with the next effect||
+[[GameText]]""Someone left a few trinkets here.""[[/GameText]]|Teleports [[Sup]]2[[/Sup]] Cogmind to a ""vault"" containing many out-of-depth and possibly unique items. Prototype parts can be faulty, and the room can contain Traps. The number of parts in the room are 10 + [Mood Magnitude / 10]. There doesn't seem to be any difference between the two messages.|Max once per map, mutually exclusive with the next effect||
 [[GameText]]""Being a leader is both a boon and a curse.""[[/GameText]]
-[[GameText]]""I think they like you.""[[/GameText]]|Teleports to a ""vault"" with several blue-controllable allies. These bots will not drop parts when destroyed. The number of allies is increased by mood magnitude: 3 appear at 0-39, 4 at 40-79 and 5 at 80-100. There doesn't seem to be any difference between the two messages.|Max once per map, mutually exclusive with the previous effect||
+[[GameText]]""I think they like you.""[[/GameText]]|Teleports [[Sup]]2[[/Sup]] to a ""vault"" with several blue-controllable allies. These bots will not drop parts when destroyed. The number of allies is increased by mood magnitude: 3 appear at 0-39, 4 at 40-79 and 5 at 80-100. There doesn't seem to be any difference between the two messages.|Max once per map, mutually exclusive with the previous effect||
 [[GameText]]""Open Sesame""[[/GameText]]|A power cycler on the map is exploded.|Must be a power cycler on the map. Only once per map.||
 [[GameText]]""Let's see how everyone fares in the upcoming heat wave.""[[/GameText]]|Sterilization system partially engages, bringing heat up to +20 over the next several hundred turns, then falls back down over another several hundred turns.||
 [[GameText]]""I told that [Heavy] to go sit in the corner.""[[/GameText]]|The closest [[Heavy]] moves to the nearest corner of the map and stays there until the next [[Security Rotation]].||
@@ -13049,9 +13116,8 @@ Null Cannon, L-Cannon (variant unknown), Hvy. Autocannon? (it dealt 77 kinetic d
 [[GameText]]X0-1V1 sucks the heat right out of you (-[heat] heat).|Cogmind's heat is reduced to 0.|Combat only, heat > 300
 [[/Table]]
 
-[[List:Ordered]]
-Some powerful unique bots are immune to hostile-affecting special effects. This includes [[Warlord]], [[Superfortress]], [[MAIN.C]], and [[Architect]].
-[[/List]]","Spoiler","","","","","","",""
+[[Sup]]1[[/Sup]] Some powerful unique bots are immune to hostile-affecting special effects. This includes [[Warlord]], [[Superfortress]], [[MAIN.C]], and [[Architect]].
+[[Sup]]2[[/Sup]] Teleportation effects that affect Cogmind have certain common limitations. No teleportation effect will place Cogmind into the [[Command#Command Garrisons|the Command garrisons]] or [[Redacted]]the left side of Command[[/Redacted]]. Additionally, the ""vault"" and ally effects can only occur in some 0b10-controlled maps. These effects will always place Cogmind into a predetermined empty room on the map.","Spoiler","","","","","","",""
 "X0-1V1 Temporary Buffs","Partial","[[Table]]
 Log message|Temporary effect|Restrictions (if any)|Duration[[Sup]]1[[/Sup]]||
 [[GameText]]""Enjoy your XOMVISION!""[[/GameText]]|18 range unjammable ability to sense active robots, even if they have the Scan Cloak trait.| |2 * [Mood Magnitude] + 125||
