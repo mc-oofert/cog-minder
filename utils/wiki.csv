@@ -6063,7 +6063,7 @@ Some terminals are connected to a few tiles of machinery. Destroying these tiles
 [[Heading:2]]Patrols[[/Heading]]
 The following bot types can appear as patrols in Garrisons:
 [[List]][[C-30 ARC|ARCs]]|[[Brawler|Brawlers]]|[[Cutter|Cutters]]|[[Duelist|Duelists]]|[[Hunter|Hunters]]|[[Grunt|Grunts]]|[[Swarmer|Swarmers]]|[[Programmer|Programmers]][[/List]]
-If Cogmind has looped and already been in a Garrison this floor, additional squads of 2-3 Programmers will appear in the Garrison. There is one additional patrol for each Garrison already visited.
+One additional squad of 2-3 Programmers will appear per Garrison visited on the same depth. For example, if Cogmind visits a Garrison on -7, then loops back to Factory, then enters another Garrison, that second Garrison will have one additional squad. If Cogmind continues into a third Garrison then there will be two additional squads.
 [[Heading:2]]Guards[[/Heading]]
 The following bot types can appear as guards inside checkpoints:
 [[List]]ARCs (up to 4 can appear, although all but one will be unpowered)|Brawlers|[[Demolisher]] + [[Protector]] combo|Duelists|Hunters|Grunts|Swarmers|[[Sentry|Sentries]]|[[Specialist|Specialists]][[/List]]
